@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-14T22:39:36+00:00",
+   "last_success_at": "2026-10-14T23:05:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -26,7 +26,7 @@
    "seen": [
     "facebook:b03f8abbb6b466b7"
    ],
-   "last_success_at": "2026-10-14T22:39:36+00:00",
+   "last_success_at": "2026-10-14T23:05:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -39,7 +39,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-14T22:39:36+00:00",
+   "last_success_at": "2026-10-14T23:05:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -47,7 +47,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-14T22:39:36+00:00",
+   "last_success_at": "2026-10-14T23:05:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -112,11 +112,12 @@
     "news:6d246fe640452c90",
     "news:8989260c03f4a4e4",
     "news:b2936f118349c86f",
-    "news:123d0e6c1a1ecd31"
+    "news:123d0e6c1a1ecd31",
+    "news:6c4efb335c752492"
    ],
-   "last_success_at": "2026-10-14T22:39:36+00:00",
+   "last_success_at": "2026-10-14T23:05:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T22:08:36+00:00"
+   "last_new_item_at": "2026-10-14T23:05:08+00:00"
   }
  },
  "digest_queue": [
@@ -143,6 +144,9 @@
   },
   {
    "text": "Ministerstvo kultury mění pravidla spolupráce s festivaly - Opera PLUS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPcVd6RjJPM2VmcmQzU1NoT1AxdWdaenYxRjQ0MG54VEswck1hQ2NJS25rbXpjcWhfSFhDUWJ6ajJwOUVjZXd2SjRkNDRfMHhHZmpKNXNTTDgxWkhhSHBtcHc3d0VkS0xmb2xsREdxVTZyai1fOGNnN3QxRVB4WjVncXg0YkxTUQ?oc=5"
+  },
+  {
+   "text": "Vietnamský kulturní průmysl: Řešení 17 problémů souvisejících s požadavky trhu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOa1ZuTjV0MURHTWRDci1pNi00YXRSQkZrWGZaeFBuSFZKRUhQMTJjWG8zaC1vNnc3cHpZcFRERzlXY0RlQVdJSFpqaS01UTdqc2g0QXJxTXJBWkNidWJhXzlqS2pQWTlVM2JtWlVrTWJGZDBRSWJKZHVZMmI3VzdCYm1nXzJxLXpYbUlGOWNaV0hBN296bktZNE9kVDB0ekZUaV83eA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
