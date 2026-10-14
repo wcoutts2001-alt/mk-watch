@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-14T16:05:56+00:00",
+   "last_success_at": "2026-10-14T16:43:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -26,7 +26,7 @@
    "seen": [
     "facebook:b03f8abbb6b466b7"
    ],
-   "last_success_at": "2026-10-14T16:05:56+00:00",
+   "last_success_at": "2026-10-14T16:43:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -39,7 +39,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-14T16:05:56+00:00",
+   "last_success_at": "2026-10-14T16:43:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -47,7 +47,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-14T16:05:56+00:00",
+   "last_success_at": "2026-10-14T16:43:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -99,13 +99,19 @@
     "news:96f0bee328bcf6f8",
     "news:c5183d58d33f5c03",
     "news:846f86e4c263f202",
-    "news:fe550a22c5c8cd8f"
+    "news:fe550a22c5c8cd8f",
+    "news:feab50929709dd5f",
+    "news:9efc8cf5b13fd11b"
    ],
-   "last_success_at": "2026-10-14T16:05:56+00:00",
+   "last_success_at": "2026-10-14T16:43:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T16:05:56+00:00"
+   "last_new_item_at": "2026-10-14T16:43:53+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Hue a ministerstvo kultury podepsaly dohodu o spolupráci při propagaci dědictví a rozvoji kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGFZZE1qSDBJRl9iOTh5eWNqNGFHd3RRZTlPcmFXa2FtTGh5dW5kZFE5dGNKTXFDWHdENEtiQTFZTnlmNWtGQTd0TUNaUTRiQVJmVW82cFcxbUptNThDc0NmR29PMzY5d3lPTTB5X3FsbzBzbHZjSU9FLTJpbzZWck0zX0tsNWprSXdMUm15UlVOWDF0dXhhNlcwMmE1YTlTcTNRX2Ywc04?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-14"
 }
