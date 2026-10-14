@@ -3,7 +3,11 @@ name: mk-watch
 on:
   schedule:
     - cron: "*/15 * * * *"
-  workflow_dispatch:
+    workflow_dispatch:
+    inputs:
+      backfill_hours:
+        description: "Test: also report significant items from the last N hours (0 = normal run)"
+        default: "0"
 
 permissions:
   contents: write
@@ -40,7 +44,7 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python monitor.py
+        run: python monitor.py --backfill-hours "${{ inputs.backfill_hours || 0 }}"
 
       - name: Save state
         if: always()
