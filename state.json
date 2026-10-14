@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-14T16:43:53+00:00",
+   "last_success_at": "2026-10-14T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -26,7 +26,7 @@
    "seen": [
     "facebook:b03f8abbb6b466b7"
    ],
-   "last_success_at": "2026-10-14T16:43:53+00:00",
+   "last_success_at": "2026-10-14T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -39,7 +39,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-14T16:43:53+00:00",
+   "last_success_at": "2026-10-14T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -47,7 +47,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-14T16:43:53+00:00",
+   "last_success_at": "2026-10-14T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -101,16 +101,25 @@
     "news:846f86e4c263f202",
     "news:fe550a22c5c8cd8f",
     "news:feab50929709dd5f",
-    "news:9efc8cf5b13fd11b"
+    "news:9efc8cf5b13fd11b",
+    "news:0ae8e5cc6bf0de5b",
+    "news:a4aee28e4fee5df3",
+    "news:4ae1db625723e664"
    ],
-   "last_success_at": "2026-10-14T16:43:53+00:00",
+   "last_success_at": "2026-10-14T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T16:43:53+00:00"
+   "last_new_item_at": "2026-10-14T17:14:28+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Hue a ministerstvo kultury podepsaly dohodu o spolupráci při propagaci dědictví a rozvoji kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGFZZE1qSDBJRl9iOTh5eWNqNGFHd3RRZTlPcmFXa2FtTGh5dW5kZFE5dGNKTXFDWHdENEtiQTFZTnlmNWtGQTd0TUNaUTRiQVJmVW82cFcxbUptNThDc0NmR29PMzY5d3lPTTB5X3FsbzBzbHZjSU9FLTJpbzZWck0zX0tsNWprSXdMUm15UlVOWDF0dXhhNlcwMmE1YTlTcTNRX2Ywc04?oc=5"
+  },
+  {
+   "text": "Zlaté víko i odkaz na město. Plzeň zkouší v centrální zóně nové odpadkové koše z pohledového betonu - zak.tv\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNN1lHZ2M3MU5HWGVSeHZkZUIxdmg0UU4tR1VvN2YtRzNHT1ozcWlIY1pvTE5TUU81QjE4THplZkg1MWpPQm1hRFk3cXJfcnFqYTJmVmlXR19zSHM3cVdXd3gybEt2X3RRcmlKYjBOR0lYWlRKeGZOY0xvNHdVVWVJMnhDbmhYLXNXMFpsYmczQ0JKWk1qSVh5VzhMd1VyaUVRVHQ3QzRhbFVxT3VKUDI5NW1JNA?oc=5"
+  },
+  {
+   "text": "Cao Bang reaguje na program „Cecial Identity“ v rámci očekávání Vietnamského dne kultury 24. listopadu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQVlJkUWdldTJqWDFtU0hPNnNwZ0c3THh1d3g3NzJab3hWbnR0M3FfUTk2VFNhTjJmck0xV3RzMVVCUnY0ZFFHVEVSVVdtaENkYzZLREVrT3hXVmxfUmFNOTNTVm9iV3FDYTlIb0ZPejVvSVlQRzJzQTVkdGU5MFFfN1QwMlVlVmdwZDdzQnBRNzlwM0lYQndYd0NvYTFIUUNHbG5VNjlB?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
