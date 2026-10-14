@@ -1,0 +1,70 @@
+# mk-watch configuration
+# Edit this file to add/remove sources or tune alerting.
+
+timezone: Europe/Prague
+digest_hour: 18            # local hour when the daily digest of routine items is sent
+summary_language: English  # language of the one-line summaries in notifications
+
+# Where RSS-Bridge runs. In GitHub Actions the workflow starts it at localhost:3000.
+# On your own machine, point this at your local or a public RSS-Bridge instance.
+rss_bridge_url: http://localhost:3000
+
+sources:
+  - id: website
+    name: MK ČR website
+    type: mk_website
+    url: https://mk.gov.cz/novinky-a-media-cs-4
+    max_silence_days: 30     # alert if nothing new appears for this long
+    max_error_hours: 6       # alert if fetching keeps failing for this long
+
+  - id: facebook
+    name: Facebook
+    type: rss_bridge
+    params: {bridge: FacebookBridge, context: User, u: ministerstvokulturycr}
+    max_silence_days: 5
+    max_error_hours: 6
+
+  - id: instagram
+    name: Instagram
+    type: rss_bridge
+    params: {bridge: InstagramBridge, context: Username, u: ministerstvokultury}
+    max_silence_days: 10
+    max_error_hours: 12
+
+  - id: x
+    name: X (Twitter)
+    type: rss_bridge
+    params: {bridge: TwitterBridge, context: By username, u: minkultury}
+    max_silence_days: 10
+    max_error_hours: 12
+
+  - id: news
+    name: News (Google News)
+    type: rss
+    url: "https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+    max_silence_days: 3
+    max_error_hours: 6
+
+# Used only when no ANTHROPIC_API_KEY is set (or the API call fails):
+# an item counts as important if it contains any of these (case-insensitive, prefix match).
+important_keywords:
+  - zákon
+  - novel
+  - ministr kultury
+  - rozpoč
+  - dotac
+  - poplat
+  - stanovisk
+  - výběrov
+  - jmenov
+  - odvol
+  - rezign
+  - zruš
+  - vyhlás
+  - ředitel
+  - veřejnoprávní
+  - český rozhlas
+  - česká televize
+  - média
+  - registr umělců
+  - státní fond
