@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-15T06:28:30+00:00",
+   "last_success_at": "2026-10-15T07:15:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -27,7 +27,7 @@
     "facebook:b03f8abbb6b466b7",
     "facebook:476863ea7eb70d18"
    ],
-   "last_success_at": "2026-10-15T06:28:30+00:00",
+   "last_success_at": "2026-10-15T07:15:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T05:26:15+00:00"
   },
@@ -40,7 +40,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T06:28:30+00:00",
+   "last_success_at": "2026-10-15T07:15:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -48,7 +48,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T06:28:30+00:00",
+   "last_success_at": "2026-10-15T07:15:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -122,11 +122,14 @@
     "news:45e8f1e3b9884eb7",
     "news:899abce67ab1fa72",
     "news:119f02a9a67aa774",
-    "news:e50289166676c6b1"
+    "news:e50289166676c6b1",
+    "news:12e88d134bece278",
+    "news:f53989420322f778",
+    "news:9537bfddcef66f12"
    ],
-   "last_success_at": "2026-10-15T06:28:30+00:00",
+   "last_success_at": "2026-10-15T07:15:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T04:58:56+00:00"
+   "last_new_item_at": "2026-10-15T07:15:41+00:00"
   }
  },
  "digest_queue": [
@@ -177,6 +180,12 @@
   },
   {
    "text": "Bridge returned error 500! (20741)\n(Facebook)\nhttp://localhost:3000/?bridge=FacebookBridge&context=User&u=ministerstvokulturycr&action=display&format=Atom"
+  },
+  {
+   "text": "Oto Klempíř promluvil o volebním debaklu - Super.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0g1TUpOSEpYakJfLS15TUtlZXE2OWNYT3pvUFhuSE1WbzF4WWxGUEJRYlhfSHRSR0F6LUhKbDA1bFJZNUl4WXZGQmFMSnNlWmRPQ3hRcnN2LThxMk9abmk1U3BuVUhLMk9pWDdIanZsRjZTbEs5eGlHbS15S1BGdk5IMnl2b0xNMmRZUTNIMHcwTWI2cnU3SDY4Z2wweGRWMzF4Um1wX3R1bUpCVEtYV2Jtc2xSZHQ3emdoSW1XNjhXZFRFa1VTU2RJMFMzYjRXRkZobWFxSQ?oc=5"
+  },
+  {
+   "text": "Hanoj ​​využívá kulturu k tomu, aby povzbudil turisty k delšímu pobytu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxQeC1xeWtsblZRZXNReEtpc1hkQlR5T3ZMWHpPNUhuMjAzaGhTOWVPX1hIUUFBTC1CYkt1MjVoc192Q19qbzBKd2dNRE1mamkxVURMaERNdDh0NlFsaEJVWlBBVjhxQzFxYzdjWUVycUYxMVowdGp1bjVaelJEZUtMWjA4dw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
