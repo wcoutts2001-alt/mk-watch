@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-15T09:49:10+00:00",
+   "last_success_at": "2026-10-15T10:21:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -28,7 +28,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T09:49:10+00:00",
+   "last_success_at": "2026-10-15T10:21:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -41,7 +41,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T09:49:10+00:00",
+   "last_success_at": "2026-10-15T10:21:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -49,7 +49,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T09:49:10+00:00",
+   "last_success_at": "2026-10-15T10:21:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -130,11 +130,12 @@
     "news:97ab3091b57054f1",
     "news:9e6bcdff33c8a484",
     "news:d846227b6a69a909",
-    "news:9eb801b288104b6d"
+    "news:9eb801b288104b6d",
+    "news:a9d0914ee060ed9f"
    ],
-   "last_success_at": "2026-10-15T09:49:10+00:00",
+   "last_success_at": "2026-10-15T10:21:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T09:49:10+00:00"
+   "last_new_item_at": "2026-10-15T10:21:26+00:00"
   }
  },
  "digest_queue": [
@@ -200,6 +201,9 @@
   },
   {
    "text": "Provincie Lam Dong bude v roce 2026 hostit Národní soutěž ve hře na tradiční hudební nástroje pro sóla a soubory. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFktb1dDd3BHdEZlZU9RejlXSUYzLS1BcXlVSUdvZDdHNUlBVm1xSG9rczNDU21hdjUya0M2MXZRVENqMzB4WFVjT0JOQ3d4b21oQUx4SGRrTnVsemtDQ19yY0lYaWVteWw2SUhUQ2N3Uk5iVU9wMWl4ZDhBMGVWeWd1bmhPZDdsd1J0R1pOMW1GeE14WEtfelV0YUhLU1VoRE51d04tM1Bhdw?oc=5"
+  },
+  {
+   "text": "Kroky ministerstva podle překladatelů ohrožují nezávislost kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE9QWHk4SU55Rk1ubFp4YmQ0SVhvMzh3aW5uTnVQZDloSHRZczRLSWpNUnRnazZrbGhCaGZMdElYY0JvWmQzbnhFbXpuSWFaRHk5Z0pj?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
