@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-15T11:27:28+00:00",
+   "last_success_at": "2026-10-15T11:59:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -28,7 +28,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T11:27:28+00:00",
+   "last_success_at": "2026-10-15T11:59:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -41,7 +41,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T11:27:28+00:00",
+   "last_success_at": "2026-10-15T11:59:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -49,7 +49,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T11:27:28+00:00",
+   "last_success_at": "2026-10-15T11:59:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -135,11 +135,13 @@
     "news:b20cafb99b1a0355",
     "news:3495848fbcfd4fc2",
     "news:200d4157f1241a20",
-    "news:c911a702468896d7"
+    "news:c911a702468896d7",
+    "news:6569078ffc90fd47",
+    "news:7a112769930201dc"
    ],
-   "last_success_at": "2026-10-15T11:27:28+00:00",
+   "last_success_at": "2026-10-15T11:59:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T11:27:28+00:00"
+   "last_new_item_at": "2026-10-15T11:59:12+00:00"
   }
  },
  "digest_queue": [
@@ -220,6 +222,12 @@
   },
   {
    "text": "Klempíř opět čelí kritice umělců. Nahněvaly je změny dotačních podmínek - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXBwaGdWTGxlcDZzcVBsU09IUFQ3SHVReGZFVlNlUHdxSl92dTJqYnlETGpWMVFxN084QUVMX29ycEE1Zy1GTjF3enRRMEJFUG9xeTh2eS1ldl9vd19FMzlXS3RIczVkbk9EQ0RUZkxjVnBHUzVjV0F3bVpZLXFBREJXekMzQlNfVmJ5d2RJQVFWSno2RU52T3lfeEVxbWpZeW1QQ1ZreklvX0d0TWVWS2dvMlF5WktRdWlBWktLNjk1UQ?oc=5"
+  },
+  {
+   "text": "Začala oprava další části barokního dvora v Zákupech, vyjde téměř na čtvrt miliardy - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNQWMyMmlCa0IzMThWZHd6MGYxdWo5WlhRQW1KSTdOZTB4NTMwZTlINmxGV3NyZlBYN3ltdjE4eWpsbzcyQkxoZnhfNFRXRHp3eXhoUk5uc1FONjVKVE5IVGQ5MUw2VVNoMTFxWkMwV21SMXRlcm5rNDlVN09xNHdiVURWcWRNRkI0bWUxMWNjejlaWk9XT19RR0xRUGtsOHZsSlBLZmYwRHlRQXhPX0NPcHFR?oc=5"
+  },
+  {
+   "text": "Hanojský podzimní festival 2026 byl podruhé odložen. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE05SlRpOW9ZWVRGQm9zem1BV1VhTklTQkhKdEl5cHF3MER6YklmcURnMzBfeE5VNzRPbWJDTlg2bE81cjJFYzduTWdnLXZfdlQxc211MEtSSFVhTDEtUTBSTzN4bWtSMXROUldYMDJUY3FTRnZTQ2c?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
