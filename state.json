@@ -18,17 +18,18 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-15T04:58:56+00:00",
+   "last_success_at": "2026-10-15T05:26:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "facebook": {
    "seen": [
-    "facebook:b03f8abbb6b466b7"
+    "facebook:b03f8abbb6b466b7",
+    "facebook:476863ea7eb70d18"
    ],
-   "last_success_at": "2026-10-15T04:58:56+00:00",
+   "last_success_at": "2026-10-15T05:26:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T16:05:56+00:00"
+   "last_new_item_at": "2026-10-15T05:26:15+00:00"
   },
   "instagram": {
    "seen": [
@@ -39,7 +40,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T04:58:56+00:00",
+   "last_success_at": "2026-10-15T05:26:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -47,7 +48,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T04:58:56+00:00",
+   "last_success_at": "2026-10-15T05:26:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -123,7 +124,7 @@
     "news:119f02a9a67aa774",
     "news:e50289166676c6b1"
    ],
-   "last_success_at": "2026-10-15T04:58:56+00:00",
+   "last_success_at": "2026-10-15T05:26:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T04:58:56+00:00"
   }
@@ -173,6 +174,9 @@
   },
   {
    "text": "Místopředseda vlády požádal 24. listopadu o rozšíření kulturních prostor a zvýšení příležitostí pro lidi, aby si je mohli užívat. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxNVlhLWlhVY2x0YVhVOVNDLTNGVVM5SFprZU9BRUsxLU5SU0RGLXFPWW16UWticzZKMlRaQWUtNFhJcVNtd2JpcXhPR0xGS0d5UmIyM0ltN2dLXzFNUnF2WktiOEtQY1J0X2FHMHBKemgwS2FFVUZEWDdDTUdQNTNqSU1lVlJCWVJ4cDd2bWUxeWZxYTVCVXFBNDhCUGVkOUV1S2ZfN3JQNy1RRFRCeUVIb3dZZW50dGdrTzVGRQ?oc=5"
+  },
+  {
+   "text": "Bridge returned error 500! (20741)\n(Facebook)\nhttp://localhost:3000/?bridge=FacebookBridge&context=User&u=ministerstvokulturycr&action=display&format=Atom"
   }
  ],
  "last_digest_date": "2026-10-14"
