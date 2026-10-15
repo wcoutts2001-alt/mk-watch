@@ -19,7 +19,7 @@
     "website:52aef38ce6f35933",
     "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-15T23:41:24+00:00",
+   "last_success_at": "2026-10-15T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
@@ -29,7 +29,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T23:41:24+00:00",
+   "last_success_at": "2026-10-15T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -42,7 +42,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T23:41:24+00:00",
+   "last_success_at": "2026-10-15T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -50,7 +50,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T23:41:24+00:00",
+   "last_success_at": "2026-10-15T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -151,11 +151,12 @@
     "news:620b44055745ee4b",
     "news:cf3bf581f05a535c",
     "news:ab0213604be726f3",
-    "news:eabf4762cb9e5e94"
+    "news:eabf4762cb9e5e94",
+    "news:e0c70bf09be81b22"
    ],
-   "last_success_at": "2026-10-15T23:41:24+00:00",
+   "last_success_at": "2026-10-15T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T21:56:51+00:00"
+   "last_new_item_at": "2026-10-15T23:59:38+00:00"
   }
  },
  "digest_queue": [
@@ -176,6 +177,9 @@
   },
   {
    "text": "Vydavatelský průmysl v Ho Či Minově Městě se prezentuje na největším knižním veletrhu světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPWlRzNjNVc3FYblktWEJMQjNmVWJ3SUIyY0ZFZThUQzdueWVaSERmdXhoVjZraWgwLVdDbGhBMDctSTE1TzlYbjBhalNuZmcyV0JNczNUbXhJYnNaVm5WM3FtNjVXcGx4TklpUFZ3SUQwZ2psbXZFRFg3WW5acEhVM1M4SWJoQ3o3S2hMWFBUdTFCdw?oc=5"
+  },
+  {
+   "text": "Ochrana posvátnosti státní hymny před vlnou kreativity poháněné umělou inteligencí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQU3FaS1ZEbTY5SUY0VjloZ2kweVFVcE9oNTk2T3JpWVJrdWN6UlMxeDNmOWU0Um1uZmMtbDZ5OVRjMnJkWDdrNTM5dmVPb1ZINUktWXNuSnB2YXYzaVhqa1d1bGdLT2FVNzd5X2laaE9iU0tnVk11TzV2aGZCYm03ZkR1bDl0eC0yU1czVVhCMjA2OF9XLTNJ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
