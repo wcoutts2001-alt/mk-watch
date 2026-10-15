@@ -19,7 +19,7 @@
     "website:52aef38ce6f35933",
     "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-15T16:31:39+00:00",
+   "last_success_at": "2026-10-15T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
@@ -29,7 +29,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T16:31:39+00:00",
+   "last_success_at": "2026-10-15T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -42,7 +42,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T16:31:39+00:00",
+   "last_success_at": "2026-10-15T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -50,7 +50,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T16:31:39+00:00",
+   "last_success_at": "2026-10-15T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -145,13 +145,22 @@
     "news:afef061757210afb",
     "news:410f23e255b1bd2d",
     "news:9d2c778026eaebed",
-    "news:c0059394ed55be13"
+    "news:c0059394ed55be13",
+    "news:c12ab08023a95452",
+    "news:791fd8cabcf5952b"
    ],
-   "last_success_at": "2026-10-15T16:31:39+00:00",
+   "last_success_at": "2026-10-15T17:14:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T15:16:48+00:00"
+   "last_new_item_at": "2026-10-15T17:14:28+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Ministerstvo kultury přehodnocuje podmínky spolupráce s Vary nebo Pražským jarem - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFVLRnZwbWVuLWlYT3ZsWW1ZQUdKczBubjNvNUZsNWljQzhya0VxSmN3U2hjVURVaEI2b3hrcGFMNmozMzdvTFB5Nkhab1J6X1lBbnIxaC0tSDNlN1Z5aFk0VWJiUHpENFVkcXg4X0ZUdzhmQkp1RWJ4MlJEU3pFNTJYNExfQmw4bERfeTd2NlNFT2cwd2l2NVYzTFduU19ITTljc2VqdDh6T2FiYkI1UThyd09SdGhFSERpMWlEMjRWN05EaHkzejh2UkdEVkJoa3Fjdw?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury přehodnocuje podmínky spolupráce s kulturními subjekty - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxOU2xMWEZMR29KMGRNRV9tLXZqUjA3NzVxUWlpOXlvRGhkRF8wNUpzM1J1N3VTUDZCVVludzg2ekhlMDc2WnRjRkZUb2VSa2FBWlNiVDF5T1ZnUlRxeE0yOWZncjBjYVRlWUVKZUljMVVLUDhPbVB0RzVEYzBPYmRTWnlxZ2JqT01HV2xpU3pNblFlQkFNN0RhblZkMERCSVREbUFEVEpGMG8zY2xv?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-15"
 }
