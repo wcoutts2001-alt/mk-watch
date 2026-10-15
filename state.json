@@ -16,11 +16,12 @@
     "website:d6e73224ea9a73a9",
     "website:d62245a76e41fce9",
     "website:0f586a9d5eb48551",
-    "website:52aef38ce6f35933"
+    "website:52aef38ce6f35933",
+    "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-15T12:35:16+00:00",
+   "last_success_at": "2026-10-15T13:22:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T16:05:56+00:00"
+   "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
   "facebook": {
    "seen": [
@@ -28,7 +29,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T12:35:16+00:00",
+   "last_success_at": "2026-10-15T13:22:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -41,7 +42,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T12:35:16+00:00",
+   "last_success_at": "2026-10-15T13:22:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -49,7 +50,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T12:35:16+00:00",
+   "last_success_at": "2026-10-15T13:22:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -137,11 +138,12 @@
     "news:200d4157f1241a20",
     "news:c911a702468896d7",
     "news:6569078ffc90fd47",
-    "news:7a112769930201dc"
+    "news:7a112769930201dc",
+    "news:bc9e925998ade29a"
    ],
-   "last_success_at": "2026-10-15T12:35:16+00:00",
+   "last_success_at": "2026-10-15T13:22:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T11:59:12+00:00"
+   "last_new_item_at": "2026-10-15T13:22:20+00:00"
   }
  },
  "digest_queue": [
@@ -228,6 +230,12 @@
   },
   {
    "text": "Hanojský podzimní festival 2026 byl podruhé odložen. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE05SlRpOW9ZWVRGQm9zem1BV1VhTklTQkhKdEl5cHF3MER6YklmcURnMzBfeE5VNzRPbWJDTlg2bE81cjJFYzduTWdnLXZfdlQxc211MEtSSFVhTDEtUTBSTzN4bWtSMXROUldYMDJUY3FTRnZTQ2c?oc=5"
+  },
+  {
+   "text": "Nová publikace a výstava představí medaile, plakety a žetony Opavska vzniklé po roce 1945\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6608cs-nova-publikace-a-vystava-predstavi-medaile-plakety-a-zetony-opavska-vznikle-po-roce-1945"
+  },
+  {
+   "text": "Spisovatel Hlaučo: Na co ministerstvo kultury zapomíná - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPREdpazFudTFFYUZFbDFJOW1SSnBQRU9BZGVON2pQTHdsTFZBZlc4Q0R5dzUtbEpFaTQwRWN5VVdBRUdvNjNwUVBtR1U1bG9FSnBRT2wyWVp2azdtRGNac3g1OUdCSkVrUDFlMUF4c2NsVVVhY0QwWlMtRHpBOUlyZTBMN051N201QlA1LQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
