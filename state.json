@@ -18,7 +18,7 @@
     "website:0f586a9d5eb48551",
     "website:52aef38ce6f35933"
    ],
-   "last_success_at": "2026-10-15T03:59:03+00:00",
+   "last_success_at": "2026-10-15T04:27:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -26,7 +26,7 @@
    "seen": [
     "facebook:b03f8abbb6b466b7"
    ],
-   "last_success_at": "2026-10-15T03:59:03+00:00",
+   "last_success_at": "2026-10-15T04:27:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -39,7 +39,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T03:59:03+00:00",
+   "last_success_at": "2026-10-15T04:27:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -47,7 +47,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T03:59:03+00:00",
+   "last_success_at": "2026-10-15T04:27:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -116,11 +116,15 @@
     "news:6c4efb335c752492",
     "news:753a28683c8e4dac",
     "news:cd00494039a6605d",
-    "news:e0c719026b132b18"
+    "news:e0c719026b132b18",
+    "news:cbc357dcea8f8306",
+    "news:45e8f1e3b9884eb7",
+    "news:899abce67ab1fa72",
+    "news:119f02a9a67aa774"
    ],
-   "last_success_at": "2026-10-15T03:59:03+00:00",
+   "last_success_at": "2026-10-15T04:27:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T00:36:52+00:00"
+   "last_new_item_at": "2026-10-15T04:27:19+00:00"
   }
  },
  "digest_queue": [
@@ -153,6 +157,18 @@
   },
   {
    "text": "Vary, Litomyšl, Zlín. Klempíř chce nové smlouvy s velkými akcemi - EuroZprávy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxQMGF6Y051aVlJQlU0b09XU05XMEN2X2V3OERSV2UwU2ZWTkVtdVcwS1lwaDJMLXh0enhoclhqQnRzckVXdENsWnJicnZxaDZaSUdIb21lOU1RY3B3ay1Ya19vSlhjdWVXeV96OGlaa01NejhXUmkydGdIbUsyR0Z5T3d2TEJsaVBPdGdVd3h0elh0TE1ZQVVFYjdaakdHUlJi?oc=5"
+  },
+  {
+   "text": "O cenzuru nejde. Chceme podporovat kulturu, ne byznys s ní, říká Klempíř ke změnám v kulturní branži - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVh4WlhMS1ZYQ3pVWjRRdUVENVVkOVlub1l6U01MNVNiTlB5YlA1QTFDTU96Xy02RXlNUFNTS01McHJqbFFtd0l6WkpuU1Z5UGwxYXdMQWJXWUJ2bnh0c1NyQzdHaTltcTQtbVU1RmRNRUF2SVlzdENNTlFxNGRsZFlpQzFjbHEwRExvSldZcXNCejBUY0REUDRJXzF6Nk1mdHpRUk5DZjNvN24wSVIzRFduaFNldFVlMnNRTW1YMHlXQQ?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu a Lidový výbor města Hue podepsaly plán koordinované činnosti v oblasti rozvoje kultury, sportu a cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxOYlBsYkE4NFR5WTNPZDFuOVVaT3hYOU1NVGRESVFOVFNUUE1IY01lMlJGMEg1VmFmeXZYbDY2MTA0ZWg2dXZXQUdIck15eXdQdFJvaFVIa0hHdUhSWU1zWnp4RGJBNmxnT3RsRjhRWC01Zi1QLWd1dDVndTVJa2FBZUNVMHc4TWpKenRYYm9TdVg2RnNIZW1nUmhkLWZ5anY1TkVZV3Rhckt3amxTNlRVeklPYw?oc=5"
+  },
+  {
+   "text": "Využití výhod jeho dědictví a podpora ducha inovací a kreativity ve městě Hue. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxNX1JtZFdrY1BfRExlNjltQmJIRWFfenZVTmRXME1wSDViSktBc0JOVFlEbEhza25EZFI3Ym9QQ3dtcnNUNTRiQ1hXTjh6OUxKejRMZF84LTMwemMxMnFvUzJXUHVDRkl3Nmk3eVhnb0pQRXAtTTNyMS1EbE5seXFqMERkb19tc1d3Nlg1bEZsaEN2LVBBbS1yZ1g0ZjQ?oc=5"
+  },
+  {
+   "text": "Navrhl 51 statistických ukazatelů o přínosu kulturního průmyslu k ekonomice. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxNSzd4NVpEd3pDdmlCRFpvRTlfU3ZJdDYxdHFya08zb1YtU3ZjbHM4LUZlNURsN3NpMUhTVWFvM09jTk1idzI1SjBjX0ltNFpkWEUzV1o4RjNVYWpCVXN4OXBrN2taNnVzejJ6TG1MTDdOR1FXcWJ0Qkg2VE9WTV9iUlBSaTNWNVVvU0liVGZxQ1MyMnd0SnZwOUxnd3ZhTEVFSVlRY0ktcVllTE12?oc=5"
   }
  ],
  "last_digest_date": "2026-10-14"
