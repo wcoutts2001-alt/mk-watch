@@ -19,7 +19,7 @@
     "website:52aef38ce6f35933",
     "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-15T18:12:06+00:00",
+   "last_success_at": "2026-10-15T18:51:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
@@ -29,7 +29,7 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07"
    ],
-   "last_success_at": "2026-10-15T18:12:06+00:00",
+   "last_success_at": "2026-10-15T18:51:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T09:49:10+00:00"
   },
@@ -42,7 +42,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-15T18:12:06+00:00",
+   "last_success_at": "2026-10-15T18:51:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -50,7 +50,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-15T18:12:06+00:00",
+   "last_success_at": "2026-10-15T18:51:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -148,11 +148,12 @@
     "news:c0059394ed55be13",
     "news:c12ab08023a95452",
     "news:791fd8cabcf5952b",
-    "news:620b44055745ee4b"
+    "news:620b44055745ee4b",
+    "news:cf3bf581f05a535c"
    ],
-   "last_success_at": "2026-10-15T18:12:06+00:00",
+   "last_success_at": "2026-10-15T18:51:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-15T17:45:17+00:00"
+   "last_new_item_at": "2026-10-15T18:51:30+00:00"
   }
  },
  "digest_queue": [
@@ -164,6 +165,9 @@
   },
   {
    "text": "Slzy hudebníka Truong Quy Hai - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE5fOU1YUGZFMUJ5TTRmNUZDNmhkNUdSb09WeDZwb3pERlo3TGhyTnNEcFBMajh2bnYzTmwxd0xZcE1KV3dxU2h4a1U4Z0hOalZSeXlFdkh4cS10ZE9OblE4ak0wR0ktT0tVTmd5R0t3?oc=5"
+  },
+  {
+   "text": "Klempířovo ministerstvo žehlí výroky svého náměstka. Za „koňské hlavy v posteli“ se památkářům omluvilo - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThsdjlmMFJuX1VnSkxiNEFlQ1k1T1l5MWtGRUhsWWg0XzFsNEVnSkNQS0dFVUR1X2dVdi1CRlAzYWV4VXRqcldqLTI4aWVLdXRYWjZXRmkyMFJ0WDNWVXJKR2dqNGlXbFQwVmxFX2xHUzdkMkpLZ196SDNsX3lLVGFMSGxyUFVSeVllX2stTmhuOGNsMzBvOElPVGhUM3VBRWFhMjduNkZmQkhPS3hKUmFwZTEzQU10TlQ3UklVcTdsU1Q1TnZtTWRaWllYZElQTzZlemF6bTJyVEJ3Qmc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
