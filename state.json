@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T22:19:11+00:00",
+   "last_success_at": "2026-10-16T22:54:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T22:19:11+00:00",
+   "last_success_at": "2026-10-16T22:54:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T22:19:11+00:00",
+   "last_success_at": "2026-10-16T22:54:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T22:19:11+00:00",
+   "last_success_at": "2026-10-16T22:54:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -188,11 +188,12 @@
     "news:7124a9ad766756c1",
     "news:6a81ab8bd65039a1",
     "news:cb9a32b6028f9fd6",
-    "news:f005ee6eee07731b"
+    "news:f005ee6eee07731b",
+    "news:b683ae9ac59635ab"
    ],
-   "last_success_at": "2026-10-16T22:19:11+00:00",
+   "last_success_at": "2026-10-16T22:54:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T22:19:11+00:00"
+   "last_new_item_at": "2026-10-16T22:54:17+00:00"
   }
  },
  "digest_queue": [
@@ -225,6 +226,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu: Přes 1200 úředníků přiznalo svůj majetek a příjmy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNbEJFV09adXNudmhTVnV5R1NWOFdORWRzWHFlZGNEZm5IdEZjQmluZnFvVmtZcWx5NmdsUXg2MW94M3NNWUVsdEk4VGN0TlVQcFhSUHFCaEtPLV90V2E3S0RFNmJkMGdZVlk3TUNpV3UtUm1MaE1SWUpmTlNLYmd0bl9SOHNxS0VjOWdtdnR0Mmd6cnZSbGVDRWhRelNfeEpsVDZJ?oc=5"
+  },
+  {
+   "text": "Podpora digitalizace historických památek a turistických cílů v hlavním městě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE1BOU1PQ3M4RzFtREVpVDZHUmNFb3dQSFVYbUsxUHB1b0R4ZVpJOHlPZHJkM0dQM0dUNEgxN25RbnNaT2dVQUpRdkN6MTFuMDBVcnpiSXVTaW9hUHdYMHM3cl9hQzVNbk1sYkpmOVRmZkhNWGJzZ3c0?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
