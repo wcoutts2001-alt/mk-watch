@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T17:39:40+00:00",
+   "last_success_at": "2026-10-16T18:07:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T17:39:40+00:00",
+   "last_success_at": "2026-10-16T18:07:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T17:39:40+00:00",
+   "last_success_at": "2026-10-16T18:07:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T17:39:40+00:00",
+   "last_success_at": "2026-10-16T18:07:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -182,11 +182,12 @@
     "news:b9a53ab6c2ec63c1",
     "news:ea4a1ad66bd7c065",
     "news:f8b3e513c94f1f41",
-    "news:c976989e58784d26"
+    "news:c976989e58784d26",
+    "news:c96d8fe6ccc9d729"
    ],
-   "last_success_at": "2026-10-16T17:39:40+00:00",
+   "last_success_at": "2026-10-16T18:07:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T17:39:40+00:00"
+   "last_new_item_at": "2026-10-16T18:07:30+00:00"
   }
  },
  "digest_queue": [
@@ -204,6 +205,9 @@
   },
   {
    "text": "Budeme cenzurovat Švejka? - Deník TO\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQkJHZFlPS1M2VGxPMjFVZVl0WDVGR0MyQlkycndxbDBWZF8wNDdHeFNfaW1BeUhDZVh0X3Fqa3BieDNNX2VtbnJKTHpFWktXVjJXWQ?oc=5"
+  },
+  {
+   "text": "Objeven nejstarší vrak lodi na světě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE5QVXlPNmt4bURndDNUaFlaVVBNaDE3RVJSYmNEQXNpQWJucXlPb2R2ODVqWlBGLXlONDVsS1BDbTd5S2NHclhBMkdGOXJ5YjBfRDhyVFg3bGgtdGVzVmptdHE4NmQ0OFNQbHdma3JwZEx4d2VaR1Rubg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
