@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T14:23:35+00:00",
+   "last_success_at": "2026-10-16T14:59:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T14:23:35+00:00",
+   "last_success_at": "2026-10-16T14:59:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T14:23:35+00:00",
+   "last_success_at": "2026-10-16T14:59:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T14:23:35+00:00",
+   "last_success_at": "2026-10-16T14:59:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -172,11 +172,14 @@
     "news:7a82c21fa3928254",
     "news:52cb7fbd000989d2",
     "news:45856f03d3a33710",
-    "news:355fba638db78f65"
+    "news:355fba638db78f65",
+    "news:905542b5b3bd139e",
+    "news:7fb57e5b765b5298",
+    "news:eac890d6382e31d2"
    ],
-   "last_success_at": "2026-10-16T14:23:35+00:00",
+   "last_success_at": "2026-10-16T14:59:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T14:23:35+00:00"
+   "last_new_item_at": "2026-10-16T14:59:29+00:00"
   }
  },
  "digest_queue": [
@@ -245,6 +248,15 @@
   },
   {
    "text": "Podepsání dohody o spolupráci při rozvoji nákupní turistiky a ochraně práv turistů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOdzFVekJSVzlLUXNpWENNbGc4ZXdQaWZJQzRFbEptM0U3QmJmQnhWdGNET1Y3d2UxdXpCN3otR28wU0FrVERMbEpKRjA0WHdCemd6Mjh2QWd5dGYzVTdZMTQ2aEpkakd6RFN5d2NMcm9MZVRHNFNrSldNRUpucEhwbE1DM3lpV3ZydHpNbjNSMzBMY1pobzBpTm5rSFE?oc=5"
+  },
+  {
+   "text": "Go Hyun Jung: „Přijímání lásky a pohodlí“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE5qLUFrT21sZW1XNXFfM2xucURuaklYRVhvZl9nR2hGUVIwWVVkZUU1VXhWa3lNbDNvTkRwRFBHTzlsMFFwbERiMDd2WlVwaWs3bG5WTWM1bWFDM2xrRnZjdnlDQ1BYOVI4dDZTZkFraTU5am5TNjdJ?oc=5"
+  },
+  {
+   "text": "Šíření informací o „Televizní pěvecké soutěži Lam Dong“ 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2ZGU1FjWk9udTFlNGxoWjNXRzlUS0F0TUJEbFdYbW1OaWd4MS1ZWlVZVWl1b2RscEFuc2RsRnZiN2piNXNHWHg0VXRJQzhFOWlrVGFuVVJCbGF5UVBsZkY5cWN5aG1aTnpNeEVSdDRQQjRjYzJySHBqNm5FalhFdG91OHlDTWVLQWxz?oc=5"
+  },
+  {
+   "text": "Úprava načasování 3. provinčního maratonu Lai Chau, 2026, „Volání velkého lesa, kroky aspirace“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOZERIV3puZzVlNVFTdFZuWHN6QnVNVjhMaWNnTnpVM21ZajlCZVBweGJOcmtOM2ZMd1dQcl8tX1ZEenoxTF9GSVdad3pGaE5mZ0Y5OXlFZC1ZOU81eUVVZDNhNThSdkNYejIzSUVtZ1NieV84eF8wblpoTmhZNmlrM1FpZlFkUFFjdmdjTjhCTDNFck04ajFIcVZNMW1Xd3lZaDJoRnlFMVZfeFQyTVl5aDhKMkh4bUE1MGdNbEVIWXVjTnRGZC1lWC01ZW5qRHpHZlY2MlFBSQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
