@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T13:52:51+00:00",
+   "last_success_at": "2026-10-16T14:23:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T13:52:51+00:00",
+   "last_success_at": "2026-10-16T14:23:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T13:52:51+00:00",
+   "last_success_at": "2026-10-16T14:23:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T13:52:51+00:00",
+   "last_success_at": "2026-10-16T14:23:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -171,11 +171,12 @@
     "news:25b87a874b46d185",
     "news:7a82c21fa3928254",
     "news:52cb7fbd000989d2",
-    "news:45856f03d3a33710"
+    "news:45856f03d3a33710",
+    "news:355fba638db78f65"
    ],
-   "last_success_at": "2026-10-16T13:52:51+00:00",
+   "last_success_at": "2026-10-16T14:23:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T13:14:24+00:00"
+   "last_new_item_at": "2026-10-16T14:23:35+00:00"
   }
  },
  "digest_queue": [
@@ -241,6 +242,9 @@
   },
   {
    "text": "Ministr Lam Thi Phuong Thanh přebírá další povinnosti. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPY2p2VTlBZXhxSGQ2S2JKaEZRN2QxRnZtM010dU9tWGwtem4xTmp6M3ltUDR2Y210Y1FjSmtSUW9fU2lLSUtmVk42amJZQ2hwMGI0Z01BdUQ3RmVhYUthYTBhMlNzYnlISUxaNW9yMWo3blBQV2lueEY2Zl9IOFdwWg?oc=5"
+  },
+  {
+   "text": "Podepsání dohody o spolupráci při rozvoji nákupní turistiky a ochraně práv turistů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOdzFVekJSVzlLUXNpWENNbGc4ZXdQaWZJQzRFbEptM0U3QmJmQnhWdGNET1Y3d2UxdXpCN3otR28wU0FrVERMbEpKRjA0WHdCemd6Mjh2QWd5dGYzVTdZMTQ2aEpkakd6RFN5d2NMcm9MZVRHNFNrSldNRUpucEhwbE1DM3lpV3ZydHpNbjNSMzBMY1pobzBpTm5rSFE?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
