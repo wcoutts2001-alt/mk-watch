@@ -19,7 +19,7 @@
     "website:52aef38ce6f35933",
     "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-16T10:22:26+00:00",
+   "last_success_at": "2026-10-16T10:58:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
@@ -30,7 +30,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T10:22:26+00:00",
+   "last_success_at": "2026-10-16T10:58:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -43,7 +43,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T10:22:26+00:00",
+   "last_success_at": "2026-10-16T10:58:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -51,7 +51,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T10:22:26+00:00",
+   "last_success_at": "2026-10-16T10:58:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -162,11 +162,12 @@
     "news:cca10a4f02aa158c",
     "news:c95f7404c3085353",
     "news:30e205587be74de0",
-    "news:e7e71c5addcd1936"
+    "news:e7e71c5addcd1936",
+    "news:54723300c54fafc7"
    ],
-   "last_success_at": "2026-10-16T10:22:26+00:00",
+   "last_success_at": "2026-10-16T10:58:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T10:22:26+00:00"
+   "last_new_item_at": "2026-10-16T10:58:07+00:00"
   }
  },
  "digest_queue": [
@@ -208,6 +209,9 @@
   },
   {
    "text": "Kritizovat Klempíře je módní. Denemarková si hraje na disidentku, říká známý spisovatel - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkJydjNYSmpLVWNIMXpHTTNHUmtsa2RkSGtzdjBZLTA1VFZMUVU3WkM0REZpY0ZJclo3cXMxaHN0d3UydHNsYWFxYkFuMTFWM2x4ZURaTkVrNDFPX0VWaWhwQUhKR2h1VFI3N3pXLUVlZWw2OUxaa21qNjU5ZEQ4cTREeW5JcUlKMG1WbDdLVWx0RjVOWjF2T08xU05IaU8wa0hzb1ZRazBlSmFHb1QxTmZib1ZRTFZUMktSRkJOV21aT2hTS1U5VF9VdVp5LVhVT3lEeU5ZZ3E4TmFaY1dvLUZuMDFkajctUjdadk5R?oc=5"
+  },
+  {
+   "text": "Zjišťování veřejného mínění o projektu náměstí Lang Son. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxQSUJpQ1FZb0hYOGx3eVVIaFNnSzhiMXZieGJlalJUX1ZXUnhOcVUzYS1jQ3lTYUthV3ExUzI4a1gyQTBkQzBoT294UTZoVWpSWWpyalQ2R0tFcEUtaER3d3V6bFM1WE8yM2JwTTZMUk1mYzJQYkR3ckRzUUQ3UC13dkJWZw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
