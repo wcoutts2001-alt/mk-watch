@@ -19,7 +19,7 @@
     "website:52aef38ce6f35933",
     "website:e1abbeabf97fe3a8"
    ],
-   "last_success_at": "2026-10-16T10:58:07+00:00",
+   "last_success_at": "2026-10-16T11:26:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-15T13:22:20+00:00"
   },
@@ -30,7 +30,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T10:58:07+00:00",
+   "last_success_at": "2026-10-16T11:26:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -43,7 +43,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T10:58:07+00:00",
+   "last_success_at": "2026-10-16T11:26:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -51,7 +51,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T10:58:07+00:00",
+   "last_success_at": "2026-10-16T11:26:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -163,11 +163,14 @@
     "news:c95f7404c3085353",
     "news:30e205587be74de0",
     "news:e7e71c5addcd1936",
-    "news:54723300c54fafc7"
+    "news:54723300c54fafc7",
+    "news:6dba374b3951c84a",
+    "news:87a581d8869505a5",
+    "news:3b0433a9be141d73"
    ],
-   "last_success_at": "2026-10-16T10:58:07+00:00",
+   "last_success_at": "2026-10-16T11:26:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T10:58:07+00:00"
+   "last_new_item_at": "2026-10-16T11:26:12+00:00"
   }
  },
  "digest_queue": [
@@ -212,6 +215,15 @@
   },
   {
    "text": "Zjišťování veřejného mínění o projektu náměstí Lang Son. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxQSUJpQ1FZb0hYOGx3eVVIaFNnSzhiMXZieGJlalJUX1ZXUnhOcVUzYS1jQ3lTYUthV3ExUzI4a1gyQTBkQzBoT294UTZoVWpSWWpyalQ2R0tFcEUtaER3d3V6bFM1WE8yM2JwTTZMUk1mYzJQYkR3ckRzUUQ3UC13dkJWZw?oc=5"
+  },
+  {
+   "text": "Na politickou scénu pomsta rozhodně nepatří, ale už se tam usadila - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxPemd4dElKVHRER3diaFRpWnRmX29MZzhwcjJGcTQzXzhLamFaWU5fOTNFc3p1N1RoRHIyd3N1UV81bERBaHRZNzlDQzhmVmNFckxqc2JuNkJtV1ZVa19zZk9xWEVFeGFfZmp0ek03SVEyVXZZRldJRUJDUmllY3pjQjM5SHRNQktsbnE3WGFLNTVycHpWMFppNzUzcml2djlWcWRDelRBTW1sYXk1cG95OVJGUlZXbklCVWc?oc=5"
+  },
+  {
+   "text": "Fórum „Kultura a podnikání“ 2026 – Transformace kulturních hodnot v ekonomickou hodnotu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHlJdjEza3BuaGlVRGlscnJTbEN0ek5TdTI1QjRFaW90blNuYkFBOXptZTJoWUJKaWx1SVJFWGZzUVRoVTdjRmpQSXlwR2JpRTIyU0FIbUtzejMtOUd2dVp0MHhST1FaS3liUWFlSm4taEt2RE5qVjFLWExMSDAzb2w1UTN2cTViTno4cXFVUlIwLWVCdkduYkk4a09RaEFjZ3JRTVVrUzFOZ3QtUi01VXA0emd3bG9X?oc=5"
+  },
+  {
+   "text": "Quang Tri: Dokončení vědeckého základu pro digitalizaci kulturního dědictví - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPcFo5VzBLc0VMZDAtNHFuYWh0TEl2V3Q0X3JVTnJIUDhyWGp3c2dDQ2RnTlVQNkpndmM1SE5QUU44Uk9WZzJRblVYdHJHc0UyczdhbXo3SHVTeWo4WlB6WDVNRlU2T3RrMFg1cFZvZkw5TW9pd0I1aHlnMkhsbFNucU1qYVFuQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-15"
