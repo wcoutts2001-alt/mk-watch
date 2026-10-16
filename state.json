@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T15:28:35+00:00",
+   "last_success_at": "2026-10-16T16:01:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T15:28:35+00:00",
+   "last_success_at": "2026-10-16T16:01:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T15:28:35+00:00",
+   "last_success_at": "2026-10-16T16:01:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T15:28:35+00:00",
+   "last_success_at": "2026-10-16T16:01:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -176,92 +176,14 @@
     "news:905542b5b3bd139e",
     "news:7fb57e5b765b5298",
     "news:eac890d6382e31d2",
-    "news:f720b93ff10d0347"
+    "news:f720b93ff10d0347",
+    "news:88f5bca19f082eb7"
    ],
-   "last_success_at": "2026-10-16T15:28:35+00:00",
+   "last_success_at": "2026-10-16T16:01:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T15:28:35+00:00"
+   "last_new_item_at": "2026-10-16T16:01:50+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Ministerstvo kultury přehodnocuje podmínky spolupráce s Vary nebo Pražským jarem - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFVLRnZwbWVuLWlYT3ZsWW1ZQUdKczBubjNvNUZsNWljQzhya0VxSmN3U2hjVURVaEI2b3hrcGFMNmozMzdvTFB5Nkhab1J6X1lBbnIxaC0tSDNlN1Z5aFk0VWJiUHpENFVkcXg4X0ZUdzhmQkp1RWJ4MlJEU3pFNTJYNExfQmw4bERfeTd2NlNFT2cwd2l2NVYzTFduU19ITTljc2VqdDh6T2FiYkI1UThyd09SdGhFSERpMWlEMjRWN05EaHkzejh2UkdEVkJoa3Fjdw?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury přehodnocuje podmínky spolupráce s kulturními subjekty - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxOU2xMWEZMR29KMGRNRV9tLXZqUjA3NzVxUWlpOXlvRGhkRF8wNUpzM1J1N3VTUDZCVVludzg2ekhlMDc2WnRjRkZUb2VSa2FBWlNiVDF5T1ZnUlRxeE0yOWZncjBjYVRlWUVKZUljMVVLUDhPbVB0RzVEYzBPYmRTWnlxZ2JqT01HV2xpU3pNblFlQkFNN0RhblZkMERCSVREbUFEVEpGMG8zY2xv?oc=5"
-  },
-  {
-   "text": "Slzy hudebníka Truong Quy Hai - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE5fOU1YUGZFMUJ5TTRmNUZDNmhkNUdSb09WeDZwb3pERlo3TGhyTnNEcFBMajh2bnYzTmwxd0xZcE1KV3dxU2h4a1U4Z0hOalZSeXlFdkh4cS10ZE9OblE4ak0wR0ktT0tVTmd5R0t3?oc=5"
-  },
-  {
-   "text": "Klempířovo ministerstvo žehlí výroky svého náměstka. Za „koňské hlavy v posteli“ se památkářům omluvilo - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThsdjlmMFJuX1VnSkxiNEFlQ1k1T1l5MWtGRUhsWWg0XzFsNEVnSkNQS0dFVUR1X2dVdi1CRlAzYWV4VXRqcldqLTI4aWVLdXRYWjZXRmkyMFJ0WDNWVXJKR2dqNGlXbFQwVmxFX2xHUzdkMkpLZ196SDNsX3lLVGFMSGxyUFVSeVllX2stTmhuOGNsMzBvOElPVGhUM3VBRWFhMjduNkZmQkhPS3hKUmFwZTEzQU10TlQ3UklVcTdsU1Q1TnZtTWRaWllYZElQTzZlemF6bTJyVEJ3Qmc?oc=5"
-  },
-  {
-   "text": "Vyhlašujeme literární soutěž o lidech, kteří prokázali zásluhy o revoluci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNcHUzREZ3NTlKMGEwU1BXbXUwZEdmN0tabkZoaFREbDVub29jMUcwRXAxR29SSHRzRUVpYWZiRzQtUkQ1SHhIZENhN3hKZHBQdUxENmgyRU9LTlBhWDFGZ19GdVNzMFdFcUUxS0pqeldpRm16dzVZV2ZaemxrYXJFVUpNSmxXOWE3YUlEdg?oc=5"
-  },
-  {
-   "text": "Vydavatelský průmysl v Ho Či Minově Městě se prezentuje na největším knižním veletrhu světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPWlRzNjNVc3FYblktWEJMQjNmVWJ3SUIyY0ZFZThUQzdueWVaSERmdXhoVjZraWgwLVdDbGhBMDctSTE1TzlYbjBhalNuZmcyV0JNczNUbXhJYnNaVm5WM3FtNjVXcGx4TklpUFZ3SUQwZ2psbXZFRFg3WW5acEhVM1M4SWJoQ3o3S2hMWFBUdTFCdw?oc=5"
-  },
-  {
-   "text": "Ochrana posvátnosti státní hymny před vlnou kreativity poháněné umělou inteligencí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQU3FaS1ZEbTY5SUY0VjloZ2kweVFVcE9oNTk2T3JpWVJrdWN6UlMxeDNmOWU0Um1uZmMtbDZ5OVRjMnJkWDdrNTM5dmVPb1ZINUktWXNuSnB2YXYzaVhqa1d1bGdLT2FVNzd5X2laaE9iU0tnVk11TzV2aGZCYm03ZkR1bDl0eC0yU1czVVhCMjA2OF9XLTNJ?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh: Inovativní myšlení, rozhodně jednat k dokončení úkolů v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVE0dVp2dkU0NGE1ODcyN2ZhSHAySHRJWkJHeERjTjlxYXJSeDhsWFBHMVdTNDYxSVFld25JUGZzQldfeEp5MUUzc3ZjWjE4ZXNocDhXVU45VGNJT2xXMTF6SDVtYk1qSzU4ajlvdnhtTTRxc1VzQXppRnkwbVlweFZLQ3Y1Zk5PeXpXQXc3aEYwTGNQQVR4dmoxdDFDakx4dEtYa1I1b0poUmhSTWlqbTN1a05GQThNOTU1eFFlVm1Vdw?oc=5"
-  },
-  {
-   "text": "Hai Phong: Výstava „80 let Hai Phongu podle učení strýce Hoa“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxOUzhyNnhUUHNFbkpUMENSWjViMldiejYxZU9lUW5sOUUySWdkeVlZYVIycFFfMmVWRElCNU1HeFlodzNXQmtxSDM3U3RXSWJ6VjVvVGplck5ra2g3U0QzNldJVUYtQUlISm81NjhhbmgweFBfR3BxaDZyM3ZpSENOTC0wYjRmdw?oc=5"
-  },
-  {
-   "text": "Oto Klempíř označil vyjádření také za vtip | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iSDZueHJpMm9YeEJEMVNIYjFaTWd6UnRzVlVHbVZ4Q1pwSXAzTml2cndrMTk0S0Z3dzRCbUcxY3dnQW1ObjhKMTBaOThIWUgteHROeFZOSTA2cGVBUG5pR3J6clZHOU0?oc=5"
-  },
-  {
-   "text": "Aby Frankfurt nezůstal jedním velkým ohňostrojem - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPM0VaamYtd2RfQ0tfbXpyWUhKN2F6U2VkUzJmMWRsVDRSaWlZWXdrUWRfb05GY0dScHd6TjJOcGVjRnpWTFF2T0J2QkRYMnNKd0VMVFQwblhFS0VsNFUxWTdwT05pb0VyU0FTemtCT1ZwbFFSM1BMNWQwSjk5Um5TOWt1T3dHUQ?oc=5"
-  },
-  {
-   "text": "Spolupráce při rozvoji nákupní turistiky a rozšiřování trhů s vietnamským zbožím. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxPV281R19vdm5YemsxY2JpNldha2l2Qm9zbzZuNUs4QllEbXFJdXZibHpaTU96SmotaWRjbm5aSEpNZnRmR2RQTmItRE9Fbm83REpxVXpWZDl0WEFJWXFqdExaRFZXYnhmdUdwQzdZZ3hZVl9nN0V6UHFzZmVVcF9vbU1lX2ZOaUg1cm9TY05JdlVyU00?oc=5"
-  },
-  {
-   "text": "Kritizovat Klempíře je módní. Denemarková si hraje na disidentku, říká známý spisovatel - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkJydjNYSmpLVWNIMXpHTTNHUmtsa2RkSGtzdjBZLTA1VFZMUVU3WkM0REZpY0ZJclo3cXMxaHN0d3UydHNsYWFxYkFuMTFWM2x4ZURaTkVrNDFPX0VWaWhwQUhKR2h1VFI3N3pXLUVlZWw2OUxaa21qNjU5ZEQ4cTREeW5JcUlKMG1WbDdLVWx0RjVOWjF2T08xU05IaU8wa0hzb1ZRazBlSmFHb1QxTmZib1ZRTFZUMktSRkJOV21aT2hTS1U5VF9VdVp5LVhVT3lEeU5ZZ3E4TmFaY1dvLUZuMDFkajctUjdadk5R?oc=5"
-  },
-  {
-   "text": "Zjišťování veřejného mínění o projektu náměstí Lang Son. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxQSUJpQ1FZb0hYOGx3eVVIaFNnSzhiMXZieGJlalJUX1ZXUnhOcVUzYS1jQ3lTYUthV3ExUzI4a1gyQTBkQzBoT294UTZoVWpSWWpyalQ2R0tFcEUtaER3d3V6bFM1WE8yM2JwTTZMUk1mYzJQYkR3ckRzUUQ3UC13dkJWZw?oc=5"
-  },
-  {
-   "text": "Na politickou scénu pomsta rozhodně nepatří, ale už se tam usadila - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxPemd4dElKVHRER3diaFRpWnRmX29MZzhwcjJGcTQzXzhLamFaWU5fOTNFc3p1N1RoRHIyd3N1UV81bERBaHRZNzlDQzhmVmNFckxqc2JuNkJtV1ZVa19zZk9xWEVFeGFfZmp0ek03SVEyVXZZRldJRUJDUmllY3pjQjM5SHRNQktsbnE3WGFLNTVycHpWMFppNzUzcml2djlWcWRDelRBTW1sYXk1cG95OVJGUlZXbklCVWc?oc=5"
-  },
-  {
-   "text": "Fórum „Kultura a podnikání“ 2026 – Transformace kulturních hodnot v ekonomickou hodnotu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHlJdjEza3BuaGlVRGlscnJTbEN0ek5TdTI1QjRFaW90blNuYkFBOXptZTJoWUJKaWx1SVJFWGZzUVRoVTdjRmpQSXlwR2JpRTIyU0FIbUtzejMtOUd2dVp0MHhST1FaS3liUWFlSm4taEt2RE5qVjFLWExMSDAzb2w1UTN2cTViTno4cXFVUlIwLWVCdkduYkk4a09RaEFjZ3JRTVVrUzFOZ3QtUi01VXA0emd3bG9X?oc=5"
-  },
-  {
-   "text": "Quang Tri: Dokončení vědeckého základu pro digitalizaci kulturního dědictví - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPcFo5VzBLc0VMZDAtNHFuYWh0TEl2V3Q0X3JVTnJIUDhyWGp3c2dDQ2RnTlVQNkpndmM1SE5QUU44Uk9WZzJRblVYdHJHc0UyczdhbXo3SHVTeWo4WlB6WDVNRlU2T3RrMFg1cFZvZkw5TW9pd0I1aHlnMkhsbFNucU1qYVFuQQ?oc=5"
-  },
-  {
-   "text": "Památník národního písemnictví Vás zve na vernisáž výstavy Hlasy z dálky / Česká literatura v exilu 1948–1989 do Muzea literatury\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6609cs-pamatnik-narodniho-pisemnictvi-vas-zve-na-vernisaz-vystavy-hlasy-z-dalky-ceska-literatura-v-exilu-19481989-do-muzea-literatury"
-  },
-  {
-   "text": "Návrh na povolení konání soutěží krásy a modelingu bez nutnosti povolení. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQNnFpTFBmRmJab0VsUFVoTzNfZ3NDZUQ0OUxDdGZITmhQbnZMeDd5WW1lR3R5ZTBCa0x5cV9oOWhIZGJKeWlhMV93Tmk0dzJFSFBOZnBzdHRPaWpaaXFFRkl3OUtJX19lQWF5S2ZpNEpzRHlLSDZkejlqTXRuVlVOSHA4TXpENXJmbXY1R3diOA?oc=5"
-  },
-  {
-   "text": "Kritizovat Klempíře je dnes módní. Denemarková si hraje na disidentku, soudí známý spisovatel - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAJBVV95cUxOSk9wRFM0Z3NjZmpyTkhuRW9Ed3FfU0ZUV1Bzem5KNENSYWUxdW9sQkp2aXlyTEpzeVNoQlg5aS1OXzZUZ2o4ZzM4NjhlYWlTZ3MtMkFhM2w5SlFQTHp0VEZPeGVVeTFzUF84dzQzVXBKN21WUWNwLURMeTNFcHdZcGhVTWE5cFNkQ0xrY3lSd2dWYVRsQnJxS2JZYmRjQ21NRVEzZS1VNkNxaDFqYXlIX2RDaURRellScl9SajdLLUtYalg2LWNNdzl4ZGp5cFRIZXA2Ny1CUS0zNjRjQkUzUllnWnQ1T0VGb014UVFvVERENm8wcjk3YWhjb3JadnZk?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh přebírá další povinnosti. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPY2p2VTlBZXhxSGQ2S2JKaEZRN2QxRnZtM010dU9tWGwtem4xTmp6M3ltUDR2Y210Y1FjSmtSUW9fU2lLSUtmVk42amJZQ2hwMGI0Z01BdUQ3RmVhYUthYTBhMlNzYnlISUxaNW9yMWo3blBQV2lueEY2Zl9IOFdwWg?oc=5"
-  },
-  {
-   "text": "Podepsání dohody o spolupráci při rozvoji nákupní turistiky a ochraně práv turistů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOdzFVekJSVzlLUXNpWENNbGc4ZXdQaWZJQzRFbEptM0U3QmJmQnhWdGNET1Y3d2UxdXpCN3otR28wU0FrVERMbEpKRjA0WHdCemd6Mjh2QWd5dGYzVTdZMTQ2aEpkakd6RFN5d2NMcm9MZVRHNFNrSldNRUpucEhwbE1DM3lpV3ZydHpNbjNSMzBMY1pobzBpTm5rSFE?oc=5"
-  },
-  {
-   "text": "Go Hyun Jung: „Přijímání lásky a pohodlí“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE5qLUFrT21sZW1XNXFfM2xucURuaklYRVhvZl9nR2hGUVIwWVVkZUU1VXhWa3lNbDNvTkRwRFBHTzlsMFFwbERiMDd2WlVwaWs3bG5WTWM1bWFDM2xrRnZjdnlDQ1BYOVI4dDZTZkFraTU5am5TNjdJ?oc=5"
-  },
-  {
-   "text": "Šíření informací o „Televizní pěvecké soutěži Lam Dong“ 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2ZGU1FjWk9udTFlNGxoWjNXRzlUS0F0TUJEbFdYbW1OaWd4MS1ZWlVZVWl1b2RscEFuc2RsRnZiN2piNXNHWHg0VXRJQzhFOWlrVGFuVVJCbGF5UVBsZkY5cWN5aG1aTnpNeEVSdDRQQjRjYzJySHBqNm5FalhFdG91OHlDTWVLQWxz?oc=5"
-  },
-  {
-   "text": "Úprava načasování 3. provinčního maratonu Lai Chau, 2026, „Volání velkého lesa, kroky aspirace“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOZERIV3puZzVlNVFTdFZuWHN6QnVNVjhMaWNnTnpVM21ZajlCZVBweGJOcmtOM2ZMd1dQcl8tX1ZEenoxTF9GSVdad3pGaE5mZ0Y5OXlFZC1ZOU81eUVVZDNhNThSdkNYejIzSUVtZ1NieV84eF8wblpoTmhZNmlrM1FpZlFkUFFjdmdjTjhCTDNFck04ajFIcVZNMW1Xd3lZaDJoRnlFMVZfeFQyTVl5aDhKMkh4bUE1MGdNbEVIWXVjTnRGZC1lWC01ZW5qRHpHZlY2MlFBSQ?oc=5"
-  },
-  {
-   "text": "Lai Chau upravuje načasování 3. maratonu v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxNbzJObFhYOWJWTnhFYlZnSS1hTnJOTUhjcnZURjdKa0R1elBMTHJwaEM5VmlDR0dIMms2U2xtQVhPTDFtbE5QUEQzOG1tMmJhM0xxclRieHkxME83ODZpRHVGSjRvcmxjQnhFWU1kQmI2VDZ1aXhsOGhhLUF1SktCajlXTHN5UzNTdXJfVHVYMWQ1d3JpaHdyR1loVzYyQkU?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-15"
+ "digest_queue": [],
+ "last_digest_date": "2026-10-16"
 }
