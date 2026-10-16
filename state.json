@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-16T17:11:15+00:00",
+   "last_success_at": "2026-10-16T17:39:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-16T17:11:15+00:00",
+   "last_success_at": "2026-10-16T17:39:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-16T17:11:15+00:00",
+   "last_success_at": "2026-10-16T17:39:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-16T17:11:15+00:00",
+   "last_success_at": "2026-10-16T17:39:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -179,11 +179,14 @@
     "news:f720b93ff10d0347",
     "news:88f5bca19f082eb7",
     "news:6893bf15884820f8",
-    "news:b9a53ab6c2ec63c1"
+    "news:b9a53ab6c2ec63c1",
+    "news:ea4a1ad66bd7c065",
+    "news:f8b3e513c94f1f41",
+    "news:c976989e58784d26"
    ],
-   "last_success_at": "2026-10-16T17:11:15+00:00",
+   "last_success_at": "2026-10-16T17:39:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T17:11:15+00:00"
+   "last_new_item_at": "2026-10-16T17:39:40+00:00"
   }
  },
  "digest_queue": [
@@ -192,6 +195,15 @@
   },
   {
    "text": "Hanoj: Od 16. října je zakázán vjezd mnoha typů vozidel přes most Thang Long. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxNbEFYUWxxRHlIbUFSVWtTWjNLdGdLUDJFbzJNelhmQ3d1NVZfRDhNSHhyeTlRZ2h5UGhhUkdWcW05X0lGLW9vRS0tWWs5eVlENHVKZnhJOTNVVzRjWUppUTREdWowTWNpREFfMXB2Zm9YSHNXeXBQRTlRbTJ6ajZBV2Zyemk?oc=5"
+  },
+  {
+   "text": "Vzácná a obrovská krajta objevená při práci na polích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxQYnlfVkloWWpmN1ZBa3E1RHBadExxYnpzUlNGUEdOTUZpTkZ2WnhUWEpUNXNLVFlDQlZGeUlDbFlmNlZTakZNS1RXUU9CTi1kV1dMUW9oVW1Cd1RWUVN4eDBNQnFleVJjcXlNTS1CWG9RZlhHdmJwZ2wwaHprdGg2ZnNn?oc=5"
+  },
+  {
+   "text": "Klempířova kultura. Nový ministr prosazuje revizi zásadních smluv - newsbox.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRvM3JDS1JYa004bzZUVzJxNHJNOGlpdXd0OEZUSElTMnRLc3VHd1V0a2IxUUh2UFZTODlLRzEtdWYydkNwT1dMUkJ3U2FsWVFfY0t3Mmx5SUxvNTVXN3B3TkdyWHJxa0wzVVNZUkVqT1lzVzRNZk1oQzMtZ0xnNHg4RlpTdGlNLUxwLXBzTUFyTXRDanhj?oc=5"
+  },
+  {
+   "text": "Budeme cenzurovat Švejka? - Deník TO\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQkJHZFlPS1M2VGxPMjFVZVl0WDVGR0MyQlkycndxbDBWZF8wNDdHeFNfaW1BeUhDZVh0X3Fqa3BieDNNX2VtbnJKTHpFWktXVjJXWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
