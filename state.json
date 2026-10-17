@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T19:15:23+00:00",
+   "last_success_at": "2026-10-17T19:46:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T19:15:23+00:00",
+   "last_success_at": "2026-10-17T19:46:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T19:15:23+00:00",
+   "last_success_at": "2026-10-17T19:46:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T19:15:23+00:00",
+   "last_success_at": "2026-10-17T19:46:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -305,11 +305,14 @@
     "news:113aa1c5249b6a06",
     "news:1b5ba54c59f83f1d",
     "news:e9483b4257ef547b",
-    "news:52b9ada570c4b4e0"
+    "news:52b9ada570c4b4e0",
+    "news:43693986bc5b2ec4",
+    "news:085de50701fa77e5",
+    "news:1fb9fa1e1637c45a"
    ],
-   "last_success_at": "2026-10-17T19:15:23+00:00",
+   "last_success_at": "2026-10-17T19:46:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T17:59:18+00:00"
+   "last_new_item_at": "2026-10-17T19:46:47+00:00"
   }
  },
  "digest_queue": [
@@ -333,6 +336,15 @@
   },
   {
    "text": "Objasnění paradoxní situace zchátralých starých trhů a opuštěných nových, mnohamilionových trhů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOelktNWxkVnZlUUJWLUlSNHJtMFBTaFVyanlPNHlPWUgzN2ltMVkydWFtVGJpUTFHVjRXeVdzd3Nsdm01QjFOU2s5aE1yVE9vbUYyMGM4M18zSVRkcXVmRG8zZHFXR2xNMmF1ckNZMEpKa2NVR3J1YmI0ejJhWThQSEcwVFlweW5uWnByX2Y0TEtxMGVhQ18wSkRwSmtpZzR6?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury navrhuje, aby soutěže krásy a představení již nevyžadovaly povolení. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxPUm9PQ05qbGZTT19xWk1hNHR4VGJMTHZocDBzSmw2Uk9MamJuaVkzRHJwR2VrX2E4X2puVjhDSmgyOWk4Nk5pdGVWZ3dJRU1zUi1zUzZVMEtLeVBZdmFQSlBzTTdxM0xuYjR6WnJxZTZmbTBSelNBWHJJYmpzelVPbzl4NFhjYThGMWZSRFVObWZac0Nn?oc=5"
+  },
+  {
+   "text": "Provincie Lam Dong v roce 2026 zintenzivňuje své úsilí o propagaci kampaně „Není sám“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPZzBuOXFLZ2E0eDZMTDhQZVdXeVR5NC16eDlVMGtINnpzS3hJaVZHaXQzbEVtWW9LZGdkeS1UQlU0LUlOMlUzakhDekdMZ25XVHFWeDBCVzJTaXlGcDRsV3FmcVJNSV9tR01XRFV3NDV2S0FMUW5IMTRwclROei1DbWFlZGM3V2drZV9uaWJRWV9uLUdHRVE?oc=5"
+  },
+  {
+   "text": "Da Nang rozšiřuje svůj turistický prostor a vytváří pól růstu cestovního ruchu na jihu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPV0dHYWxrbkpLNnRBMWlKaGZpNFp2eUV3d29ubllYeFBndjZ3SnhWYkozV3RweU5qWnd1VlF0el81aXJWMG13N24yX2ZnQTlXcC1YeW5hMXNPSVpaazBVSlA2SUdMSFNFbVU1Q3FlTnlPLWFYWm14S3ZTVFBrRHhCazdFYmpQa0JfRm55WncyN09hWVJ4b3d3aDc5dW9yZw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
