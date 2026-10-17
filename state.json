@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T12:03:23+00:00",
+   "last_success_at": "2026-10-17T12:43:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T12:03:23+00:00",
+   "last_success_at": "2026-10-17T12:43:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T12:03:23+00:00",
+   "last_success_at": "2026-10-17T12:43:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T12:03:23+00:00",
+   "last_success_at": "2026-10-17T12:43:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -237,11 +237,15 @@
     "news:1a6152e196d9e96a",
     "news:6f1d2fea730dc6cf",
     "news:0d4e585399e670a8",
-    "news:15e28e53f964ac23"
+    "news:15e28e53f964ac23",
+    "news:9febd64a517a1132",
+    "news:88a8b4c96dd75fc9",
+    "news:d840adb3fe280a6f",
+    "news:c923e47af40f0786"
    ],
-   "last_success_at": "2026-10-17T12:03:23+00:00",
+   "last_success_at": "2026-10-17T12:43:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T12:03:23+00:00"
+   "last_new_item_at": "2026-10-17T12:43:27+00:00"
   }
  },
  "digest_queue": [
@@ -418,6 +422,18 @@
   },
   {
    "text": "Provincie Ca Mau zahajuje výstavbu 22 venkovských silnic s investicí 53,4 miliardy dongů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxQWVNKYWhtRjJKaG5xNWVXS19TR1c2ZDY5YVJYZkEzNjQtMTdWcGpFM0JMTDMyMnRfQzYtQXpwUzlRaWFfdDZHeG9CeEJ1TnhMcHdnVFprM2hoeFdQYWVpS0owZ2RpcllHMDZvTW5Qb1p6WFBzbmlDR2M3eVFETTFIUk5ETG40Mm1laXBfQVFMRDJqcF9jUFVKZnF6ZjNmVlRlT2QzRA?oc=5"
+  },
+  {
+   "text": "Lidová rada provincie Nghe An přezkoumává plán na vyčlenění více než 111 miliard dongů na kulturní rozvoj. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQVUEyTnppQ2kwc0tWM3B4RXB0NS1XU3B5T1BKTnpWWk9tQ1Nwd2VWa1lvaFhEaWN4TzhLUmVNYnl0c21WZlE4dlpsR0ZJcjZYXzFmOGZLemlHWlZJUDcycy0wZFRHbVBCWWk3UmdaMkRNSW1YS0dBNjc3a2lkdXJnTkRoal93UGFyNmNIN2JlNlpMVmZ5QVJrZ083TW80WDVOc3lsZUllanlUbjV4aVZkRWRPNA?oc=5"
+  },
+  {
+   "text": "Mladá učitelka daruje orgány a dává tak pacientům šanci na život. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOVjNFZ0psNk1wemtNX0lTN2Z0NnlCSk1wcDZ3SmZSXzBoLUpkaTZXRkFCOWsyd0VRTWhFLTIzdENRdlB1R0UwR1ROUk5wMmpCbkI0QnZYcF85T3YzQ2FNNXAzbXpnN1F4WGJ6TFZ0c0NEcHpDd0d1RFhZcTJySkJjOVhJN1A4TlppTklzTjJR?oc=5"
+  },
+  {
+   "text": "An Giang pořádá v reakci na „Den vietnamské kultury“ 2026 mnoho aktivit. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3g1Q0RpZnczOVNrZEo0aVRud3RqM2U2T0NRbFRJYVpSSURRX2tMemRTYkwzRERxalM4bVBkME1RNFd6eEs5aTJxNnlvSlU1VWtoeEhDUlZFRWdraEpzdUt0VXQ0QnRKNm9xN29ZWlFEZ0JFZ3dGQlZMZXlDSnM3ZkM4MndmYkQwZGdPZVpkOHJHeUZpbk9mYWphRQ?oc=5"
+  },
+  {
+   "text": "Obec Thanh Oai oznamuje rozhodnutí o reorganizaci stranické organizace a zefektivnění aparátu specializovaných agentur. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3hnNGwxY3FJZjBnbE84VjFFMTZIekJfVWExZHNJTFRwTXRFUGlfazYtbDIta3VwYkFES1ltSFFLdUtDNGcxcW50N3c0VDRGVXVGUUpuSUlXR3VacVZzOGRJWGVzSHQwZ0VuOWVsX1JSSFZXWmRWbXY4TXQyTDRjZjlXMkVhLTNOSzE5MFF0SGFEckc0VWlaUS1HNG9PN2tkaXpNWlpMOEw1Y3JOZlJqQlUxRnVJUGQxdTBTNDM5V2o3S28?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
