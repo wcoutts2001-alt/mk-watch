@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T14:50:44+00:00",
+   "last_success_at": "2026-10-17T15:14:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T14:50:44+00:00",
+   "last_success_at": "2026-10-17T15:14:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T14:50:44+00:00",
+   "last_success_at": "2026-10-17T15:14:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T14:50:44+00:00",
+   "last_success_at": "2026-10-17T15:14:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -283,11 +283,17 @@
     "news:37f8207f6ce74334",
     "news:2a37801cd4c54377",
     "news:146553b1fb7ef0da",
-    "news:43d88394276a9a41"
+    "news:43d88394276a9a41",
+    "news:c325d17a9225eb4e",
+    "news:21752edf8a475cda",
+    "news:5709300e02c1d52f",
+    "news:758d1debd4ef4b47",
+    "news:ae287b2f0b18cd1c",
+    "news:462ea228c841800f"
    ],
-   "last_success_at": "2026-10-17T14:50:44+00:00",
+   "last_success_at": "2026-10-17T15:14:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T14:50:44+00:00"
+   "last_new_item_at": "2026-10-17T15:14:33+00:00"
   }
  },
  "digest_queue": [
@@ -599,6 +605,24 @@
   },
   {
    "text": "Živý přenos „Lahodné pochoutky z Muong Lo“: Otevírání možností pro konzumaci produktů OCOP z Lao Cai. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxNUXBTd2VRTmp0NWtGb3NOSFdGVkJDX1AzSEhuWXhsRV85b2lhd2NIWGEzd3VNeGdKVjRqWTFPUDQ3U0YxR1JlX01TbnRCWDRVempicUJYZGQ2Tzk1QUxJdG1kNmQ0eldsWVlYbFZLcWlIX3Fsa0ZyZlY4Vk1hdk5ONms3bDZRbGxHSjQwNmRwT2RaTXBtT1N1Rg?oc=5"
+  },
+  {
+   "text": "Směrnice a pokyny vlády a předsedy vlády ze dne 16. října 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0t3QkpUM2xqVzNSczhXMXI2anFmT0NHaW1lRjRpMWk5ZV9wcGVhUzRuSTZ1SXVoQTVVU0Q4YURBZi1tWUlrS1J3Rk9FTHpfdXNEWFN5ZEVGUkFrc0tuRDFpQ1BOOEVsRzZPVGxJOWFZQ2hyOUcxalp1bW5OTl9CcmVvNjVUOVNLLWZUTmYyUEdORVpZV2pudg?oc=5"
+  },
+  {
+   "text": "Cestovní ruch rozšiřuje spotřebitelský prostor, vietnamské zboží nachází více trhů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNM0xpa3k5dm9wR0tqenJNUTVSUVM0d0hkNzM0SmJjbmpUY0pnaGh2XzNNWUxmelRFellRZE1RdlpFMHE5N3FKam1NVUMxdzFqY1NvSVJqMHhUZHVPejQ3b1czVFRfNG56ODQ2VlpRRS0tZVhmdlEwU192UU5hOWhlcTN0QmJBaTE4R19kbkpyUUxXVVFoY1hV?oc=5"
+  },
+  {
+   "text": "U oltáře Nam Giao v citadele dynastie Ho byla objevena podzemní infrastruktura stará 600 let. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3RWRERtWW9pODItbFE1bThoaEU5V0VhRXhzVE1ueEpoX2xRalVDS2lzc0otd3hqTE9pejdjT3l4TWlfN2NzYU5TOHdIZ3RDYVk5ZmVTenNnUWtwd2lwbVFIZmgtSDdpcEVqUF84UGZRZDRTa0dnX0ZObXRXMnI4WU1JRkVyZzJUX3p3VlFGRUhNR05vS3pqQg?oc=5"
+  },
+  {
+   "text": "Hejma se veřejně postavil za Klempíře a narazil na kritiku: Jeho příspěvek vyvolal vlnu nesouhlasných reakcí - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmVMNHBMMHN4QU41YUVWZThTTzlGX2MxbW1jUzd3NnlyM2xSNFMxQi1KcVNYc2FvblY5Mk1sdHB4amEzb19NeW5uUlZWblk1aGlGNEtlcE5URzk1SWZVRWV4RGRFU21NRzJDMlZYN0VoWWljRWV1RTViN0xtX21DZzJycTBZZE9fNkFiRG1US0ZmTHkzUk5jUTd0VExqRFd0aG1RWjB5b0R4NkFkeHR2M2I3eU4zZkNYT2NhWHpHMXl5RnJJWnJXSnZodWhBSW1uaWtj?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město bude v roce 2026 hostit konferenci shrnující Síť světových pobřežních a ostrovních biosférických rezervací. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0R3YUVyaVpxMk80VUJVcjIxdmZXczQzRl8xSG9ldXZvM0JOUU54T2xNZi1tOGhDcjRQcHVSSVppSzJ1LWZ6bkpFMHVrVTBBb1B6UTBXMk1tQTZreUdXSy1IMmpOVUdzdjYzaDBHZXN5Q0YtWFFnd25ORk1uWURmeklhVjAwZkgxLUNuUWZpczZJOTdxYWRQUmJrb3lDV0VDTWp6Z1JZeWpRbXNodFJyZlJsUGtlZ0hYX1EwS0g3RUUza1R2emhtLWlOY3VkTzdPTDZKN2FB?oc=5"
+  },
+  {
+   "text": "Singapur vydělává peníze na zpěvácích, kteří nejsou v jeho vlastnictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxQNW5SMVNpeXIxYmhjV2xDM0QyTVpFbWZldEszMHhvckROZ3pfclc3MGp1X2NMYlA5S2pSdy1TTVp2anFtNnVIcTFkWV9ORlJ3R1Z2VV9LUnZYaVgzYlZxdTVCdWN0YlpvY2dDN0phRi1nbWlkV2NlMzBCS3k1N0VORWNCUUFXWjg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
