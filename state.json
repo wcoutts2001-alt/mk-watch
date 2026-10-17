@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T07:54:30+00:00",
+   "last_success_at": "2026-10-17T08:16:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T07:54:30+00:00",
+   "last_success_at": "2026-10-17T08:16:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T07:54:30+00:00",
+   "last_success_at": "2026-10-17T08:16:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T07:54:30+00:00",
+   "last_success_at": "2026-10-17T08:16:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -201,11 +201,14 @@
     "news:b67719bfaf420b02",
     "news:b5478c2a44dc672a",
     "news:9a59d94a19ec6a5d",
-    "news:72004a553dfe126f"
+    "news:72004a553dfe126f",
+    "news:12b8dc760dd8d170",
+    "news:41148420a9d3f8bb",
+    "news:71c23f490ffb693e"
    ],
-   "last_success_at": "2026-10-17T07:54:30+00:00",
+   "last_success_at": "2026-10-17T08:16:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T07:54:30+00:00"
+   "last_new_item_at": "2026-10-17T08:16:24+00:00"
   }
  },
  "digest_queue": [
@@ -277,6 +280,15 @@
   },
   {
    "text": "Pákistán: Zřícení střechy školy, 29 obětí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTFB4WkkyWE9NUDJvQzQ5Y29FYU5DSXJKM1Mza0k4WUtRVFA4SS0zY0doUkFQVVprTlpzMnhqSGhQRUZvRGZ3bjYtbl9FYVpvUUNGbzNaeFdxZ3RTQmFueXFlbGJYZ2xfeWZvQTlTVjR4MVg0cWZ0cWRXOVRzNER4dw?oc=5"
+  },
+  {
+   "text": "Začíná obnova západní části hospodářského dvora státního zámku Zákupy - Národní památkový ústav\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxQQkFSenZxcFNJdGZnT2VfV0FlTWFUTUpTRnJHRW56eTNCQ25tSmNmdU94eHNmUVZ0UjctcmNzbG0tS3Z3NXJPMU1DNWRxYUxURVRCVDFCOWVjdU9TZGJsMUFhdWVWWTdBU0tvRm1uSGZDaS1fRkN0ajhldEdnRmJSTXBwOEU4VWliMTJLODJHdkVsazhOOW8wQWY5TEs0dFVJNGt6Q0otR0lfRk5J?oc=5"
+  },
+  {
+   "text": "Pracovat dlouho do noci, abych splnil termíny, pak ráno znovu spěchat, abych termíny splnil, a nakonec prospat celý víkend. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOMnVidHNhRkJYb2NTczA3bTdFRkREV0ZwRGNWa0VWRmZDSGktelQxaGtObWJudWxMeDF6M1hhSV9XUTBJN0NSeXRXMUxwcW1iOG5ZVEpib2JoVU1mU2FrRTJ6OXlwRUZLVEdEcGFJVDU3X0J2cExxNHNydDZYV1hOSFVqWmVkZzhUSWNyOW00Vm1nZ3pRVEtDOHJkUmZtdGgyallGTQ?oc=5"
+  },
+  {
+   "text": "Žena se ztratila poté, co ji při návštěvě svého sadu s duriány smetla povodňová voda. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxPaEZURjRBb3BpaFVEZVNwa0I3V3hIR29JTTlfaVZmakNpb0hSbkFvaXpYWHlWRVg3X19hRnBzR1VNUEloVExOclBKdS02SnhkaGg0ZmkzeDY2TjRaNEVtN05PcmpncmNHdnVIMThIVW5tRDNieWdPUGhzcURZN2JtOHY2bmxxbFRKQ0l3SGhn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
