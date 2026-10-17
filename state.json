@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T06:04:34+00:00",
+   "last_success_at": "2026-10-17T06:46:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T06:04:34+00:00",
+   "last_success_at": "2026-10-17T06:46:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T06:04:34+00:00",
+   "last_success_at": "2026-10-17T06:46:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T06:04:34+00:00",
+   "last_success_at": "2026-10-17T06:46:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -197,11 +197,13 @@
     "news:aafd4085088d7a21",
     "news:bea4d150ec30f481",
     "news:e90fadc70362e83c",
-    "news:4e233dc68779dc12"
+    "news:4e233dc68779dc12",
+    "news:b67719bfaf420b02",
+    "news:b5478c2a44dc672a"
    ],
-   "last_success_at": "2026-10-17T06:04:34+00:00",
+   "last_success_at": "2026-10-17T06:46:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T05:07:03+00:00"
+   "last_new_item_at": "2026-10-17T06:46:27+00:00"
   }
  },
  "digest_queue": [
@@ -261,6 +263,12 @@
   },
   {
    "text": "Záchranáři zachraňují pohřešované rybáře, kteří byli téměř dva dny unášeni mořem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxOeWcyNjZ6TldSWEhpeTdEeXdCZXFJVDBsT05mNXpYd2IyNDZlWGpKRjdRR2ttVDRZZFdDaW5KQ1BVMTBzSXhEZW5mNkx5Q0EwWGVta1YxVS12Uy1MdnE3OG5hR29PelU1aWtaMnA0V2NBZllLYXpOMkpPTFBsZG4ycTdn?oc=5"
+  },
+  {
+   "text": "Začíná obnova západní části hospodářského dvora státního zámku Zákupy - Národní památkový ústav\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZ6SUVHdy1wSmV2bExVaE9BLVlyMjlvTjM1WXl2R2NPc182QWJuRlh6VGF6NTY2RUpEV0xNRFpZYm84WUpZaTFTS2t0M0p0clRnZGJ4NzF1Y095b1Zvam9jVHEyd2N1ZnJNazR2VXh1dXFzR09HdnJNMmpZMlV3QXpJQW9EOXc4TkdrQmRFYlpZc2N4eXVuMDB4YlN6OUM1MFZ0WEt2d2dFQQ?oc=5"
+  },
+  {
+   "text": "Ministerstvo zahraničních věcí vítá 30denní bezvízový styk pro vietnamské občany ze strany Ruska. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPcmFZRUpEYzJSNGFwNlZXWElJLW8xQ1ZDWlE2YklDdW5PMnlIU0l0cEdJOEhZUVJLUk9TSHFBa0M5NkZjUEM1VzFEb1p5eENFM0NxT3pxTlZ6d3dIckUyV2pzU1d2bnZCSVpnMUVWRE1YaUY1dzd1XzJQand5U0lGYlVkQkVwd0E5RWRJS2RURFo3SmVURTZhZm5Zaw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
