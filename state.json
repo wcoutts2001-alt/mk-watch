@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T17:35:48+00:00",
+   "last_success_at": "2026-10-17T17:59:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T17:35:48+00:00",
+   "last_success_at": "2026-10-17T17:59:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T17:35:48+00:00",
+   "last_success_at": "2026-10-17T17:59:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T17:35:48+00:00",
+   "last_success_at": "2026-10-17T17:59:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -303,11 +303,13 @@
     "news:defb0cfb540e64e9",
     "news:2af08f0cf33f5d1f",
     "news:113aa1c5249b6a06",
-    "news:1b5ba54c59f83f1d"
+    "news:1b5ba54c59f83f1d",
+    "news:e9483b4257ef547b",
+    "news:52b9ada570c4b4e0"
    ],
-   "last_success_at": "2026-10-17T17:35:48+00:00",
+   "last_success_at": "2026-10-17T17:59:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T17:35:48+00:00"
+   "last_new_item_at": "2026-10-17T17:59:18+00:00"
   }
  },
  "digest_queue": [
@@ -328,6 +330,9 @@
   },
   {
    "text": "„Překračuje veškeré meze.“ Odborníci kritizují Klempíře kvůli Národní galerii - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkVHdWhGWmRiLWhQY0wwS1RVTExpR2ZkazF1R1I3cUxjcERkRHplTFNadUJPXzB3SGVsVmFJTDN1cUdwQXMzSDdQN3dHOUdwT1UzdkhKTmdFT2lWMXRCdGg0Sml3S2ZmbXU5bVNWdy1tMmZuR2dWMUZRU0QzbHBzSjliT1lQNWNPWmFXdldoQ2E5clYtdUJhNlpQMXVzSlMwTFk0XzdrMHRIYXFJS0NxZF9yeDl2T1kwdlRsVGxjMURaUQ?oc=5"
+  },
+  {
+   "text": "Objasnění paradoxní situace zchátralých starých trhů a opuštěných nových, mnohamilionových trhů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOelktNWxkVnZlUUJWLUlSNHJtMFBTaFVyanlPNHlPWUgzN2ltMVkydWFtVGJpUTFHVjRXeVdzd3Nsdm01QjFOU2s5aE1yVE9vbUYyMGM4M18zSVRkcXVmRG8zZHFXR2xNMmF1ckNZMEpKa2NVR3J1YmI0ejJhWThQSEcwVFlweW5uWnByX2Y0TEtxMGVhQ18wSkRwSmtpZzR6?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
