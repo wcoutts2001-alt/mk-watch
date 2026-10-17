@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T09:17:01+00:00",
+   "last_success_at": "2026-10-17T09:52:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -29,11 +29,12 @@
     "facebook:b03f8abbb6b466b7",
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07",
-    "facebook:6309dd2c9acf6a37"
+    "facebook:6309dd2c9acf6a37",
+    "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T09:17:01+00:00",
+   "last_success_at": "2026-10-17T09:52:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-16T09:48:38+00:00"
+   "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
   "instagram": {
    "seen": [
@@ -44,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T09:17:01+00:00",
+   "last_success_at": "2026-10-17T09:52:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T09:17:01+00:00",
+   "last_success_at": "2026-10-17T09:52:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -210,11 +211,18 @@
     "news:3979207166e1d310",
     "news:9e43d94fb64b9b3c",
     "news:81d59cbbc320ff83",
-    "news:18be4bdf025a26b9"
+    "news:18be4bdf025a26b9",
+    "news:8c8fbadc0a14ace6",
+    "news:b2804a28305833b2",
+    "news:8bfafc5b9fbb83a5",
+    "news:deb6198c897b0539",
+    "news:cff430ca3674c704",
+    "news:4490f360f17efcd4",
+    "news:86bb59c31e5269b5"
    ],
-   "last_success_at": "2026-10-17T09:17:01+00:00",
+   "last_success_at": "2026-10-17T09:52:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T09:17:01+00:00"
+   "last_new_item_at": "2026-10-17T09:52:36+00:00"
   }
  },
  "digest_queue": [
@@ -313,6 +321,27 @@
   },
   {
    "text": "Ukrajina tvrdí, že zničila šest ruských útočných bombardérů Su-34. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOUTBFdGp5RUNlekdXbjJEb1lrdjlOdzZNQllOX1JVZ01DTlBoNUFhenhmMVZPa1lTM1BUcHMxbkQ1b0FDeDYyY2RURGxONHI1TTVqeVZMTzdxQmlubWNZY1FXcUdBQmZzRkFobXRIN0FLWGZGZWJrNEtfYUxXZm41V2FSR216bERZX2lGSHZ3?oc=5"
+  },
+  {
+   "text": "Kroky ministerstva podle překladatelů ohrožují nezávislost kultury - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNcDNjSVE4NlF4RVQ0NC1GSE9DOW9YVHM1MUVKbVFNc0tjSXZYWkVKSnEwTUdfaGU4TGl0WHBkYXg3dUtoQTJPWnF0ODgwaXIwMXNTMzRxTTlJdFhuLUFuX2FYS1h6a1RRb1FPdXF6SkRuanRPS19Gc2xqcEVnODV6VE42ZmZWM2pUZ1F6WDVLWko2VFpFa1I5Vnc1dHNXeFRGTjFBUUdpcjZ5NHZ6Vlp3VVZab3NMdXJHRlJZR0NjVDYxZw?oc=5"
+  },
+  {
+   "text": "Ministerstvo zahraničních věcí: Informace o „útoku“ na loď NV Sunshine jsou nepravdivé. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNam9Ya25SbXdvbXpqUFk4SE0yZU9NdnB4WmxVRFhKakFySC1OZXROb0YwVGZ5VG1EVzJqRjBncUVOR1RqYVlvOHBsem03SEZFWVpBZkFlQzRyNjg3Q1hLZjVZLXo3cXlpbjd4ZzNUeWNfREZROU5WWUd4eDhubHBmQnN0TnBhZHhGSGx5bQ?oc=5"
+  },
+  {
+   "text": "Vodní elektrárna Tri An zvyšuje průtok vody při povodních. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiY0FVX3lxTE83WFo2OFcwcU82V3dCb281T1ZrUkVlVDdnYlRFa2Z4U3MzSjdDOGJCVVp5SE9FRGtVc25JWE5XdjNaSHBCUEVOWkYxY20wM1diOXVEa1I2dmRuQUpjaVQ1cFotNA?oc=5"
+  },
+  {
+   "text": "Quang Ngai uzavřel most Tra Khuc, aby umožnil výstavbu nového mostu od odpoledne 18. října. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOVG5wTGFzdTVRRnJFZkNTOWRhQ2o2SURTOHozcms0bW91ZVFoZjQyRzF0ZlpEekhFZndyXzRJWE1DZDAxbkxXZGx6RkdnbDAyaUtmWTlnSW5qUjk0UTBUbHFweHU1TVNUSk9CaEhyc3RPN1E0Zkp3c3pOZjdkLWk3QVo2bFdHNmRGYTkzX1pONllSLXc?oc=5"
+  },
+  {
+   "text": "Ninh Binh: Pro projekt silnice Bai Dinh - Ba Sao je násilně zabíráno více než 1 400 m² pozemků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPLXhOMm9OSEE2dm43ZFRHbFBzemROUVdVQnR6emxraG1mUFR3b1dmNE5ZTVFYbV9FVDR3Wk9IRjJxN2NJcHFmUWpSN2FZbldJS3hGOFBram5DZW1hQ0ZGM0dYcHNLNnE2SG5vVjN0ZzZVTDlsZ0d5WG9JYTIyRFVuNnNrM05tclY1bm5qUUxlcXo0dnJjRTFvZDFuaw?oc=5"
+  },
+  {
+   "text": "Da Nang pokračuje v modernizaci svých schopností civilní obrany. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPdG1DR2VBM3V4OXJYaGZLMnFWMm9iUV9pMHo4aUFXQkd2S3VZc1FyY2w0RjQ2YlU1dk9VRHMzTDkxVGt4enVjVnYwZGp0eEh5bFIxdkJJR2ZvRXloR0haSERhUkpVZzBtdktqcWFBeEZOOVE3dFJiYW9LOUFEeEY3MVlwWTg5RjZYcmx1Zw?oc=5"
+  },
+  {
+   "text": "Vinh Long: Rozvoj pamětní oblasti Nguyen Dinh Chieu v jedinečnou kulturní destinaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOWXh6TmFvaGpFN3BBNWxjcDVTdGJscmd1QlhaQlFnMktLQTdzY2ppaWdJN0N6elNhdTcxQ21KNVRUZVN2ZUViYTBXTVNlLXl2LUVQekxQMzJPN19rcm9tTy05ZXc1Zmw3cWRpTFVFRmNhbW5EWDEzS0pkWUhIT3VnZmg4SVhsZVExNEE4ak1jck5pV0pwT05BdDVQZTN1VnJrSWRQQkFTNXNxektqb3Zz?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
