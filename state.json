@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T16:04:43+00:00",
+   "last_success_at": "2026-10-17T16:38:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T16:04:43+00:00",
+   "last_success_at": "2026-10-17T16:38:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T16:04:43+00:00",
+   "last_success_at": "2026-10-17T16:38:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T16:04:43+00:00",
+   "last_success_at": "2026-10-17T16:38:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -297,13 +297,18 @@
     "news:256dfd499ad3ffc2",
     "news:d0e488eb4cce1a28",
     "news:6c93e1974022b707",
-    "news:a89816592e0acf42"
+    "news:a89816592e0acf42",
+    "news:a286003448416718"
    ],
-   "last_success_at": "2026-10-17T16:04:43+00:00",
+   "last_success_at": "2026-10-17T16:38:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T16:04:43+00:00"
+   "last_new_item_at": "2026-10-17T16:38:10+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Hue připravuje dokumentaci o huejském lidovém zpěvu, kterou předloží UNESCO k zápisu na seznam nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxNRUlNVnRaTW5iaHlxNVJRaVNyV0VVT1VvbndPUUc1cDBfT2pZVVhPVFhIM1FYOUVvVE1UN1pFemRBQno5Rk03WXA5cGd4OUJaajkyUC1FSVVpeHU3THNlWldhd2dLQWhDT0F4dEEzZHptU2d4VXhPN3IzSmtiZ0tPWHdBOEVmbjQtNFBjVGRqZ25jVHowa3lvQnpCREhBSWJvR3c?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-17"
 }
