@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T04:39:25+00:00",
+   "last_success_at": "2026-10-17T05:07:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T04:39:25+00:00",
+   "last_success_at": "2026-10-17T05:07:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T04:39:25+00:00",
+   "last_success_at": "2026-10-17T05:07:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T04:39:25+00:00",
+   "last_success_at": "2026-10-17T05:07:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -195,11 +195,13 @@
     "news:33011d76e6934776",
     "news:ff130685462a7727",
     "news:aafd4085088d7a21",
-    "news:bea4d150ec30f481"
+    "news:bea4d150ec30f481",
+    "news:e90fadc70362e83c",
+    "news:4e233dc68779dc12"
    ],
-   "last_success_at": "2026-10-17T04:39:25+00:00",
+   "last_success_at": "2026-10-17T05:07:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T04:39:25+00:00"
+   "last_new_item_at": "2026-10-17T05:07:03+00:00"
   }
  },
  "digest_queue": [
@@ -253,6 +255,12 @@
   },
   {
    "text": "Zvyšování povědomí studentů v obci Ha Lang o prevenci dětských sňatků a sňatků mezi příbuznými. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxOcEVUTUg3R1YwVHZEbmp2cG5mekJOOEE4MmxZR0NqWEQ1TElDZjF4V21sV2ljTUtKYndZUWJSTEVYWURyQldfWFFjRGZrMnZNM2wwTC1iRmtBeWZDVGJvb0VCQ0FYa3JKRWd6Ulk3M2dBMks1Vmppd2JqQ1RXeUVyWjV0dy1rZlZoc3JJNDlBdWphb1N6T0RaYWpWZ1FFSUg5X3pBVjZBRktrXzJaYklnS3NiNzI?oc=5"
+  },
+  {
+   "text": "Využívání, správa a ochrana nízkopoloženého prostoru. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE5QOXRINXU1YUV2SUt3Y01TM20tMEp2Y1pWc1BjZUxnYkNLMkZKOUZZZnBzVUs0RXpVbEd3dDJ2aHcyUUtfRU5zWXZmMFVJLXJBSzR3WVdmWnd5THdHMzcyOXE4U0pyNGUydk1GNG5zU0doM3lINWVha3B6WmF3MUU?oc=5"
+  },
+  {
+   "text": "Záchranáři zachraňují pohřešované rybáře, kteří byli téměř dva dny unášeni mořem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxOeWcyNjZ6TldSWEhpeTdEeXdCZXFJVDBsT05mNXpYd2IyNDZlWGpKRjdRR2ttVDRZZFdDaW5KQ1BVMTBzSXhEZW5mNkx5Q0EwWGVta1YxVS12Uy1MdnE3OG5hR29PelU1aWtaMnA0V2NBZllLYXpOMkpPTFBsZG4ycTdn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
