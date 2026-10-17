@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T01:07:30+00:00",
+   "last_success_at": "2026-10-17T01:37:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T01:07:30+00:00",
+   "last_success_at": "2026-10-17T01:37:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T01:07:30+00:00",
+   "last_success_at": "2026-10-17T01:37:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T01:07:30+00:00",
+   "last_success_at": "2026-10-17T01:37:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -191,11 +191,12 @@
     "news:f005ee6eee07731b",
     "news:b683ae9ac59635ab",
     "news:2952d9ed08c93a0c",
-    "news:f4d5c6c97951e0d1"
+    "news:f4d5c6c97951e0d1",
+    "news:33011d76e6934776"
    ],
-   "last_success_at": "2026-10-17T01:07:30+00:00",
+   "last_success_at": "2026-10-17T01:37:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T00:18:30+00:00"
+   "last_new_item_at": "2026-10-17T01:37:59+00:00"
   }
  },
  "digest_queue": [
@@ -237,6 +238,9 @@
   },
   {
    "text": "Magyarovo nejnovější prohlášení ohledně jeho setkání se Zelenským. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOYzA2YURIMHRBY2dhNVJSZ0ZRdDFQaERhbzZZVXc3b2lGc0RnTVN5aGJrbzBnMTA0N0lERnNnTW5IdWtmeUVvMm5tSXRCNHlhQkEwbnBxQ0JWM29ObjFibWdBSGQ0TkhQOC1pcVp3WGd1NnFGcWRtZzlqd2t0V3ZpNExiWHMzM1A4V21OemZILVg?oc=5"
+  },
+  {
+   "text": "Starší dorostenci na Litvínov nevyzráli - HC Slavia\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPLVhmbm1BemZNU00xc3FiVlBiT19nbTIzQ3B6Nk9fNlNuNWYtMEdfanBtMzlrQno0M1NHeDZNeXNReFoyTGlrQTBfeGNFVXRMQTNocDJSci1fSHBFd0ZFZDFDQUtpaG50RVNkQ2kyVHR5UGZRSXpYSVpjUDdFbmxCZEs3d0w?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
