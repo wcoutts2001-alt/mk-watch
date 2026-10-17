@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T10:15:51+00:00",
+   "last_success_at": "2026-10-17T10:51:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T10:15:51+00:00",
+   "last_success_at": "2026-10-17T10:51:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T10:15:51+00:00",
+   "last_success_at": "2026-10-17T10:51:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T10:15:51+00:00",
+   "last_success_at": "2026-10-17T10:51:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -218,11 +218,12 @@
     "news:deb6198c897b0539",
     "news:cff430ca3674c704",
     "news:4490f360f17efcd4",
-    "news:86bb59c31e5269b5"
+    "news:86bb59c31e5269b5",
+    "news:49ae992c774f6a82"
    ],
-   "last_success_at": "2026-10-17T10:15:51+00:00",
+   "last_success_at": "2026-10-17T10:51:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T09:52:36+00:00"
+   "last_new_item_at": "2026-10-17T10:51:13+00:00"
   }
  },
  "digest_queue": [
@@ -342,6 +343,9 @@
   },
   {
    "text": "Vinh Long: Rozvoj pamětní oblasti Nguyen Dinh Chieu v jedinečnou kulturní destinaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOWXh6TmFvaGpFN3BBNWxjcDVTdGJscmd1QlhaQlFnMktLQTdzY2ppaWdJN0N6elNhdTcxQ21KNVRUZVN2ZUViYTBXTVNlLXl2LUVQekxQMzJPN19rcm9tTy05ZXc1Zmw3cWRpTFVFRmNhbW5EWDEzS0pkWUhIT3VnZmg4SVhsZVExNEE4ak1jck5pV0pwT05BdDVQZTN1VnJrSWRQQkFTNXNxektqb3Zz?oc=5"
+  },
+  {
+   "text": "V parku Le Thi Rieng bylo objeveno a shromážděno dalších osm ostatků padlých vojáků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPSkJmdVc2MThwQThxb3ItQjh5ZmRPVS1zSjdvbnBnOGh1YzRLaXdVcnZOTHlYemVkT0dleFdfMXhIZjEyMmNxU2pTSE1nYnA3TWwxdzJLS1FrYkpLaE4tdkNFU3NySGtwcWJwT2FzLXA5RmtUZEl1VnpNVFg1dENEQjlNbU9jRldKVjkyM3ByczNjWnNRa0txeQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
