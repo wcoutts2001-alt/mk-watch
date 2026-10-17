@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T13:52:01+00:00",
+   "last_success_at": "2026-10-17T14:15:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T13:52:01+00:00",
+   "last_success_at": "2026-10-17T14:15:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T13:52:01+00:00",
+   "last_success_at": "2026-10-17T14:15:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T13:52:01+00:00",
+   "last_success_at": "2026-10-17T14:15:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -270,11 +270,15 @@
     "news:ce686c6369d2808e",
     "news:5633b22da5567805",
     "news:5be68ab3389fdddb",
-    "news:803fd8f6231f0fd6"
+    "news:803fd8f6231f0fd6",
+    "news:55c0f8bbf2159963",
+    "news:9f14a94b8904d564",
+    "news:412516a0fbb4b97a",
+    "news:acdd31a38fb7bcaa"
    ],
-   "last_success_at": "2026-10-17T13:52:01+00:00",
+   "last_success_at": "2026-10-17T14:15:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T13:52:01+00:00"
+   "last_new_item_at": "2026-10-17T14:15:39+00:00"
   }
  },
  "digest_queue": [
@@ -550,6 +554,18 @@
   },
   {
    "text": "Vernisáž tematické výstavy „80 let – Hai Phong si pamatuje slova strýčka Ho“: Probuzení hrdosti a touhy po rozvoji - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxPMml5RGhmd2xyUElDMU45NklNN2F1aVZlaDF1dXlqaEJRUVBnbVFQTXhyX3UzM0ZMZUFCMW9jWHpDSlBCSm9SaW01ZzFqRndORDdXWUs0ZTNSSnQ1bjlqTy1NWGVRX1puUmpfT19sNWNPS0xqMTFmVlhzQ1phWUhrYkd4eHl0VWhvaUhLd1FWU2t0a0t4TFlHOGpWeHZwdUo4Tlo2TkFDLXhIREE1NGUzX1kzSndZdzFXajJZWXlPRDg0VnJJUTFOMDIzQTV1UQ?oc=5"
+  },
+  {
+   "text": "Vydavatelství Národní kultury oznamuje nábor manažerských pracovníků pro rok 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOVTlybVB1cVcxYmJEUW9iS3VKNGRxMmp5c2pxTzJlcDk2NUxkTWlXSzZXUExMekRvYmlxNEc1Zk5USC1xTFBNVHVpWDd6djNDZGswOTJKTjhGUm03SG4zR01Mb0pzcEszVFFiUnFVWWpfQTcwU0FoWlFOT2lCLVpveV9HYXc0OUFiUjJjUC1ZSU5lREFoUUNSaGpIeFV5dmJu?oc=5"
+  },
+  {
+   "text": "Ostrovní obec Minh Chau si klade za cíl stát se oblastí high-tech zemědělské produkce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNem5lelNrSV8yS1hHQm1kbXRKSXdfRENJbUhYUFJIM3M4ZWc0eFZpUGI5Vm5Xa19TQlpvYnY4ZHdjNlB0ZnpQT1BEX09rVFhoTEJ5RXp4S3Y3YjgtRlRoejRrT1RYdHNOMVdGd0VsTFRPUmc3cTg2M2tyOTdEWFpTclIxMFFqY3F5NlBmbTZOWi10bUpDUk1R?oc=5"
+  },
+  {
+   "text": "Quang Ngai si klade za cíl získat na Národních sportovních hrách v roce 2026 45 medailí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1BVUmNNZHJzZm9CVU5ZR3dtdEFnVDJyOTRPeERPNnM0U29WQXZLNzFFUXhhak5RU3QxSUZJam54VUFKYzlsUDFCOEh1eFMzSWFJMUduenZOalZtUng4bHRDc3ktVFpRNVZpcGJhZUZDSGQ1X1lKZFlKRmhSUzRoZWNKVHIxZGRMUmItdjBTeXhQWkhTb2k1YnFtS3VRT0FtdzJVdXZVbHc?oc=5"
+  },
+  {
+   "text": "Hanojský podzimní festival 2026 byl odložen. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE5HemZuMGZFb0FMVExOZVFaRkIyR3YzS0xPY1hJT3Zkc1NBWC1SNGpEbVUwZkZoaVF4MDltMU4zS2RvZUQzLV8wUHlyQVd1ZUw2SjdqcGZ2Y1YzdjJkM1djb2dwTVFCV01QZmFZczBfMVBHSkpSaHhqU1ZQUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
