@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T11:42:48+00:00",
+   "last_success_at": "2026-10-17T12:03:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T11:42:48+00:00",
+   "last_success_at": "2026-10-17T12:03:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T11:42:48+00:00",
+   "last_success_at": "2026-10-17T12:03:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T11:42:48+00:00",
+   "last_success_at": "2026-10-17T12:03:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -230,11 +230,18 @@
     "news:b84e1c7d8f8925d0",
     "news:4310b0e076611791",
     "news:84f593e3b38e93fb",
-    "news:3249dc5c439d1a8d"
+    "news:3249dc5c439d1a8d",
+    "news:8518949e7c0cb598",
+    "news:029eb74f69f059e8",
+    "news:aa74bf6f1e5a63fd",
+    "news:1a6152e196d9e96a",
+    "news:6f1d2fea730dc6cf",
+    "news:0d4e585399e670a8",
+    "news:15e28e53f964ac23"
    ],
-   "last_success_at": "2026-10-17T11:42:48+00:00",
+   "last_success_at": "2026-10-17T12:03:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T11:15:09+00:00"
+   "last_new_item_at": "2026-10-17T12:03:23+00:00"
   }
  },
  "digest_queue": [
@@ -390,6 +397,27 @@
   },
   {
    "text": "Da Nang dosahuje významného pokroku v budování rodiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOVk1ZU2ZqR2NGYThvdVZZaVNzZUtqejg0ZkxoVkZXYS16bzgtOU5TamVEeXdXR3BxR0RUUENfMkFTV1BpT1l0TUJHWWExRmhmQmJGRThSVXlsZzR3VVB5VGtGajlMRzQzNjFObU9sMkVST0hhTzRKOGk3QjNyRE9aeTZxUFg5aThyYjM1MzM0LVpuSjdY?oc=5"
+  },
+  {
+   "text": "Ceny benzinu a nafty dnes (15. října) po sérii po sobě jdoucích růstů obdržely dobrou zprávu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPUHR3R1c4R3lFVjJMM1FqYnFtTURoakdpY19IVXdTRTYwRTBkNHJsZm56ci1fVTJDTnJDTUtGbDYyTDVIUHVha0VJVmc3TWU3dGRxTklXQmdtSzlzSS1QSHdBaFhGZWU3OEpQYzgwOWFfamNENkZldG5YaEh0VlUxMFVkcnBfTXNsUVNNUGVqOXg4V3l4UFF6TXJSZEFSNFVSV1hxRGhR?oc=5"
+  },
+  {
+   "text": "4 klíčové kompetence pro mladé firmy, aby mohly expandovat do celého světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHU0YzlidlMtdnRLcTZwaEJKRFZpYmdvRGc0dm5jZmF5S09QamFwSDBNOUNIakJkTGxfV3NiSWJWaVAza2drTm9taDRta3A5YkJENkJJcmVZVUJhbUxqdUhpRC05RFpOS25RcU1yWHhlanZuWWZsMWp1VUIxMjlSVkItc04zTVpu?oc=5"
+  },
+  {
+   "text": "Quang Ninh láká investory k rozvoji energetických, datových a komplexů v oblasti umělé inteligence. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxOVjg1aWJxMGFYV1NsRmdrd1ZISHVfS0RXY09mREJUTnhuUjMyclRVWjlIRmtWZ094anB2VVZldFN4a3lKV2M5XzlOcFRCOVdqZHVkYlhHbm9XQXYybTFuM0g5R25EcGtKQTFFcGpHZ3dwNmdQQkpUQUVsSU4zV3BVWlhvQ2I3S0wzME5uOEJEWXdSOXRna3JtS0FlOFA5UFU?oc=5"
+  },
+  {
+   "text": "Doan Quoc Dam se ve filmu vyjadřuje ke kontroverzní scéně domácího násilí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOSzg2ZGhNdl9reHd6c2lYSE1mcmJlRVg4UjRMT292RG5tSEZFOENvLTlRaG1qdVJpLU9ZMllxYjZiY0t4ak1SZ0tiTWRPVnhuQXJ5MnJlb0IybWhfY3FzOWZndHJhekpGTDcwUU1ZcGw0ZjNLdnRjTkduVkVHdmNiR21zNFZhcDNNc1BXQXVR?oc=5"
+  },
+  {
+   "text": "Po pohřební ceremonii 731 mučedníků bylo v parku Le Thi Rieng nalezeno dalších osm ostatků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQTmdDVEZSSTlVVVhjT19kVzZadnRhWURkVjJ4NFRGdVNnUjRUdkFRRDB5Z2Nvdkl4eHZEejdfT3luYTZPLUNMYVpYMnR6M1QtWV9RV1FGS0w2eVFCd2Izc1IzSXRsbmJyZUZRZXVQUU5VZER3TFNSeEpYT0RBcExBT3ZyMVhlMmZoTjhlZER5OGtkOUNqMVBWbmlCa0ZxbHNtT1NNR2xn?oc=5"
+  },
+  {
+   "text": "Výsledky loterie v jižním Vietnamu z 15. října: V provincii Binh Thuan vyhrálo 10 lidí 1,2 miliardy VND. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxOUGJtRWJBdUlUeUYyOEVtSmFVVEtIRjRYY1NyQkY3VERyWXVZMUFtZWdkdEdia2RoV3dNTjZONGdoMWtSb0VhXzBIWjNoOHc3M3BjbTc5V25COVBPek9zd0s0aXhyZHdkc0YzbUlFeExXRTByNE5sN2M0VV9xUzJWMkFfNmo1eHdzNmtUMlVUVnFmRHd1OVBoNkdB?oc=5"
+  },
+  {
+   "text": "Provincie Ca Mau zahajuje výstavbu 22 venkovských silnic s investicí 53,4 miliardy dongů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxQWVNKYWhtRjJKaG5xNWVXS19TR1c2ZDY5YVJYZkEzNjQtMTdWcGpFM0JMTDMyMnRfQzYtQXpwUzlRaWFfdDZHeG9CeEJ1TnhMcHdnVFprM2hoeFdQYWVpS0owZ2RpcllHMDZvTW5Qb1p6WFBzbmlDR2M3eVFETTFIUk5ETG40Mm1laXBfQVFMRDJqcF9jUFVKZnF6ZjNmVlRlT2QzRA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
