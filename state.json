@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T20:12:07+00:00",
+   "last_success_at": "2026-10-17T20:39:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-17T20:12:07+00:00",
+   "last_success_at": "2026-10-17T20:39:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T20:12:07+00:00",
+   "last_success_at": "2026-10-17T20:39:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T20:12:07+00:00",
+   "last_success_at": "2026-10-17T20:39:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -308,11 +308,14 @@
     "news:52b9ada570c4b4e0",
     "news:43693986bc5b2ec4",
     "news:085de50701fa77e5",
-    "news:1fb9fa1e1637c45a"
+    "news:1fb9fa1e1637c45a",
+    "news:042cceecd8a4712d",
+    "news:9b60b6be88c35189",
+    "news:2760b559ee0b28c4"
    ],
-   "last_success_at": "2026-10-17T20:12:07+00:00",
+   "last_success_at": "2026-10-17T20:39:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T19:46:47+00:00"
+   "last_new_item_at": "2026-10-17T20:39:00+00:00"
   }
  },
  "digest_queue": [
@@ -345,6 +348,15 @@
   },
   {
    "text": "Da Nang rozšiřuje svůj turistický prostor a vytváří pól růstu cestovního ruchu na jihu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPV0dHYWxrbkpLNnRBMWlKaGZpNFp2eUV3d29ubllYeFBndjZ3SnhWYkozV3RweU5qWnd1VlF0el81aXJWMG13N24yX2ZnQTlXcC1YeW5hMXNPSVpaazBVSlA2SUdMSFNFbVU1Q3FlTnlPLWFYWm14S3ZTVFBrRHhCazdFYmpQa0JfRm55WncyN09hWVJ4b3d3aDc5dW9yZw?oc=5"
+  },
+  {
+   "text": "„Překračuje veškeré meze.“ Odborníci kritizují Klempíře kvůli Národní galerii - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxQZWlmRTBwdXVmb0EyNVdMSnRXcGR1UzdMOFJRNVBRTDUwUHBxU1ZxY1F6RV9FZTdmWXNrcXF2TzR2bHhuVnFkLUxtUmdJTTFFSnZaV1REXzEtdDlMcnZzQTBuZXRSSVhpcHlPRDIzY2IxNXNRZFhFS2NlVTRJOUdvTEQzY0ZPdlQwU0Z5cnpSWWFuS2dsUzZRY1dhZkZwRVM3elNTVXZIZEVkZWxzUkVjMGEtTDFzcTZaOXhjQ1FESDd6VjhWUGhxX3JsZEExZ9IBzgFBVV95cUxQZWlmRTBwdXVmb0EyNVdMSnRXcGR1UzdMOFJRNVBRTDUwUHBxU1ZxY1F6RV9FZTdmWXNrcXF2TzR2bHhuVnFkLUxtUmdJTTFFSnZaV1REXzEtdDlMcnZzQTBuZXRSSVhpcHlPRDIzY2IxNXNRZFhFS2NlVTRJOUdvTEQzY0ZPdlQwU0Z5cnpSWWFuS2dsUzZRY1dhZkZwRVM3elNTVXZIZEVkZWxzUkVjMGEtTDFzcTZaOXhjQ1FESDd6VjhWUGhxX3JsZEExZw?oc=5"
+  },
+  {
+   "text": "Dědictví skrze příběhy komunity – Cesta k ochraně nehmotného kulturního dědictví Hung Yen. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmR6TzM3dm5iVlNUd0dVMXB5WmZ3M2I0SHVjT21haUI5OHlFUWFxVGhjYTMzOEZUb202OENDbkxES3EwV3AzR01hcHhiaXgybkxlRmV3OEg3cTcxWmtKUmtLS1psSlpZVzhHaXFCZHhvbHhibEVvSXl4ekVxYzNLV0JWUmh6M2tPQWlFVGhqM2dUM3NPaVU4VFdHc21qOW96TVpMRFc5U0syWXc?oc=5"
+  },
+  {
+   "text": "Večer 17. října se v kulturním prostoru na ulici Hung Vuong konala řada zajímavých aktivit. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPc2ZtclpDZ2xPQlFZenN5MmpGWVJULW8wYXM2UTZyYjZhbkFjSDB6MEpUek1JMGxFMF9LNlZZMUVBVmsxcXBRQWdDVERLOHd4aUloNHNBR0xLQkxXV25TbTlreWhIT1FBbG1RWEptWUZkT1RHeVVFWVVST2R0RkpDdUdpZE1vQTBtU1hYMmM0aWpYRUh4cmI3RzNaZDlaX09P?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
