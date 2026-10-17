@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T08:53:36+00:00",
+   "last_success_at": "2026-10-17T09:17:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T08:53:36+00:00",
+   "last_success_at": "2026-10-17T09:17:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T08:53:36+00:00",
+   "last_success_at": "2026-10-17T09:17:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T08:53:36+00:00",
+   "last_success_at": "2026-10-17T09:17:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -206,11 +206,15 @@
     "news:41148420a9d3f8bb",
     "news:71c23f490ffb693e",
     "news:2153a3e2ba8d8f09",
-    "news:c90e23488d95fb22"
+    "news:c90e23488d95fb22",
+    "news:3979207166e1d310",
+    "news:9e43d94fb64b9b3c",
+    "news:81d59cbbc320ff83",
+    "news:18be4bdf025a26b9"
    ],
-   "last_success_at": "2026-10-17T08:53:36+00:00",
+   "last_success_at": "2026-10-17T09:17:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T08:53:36+00:00"
+   "last_new_item_at": "2026-10-17T09:17:01+00:00"
   }
  },
  "digest_queue": [
@@ -297,6 +301,18 @@
   },
   {
    "text": "Švýcarský prezident Guy Parmelin s manželkou absolvují oficiální návštěvu Vietnamu, která začíná 17. října. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxNdXRaMDRkQXBZMWhJWUp4alJwWnhXdnNxOUhvU1M4ZnotWmFJNVdoZ2F0T2NwYlJDQk1xWXNZRkdoeHluVG9wS3g1T0Y4VjgxX3ZPOGR1eXFwYWZJckwzaVlkZW9VSktIbGpFMTAyM3BPaWpNbXEyZGFUZmhoYVVBZDBfY2V0OHJMT0VVLWRLazhQYXVQcTRZQ1BYWU5BbW1TM2Q1YmtlTDZJZ0Qx?oc=5"
+  },
+  {
+   "text": "Zpěvačka Lohan zazpívala po boku Bao Thy, Luong Bich Huu a Andieze téměř 20 písní. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxPcS1BOFlBa0xNTU5lMldRWnlxY24wbkhpd3hlcUs3VXdHdE9aVkhybHBfMldPMzVnMHd1Ymd2VDhHNTc0b3pzQ1FKX1IwMENScHRfb3Zndy1RR1NJdW1QeVpQT2Nmb2dQWXBfc3lkZmFFUVFPMDJrTE9VUXhpbENtdkl0QUJoanplWl9kUVdpNk5ocnlDZkt2eXVGcTJtUVE?oc=5"
+  },
+  {
+   "text": "Komunitní knihovny v Hanoji: Příspěvek k rozvoji kulturních prostor. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNNjhqM2Rkdi15MUpuNXdaNjFvUWZjTGR3ME9YaVZoMXhrQzl6aWpGa0FMNl9aSGFxU0hDUGpLd0dsb1h1by1LQ1k5M2o5UjZwRVYxdnRqUU8yWGNLbkh1Q29KcXVpbU5pZW5yR0w2TFM3QlNoSERfUHVtSG43YzRpcUtaLVJjYzFwTXVybmkwRTFWelg2ZjhV?oc=5"
+  },
+  {
+   "text": "Quách Ngọc Ngoan nečekaně poslal povzbudivá slova své neteři, která se účastní finále soutěže Miss Vietnam 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjd3R0FfNG9RRm13ckh1cE9HLXRLdmdQZkl1TjVUaUw0bHBhZ09McUprY0d3NFRRSHIzcjdyNkdOc2tkUDNKZ05faXFHemZKRHdkaW5pRnhELVJMdmNUVmgycjd2Zm5nUlZELWZSRHlsYkNkNFhNUm40TnBCQjFWU3oyMDg2emhpc0FjVk1DMExLejNzTEU4NWJ4M3Y3RGd0VjlRQXMyOExmRkktYWZFcFRoMGdmT2gtRkpVY2pGcXM?oc=5"
+  },
+  {
+   "text": "Ukrajina tvrdí, že zničila šest ruských útočných bombardérů Su-34. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOUTBFdGp5RUNlekdXbjJEb1lrdjlOdzZNQllOX1JVZ01DTlBoNUFhenhmMVZPa1lTM1BUcHMxbkQ1b0FDeDYyY2RURGxONHI1TTVqeVZMTzdxQmlubWNZY1FXcUdBQmZzRkFobXRIN0FLWGZGZWJrNEtfYUxXZm41V2FSR216bERZX2lGSHZ3?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
