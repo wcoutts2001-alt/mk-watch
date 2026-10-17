@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-17T03:07:37+00:00",
+   "last_success_at": "2026-10-17T03:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -31,7 +31,7 @@
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37"
    ],
-   "last_success_at": "2026-10-17T03:07:37+00:00",
+   "last_success_at": "2026-10-17T03:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T09:48:38+00:00"
   },
@@ -44,7 +44,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-17T03:07:37+00:00",
+   "last_success_at": "2026-10-17T03:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -52,7 +52,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-17T03:07:37+00:00",
+   "last_success_at": "2026-10-17T03:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -193,11 +193,12 @@
     "news:2952d9ed08c93a0c",
     "news:f4d5c6c97951e0d1",
     "news:33011d76e6934776",
-    "news:ff130685462a7727"
+    "news:ff130685462a7727",
+    "news:aafd4085088d7a21"
    ],
-   "last_success_at": "2026-10-17T03:07:37+00:00",
+   "last_success_at": "2026-10-17T03:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T02:07:45+00:00"
+   "last_new_item_at": "2026-10-17T03:38:59+00:00"
   }
  },
  "digest_queue": [
@@ -245,6 +246,9 @@
   },
   {
    "text": "Ministerstvo kultury nařídilo nápravu doporučení na základě závěrů vládní inspekce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkNjakdCdXVJZUp6Z0hVb05WQUxZdi02LThFNkNia3J5RlBTUFBodW9MdlpZVm8xMF9pLUFaWmRUUW54WmtmSHZPamptTkhEaVh5ZjFpTEd3LXJLek1hR1ZNOHlDZ0w3S2YybWhtQTVCYnBaVGdEMTNiUnI5aGpUcXMwVmlXS19yQnlDdjVJcVBCdjFZVXllc002T0tDYjkzeF9GdjB0YWVDZw?oc=5"
+  },
+  {
+   "text": "Vzácná zelená želva uškrcená sítí, hrozí jí ztráta končetiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxQakF4dEhHOUsxcjhqTjIwTWdiQW52MFlrVzVadG1pcXdwVmdmTHJpVFZ1YV9fT1Qxa2tlWnJSb25oSEhaRURvQjZ4eDV6ejdITHMwSlE5enNRTmI3N05SX2NLMEpXbFM1OW5TUHhoeVF6N181ektWcFZENGg5N2Vkcl92RWtLZjlGMGRMaUt5Z1FWdw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-16"
