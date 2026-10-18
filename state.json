@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T04:56:06+00:00",
+   "last_success_at": "2026-10-18T05:19:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-18T04:56:06+00:00",
+   "last_success_at": "2026-10-18T05:19:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T04:56:06+00:00",
+   "last_success_at": "2026-10-18T05:19:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T04:56:06+00:00",
+   "last_success_at": "2026-10-18T05:19:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -318,11 +318,14 @@
     "news:77b742985ab7e3ff",
     "news:ab2ae10f3661bc70",
     "news:5040a1972babebf3",
-    "news:38673694c9151bb3"
+    "news:38673694c9151bb3",
+    "news:9330a4dba9b310aa",
+    "news:55fe968d3c49e7b2",
+    "news:ed30fbf0e68d2d02"
    ],
-   "last_success_at": "2026-10-18T04:56:06+00:00",
+   "last_success_at": "2026-10-18T05:19:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T02:21:34+00:00"
+   "last_new_item_at": "2026-10-18T05:19:04+00:00"
   }
  },
  "digest_queue": [
@@ -385,6 +388,15 @@
   },
   {
    "text": "Festivalu etnických menšinových sportů v provincii Thai Nguyen v roce 2026 se zúčastnilo téměř 200 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxOcG50YjRaZ09HRGd1UVFKWUZReERmQzVzRWJjNExiem9OUDduMkVnZXo5dmRHcy1zbk1xY05UOGFIa2ZFV204R1JtaGdqN0xQNDFxN2JZZXhBMGF0OHVXUkJqRkRQcmZrRDZVRGVYSG1jeGRIMGxXWXVhd1gwRkxtU0tlUFN6YnpjVzVxRDV5c3laUXZCWFdUd0oxRU9peUNPRl9XNXA0SnFyR241REdtTkxLYUhPT19JOURULXlB?oc=5"
+  },
+  {
+   "text": "Jiří Mádl se tvrdě opřel do Oty Klempíře: Nekompromisní slova na účet ministra - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxPQk12dE56TGx0cHBSRTJaM21vNXZCcC1lQW9LRV9WU0VSUEVNUm9FS1RueENyX05Kb0dNZVdjS2JtcVR4OFV2NmpkdVVqaERFMnpZNXBjcHVGVWRubHVmcExfR0hxZWN1MmRGQ09veUhLUlJ6UGN0RkRRSzVQdV92VkppYVBTcjhsXzlkem9Vb2JOQzF2VS1DUzRuSWRzQU45aTFGYllRY0V0Z29FRTlHRFhYOTNsaUFrWWZKVnJONzM4WXVWc0NxTU1uVzc?oc=5"
+  },
+  {
+   "text": "Soutěž „Gia Lai – Cesta historií a kulturou“ vytváří intelektuální hřiště propojující dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUt5UHI1cDcwcXRfendUckY3bjJEQTZrMFVGRmF5MU81SzFEYl9jRkdZd09TNFc1T0JYd3h4UFNVN2JrVGRTUHpQSTJwOU40NmR6VTFCS3Izb0ZiVWQtQ0c0b2xDY2J0MUxBVmNOZmVjazJOT0dfcHpTSVVCdTlpV2h4SWpoaGtZV0R1bEtTdGhoTnpFX21feF9NOXlSdHBHd19NV1VvRnE?oc=5"
+  },
+  {
+   "text": "Thai Nguyen šíří své kulturní barvy prostřednictvím Festivalu etnických menšinových sportů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPNmNIampsWkszd2JJbDRQY3J6ckhHQWZCcGZnekhEUF9MS29rWDRhRHNsTmgtSXZRNV9GVDk2MDhzdjFzWTJNN0tBblpPQjdncFVNTUd5V3JYdjYyRDVmUzFJalZXdWQ0a3c5dUNWRjAwZWtXX19wUDd5QXR2cTVUcGd4VTdwNlh4NnVjN2c4NG1rdTVsOGk4ZTR2Y3J5bllmaFN1YXdRTQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
