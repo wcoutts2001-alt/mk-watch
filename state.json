@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T11:03:31+00:00",
+   "last_success_at": "2026-10-18T11:36:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T11:03:31+00:00",
+   "last_success_at": "2026-10-18T11:36:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T11:03:31+00:00",
+   "last_success_at": "2026-10-18T11:36:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T11:03:31+00:00",
+   "last_success_at": "2026-10-18T11:36:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -333,13 +333,13 @@
     "news:ed29318539c50738",
     "news:3b885c8b3f8ab066",
     "news:6514ab6f32f6b688",
-    "news:6b8a5cef1ae7e7f8"
+    "news:6b8a5cef1ae7e7f8",
+    "news:2e4ab4b4b84f1af6",
+    "news:d400015c859194ed"
    ],
-   "last_success_at": "2026-10-18T10:37:48+00:00",
+   "last_success_at": "2026-10-18T11:36:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T10:37:48+00:00",
-   "first_error_at": "2026-10-18T11:03:31+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-10-18T11:36:13+00:00"
   }
  },
  "digest_queue": [
@@ -444,6 +444,12 @@
   },
   {
    "text": "Klempířův akční maglajz: Ministerstvo kultury opět dokazuje, že chaos a amatérismus nemají žádné meze - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE16cUFQbm1kVU53Z25LaVF1QTdjdEEtQTJrWTJMMkg3YWpvWHdWdXMzSk81TVdfbTlxVTQ0OHUwS2NNVVZJMjV1Zm42Q2wtRGVY?oc=5"
+  },
+  {
+   "text": "Příprava dokumentace o lidovém zpěvu Hue pro předložení UNESCO k zápisu na seznam nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQN2tQWWRzNkFFVmFBSkI3R2dwS1ZtUXh0UFVZaWNpTzM3dGdsV3M2ODN2X0ZIQUVHZk8tM1NGYjVjMjZhdDBKUy1STEw0RkhOaW9WczROOFFaX2JPM1RCR1FGS19QZ1hJRmtubHJfQ1c3d253UW9BNlo5M1lhOVBxN3JhX1FZc3hFR2xGYWRsYjFJTXByMS05Q2E5YnY?oc=5"
+  },
+  {
+   "text": "Oznámení plánu na zachování a propagaci hodnoty Národního památníku Dong Khoi v Ben Tre. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPNEhmbWVlLWZIWTZYRERPU1R3Unh0bFgyZ29HUE5OeU9aS0U2WlMtOXlJX0tfdFdGTGxEZjY3cUk1dXZuUG8yNmlUZnRBYzJJUW9oQzNaamladWkzc1J4S1FoRUJUU29yemNuNV9DWnpTdjFkcnpSRTV4WnVEYkpNZDBlUzZId2haTHJidGY4QVRRNFhPMU1hOTE4RDN4WXNSLU9wMFVIaVZ5SHNFZ0hLbWtR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
