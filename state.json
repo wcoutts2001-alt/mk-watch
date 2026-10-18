@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T10:04:47+00:00",
+   "last_success_at": "2026-10-18T10:37:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T10:04:47+00:00",
+   "last_success_at": "2026-10-18T10:37:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T10:04:47+00:00",
+   "last_success_at": "2026-10-18T10:37:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T10:04:47+00:00",
+   "last_success_at": "2026-10-18T10:37:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -331,11 +331,13 @@
     "news:e48c13799dc545db",
     "news:13a7f2119bb89f42",
     "news:ed29318539c50738",
-    "news:3b885c8b3f8ab066"
+    "news:3b885c8b3f8ab066",
+    "news:6514ab6f32f6b688",
+    "news:6b8a5cef1ae7e7f8"
    ],
-   "last_success_at": "2026-10-18T10:04:47+00:00",
+   "last_success_at": "2026-10-18T10:37:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T10:04:47+00:00"
+   "last_new_item_at": "2026-10-18T10:37:48+00:00"
   }
  },
  "digest_queue": [
@@ -434,6 +436,12 @@
   },
   {
    "text": "Dláždění cesty pro využívání ekonomické hodnoty autorských práv. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE84YkpTNk5EY21DaEdpT1FLWE51T183V01UaHZaQjFJUDA4YzJKYU5DZkFYbUV1REhINjRkeU56Ujl3Zm5qRlMxNFdLb3NON0ZsMFNFZXplWFRWR1k0YlBfVWdhUEFSejVlRS0xb2FHWHZnMlkwcXctRzRabjBjUQ?oc=5"
+  },
+  {
+   "text": "Po Frankfurtu čelím výhrůžkám smrtí, říká Denemarková. „Nejsme vyžírky,“ kritizují Klempíře literáti - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxPay1pRm9BM2hmSHFxMEtaTUx4VTc4TVR0RmtJV0ZRMmgwY240Ymx2VllaTXM0RDRLYjBQNnFHdGZRM0p2aVNRV3E5ZXlGYWZpbWx2cXRiNENQU1g2dnRMb3Q0UHM2TXBrejBYVEdUS3RXOFBQd2ZPYTBaM3RwQ0xoZU9PaFZUTC1GMHVhY2lsVzFRVFZhcERJUHdmRm5Hc0FmVUwtZi03WUllWjBHS3RvNUlKRUZJWWZZRWFfc2JFejFGWGI1aUxPWEh1OA?oc=5"
+  },
+  {
+   "text": "Klempířův akční maglajz: Ministerstvo kultury opět dokazuje, že chaos a amatérismus nemají žádné meze - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE16cUFQbm1kVU53Z25LaVF1QTdjdEEtQTJrWTJMMkg3YWpvWHdWdXMzSk81TVdfbTlxVTQ0OHUwS2NNVVZJMjV1Zm42Q2wtRGVY?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
