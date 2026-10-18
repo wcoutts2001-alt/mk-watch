@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T06:18:10+00:00",
+   "last_success_at": "2026-10-18T07:06:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-18T06:18:10+00:00",
+   "last_success_at": "2026-10-18T07:06:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T06:18:10+00:00",
+   "last_success_at": "2026-10-18T07:06:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T06:18:10+00:00",
+   "last_success_at": "2026-10-18T07:06:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -322,11 +322,13 @@
     "news:9330a4dba9b310aa",
     "news:55fe968d3c49e7b2",
     "news:ed30fbf0e68d2d02",
-    "news:fda65453be1164f6"
+    "news:fda65453be1164f6",
+    "news:7338c7431ced8f75",
+    "news:6ff0453cc943ca60"
    ],
-   "last_success_at": "2026-10-18T06:18:10+00:00",
+   "last_success_at": "2026-10-18T07:06:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T06:18:10+00:00"
+   "last_new_item_at": "2026-10-18T07:06:04+00:00"
   }
  },
  "digest_queue": [
@@ -401,6 +403,12 @@
   },
   {
    "text": "Klempířův akční maglajz: Ministerstvo kultury opět dokazuje, že chaos a amatérismus nemají žádné meze - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0dIQ0x3Uy1lbHpmNnBJaEhCVElaUHVRZ0VzTHRaVDlpRXhYVWVZaF8wVjJHMExxS0JzVTBGVE1YTi1xVVVrU2Y0YlNsRndQb0lzTm44WnlGcXNfWWtYb0Y2R1NreHJfRmo5RWVydm9pbWtra04xaXZkTExIUEJZMnROdHNNU3NaTW5qMURtdUZlS19vbzl0UnZpektna2pLdVZoRVNoOVJvNndmYlI0ZGc4MndjdWNWejFLeXBQQzJsUlNRam5xeUdDRVFFNS1uTjFPZ2dCUzUyMW9HUjVTUW5HcWs?oc=5"
+  },
+  {
+   "text": "Dva armádní sportovci vyhráli Hanojský mezinárodní maraton 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQWUp5bFEwbDZKaXptVWNGaEFSc3ZYZEx4c2xOOG5xWUs2aS1BLWs4UWJRaTZTVjdJSGlXLXp5N0Nobm51NHZBNGhNZEtTaU9iX0plMzUyZ2JyVzBaRDFObm1zbjNpZTd5emJRZHZBRU9WZEJiaEctYkM1d3YyRXhJd2R3ZFFQNXkzTjVSeC1NQWFtSnRQ?oc=5"
+  },
+  {
+   "text": "Sin Cheng Commune získala v roce 2026 první cenu v soutěži „Lao Cai – Dosažení vrcholu chuti“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOSG5Id0h1NUdUYWpKdUNwME5zT251TV9wam9YeU16S1lTcFRNeTFNczBqWjFVMWdibTQzYVpVaVFBYXVKQnczZ1ZLcEQ4dFdxdjV1RzVud3VzcksxNzRlMUxNZ05kdG4wel8tTHNWdXNSSVRJeERVb3JDSjdpbG1MVFZUbXQtVGRma1pJUUw4VkFkQ19TOU5nRG80R0xMdw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
