@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T13:15:35+00:00",
+   "last_success_at": "2026-10-18T13:52:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T13:15:35+00:00",
+   "last_success_at": "2026-10-18T13:52:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T13:15:35+00:00",
+   "last_success_at": "2026-10-18T13:52:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T13:15:35+00:00",
+   "last_success_at": "2026-10-18T13:52:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -336,11 +336,14 @@
     "news:6b8a5cef1ae7e7f8",
     "news:2e4ab4b4b84f1af6",
     "news:d400015c859194ed",
-    "news:008e14c2c7d54fe0"
+    "news:008e14c2c7d54fe0",
+    "news:a4f4658ba7ba6a49",
+    "news:2bb1c93f0fc49cd4",
+    "news:1555c54fe3ee251d"
    ],
-   "last_success_at": "2026-10-18T13:15:35+00:00",
+   "last_success_at": "2026-10-18T13:52:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T12:43:40+00:00"
+   "last_new_item_at": "2026-10-18T13:52:17+00:00"
   }
  },
  "digest_queue": [
@@ -451,6 +454,15 @@
   },
   {
    "text": "Oznámení plánu na zachování a propagaci hodnoty Národního památníku Dong Khoi v Ben Tre. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPNEhmbWVlLWZIWTZYRERPU1R3Unh0bFgyZ29HUE5OeU9aS0U2WlMtOXlJX0tfdFdGTGxEZjY3cUk1dXZuUG8yNmlUZnRBYzJJUW9oQzNaamladWkzc1J4S1FoRUJUU29yemNuNV9DWnpTdjFkcnpSRTV4WnVEYkpNZDBlUzZId2haTHJidGY4QVRRNFhPMU1hOTE4RDN4WXNSLU9wMFVIaVZ5SHNFZ0hLbWtR?oc=5"
+  },
+  {
+   "text": "Po Frankfurtu čelím výhrůžkám smrtí, říká Denemarková. „Nejsme vyžírky,“ kritizují Klempíře literáti - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxQMDVheW9NMDF3WGsweXZDdHk5ZnJnWDdoWGJzRDRhdVpQZko5SEJOOW9aR2V4Y3RMX2xWNEF5T3ozcXlCTW9rSU5JV0VmN0V5M2VuWHpyM3Y4cVIyWG1OVm1GNDFubVc4N3dKUkg2QU44dTJzN0Jqc0tBZHZCM2VVZ000NlUtb1N5YUFHR3VNZkJDVm5yTGUxUkQtM2lBVmxhbXFSaGtqa1pDclVCdUhfdjZMekxUSmNucWNfRGNORQ?oc=5"
+  },
+  {
+   "text": "Projekt plánování jezera Ba Be propojuje ochranu kulturního dědictví s živobytím místních obyvatel. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQeWhKZmJSbUdpVXF0NTV5TzNZVDctTVVQVHVlY0VaaUVaOGt4REhNdF9aOXFjSkk5ODF1ajBkYW9jT29nTzJhRzBzdEEwanVoa1pzanNaTVhYZlpjTEczWG9uNnc5Q1pGbmtGR3k0MFBiRjFKbHlZN2dNYXlaalBGVFR2OFl6M0dMR1ZaMGNn?oc=5"
+  },
+  {
+   "text": "Kon Tum College vyhrává mistrovství žen ve volejbalu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxPR3dQekF3VVNYVUFkck13MjhqYWRNdk8wOTNMSGx3NFptcU4tdHdEQ3ZvQzg4LXpxNXdmYjNKZjREa0lST3hZaENFcnhranJJemZCQVFSdFNWSm15STl2ZXVaaWExTVJ3ejk4czNHZ2NCZGQtdGdnUENHM0lvOENGdS13OXkxWFRYVUJxRFhmMXk?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
