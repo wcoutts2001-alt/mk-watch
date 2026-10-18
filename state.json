@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T23:00:42+00:00",
+   "last_success_at": "2026-10-18T23:33:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T23:00:42+00:00",
+   "last_success_at": "2026-10-18T23:33:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T23:00:42+00:00",
+   "last_success_at": "2026-10-18T23:33:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T23:00:42+00:00",
+   "last_success_at": "2026-10-18T23:33:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -348,11 +348,13 @@
     "news:21f9286866677127",
     "news:fe46390eb7279777",
     "news:420c7472ecaa8f58",
-    "news:28e043b15691e5fc"
+    "news:28e043b15691e5fc",
+    "news:85cb65ee0b74966e",
+    "news:c5192a4570e272be"
    ],
-   "last_success_at": "2026-10-18T23:00:42+00:00",
+   "last_success_at": "2026-10-18T23:33:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T22:35:51+00:00"
+   "last_new_item_at": "2026-10-18T23:33:19+00:00"
   }
  },
  "digest_queue": [
@@ -370,6 +372,12 @@
   },
   {
    "text": "Klempířovy změny na kultuře? Nevymyslel teplou vodu, jen přitahuje kohoutky, tvrdí publicistka - Radiožurnál\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxNZGgybnFVMUhpYy1KUlhsZXd1dFVKcVR4QU44b0NVOGVXNDNlRm81ZVlkUjdTM0RJdTlNb0h4aTJ0Q0xXMnBTOHpXaGRycG00WGJBaXcxVXdPNUZPQkJMZVpOXzVwNnNKcEt2QzhNaUZaNy1UQkFONDdueVd1WWdZZW95WG82bFI0QTNncGw0bWx1ZnRaTTF6dVZ0SWc0SHg5TktDYUtpN3FHaGxiVXV4ajdfVGFPUnNpaWc?oc=5"
+  },
+  {
+   "text": "Klempířovy změny na kultuře? Nevymyslel teplou vodu, jen přitahuje kohoutky, tvrdí publicistka - Portál Českého rozhlasu\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQWGNsNHlUa1dxWEJOYzFvS0gwYzR0RUR0SDRraDI4NGRXeXF6Zm9ObEJoMWtzLTRfZlVzZ0k4VllkLU02bGp6OUlSSlNXeEFheWFQWXAxVzgyR3c2RVpLQjN3TDlJWmQ1X2VpOE8yX2Rsd291cDQyWW1Tbi1fSUNNNkNIdFZhNW1zSEtFUUY4cnhIWUwwaFdDR2JyVl84M2hFRWxRSjFSbVFsU2hvVEE?oc=5"
+  },
+  {
+   "text": "Obec Thang Phu zorganizovala dialog mezi předsedou lidového výboru a mladými lidmi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPU1dhNjJVRWhlYVYybE1tN29jRmZ3U0JKSEpUY2g0b0Z1TUg4Y212T0FMQXVPTW5hdmI0RjcyQjctTm9tNDlUQWJZVG5jck5oRjZ3NTd1UC0wYUFBdmp5cmQzdmJhbENDOXlBVktkVWhuQ1VBaWdQckpLWmpfOXlaLXhtMWxadGRlWDdwOHJiSncyOG9uVl9WQg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
