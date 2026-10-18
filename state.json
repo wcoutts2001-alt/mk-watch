@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T17:05:26+00:00",
+   "last_success_at": "2026-10-18T17:35:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T17:05:26+00:00",
+   "last_success_at": "2026-10-18T17:35:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T17:05:26+00:00",
+   "last_success_at": "2026-10-18T17:35:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T17:05:26+00:00",
+   "last_success_at": "2026-10-18T17:35:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -342,16 +342,24 @@
     "news:1555c54fe3ee251d",
     "news:42834bca5515209e",
     "news:ec9d8fad4cb4780b",
-    "news:7536851f08dfc112"
+    "news:7536851f08dfc112",
+    "news:1f666cc5e0a2a4b1",
+    "news:57ab7a5b9817703a"
    ],
-   "last_success_at": "2026-10-18T17:05:26+00:00",
+   "last_success_at": "2026-10-18T17:35:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T17:05:26+00:00"
+   "last_new_item_at": "2026-10-18T17:35:56+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Diskuse o řešeních, jak snížit přeplněnost starobylého města a zlepšit turistický zážitek v Hoi An. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxQLTQxdmRkYmctTE9WLUlpZ2F2akNDY291Q01nTVRaNWc5QnlFa1I2V2JVQWw4X2ZGTWxTcXJOS1NXTThqZzlKZlAtMld5LXRDS2dZcmg0Ty1qQ3FWVUo1ZU5sZ1VQZUtxWmh2by1sZkRfV3JZWGp4cWVHSFhUTVlfU0JvSGZXX2ViNEZkVnEwNjZsS3ZzaUE?oc=5"
+  },
+  {
+   "text": "Podzimní festival pagody Keo 2026 byl slavnostně zahájen večer 19. října. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxObXFXVXFjbVNBREt5SmtLbUUxNWlTQzBOajkwRklWUUZ6RWdzaTdkWDhMMEd2Nk5jMXFfNXM5Ym1wX25tel9WR0JJSEJzaXlILUVaUkZLN1JEYWxfY1dyM3NYTHc0eW0ya1pUTHFLVWpLYXdRZGlxaDdUS2JyUDFjREN6VmR5VFdncXA1WGpEbWtPblFFNVE?oc=5"
+  },
+  {
+   "text": "100 studentů z Gia Lai soutěží v kvízu o historii a kultuře. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPazBiblV1WmszT3o3cnpsazlKaDhPQVdKbHNMSGs3RFVGcmVnck5XVm9iQjdFakhGMUdiMVR6N1J3Rk1MY09UY2t1ekVnSWJEbXI3dEVkTXRHTmxsb0gwalY4WVAwMkswX2tnUU5LYnU3dm0xQkY4R0xwUGxkSDBCRVpITXpZdUwy?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
