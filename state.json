@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T09:05:30+00:00",
+   "last_success_at": "2026-10-18T09:38:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-18T09:05:30+00:00",
+   "last_success_at": "2026-10-18T09:38:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T09:05:30+00:00",
+   "last_success_at": "2026-10-18T09:38:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T09:05:30+00:00",
+   "last_success_at": "2026-10-18T09:38:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -326,11 +326,14 @@
     "news:7338c7431ced8f75",
     "news:6ff0453cc943ca60",
     "news:3b2ebf16bff6f638",
-    "news:003993feddeaef5e"
+    "news:003993feddeaef5e",
+    "news:e48c13799dc545db",
+    "news:13a7f2119bb89f42",
+    "news:ed29318539c50738"
    ],
-   "last_success_at": "2026-10-18T09:05:30+00:00",
+   "last_success_at": "2026-10-18T09:38:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T08:39:04+00:00"
+   "last_new_item_at": "2026-10-18T09:38:33+00:00"
   }
  },
  "digest_queue": [
@@ -417,6 +420,15 @@
   },
   {
    "text": "Přiblížit sport k životům lidí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE1VVW1DcUE4VXBaM2k5SjhPUkhOMFl2ZUxxcXh3V2JyaXdzUEJLaXdsUFRGUGxYQXdlX2FVZ1hBRjRCZGdSZ1MyT3I4cDROdHdZWGhZelgzb1JNQ1BLd2lZbnUxbXdkN3RDMnRFWlBvdmJtMWJTMlkyVWJ4ek41QQ?oc=5"
+  },
+  {
+   "text": "Zraněné zvíře. Co čekat od ANO v dalších třech letech - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNeGdBMDRjSmNsV3dwNERCaURKWFFIcUZjV2xQaHFCeFRVYmNGWUp4VGhFOGRFNC1ZQmY3bUxmTEI0Mm1KV05ZazlMLUItNjc2ZTcyQ0lxaWYtV1pXSkNlSXlvUW9vMXZCZ2tSVE1QdzFCcjJMaWpXODRDUndjYUFEOGY3QkNxWTFYaDJyUGFLeXg1cDZZVWdWOVl6NVRUWUwycXY0N0dn?oc=5"
+  },
+  {
+   "text": "Ban Thach Ward ocenil mnoho kolektivů i jednotlivců za jejich úspěchy na Městském sportovním festivalu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhhOUFKaGJlbUlPV1VaaEZ5ZGRSbEg3MTN6cjIzeWdqeUVSNnkzWDE2WUxab2EwS00yZ0ZSQmNoTFBXYXBzQ1l4eUJLV0paV1A2LWpGYWQxdzNYRE1QWXFGVHpZeTVfX3NoOEFnUnFuc3d4SGN1RGhuenk0VGJvdG56eTRjVUlraGNXeUpiRDIwZHpaR3M1V2VsWTB2V0R2S2Q3eFlCYWF1X2R0dEFSNFVLX2VUemtYS0RBZHBWOUwxY2gxdE4zQg?oc=5"
+  },
+  {
+   "text": "„Oživení“ plážové turistiky na Sam Son s novými zážitkovými zájezdy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxQTHRlM3IyREl5VXRwcmRnNDliVnlUVW1HNGdJUTNmMTFWU2JSdTNsYnNVaWM3MmFOWUVLVXRDTHpuVkJNbl84QWRDT3kzcVNHakc0VUpEUFMwM21MUVZJc1czS2tjZEJ4S3ZGV0xoV0tRVEZ6T2lRU2VCR0I0ODJvdTVSYk50V3FLaWRpYlRzUlZsdw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
