@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T09:38:33+00:00",
+   "last_success_at": "2026-10-18T10:04:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -30,11 +30,12 @@
     "facebook:476863ea7eb70d18",
     "facebook:c422411f5d96af07",
     "facebook:6309dd2c9acf6a37",
-    "facebook:2c4740170ae369cb"
+    "facebook:2c4740170ae369cb",
+    "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T09:38:33+00:00",
+   "last_success_at": "2026-10-18T10:04:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-17T09:52:36+00:00"
+   "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
   "instagram": {
    "seen": [
@@ -45,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T09:38:33+00:00",
+   "last_success_at": "2026-10-18T10:04:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T09:38:33+00:00",
+   "last_success_at": "2026-10-18T10:04:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -329,11 +330,12 @@
     "news:003993feddeaef5e",
     "news:e48c13799dc545db",
     "news:13a7f2119bb89f42",
-    "news:ed29318539c50738"
+    "news:ed29318539c50738",
+    "news:3b885c8b3f8ab066"
    ],
-   "last_success_at": "2026-10-18T09:38:33+00:00",
+   "last_success_at": "2026-10-18T10:04:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T09:38:33+00:00"
+   "last_new_item_at": "2026-10-18T10:04:47+00:00"
   }
  },
  "digest_queue": [
@@ -429,6 +431,9 @@
   },
   {
    "text": "„Oživení“ plážové turistiky na Sam Son s novými zážitkovými zájezdy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxQTHRlM3IyREl5VXRwcmRnNDliVnlUVW1HNGdJUTNmMTFWU2JSdTNsYnNVaWM3MmFOWUVLVXRDTHpuVkJNbl84QWRDT3kzcVNHakc0VUpEUFMwM21MUVZJc1czS2tjZEJ4S3ZGV0xoV0tRVEZ6T2lRU2VCR0I0ODJvdTVSYk50V3FLaWRpYlRzUlZsdw?oc=5"
+  },
+  {
+   "text": "Dláždění cesty pro využívání ekonomické hodnoty autorských práv. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE84YkpTNk5EY21DaEdpT1FLWE51T183V01UaHZaQjFJUDA4YzJKYU5DZkFYbUV1REhINjRkeU56Ujl3Zm5qRlMxNFdLb3NON0ZsMFNFZXplWFRWR1k0YlBfVWdhUEFSejVlRS0xb2FHWHZnMlkwcXctRzRabjBjUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
