@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T01:56:36+00:00",
+   "last_success_at": "2026-10-18T02:21:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -32,7 +32,7 @@
     "facebook:6309dd2c9acf6a37",
     "facebook:2c4740170ae369cb"
    ],
-   "last_success_at": "2026-10-18T01:56:36+00:00",
+   "last_success_at": "2026-10-18T02:21:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-17T09:52:36+00:00"
   },
@@ -45,7 +45,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T01:56:36+00:00",
+   "last_success_at": "2026-10-18T02:21:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -53,7 +53,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T01:56:36+00:00",
+   "last_success_at": "2026-10-18T02:21:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -317,11 +317,12 @@
     "news:5bb4a995b5594316",
     "news:77b742985ab7e3ff",
     "news:ab2ae10f3661bc70",
-    "news:5040a1972babebf3"
+    "news:5040a1972babebf3",
+    "news:38673694c9151bb3"
    ],
-   "last_success_at": "2026-10-18T01:56:36+00:00",
+   "last_success_at": "2026-10-18T02:21:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T00:51:54+00:00"
+   "last_new_item_at": "2026-10-18T02:21:34+00:00"
   }
  },
  "digest_queue": [
@@ -381,6 +382,9 @@
   },
   {
    "text": "Dokončit volby starostů obcí a vedoucích sousedských skupin v Ha Tinh do 5. prosince. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxQQk4wbG1iRm1jUjRlcmNOb0ZON0J4QWoydkZ4NmZPS2RmV1BiRVhrM2x0eXF0Z25hZDNtNjR3c3ZsUW5HVmxwSUVueXViVjZCSXJaVWpVMVFHdzdUYlg4QXdpNHlnRWIwcHdGT3A3b2szN09acnZsaWxLU2pIdkxadDlCV05qd294dzZPU0ozNDlYY0VRWE9LSzlVSGFKYk9iMHEtSA?oc=5"
+  },
+  {
+   "text": "Festivalu etnických menšinových sportů v provincii Thai Nguyen v roce 2026 se zúčastnilo téměř 200 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxOcG50YjRaZ09HRGd1UVFKWUZReERmQzVzRWJjNExiem9OUDduMkVnZXo5dmRHcy1zbk1xY05UOGFIa2ZFV204R1JtaGdqN0xQNDFxN2JZZXhBMGF0OHVXUkJqRkRQcmZrRDZVRGVYSG1jeGRIMGxXWXVhd1gwRkxtU0tlUFN6YnpjVzVxRDV5c3laUXZCWFdUd0oxRU9peUNPRl9XNXA0SnFyR241REdtTkxLYUhPT19JOURULXlB?oc=5"
   }
  ],
  "last_digest_date": "2026-10-17"
