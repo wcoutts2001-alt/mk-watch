@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T17:41:42+00:00",
+   "last_success_at": "2026-10-19T18:08:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T17:41:42+00:00",
+   "last_success_at": "2026-10-19T18:08:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T17:41:42+00:00",
+   "last_success_at": "2026-10-19T18:08:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T17:41:42+00:00",
+   "last_success_at": "2026-10-19T18:08:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -390,11 +390,12 @@
     "news:e211c7d83cc80f73",
     "news:b1e83bb69a3abbd0",
     "news:962fef49fb2be61b",
-    "news:18aade79c67b40e0"
+    "news:18aade79c67b40e0",
+    "news:6b9d1f9e9fb28ad5"
    ],
-   "last_success_at": "2026-10-19T17:41:42+00:00",
+   "last_success_at": "2026-10-19T18:08:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T17:41:42+00:00"
+   "last_new_item_at": "2026-10-19T18:08:53+00:00"
   }
  },
  "digest_queue": [
@@ -409,6 +410,9 @@
   },
   {
    "text": "Sportovní delegace Lang Son odjíždí na 10. ročník národních sportovních her v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPRHhDaHctREJnWmpyTzlRdkJIZDRGbEQtaV9HYlU2QWFJaU95TFo2RFJYVENnNm5DVm5vODZ6MmFTUktLYzdhQUljT1JZRTRMTkdENWViRnNLb1hvT2Jac3doTXN2RXJZNkg5eGtXUWxGQUl1YkhZaGVCWkRGNElMY0w4ZFVUSk9jWG8yNXAtSS1hQTNyQkl3UFh3aVZMVGRjWUE1cjdnZXRMS1ZtTExWaFRn?oc=5"
+  },
+  {
+   "text": "Tuyen Quang pořádá motocyklovou turistickou show průsmykem Ma Pi Leng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOQk8zZkczOVVCY1RmWnQ4MTV5VnE1eFlrQ2VVRjlrM2JhLTd0ZHBVcEJZcHRJNHNfdE1TdGx4VnkzY1gySzcwTHcyOXN6c3p5dUI5Q3JNTXhIZzJCZERRY0lxWVFoQ1ZmVDF3WVBweWJiY1Y1TGMxZkNhVGVnSVl4bVFGM3pmY01LZXhiZDJNNzQtNEJ4RkVR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
