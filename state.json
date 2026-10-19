@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T16:30:25+00:00",
+   "last_success_at": "2026-10-19T17:41:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T16:30:25+00:00",
+   "last_success_at": "2026-10-19T17:41:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T16:30:25+00:00",
+   "last_success_at": "2026-10-19T17:41:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T16:30:25+00:00",
+   "last_success_at": "2026-10-19T17:41:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -386,13 +386,30 @@
     "news:e88abd26ff673582",
     "news:ca5f0288bf47351c",
     "news:3c3da7b2f357453c",
-    "news:024d13fb5a292557"
+    "news:024d13fb5a292557",
+    "news:e211c7d83cc80f73",
+    "news:b1e83bb69a3abbd0",
+    "news:962fef49fb2be61b",
+    "news:18aade79c67b40e0"
    ],
-   "last_success_at": "2026-10-19T16:30:25+00:00",
+   "last_success_at": "2026-10-19T17:41:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T16:30:25+00:00"
+   "last_new_item_at": "2026-10-19T17:41:42+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Jak můžeme transformovat kulturní hodnoty do národní konkurenceschopnosti? - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxPb3hqQjFUQUNTR1hHZTRRUW9CNHF2UExTM0ZHNWRnN3RzNDJrR0syMzJwTTdXSzdoVjhvYzRfNy1zYWx3MklCTzloMTktclpkNnNtcTdKa2h4ZHowcmNBVmhNWDdRX1g0SmFmU3FXZFdwSHo5NXFIN0N3Uk1hZUg1Y3Q2enFTWk1GNkJVWWt1OG5sYUh0SzI2MmxNQmJrT1k?oc=5"
+  },
+  {
+   "text": "Výsledky jednání vlády 19. října 2026 - Zprávy Kurzy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE1kSW51YTFmNHB6S0d5QW85dEd4YVRkUlhNYXlQUTJVVl9xMmkxVWt1akhWR1BpOUgtbWRpc0NkVVRjX25IOTlmNVFPQm95UmkwZjJ2M1dESjdCQ253ZWQ4eE5Jc1VZNXpQSno0SVB0cWdnRGlpZzYw?oc=5"
+  },
+  {
+   "text": "Hudebník Nguyen Quang Long a jeho příběh o zachování vietnamských zvuků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQX2ZydzJiUEQzN1FSLTA5SHgxSnNRZWRkOEJHWmx6cDNLWUNteHZXc24zWnJhNlBtQzRsekFBRlkxLXpHYmdRdkZ1YW0yVk45V25SalVuLThrcVFMbnh5VXlYTWlRMVlUeWVabDg4S0JPS19GZ1Q2UENLWWs5SDJjT1g2UnVFcVFXOTVFMGhyMDk4Q2dSMWxJ?oc=5"
+  },
+  {
+   "text": "Sportovní delegace Lang Son odjíždí na 10. ročník národních sportovních her v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPRHhDaHctREJnWmpyTzlRdkJIZDRGbEQtaV9HYlU2QWFJaU95TFo2RFJYVENnNm5DVm5vODZ6MmFTUktLYzdhQUljT1JZRTRMTkdENWViRnNLb1hvT2Jac3doTXN2RXJZNkg5eGtXUWxGQUl1YkhZaGVCWkRGNElMY0w4ZFVUSk9jWG8yNXAtSS1hQTNyQkl3UFh3aVZMVGRjWUE1cjdnZXRMS1ZtTExWaFRn?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-19"
 }
