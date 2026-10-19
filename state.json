@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-18T23:58:25+00:00",
+   "last_success_at": "2026-10-19T00:30:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-18T23:58:25+00:00",
+   "last_success_at": "2026-10-19T00:30:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-18T23:58:25+00:00",
+   "last_success_at": "2026-10-19T00:30:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-18T23:58:25+00:00",
+   "last_success_at": "2026-10-19T00:30:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -350,11 +350,13 @@
     "news:420c7472ecaa8f58",
     "news:28e043b15691e5fc",
     "news:85cb65ee0b74966e",
-    "news:c5192a4570e272be"
+    "news:c5192a4570e272be",
+    "news:d012e584a3c923b9",
+    "news:87a69cab7723e321"
    ],
-   "last_success_at": "2026-10-18T23:58:25+00:00",
+   "last_success_at": "2026-10-19T00:30:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-18T23:33:19+00:00"
+   "last_new_item_at": "2026-10-19T00:30:56+00:00"
   }
  },
  "digest_queue": [
@@ -378,6 +380,12 @@
   },
   {
    "text": "Obec Thang Phu zorganizovala dialog mezi předsedou lidového výboru a mladými lidmi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPU1dhNjJVRWhlYVYybE1tN29jRmZ3U0JKSEpUY2g0b0Z1TUg4Y212T0FMQXVPTW5hdmI0RjcyQjctTm9tNDlUQWJZVG5jck5oRjZ3NTd1UC0wYUFBdmp5cmQzdmJhbENDOXlBVktkVWhuQ1VBaWdQckpLWmpfOXlaLXhtMWxadGRlWDdwOHJiSncyOG9uVl9WQg?oc=5"
+  },
+  {
+   "text": "Klempíř vs. kultura - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE1YUWJnVnVueWtnWE1UMGdFM2hqcEhUR0ZGckxpdGFrRzZPQmZOYU9jYTNTSjF1VGJRN3l6ZjhKS3JMRVp0Ni1MWUcxVGFmUXF6OVRnNTNoTTF2Z3NtaEZ3aEFLSmpIT203bE1vMQ?oc=5"
+  },
+  {
+   "text": "Posílit kontrolu nad bezpilotními letouny (UAV) a dalšími létajícími objekty, které ohrožují bezpečnost letectví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxOY3BCZmFoUmM0eDBZVE1KXzNpcnpsQXVEYmhuNUw3dE5mbTV2N3gwaHhmVmswUWk3NmZRUzllTDFyb1Nrai1CRnV5ZHZwN1hGYXVHOTBYNFpmMC1zZ1JRM043ZlJMTU5uTDBNMWFyTHhBa2ZvTm9RY3Q4SEdXQUp1ZHplRjNjV2VfY2s4VE1JaFNSUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
