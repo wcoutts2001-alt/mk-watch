@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T20:00:49+00:00",
+   "last_success_at": "2026-10-19T20:41:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T20:00:49+00:00",
+   "last_success_at": "2026-10-19T20:41:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T20:00:49+00:00",
+   "last_success_at": "2026-10-19T20:41:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T20:00:49+00:00",
+   "last_success_at": "2026-10-19T20:41:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -392,11 +392,13 @@
     "news:962fef49fb2be61b",
     "news:18aade79c67b40e0",
     "news:6b9d1f9e9fb28ad5",
-    "news:06190a76ccc1c167"
+    "news:06190a76ccc1c167",
+    "news:6e60ab81f1aacfd4",
+    "news:06c3525923f01ddf"
    ],
-   "last_success_at": "2026-10-19T20:00:49+00:00",
+   "last_success_at": "2026-10-19T20:41:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T19:26:20+00:00"
+   "last_new_item_at": "2026-10-19T20:41:18+00:00"
   }
  },
  "digest_queue": [
@@ -414,6 +416,12 @@
   },
   {
    "text": "Tuyen Quang pořádá motocyklovou turistickou show průsmykem Ma Pi Leng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOQk8zZkczOVVCY1RmWnQ4MTV5VnE1eFlrQ2VVRjlrM2JhLTd0ZHBVcEJZcHRJNHNfdE1TdGx4VnkzY1gySzcwTHcyOXN6c3p5dUI5Q3JNTXhIZzJCZERRY0lxWVFoQ1ZmVDF3WVBweWJiY1Y1TGMxZkNhVGVnSVl4bVFGM3pmY01LZXhiZDJNNzQtNEJ4RkVR?oc=5"
+  },
+  {
+   "text": "Soudruh Nguyen Manh Quyen, zástupce tajemníka provinčního výboru strany a předseda provinčního lidového výboru, provedl kontrolu organizace podzimního festivalu Keo Pagoda 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxNUzM2cXp2Z2kxWmszN2RPN1VNYTZhYUZ3Y2ppUFM5VXhRTHFqVy1kcG9OOFlzUXB0WFhpZDQ0d0xtMGdCTkNfdEwzSmNGdHlmTEpvZUVHM2x5VGd6MWRNbDBzOElSRG9qUkROczVkaVB0Zzl3Q0hwVUFwVFpBR2ZnYlpvTFQ3b2FIeXhtcGU1eW9DM0xZd0djdDVSbkZKOUlOeGxza1Z4d2k0dzFJRHhra2paVFlQMmxHZ3Bub2tyR2FNOU5mLWhiTDRCcjhFQ3Fxak1BLVh5R3FoMHFLUHpqOS1HZw?oc=5"
+  },
+  {
+   "text": "Schválit a zveřejnit soupis nehmotného kulturního dědictví v provincii Lang Son v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxNLTRaajlWQVQ5SS1DWS1ESXI1TFJ5eXo3akIxYlo0cWZYa1I3ajYycDVVYU9XWUNnX0xUYzg1Tk9kQW1ldWc3ZmxCRU9YQTA5RjN6TzUzRVhGaEZwXzNNd0cwdzUxMVdOT3h6bl9kY2V3ZFBLeGZpYkdPa0R5LU85bUtWTDZsZHg3enN6RkZ4NG9tYmNmQzZ5MndMa1hMN21vVmdBSVFacUdhSnBrQmpEblBVSnQxbk9hQTBlSHNtLVVETXVZ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
