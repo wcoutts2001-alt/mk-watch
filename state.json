@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T11:45:40+00:00",
+   "last_success_at": "2026-10-19T12:25:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T11:45:40+00:00",
+   "last_success_at": "2026-10-19T12:25:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T11:45:40+00:00",
+   "last_success_at": "2026-10-19T12:25:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T11:45:40+00:00",
+   "last_success_at": "2026-10-19T12:25:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -373,11 +373,12 @@
     "news:a56a967ce531d2ca",
     "news:8fbad4b98b53990b",
     "news:36f81d07b81fe9f1",
-    "news:db3eaef2a05f5a52"
+    "news:db3eaef2a05f5a52",
+    "news:a54979f289434e02"
    ],
-   "last_success_at": "2026-10-19T11:45:40+00:00",
+   "last_success_at": "2026-10-19T12:25:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T11:45:40+00:00"
+   "last_new_item_at": "2026-10-19T12:25:43+00:00"
   }
  },
  "digest_queue": [
@@ -467,6 +468,9 @@
   },
   {
    "text": "Uvolnění turistického potenciálu jezera Ba Be prostřednictvím systematického plánování. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkZ6d25FYnQ4dXRQZnE0ZG9tekQyYWtTTGlWMjl6UkZfbkJNUnNYS0dONWtiN3hCcXJFX3BHSnpnRTJkS2hqbzZ1Wml4LUVFTmNnd0dYdjRoMHFBNFhMa2dlNjljZ3ZtenliajZBYnlwbW15X1VoTkRKMXNhMVQzRDRxVkZ6THNXMVRJ?oc=5"
+  },
+  {
+   "text": "Zlepšit šíření informací a propagaci image. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFBrRzRyWlNNckNBaFhmaEF3eC15STB2Qi1xNG9CYVpTcHU0MTY2S21saTFUekJFUnViYWhKZU40T2VPLWRGM2FYNE9zbkQtaldmME1MYlR6NXhzVVhqS0doTE1xSUM0NFg5djRoTGZlSTNTdw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
