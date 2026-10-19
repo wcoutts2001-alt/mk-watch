@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T22:39:08+00:00",
+   "last_success_at": "2026-10-19T23:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T22:39:08+00:00",
+   "last_success_at": "2026-10-19T23:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T22:39:08+00:00",
+   "last_success_at": "2026-10-19T23:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T22:39:08+00:00",
+   "last_success_at": "2026-10-19T23:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -394,13 +394,12 @@
     "news:6b9d1f9e9fb28ad5",
     "news:06190a76ccc1c167",
     "news:6e60ab81f1aacfd4",
-    "news:06c3525923f01ddf"
+    "news:06c3525923f01ddf",
+    "news:58f266805d7cc871"
    ],
-   "last_success_at": "2026-10-19T22:09:50+00:00",
+   "last_success_at": "2026-10-19T23:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T20:41:18+00:00",
-   "first_error_at": "2026-10-19T22:39:08+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-10-19T23:07:21+00:00"
   }
  },
  "digest_queue": [
@@ -424,6 +423,9 @@
   },
   {
    "text": "Schválit a zveřejnit soupis nehmotného kulturního dědictví v provincii Lang Son v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxNLTRaajlWQVQ5SS1DWS1ESXI1TFJ5eXo3akIxYlo0cWZYa1I3ajYycDVVYU9XWUNnX0xUYzg1Tk9kQW1ldWc3ZmxCRU9YQTA5RjN6TzUzRVhGaEZwXzNNd0cwdzUxMVdOT3h6bl9kY2V3ZFBLeGZpYkdPa0R5LU85bUtWTDZsZHg3enN6RkZ4NG9tYmNmQzZ5MndMa1hMN21vVmdBSVFacUdhSnBrQmpEblBVSnQxbk9hQTBlSHNtLVVETXVZ?oc=5"
+  },
+  {
+   "text": "V12: Klempíř vs. kultura - Kurzy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFA4M05MZGlMc3hSQVZHUmFmQ1ZXanQ2cHVlcy1NWnVOQ1VDOXA0N0Vkd052SERuQjNiX3ZILWNYNExWT3NjaG9zdDBaLUYxMXFJ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
