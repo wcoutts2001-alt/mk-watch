@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T12:25:43+00:00",
+   "last_success_at": "2026-10-19T13:14:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T12:25:43+00:00",
+   "last_success_at": "2026-10-19T13:14:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T12:25:43+00:00",
+   "last_success_at": "2026-10-19T13:14:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T12:25:43+00:00",
+   "last_success_at": "2026-10-19T13:14:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -374,11 +374,13 @@
     "news:8fbad4b98b53990b",
     "news:36f81d07b81fe9f1",
     "news:db3eaef2a05f5a52",
-    "news:a54979f289434e02"
+    "news:a54979f289434e02",
+    "news:17f7f6db86e06180",
+    "news:687375967b035c52"
    ],
-   "last_success_at": "2026-10-19T12:25:43+00:00",
+   "last_success_at": "2026-10-19T13:14:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T12:25:43+00:00"
+   "last_new_item_at": "2026-10-19T13:14:20+00:00"
   }
  },
  "digest_queue": [
@@ -471,6 +473,9 @@
   },
   {
    "text": "Zlepšit šíření informací a propagaci image. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFBrRzRyWlNNckNBaFhmaEF3eC15STB2Qi1xNG9CYVpTcHU0MTY2S21saTFUekJFUnViYWhKZU40T2VPLWRGM2FYNE9zbkQtaldmME1MYlR6NXhzVVhqS0doTE1xSUM0NFg5djRoTGZlSTNTdw?oc=5"
+  },
+  {
+   "text": "Nechceme zpolitizované festivaly. Když jdete za státem pro stovky milionů, nemůžete si dělat, co chcete, říká náměstek ministra kultury Gody Kocián - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwJBVV95cUxPRUFwMlJ4cVpjY3pPN2d1SUtkVWZmYlhXQkl4SmRjTGE1WFdRMEk3VzJUZ1IxSFlLNlZHaFFCMXQ5cXphR2hjdTVvRmhpZ2FRYWczcmh2aHNMQkpHcVhjNDdrODh2SDBpVFdmektkQXpPSU1IRzV3LUZ3eVBOUlJlSXVUTG5GbnN6Ymc5XzB3dTFhQ0dCTFBQanA0elNSbG14cVlZUzgwLXJRQUdrWnNYLXVjbmRIOFV0MWFXZlBjenZKVjNpUFNweUdqZUtlNmU3bmducnFOelJiRlYzTkt0bHpyQUozT2g1YzhLc09fUHVNNFJWUHhVZG8weTZIcDQtbXZfUXduWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
