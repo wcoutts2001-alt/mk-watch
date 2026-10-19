@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T11:12:24+00:00",
+   "last_success_at": "2026-10-19T11:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-19T11:12:24+00:00",
+   "last_success_at": "2026-10-19T11:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T11:12:24+00:00",
+   "last_success_at": "2026-10-19T11:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T11:12:24+00:00",
+   "last_success_at": "2026-10-19T11:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -370,11 +370,14 @@
     "news:eb09fa037edeb3ac",
     "news:22a8c32dbd1866a2",
     "news:62cd10031d6a89d3",
-    "news:a56a967ce531d2ca"
+    "news:a56a967ce531d2ca",
+    "news:8fbad4b98b53990b",
+    "news:36f81d07b81fe9f1",
+    "news:db3eaef2a05f5a52"
    ],
-   "last_success_at": "2026-10-19T11:12:24+00:00",
+   "last_success_at": "2026-10-19T11:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T11:12:24+00:00"
+   "last_new_item_at": "2026-10-19T11:45:40+00:00"
   }
  },
  "digest_queue": [
@@ -455,6 +458,15 @@
   },
   {
    "text": "Cesty za kulturním dědictvím: sdílení a předávání. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE84d3ZaU3c3ZDlRSlBUM0h0bjJNd0Z0RVhhRHhOVE05SDk1Qmp5a2hUcVdHeXFKRTJaYmdzbklKTHlDTmxFRzQ1T09CZE83QWZjM2NHSmo3WHY0XzlyNF9saFpuSld0OVdvUXlyRElmNXhaU0JIOVRrMjVuM2NHOFk?oc=5"
+  },
+  {
+   "text": "Pomníky a památky holokaustu v České republice - Národní památkový ústav\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxQVFcxNmw1UTM1bGhBMDlkQnlmeFpabU5McVV2QTNvakFIemdTTnNpNVlFWTlHZmR5WWdJSmN5d1RrZHJ1Q0kxN0hUeVRaanNtbnQzUmxsazBoMzNrWGx2eDJoaWQ2bXZ4bUxYWUlSOG96X0VEalBwUjdQeEo5NWkzOWtlblpKbzh3TjhGbWFQNTdTMGs?oc=5"
+  },
+  {
+   "text": "Národní mistrovství v basketbalu 5x5 využívá „technologii VAR“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxOYlRQLW9CaGdjdUhPcXh0UEdwVWx3SkhDQkNaaUZWa0tSZ2NyclQtWGo2WllBaER5TmhHUWRzNkttU2ZOTExGSFVaVVpDYmRrWWYyNVNWYV80WEFlbVd2ODZ3N0NQSzJxeTRSMWNJZ1owYTkwTU5QcEpEaWl1LWoxdkQ2d3BDMzlONTV5WE1sN2dyUGgwdjRBaTl4b0ZUMWNOU2c?oc=5"
+  },
+  {
+   "text": "Uvolnění turistického potenciálu jezera Ba Be prostřednictvím systematického plánování. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkZ6d25FYnQ4dXRQZnE0ZG9tekQyYWtTTGlWMjl6UkZfbkJNUnNYS0dONWtiN3hCcXJFX3BHSnpnRTJkS2hqbzZ1Wml4LUVFTmNnd0dYdjRoMHFBNFhMa2dlNjljZ3ZtenliajZBYnlwbW15X1VoTkRKMXNhMVQzRDRxVkZ6THNXMVRJ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
