@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-19T04:06:36+00:00",
+   "last_success_at": "2026-10-19T04:42:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -33,7 +33,7 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96"
    ],
-   "last_success_at": "2026-10-19T04:06:36+00:00",
+   "last_success_at": "2026-10-19T04:42:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-18T10:04:47+00:00"
   },
@@ -46,7 +46,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-19T04:06:36+00:00",
+   "last_success_at": "2026-10-19T04:42:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -54,7 +54,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-19T04:06:36+00:00",
+   "last_success_at": "2026-10-19T04:42:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -352,11 +352,16 @@
     "news:85cb65ee0b74966e",
     "news:c5192a4570e272be",
     "news:d012e584a3c923b9",
-    "news:87a69cab7723e321"
+    "news:87a69cab7723e321",
+    "news:8fa4f3505cdb65a6",
+    "news:04cfe8927a5929fd",
+    "news:8614eff9d2174537",
+    "news:12a5df1ce7778fb0",
+    "news:adeb1b31bbea557f"
    ],
-   "last_success_at": "2026-10-19T04:06:36+00:00",
+   "last_success_at": "2026-10-19T04:42:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-19T00:30:56+00:00"
+   "last_new_item_at": "2026-10-19T04:42:53+00:00"
   }
  },
  "digest_queue": [
@@ -386,6 +391,21 @@
   },
   {
    "text": "Posílit kontrolu nad bezpilotními letouny (UAV) a dalšími létajícími objekty, které ohrožují bezpečnost letectví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxOY3BCZmFoUmM0eDBZVE1KXzNpcnpsQXVEYmhuNUw3dE5mbTV2N3gwaHhmVmswUWk3NmZRUzllTDFyb1Nrai1CRnV5ZHZwN1hGYXVHOTBYNFpmMC1zZ1JRM043ZlJMTU5uTDBNMWFyTHhBa2ZvTm9RY3Q4SEdXQUp1ZHplRjNjV2VfY2s4VE1JaFNSUQ?oc=5"
+  },
+  {
+   "text": "Klempířovy změny na kultuře? Nevymyslel teplou vodu, jen přitahuje kohoutky, tvrdí publicistka - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxQaFBlR00wRHNYbVZ4c0txakduM3FEMTZWVEFZOTFRSl9SdE1ueWJKTjVkVGwwS1ZkaXdNRGdLRWNyQVAxNl94VjdwUk5rZmduNG1mZHluZEpvMGNacTE0bC1HVFRoaXRUMzU1Yk50anEwQlRHZFRZR0Nab0lKMm1ZbmJCMUowT25BekJUMUpHamZRSGJJWTN5Vy16Ymhsd3RQU3ZrY1FjdzhISENvWG1ISVRMcWcybFNqZzhJeEFnT3dRV3VQX2hiWE9RVQ?oc=5"
+  },
+  {
+   "text": "„Ulice klempířů“ a její více než 30letá cesta vytrvalého zachování řemesla. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxNU2NOd3Q2ODUzTWdFaDBqV01DSFNmOTZqaUlOWDRpa21IMEhmMWp5SzVuRXMtMXp2VURNNGRPUXNfOVNFUEZaY21rdzRSc2RfQ3BUYTNYNV90THZVaUhvbXJqcFM2VEZVblkwaWJ3SWN0RHhlQ2hDV1d2d3VldjMxOWJQM0p4OEU?oc=5"
+  },
+  {
+   "text": "Tuyen Quang pořádá pro turisty roadshow, aby se dostali na okruh Ha Giang Loop. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3oxTURJQkExSXFHd2NFdkJTbWd2aHJtLWM3WkdjWFA0LVlEVS1PdEh6a2s3a2xCZFpLNFpabWk4SkctR1A1RlB3ZlV2THZvcndpQ20yRDNSQ0FqRDQ0TjRYZDZmZHRDSDY5WjVuMUhpLTdUeDZicXc1bTlsMklsRDJ0aXBGekE0YlRzSw?oc=5"
+  },
+  {
+   "text": "Generální zkouška slavnostního ceremoniálu k 80. výročí první návštěvy prezidenta Ho Či Mina v Hai Phongu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxNYjYtX2lXSk1FdmcydUdWZGxxUEJDaWJ3WWpYa3l1RWRTa1BCbnVjaXFoU1l5T3VpN0hwOV9DLXVOSWFrQXlyejhEZ3VhWVdpM05RYVBQeVNQNE9lQVJaVGc4NUJhVnR5a2dPanJUYkNuaWVCSlpzM3I2UE5zRTNHaWNYQ0VSNkNtb0k1UUxaSzVUZGZMM3RJNkRJYnpUYW1qY3c4RnkwSUhwWjBvd3Bpdw?oc=5"
+  },
+  {
+   "text": "Studentka Dao Truc Mai vyhrává první cenu v soutěži o Gia Lai. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQY01Yd05LVzIyWm1oRVk3UUFha3dtQVdqa2wtQ0FKZ19tbl9HdEl0dWpRREZCbjBQa1hsOXFGcmtEenF0cWMwYmJvVXVsY3lWb2duN1JkSTc1UFF0U1hLcDF6WHVOM2xnVFhJbko0Q25NUUI1cDgxdVJJZGVqeXlhTDE4M3hTTFpxQkVleE13?oc=5"
   }
  ],
  "last_digest_date": "2026-10-18"
