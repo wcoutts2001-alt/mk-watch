@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T13:22:40+00:00",
+   "last_success_at": "2026-10-20T14:05:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T13:22:40+00:00",
+   "last_success_at": "2026-10-20T14:05:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T13:22:40+00:00",
+   "last_success_at": "2026-10-20T14:05:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T13:22:40+00:00",
+   "last_success_at": "2026-10-20T14:05:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -421,11 +421,14 @@
     "news:6e6a332bfc59012f",
     "news:f2b4097e360e73d5",
     "news:d319e6c9bfa3653d",
-    "news:199d75a40f58e1d1"
+    "news:199d75a40f58e1d1",
+    "news:348f478c2e9b1d62",
+    "news:a2d53488b5d59e7b",
+    "news:efcf09816ae0f2eb"
    ],
-   "last_success_at": "2026-10-20T13:22:40+00:00",
+   "last_success_at": "2026-10-20T14:05:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T12:35:25+00:00"
+   "last_new_item_at": "2026-10-20T14:05:47+00:00"
   }
  },
  "digest_queue": [
@@ -515,6 +518,15 @@
   },
   {
    "text": "Slavnostní zahájení mistrovství elitních týmů v Sepak Takraw 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOVGlZQmFuNGw5UWp6SkJmTmlSeEZOTVZPNnlsLUFvM2dmdVJSbDJHNDFWNUpNbkFLdEdabUpvbW5BX25DUnRyMGZXbjUwYWFfX0JrTmtBMHNrMHlsRy0yaGdRTGFONGJRNkpxRHVMT0JaSF9UM3RkdTZvMl8wX1pPM09POHQyWGlTYktwZ3NpLUJDRVM2R0lZZkpyNzc?oc=5"
+  },
+  {
+   "text": "Členové komise pro oblast tance, pohybového a nonverbálního divadla MK ČR odeslali otevřený dopis premiéru Babišovi - Opera PLUS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxQNGcwM0pLN0twdkdJaHllVS1kTnU1QjVOSGpOUFUtaGVndVd2SzRSZ3VmT1FnQmxuNlFiWVphM1owaEpqTHMwdjNnMTZmWUMxS0xKOC15WnFSMW1yZERVQlk4Tll6cmNCcDdfaWc3VUM2bVF1STg3YjlvQmlnUGc4WmNjenZUMHRpTGRpWkJZQmN2TXJ3QlhvVWhMT1hMNkotMXFuQUhleVd0MTdwb29oT3RjNnV2M2VHX1k0MmplZkljVnBUVTRlUXl2RTdJZWp1Ymc?oc=5"
+  },
+  {
+   "text": "Kultura není živa z grantů, kvůli novým pravidlům ale o ně snadno přijde, kritizuje divadelník Kubišta - Portál Českého rozhlasu\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxOV2NCZU1RVnpGSE9DRVlBTkNNQjE4Z09FN3FybndQcU0za2NPOGdMTmkweDJCRXpRUXBsNXFSbF9vcHl5ZGJfdjMyaVZjYmE1NExtUnFhYkFRNm4yZW11UDQwUm1pSXVheEJHOUJCeWxhZVdXelpRcE5HZWVwQ3VvSnEyVnRrZjByTk1xOGJveXVNWTRiVFJwWUUtb09GMlphbURV?oc=5"
+  },
+  {
+   "text": "Đề xuất bãi bỏ quy định báo nói, báo hình phải có giấy phép riêng khi sản xuất chương trình chuyên quảng cáo - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxOTHBCeUc2VXhLVTBWb0VtZ3NPN0EtekM1WVNmLW53VUdYLTUyN2N5WXk5VmpmOXctNzNTV3RsUGZOcTJrUzFOdGU3Zm9UZC00TVZOZnJ2Qkp1QXRXbXRya0FFVTJjd3pnTmlrbDhZTG80VTVoalBkYVZUdURQN2JFVU1oR2NIYzgydzE5WS1hUFpZNG9MZU9aZFEyNDNZRkxYUTBOSG1hY1hDOHNnMHR6RklNQlRmU09EbW15SnB0RTgtazFubXlMZGVzby0yZw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
