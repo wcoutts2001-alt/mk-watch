@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T16:40:38+00:00",
+   "last_success_at": "2026-10-20T17:17:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T16:40:38+00:00",
+   "last_success_at": "2026-10-20T17:17:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T16:40:38+00:00",
+   "last_success_at": "2026-10-20T17:17:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T16:40:38+00:00",
+   "last_success_at": "2026-10-20T17:17:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -436,11 +436,14 @@
     "news:fd0922a09be4ab6d",
     "news:77fa945e60e91476",
     "news:50b752806833c12a",
-    "news:e92975d876fe20c5"
+    "news:e92975d876fe20c5",
+    "news:79574ba6e67c6e8c",
+    "news:99e28cd1681b1914",
+    "news:18e9006eab0765ee"
    ],
-   "last_success_at": "2026-10-20T16:40:38+00:00",
+   "last_success_at": "2026-10-20T17:17:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T16:40:38+00:00"
+   "last_new_item_at": "2026-10-20T17:17:24+00:00"
   }
  },
  "digest_queue": [
@@ -452,6 +455,12 @@
   },
   {
    "text": "Hanoj ​​implementuje 10 modelů pro budování elegantního a civilizovaného životního stylu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQY1pmMjFMeG5WMjJwdmx1WUxvZVRoWW82MHZUWTZBN3hHdzdiSjdXXzNOYUpOYmpnb0NWc2sxc25SRWl2czFQemFKWmloQ1BUelBwM05jVmN5YVRYUjFxQldrRF9tOHRDNUV0T0ZoNjZaQmZFZWxWMmx0UHNhNl9kY2N1Y1hHNFUxWklZQk8zRlhqa2NFSWVR?oc=5"
+  },
+  {
+   "text": "Slavnostní zahájení Mistrovství republiky v basketbalu 5x5 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1hSR2dXd1pSUjNGM3JLVW1QMzN1aFN0NFJhcm1UaWMtYXZQR01JQnozVVBvclVvZlZHajVqQWlJUVlzQUwyZmZhcnhpWWlOZEZsWlktT1FyZlNKSzEyVVN3S05OcHBjU1VNNFJMNkE5b0NkdFVQZEdjdUNmVExNOGpUZFo3U0NlVFUtLW9KSWE2UWJfVklCRDVURGI?oc=5"
+  },
+  {
+   "text": "Food Festivalu 2026 v Quang Ninh se zúčastní 150 stánků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOQjZKMEhaa1hvM2dYVGtRekY0UzFObXlGdjFvYmVfVFBXbXNRRi1vUFdJd2hMSWd6VzZDbEk1SVhvdGFwVjUzTTE5cENmU3h6OTZ6ZkFmMVNGblZSWnZvbFVxdUpyWVdmbkxPeHdjTEVmaWJEbGZHSkJpMzAyX3oxVkJCaHNqNnpsaHlsYm9kSUVDZ2VF?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
