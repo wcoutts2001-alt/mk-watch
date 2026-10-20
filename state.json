@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T14:43:40+00:00",
+   "last_success_at": "2026-10-20T15:17:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T14:43:40+00:00",
+   "last_success_at": "2026-10-20T15:17:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T14:43:40+00:00",
+   "last_success_at": "2026-10-20T15:17:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T14:43:40+00:00",
+   "last_success_at": "2026-10-20T15:17:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -428,11 +428,14 @@
     "news:659902728cabc907",
     "news:d46d885e71388b39",
     "news:a5563fcbc94023e3",
-    "news:fa6acea8d2878079"
+    "news:fa6acea8d2878079",
+    "news:e18fc36651d1bcf2",
+    "news:a6a84e6c2c633160",
+    "news:ac78276bcacdf6ea"
    ],
-   "last_success_at": "2026-10-20T14:43:40+00:00",
+   "last_success_at": "2026-10-20T15:17:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T14:43:40+00:00"
+   "last_new_item_at": "2026-10-20T15:17:17+00:00"
   }
  },
  "digest_queue": [
@@ -540,6 +543,15 @@
   },
   {
    "text": "Město Can Tho shrnuje výsledky Kongresu sportu a tělesné výchovy 2026 na všech úrovních. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxPbkY3dVZ4d3RjOUV6b1dqMkpLTjFOQlRaYjh6WWpJdDkzRU5zUm5KM2dVNDQtOWJfYlRKY3Z0bWVUd0Vnc1dMTGdiS3FJT25qRXZCcmY2bEZCZXFDUWM4Zlp5WTJiYnFLTGpDYnNKOF9pYjNoa2xISk0ySzJ2VUdRLXRiMHBFYTJ0MFJ0YjVRZHQ?oc=5"
+  },
+  {
+   "text": "Korejské lidové malby ožívají prostřednictvím digitálního umění na výstavě „Všechna zvířata kolem nás“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxONno5S1VHeXlheWFlSDFHaldndnEzUnEwWDJHX0wzNEg1TkJnYXFVSEktWm05R0UzX0RZUzZoLUJLZXhjOGFHUzd5S2JyZUlsbnNOYVJnMzFwNVNNZTZyb1A1bXF2Q3pySVN0bjd5WHRSVzZQSTBTYXZqcDRmX1dIZjZrUTNMX0dpWE42UHFudnpTUGhqeXd0WUN5WWtuNVhNdHRYWWpfRzd5RlNqSE13?oc=5"
+  },
+  {
+   "text": "V provincii Thai Nguyen se brzy uskuteční národní koncert „Hrdí na to, že jsme Vietnamci 2026“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmg4UEhaX05BOWptTkxkY1B0MUIxRk4wREhpNkw2Qy12ZEJIanlCenpjclI5M3F3bG9nSlFZdUJiNXBPOTAyN0FTQVczSFRseEdzUFhsVVdQeG1PU1pqbmlPMi00NEhFMGFURnhCTDNqc3k4UDFmc21HdjhhOGVoWXVMYTltVXdIc1NNVzVrRFRYMGZuc1R5V2ZaTDNzTGk1bktNcGVpcE8?oc=5"
+  },
+  {
+   "text": "Šíření ducha Kinh Bac během Vietnamského dne kultury 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxNT29mcEk0enRhTmpMWDQwVy0wUEZ1dFlEcmJqNEdIQjdaSkthaXM2MDdaOF8wMFRpeGdfblYyZ2lUZ3NwSzc3NURHazMweHg0ZXhKbVZUMWF4YldkTlhKTjR6SVNMMlZkWVh4SFAyOVRQdjBpRjNNR3lEV3ZMUlBxRUYxOGJHQ3dvRFFleWN3?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
