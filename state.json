@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-20T08:43:42+00:00",
+   "last_success_at": "2026-10-20T09:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-20T08:43:42+00:00",
+   "last_success_at": "2026-10-20T09:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T08:43:42+00:00",
+   "last_success_at": "2026-10-20T09:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T08:43:42+00:00",
+   "last_success_at": "2026-10-20T09:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -407,11 +407,15 @@
     "news:cc0e4616e96a6e84",
     "news:0f0484a73338bfd0",
     "news:fb4913fe465569bd",
-    "news:bfa65fd3895257d9"
+    "news:bfa65fd3895257d9",
+    "news:d5b116b2cf5075a6",
+    "news:51568edf2035dcd5",
+    "news:a124b3eaaa19dd48",
+    "news:cee9d6ea82d8cd04"
    ],
-   "last_success_at": "2026-10-20T08:43:42+00:00",
+   "last_success_at": "2026-10-20T09:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T08:43:42+00:00"
+   "last_new_item_at": "2026-10-20T09:16:10+00:00"
   }
  },
  "digest_queue": [
@@ -471,6 +475,12 @@
   },
   {
    "text": "Objasněte případ osob zasahujících do „nejcennějšího pozemku“ muzea a nahlaste to do 31. října. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxNdk1RM1RQYlU4aS1LeEJWVWhfb1hOM0RPSkh0TzVKRHNDaURUa29TdV94YTRBc0E0Y0dmOF9lTTN1VWR3Z3lhOThBeUJQbERDYk5abk54TmFtZFhzeG12bG5VLUZnaWZBLVYtSkptd1h1VXBrV0NQam1KbDBUeFlvVGpFRmdLN29FZ09ySi1jYmVyR1NOYWtxWkZkaw?oc=5"
+  },
+  {
+   "text": "Podpora decentralizace a delegování pravomocí v oblasti správy, ochrany a propagace hodnot kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxQREJBZE5EdGhUZE9GclFjbDl2ZzJxQy1SbDdrVi1pSXBXVHluMkR2eW9DU2Y0cVJLUnNuYjdNU0ZVY0thUEJ2MjBzZzY2Q1AxNEpjMkZEQ2NuY21HbDlUd2tFLVBQUDdvbEYtSTlxRTd3VUJ2cGlkRDc3ZHF3Q09mMWtSbzFBWVdLRVBxa3ZMVTBieFlSanJXd3B3SkotbmhTWmNIaVVIY0UybXhrVE5j?oc=5"
+  },
+  {
+   "text": "Hanoj ​​spouští online soutěž „Kultura z každé akce“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOelJjV0o2OFJRWGV5YzZaUHM4VHRBUV9OcmpMdVUtSE9Xcm9wNWJMWFRkWHJFU2lGS0VkWXp4T3NIY2JaTk9Zd2hRU2FxZHZiSG9idVVWT004NW55cVh3ekEzZi1iTDVrTlFJSHI2MHlISUJ4bzMydVVONGprY1F1MlVUYUNQSTFaR0cyczlmZTg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
