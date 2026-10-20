@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T23:19:42+00:00",
+   "last_success_at": "2026-10-20T23:50:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T23:19:42+00:00",
+   "last_success_at": "2026-10-20T23:50:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -47,17 +47,18 @@
     "instagram:9c9f230fb692224b",
     "instagram:8f53b288632fa1be",
     "instagram:f58060bcb2b16965",
-    "instagram:73d527e0a5c86afa"
+    "instagram:73d527e0a5c86afa",
+    "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-20T23:19:42+00:00",
+   "last_success_at": "2026-10-20T23:50:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-14T16:05:56+00:00"
+   "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T23:19:42+00:00",
+   "last_success_at": "2026-10-20T23:50:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -449,7 +450,7 @@
     "news:a3653d8382913557",
     "news:bf3e2c2812403703"
    ],
-   "last_success_at": "2026-10-20T23:19:42+00:00",
+   "last_success_at": "2026-10-20T23:50:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:19:42+00:00"
   }
@@ -478,6 +479,9 @@
   },
   {
    "text": "Několik členek a členů odborných komisí ministerstva... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sS28yUEJ1MWJJWXA5WjJ0Tm1hcDd2U3RWSk81dDBkczVOWDhHN2NNQWZhSHBtNEdraWZmdUgwd1lXY3VYLXZQaU9TakNvUmdWRFYxS3Y4T19SWHg2azlCbHU0TFZDMGs?oc=5"
+  },
+  {
+   "text": "Bridge returned error 302! (20746)\n(Instagram)\nhttp://localhost:3000/?bridge=InstagramBridge&context=Username&u=ministerstvokultury&action=display&format=Atom"
   }
  ],
  "last_digest_date": "2026-10-20"
