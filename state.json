@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-20T02:02:40+00:00",
+   "last_success_at": "2026-10-20T02:40:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-20T02:02:40+00:00",
+   "last_success_at": "2026-10-20T02:40:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T02:02:40+00:00",
+   "last_success_at": "2026-10-20T02:40:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T02:02:40+00:00",
+   "last_success_at": "2026-10-20T02:40:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -396,11 +396,14 @@
     "news:6e60ab81f1aacfd4",
     "news:06c3525923f01ddf",
     "news:58f266805d7cc871",
-    "news:b290ad384bcbd95e"
+    "news:b290ad384bcbd95e",
+    "news:65f4537d96707251",
+    "news:973555effd8ffa5d",
+    "news:b68ef391ec78e9f3"
    ],
-   "last_success_at": "2026-10-20T02:02:40+00:00",
+   "last_success_at": "2026-10-20T02:40:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T00:05:12+00:00"
+   "last_new_item_at": "2026-10-20T02:40:26+00:00"
   }
  },
  "digest_queue": [
@@ -430,6 +433,15 @@
   },
   {
    "text": "Aby každá žena mohla žít svůj život naplno a jít za svými touhami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxPUDMtVm1rNXBGakszNG1meGJzaTFqMFhadzBUSDlPYmlpOC1iR21qaDhtU1k4ZUlhOXFPdFM2UWdFam52RW5WbHlOTU5LT2N4cjlmMkQ1WVJneExTYXBYeUZkRlRVMkF6cmtwTHp5VUczZHlfejdnalNBYTRDLVVTLUFNVQ?oc=5"
+  },
+  {
+   "text": "Gia Lai: Školení prohloubení znalostí a dovedností v psaní a editaci zpravodajských článků v digitálním prostředí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxNdWttazRvZFh0YnV1WWZpeHNvVThTM201VXNZcTM0WXhYYTJjU0FwcWJ0VGptQ2QwRU5NdXdHOXlDNHgwMUFYS2xLR1BUS0xFQlcwWFhjQVpfMVlxWE5icXU3VGpMNVJrdlZ5dHk3eE4zV0tWS1FiaU8xcTNiNWg2RHk4Zk5Vc1Z2ZUpMYXluYzJTWFlRMGRDM0tZbC1ZN1U1b29EZjNuelZVcUc5R1ZN?oc=5"
+  },
+  {
+   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 19. říjnu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQYTY5WWhheC1aMVVpWGNJM09Da2NBUno3djNabEs1ZkpTbWhpaTZ2ZHZacXVFdkowS3F1T2pGd05yQ1ZkRDc0NURYcXJ2MzFtZFI3QkR1RHlqNENIcDN2MEFVUFRZNmcxU3lUeUpCSTUyNUttRUxZRzlBdWNZUktLQTA4cjNrQ1RDTlV1TUJPQlBZMXcwbnRVSmVB?oc=5"
+  },
+  {
+   "text": "Provincie Lam Dong zaměřuje své zdroje na jazzový festival v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxNbjhxai1NTng5aXhTbzNEckd6R2h2RnFkcjFGNDZIZUFpSXdXRGlCRkxqeWdvc0x6UFBvUEhSa2VnMk9fbVBNNDdrWXFJamg5NGhma3BETGYyQllyNFlGVmpMU1BnTzR2WjlnREdwRW1sMlo3NmxXdDdqX2xnSERfVkItVVFKUzA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
