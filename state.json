@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T11:59:32+00:00",
+   "last_success_at": "2026-10-20T12:35:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T11:59:32+00:00",
+   "last_success_at": "2026-10-20T12:35:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T11:59:32+00:00",
+   "last_success_at": "2026-10-20T12:35:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T11:59:32+00:00",
+   "last_success_at": "2026-10-20T12:35:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -418,11 +418,14 @@
     "news:a82aba0d50da15b1",
     "news:de5fce16bccbd868",
     "news:eb7d76f3135d4389",
-    "news:6e6a332bfc59012f"
+    "news:6e6a332bfc59012f",
+    "news:f2b4097e360e73d5",
+    "news:d319e6c9bfa3653d",
+    "news:199d75a40f58e1d1"
    ],
-   "last_success_at": "2026-10-20T11:59:32+00:00",
+   "last_success_at": "2026-10-20T12:35:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T11:59:32+00:00"
+   "last_new_item_at": "2026-10-20T12:35:25+00:00"
   }
  },
  "digest_queue": [
@@ -506,6 +509,12 @@
   },
   {
    "text": "Klempíř povede správní radu Pražského jara, nahradil Baxu - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1dLT2FEXzg3ZjNtT1EtWW12dDhvWTVSd19YSFFHcFBhY0NDWkJnZHRKcUlSYk9qSWtRUTVyczhHTVlTbWU1Y1ptdXlVbE9jWTF4QV9QRHYwTG1KU1FmVGxVX3pqMXZETVB2SVdPQ3dRaW5kbU1PTXNGUXlYQ1hmbHM5T214bk82RkdBY1kxLVM0bGtRUkJXb242eFpJSkFEY2R5VTlOX3hsTjJhY1pYbDIwZjE5ZXRLMmRidVBVdVJteUtleDZJaV9BS2NMbVVIdmlMUA?oc=5"
+  },
+  {
+   "text": "Khanh Hoa pokračuje v realizaci Národního akčního programu na ochranu čamské keramiky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxORW9uQ1M1c2Y3ODBRc21DaDJGVWdYamo3dnZpX3ZUWlVDcTl0V0doTktFOGtfMGxubUYzaW1KZkdyS3hPYVFGWTJkN05lcFNmNVRXbXVGTmg1MUR6M0Vjemh0S2RtWmNTcEZRcm0xTG9adnNLS2JlWV9pWGNkQ2VyMXE5bUQ5cDRQUmFYTHFMNEpRdVI4bmtIWXhLaGV1U2o0MHpCdEZ0YkUzWU4zNUJJbi1ydmpfVGVNSFNoVUc1aFNyd3E5Z2hN?oc=5"
+  },
+  {
+   "text": "Slavnostní zahájení mistrovství elitních týmů v Sepak Takraw 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOVGlZQmFuNGw5UWp6SkJmTmlSeEZOTVZPNnlsLUFvM2dmdVJSbDJHNDFWNUpNbkFLdEdabUpvbW5BX25DUnRyMGZXbjUwYWFfX0JrTmtBMHNrMHlsRy0yaGdRTGFONGJRNkpxRHVMT0JaSF9UM3RkdTZvMl8wX1pPM09POHQyWGlTYktwZ3NpLUJDRVM2R0lZZkpyNzc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
