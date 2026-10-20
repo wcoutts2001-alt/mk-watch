@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T16:01:05+00:00",
+   "last_success_at": "2026-10-20T16:40:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T16:01:05+00:00",
+   "last_success_at": "2026-10-20T16:40:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T16:01:05+00:00",
+   "last_success_at": "2026-10-20T16:40:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T16:01:05+00:00",
+   "last_success_at": "2026-10-20T16:40:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -432,13 +432,27 @@
     "news:e18fc36651d1bcf2",
     "news:a6a84e6c2c633160",
     "news:ac78276bcacdf6ea",
-    "news:39278a0b6a8dbc3f"
+    "news:39278a0b6a8dbc3f",
+    "news:fd0922a09be4ab6d",
+    "news:77fa945e60e91476",
+    "news:50b752806833c12a",
+    "news:e92975d876fe20c5"
    ],
-   "last_success_at": "2026-10-20T16:01:05+00:00",
+   "last_success_at": "2026-10-20T16:40:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T16:01:05+00:00"
+   "last_new_item_at": "2026-10-20T16:40:38+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Ministr Klempíř zvolen do čela správní rady Pražského jara - KlasikaPlus.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxPem1YcnJfSVVVODJSYkdzUDQ1RHMtT1hoUWJ6R0dYc01rRFZTVW1WTDltYjZfV3FRUHFHN2ZqVFloYXY2ajVpXy1xd0gwSWlQamtGeUVDaVNLMTROb3hmaXFxU1V0ZWIwQnBLNHpNdlhYVWl0TE9rR2FPMzRpTGFTVktjTS1UT21ZLUlkNnlGbw?oc=5"
+  },
+  {
+   "text": "Hai Phong připravuje podklady s návrhem, aby UNESCO společně připomnělo 700. výročí narození velkého lékaře Tue Tinha. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxONDRLSFFTc3hKMjdicmJZZjFRNVpPQ1lQOFVsRW1pS3lFemY0bVpFR3pmV1ZqS0o1VE9LemdzUGxIOTFLZFBTUFVjMmNBeVhGZ1JkQlpCaDRxMGhUX1RRQ1c5bHVJX19DQ2FiaWwxUGtydnhXRUE0c2g0d0NkYmMzVG9NSGNqUEZqSFJqTUtKcnVhNHB4UmxCTlZXNzU5aGhkbEI5RXhrZTR6REdUV20xOQ?oc=5"
+  },
+  {
+   "text": "Hanoj ​​implementuje 10 modelů pro budování elegantního a civilizovaného životního stylu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQY1pmMjFMeG5WMjJwdmx1WUxvZVRoWW82MHZUWTZBN3hHdzdiSjdXXzNOYUpOYmpnb0NWc2sxc25SRWl2czFQemFKWmloQ1BUelBwM05jVmN5YVRYUjFxQldrRF9tOHRDNUV0T0ZoNjZaQmZFZWxWMmx0UHNhNl9kY2N1Y1hHNFUxWklZQk8zRlhqa2NFSWVR?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-20"
 }
