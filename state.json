@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-20T09:16:10+00:00",
+   "last_success_at": "2026-10-20T09:58:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-20T09:16:10+00:00",
+   "last_success_at": "2026-10-20T09:58:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T09:16:10+00:00",
+   "last_success_at": "2026-10-20T09:58:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T09:16:10+00:00",
+   "last_success_at": "2026-10-20T09:58:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -411,11 +411,13 @@
     "news:d5b116b2cf5075a6",
     "news:51568edf2035dcd5",
     "news:a124b3eaaa19dd48",
-    "news:cee9d6ea82d8cd04"
+    "news:cee9d6ea82d8cd04",
+    "news:58aa5a8915b8a0d4",
+    "news:a82aba0d50da15b1"
    ],
-   "last_success_at": "2026-10-20T09:16:10+00:00",
+   "last_success_at": "2026-10-20T09:58:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T09:16:10+00:00"
+   "last_new_item_at": "2026-10-20T09:58:57+00:00"
   }
  },
  "digest_queue": [
@@ -481,6 +483,12 @@
   },
   {
    "text": "Hanoj ​​spouští online soutěž „Kultura z každé akce“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOelJjV0o2OFJRWGV5YzZaUHM4VHRBUV9OcmpMdVUtSE9Xcm9wNWJMWFRkWHJFU2lGS0VkWXp4T3NIY2JaTk9Zd2hRU2FxZHZiSG9idVVWT004NW55cVh3ekEzZi1iTDVrTlFJSHI2MHlISUJ4bzMydVVONGprY1F1MlVUYUNQSTFaR0cyczlmZTg?oc=5"
+  },
+  {
+   "text": "Hanoj ​​v roce 2026 zahájí kampaň za výchovu elegantních a civilizovaných občanů Hanoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxPcWoza1Z6ZUkwZEJTOE5ieTlwVkx6ckx0VlYyd3dUUlFNZm9zTThFX2FTeDkzYWFFRjBOenIzLXp5UDZEQkljTi1HV2FTTjdCejVwaXgxT0ptOTR6Sjd3N1AwMHNwNGotcDdMR0lRX1JMY19HaGJiYzNPV29vNHM1TDBXZ0ZPdnZlX2t6cENVbWs4RTRLcTJQTTVBMTg?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město: Vytvoření trhu pro rozvoj kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxQYnZZYUJFcFNCZjN3NmNGTVRmejdnblRaX0hZamw0bTZuazN1Sjc4M3NIbFJOanVrYVZXWEVKUURWUzhjakYyd01ySjFrd193OHVRSmtMeWJvT3Qwc1lyRjZSUmdHejNHZmhvRUU5WGl0MGJwYjdhQi1WTHNxb0tiQ092dUdPMHBsZ1dxNkU0U1JoRll3X0kzRXB1cw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
