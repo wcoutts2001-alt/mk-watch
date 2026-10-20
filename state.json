@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-20T19:43:01+00:00",
+   "last_success_at": "2026-10-20T20:09:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-20T19:43:01+00:00",
+   "last_success_at": "2026-10-20T20:09:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -49,7 +49,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T19:43:01+00:00",
+   "last_success_at": "2026-10-20T20:09:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -57,7 +57,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T19:43:01+00:00",
+   "last_success_at": "2026-10-20T20:09:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -441,11 +441,13 @@
     "news:99e28cd1681b1914",
     "news:18e9006eab0765ee",
     "news:931422dc2dcadec0",
-    "news:5493bcbb711d2521"
+    "news:5493bcbb711d2521",
+    "news:84ed71741de2c95b",
+    "news:0094f3dadd21e262"
    ],
-   "last_success_at": "2026-10-20T19:43:01+00:00",
+   "last_success_at": "2026-10-20T20:09:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T19:43:01+00:00"
+   "last_new_item_at": "2026-10-20T20:09:19+00:00"
   }
  },
  "digest_queue": [
@@ -463,6 +465,9 @@
   },
   {
    "text": "Food Festivalu 2026 v Quang Ninh se zúčastní 150 stánků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOQjZKMEhaa1hvM2dYVGtRekY0UzFObXlGdjFvYmVfVFBXbXNRRi1vUFdJd2hMSWd6VzZDbEk1SVhvdGFwVjUzTTE5cENmU3h6OTZ6ZkFmMVNGblZSWnZvbFVxdUpyWVdmbkxPeHdjTEVmaWJEbGZHSkJpMzAyX3oxVkJCaHNqNnpsaHlsYm9kSUVDZ2VF?oc=5"
+  },
+  {
+   "text": "Kultura není živa z grantů, kvůli novým pravidlům ale o ně snadno přijde, kritizuje divadelník Kubišta - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxOQldSMUdDTkpQOEViMlZ0WFhCTlB4MDEtVFRuM0EtNHlRVWZXUG91ci05YXlEOUVEMnA1bkJGclpaNHpkdk94VW1NMUFpVlRnM0d3bm1RUF8ybk1wcm5tZV81TW5naTZoeUlxejZTbXNMNUJOdHBGbzNjczByMkxfbTNSZDF1eWl6T1FReXV0aUxMdHNPbHJ1eFdOSXFZVkVELVU5YVd4Tm1SZU9CUnJaS2hKYnU2ZzE3VXc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
