@@ -20,7 +20,7 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3"
    ],
-   "last_success_at": "2026-10-20T05:26:59+00:00",
+   "last_success_at": "2026-10-20T05:59:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-16T11:57:29+00:00"
   },
@@ -34,7 +34,7 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a"
    ],
-   "last_success_at": "2026-10-20T05:26:59+00:00",
+   "last_success_at": "2026-10-20T05:59:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-19T10:09:43+00:00"
   },
@@ -47,7 +47,7 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa"
    ],
-   "last_success_at": "2026-10-20T05:26:59+00:00",
+   "last_success_at": "2026-10-20T05:59:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -55,7 +55,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-20T05:26:59+00:00",
+   "last_success_at": "2026-10-20T05:59:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -401,11 +401,14 @@
     "news:973555effd8ffa5d",
     "news:b68ef391ec78e9f3",
     "news:b11dd5ea60faef06",
-    "news:eb8c8e9d52a08598"
+    "news:eb8c8e9d52a08598",
+    "news:28bab30eb5b47c1b",
+    "news:2b7fba60e958fab3",
+    "news:cc0e4616e96a6e84"
    ],
-   "last_success_at": "2026-10-20T05:26:59+00:00",
+   "last_success_at": "2026-10-20T05:59:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T04:15:20+00:00"
+   "last_new_item_at": "2026-10-20T05:59:19+00:00"
   }
  },
  "digest_queue": [
@@ -450,6 +453,15 @@
   },
   {
    "text": "Spuštění programu „Zvuky Vietnamu: Melodie života“ v digitálním prostoru v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxPT3JVcXgyMVRGWVdpRk1pRFJBSjljTUJJQk9KMjlfSHlyVGMzRTNoSVlWOVVYSGNtWWdMY1pwYmtkSGZOd0FsNTNhQzJsVk5IdENsdUM4dlN4eHFMalU4TkZmVUpVbzEzZ0FtTjl6amFTQkRQMTFadV9GTkh0OTY2YkhObEhhM1VrQXd1UHQtSURxS0lVSkhrTHNnamNmeldCdnk1Q1hwT2pHM05KQ1h5NURfNmI?oc=5"
+  },
+  {
+   "text": "2. ročník kulturního festivalu Ao Dai v Ho Či Minově Městě 2026: Šíření tradičních hodnot prostřednictvím těch, kteří zachovávají řemeslo. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxPT3phbDZMUzRZel9rNUphMU1yMXdhbmZ5MWtBdHA2eGpfSzBTOS1oRElBN05oVWJoOWR2QnI2Vi04WDhPT0xpa3AwR3dfQVFiVTVnMHg0UHdpS2t4djBHQmc3cDhKQXpwcVgwU005aU9WdnAwRFllcUVMSXFIblhvU0VfSFY2VWVvRHYwam1pdWxZSW9GMWVIWkV1SmdhYThpNGtyek9MUlFwN1ZlUWpIV0ZNTEEtZzRFZWM4T3FpbUo2RTBUZk02RFJIS25tZw?oc=5"
+  },
+  {
+   "text": "Provincie Lam Dong poskytuje školení turistických průvodců v turistických destinacích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3BGRTNuSjJFbzVXaU1zd3ZXdkZ2WTAtR3hESDRBVEgtSW90clpIN1I5OWNQSnAxYlpUeWo2ajBQc1ktNHRwbklaek9uV05JVTJSWnVBTXFpZTg2RkpLSUNIcjk5Z2pSY25sM1YybkFuZzBmV3BST0cxeUhacW9OV1h3ZEpuWlYy?oc=5"
+  },
+  {
+   "text": "Obec Phu Yen vyhrála provinční turnaj mužů ve fotbale mládeže Son La v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxOZmJVbGpKTGljRkdGRVhQRUJacV85eUoxeFZ0RUhfM0xPMERiWDVTX3N6WGFMYTRYc3Z4TlhMVER0bF8wZUUzRDhwSVBFWjlpZ2hNREtiWVhzUWdNeXFoWE9XdG1RZ3VHUG9sNHJrdEJER3pqY3RyOXZNT3plUUgxZDZmb0sxeUtnZ0lXal9wdDRzbHBrMGNBSDd3dDBDNVp1Ynhr?oc=5"
   }
  ],
  "last_digest_date": "2026-10-19"
