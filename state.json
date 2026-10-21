@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T12:03:55+00:00",
+   "last_success_at": "2026-10-21T12:51:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T12:03:55+00:00",
+   "last_success_at": "2026-10-21T12:51:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T12:03:55+00:00",
+   "last_success_at": "2026-10-21T12:51:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T12:03:55+00:00",
+   "last_success_at": "2026-10-21T12:51:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -472,11 +472,12 @@
     "news:eb8e461170751976",
     "news:57b0f42098e15df0",
     "news:f601eed5d336c61c",
-    "news:8e0072477806c9ea"
+    "news:8e0072477806c9ea",
+    "news:d61c7e5d6aff0bd3"
    ],
-   "last_success_at": "2026-10-21T12:03:55+00:00",
+   "last_success_at": "2026-10-21T12:51:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T11:29:59+00:00"
+   "last_new_item_at": "2026-10-21T12:51:00+00:00"
   }
  },
  "digest_queue": [
@@ -548,6 +549,9 @@
   },
   {
    "text": "Památkářské Oskary\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6612cs-pamatkarske-oskary"
+  },
+  {
+   "text": "Da Nang se spojuje se singapurskými partnery s cílem přilákat kvalitní turisty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNSlR3aF9YX0ViTXdxYWZHTnRqVU5XVUVLbjBIU0lvNUxhMzVlRFFVcVJPcEFndjI4VXM4S1BYQUxzYm1MaGlldFh6S0F1cHZlejZCd0g2QUt1Z3Y2X29zQjFhRGlwWklycUJwQmpnVkM4dDVXZXExSHRqQkgtZ1lzSFI4TS1HbnV4S3VBZ0RFTFRKcGwyeEg2S3dtRU5rYzNtaGgwVUdB?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
