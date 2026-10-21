@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T22:40:41+00:00",
+   "last_success_at": "2026-10-21T23:07:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T22:40:41+00:00",
+   "last_success_at": "2026-10-21T23:07:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T22:40:41+00:00",
+   "last_success_at": "2026-10-21T23:07:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T22:40:41+00:00",
+   "last_success_at": "2026-10-21T23:07:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -491,11 +491,13 @@
     "news:f752b0479b78a107",
     "news:ecd2426528c83e41",
     "news:40a83c7ed61e1348",
-    "news:e3af4e21531044ca"
+    "news:e3af4e21531044ca",
+    "news:9925eab211e31c6e",
+    "news:b519088fad906e58"
    ],
-   "last_success_at": "2026-10-21T22:40:41+00:00",
+   "last_success_at": "2026-10-21T23:07:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T22:40:41+00:00"
+   "last_new_item_at": "2026-10-21T23:07:22+00:00"
   }
  },
  "digest_queue": [
@@ -525,6 +527,9 @@
   },
   {
    "text": "Hai Phong je odhodlán dosáhnout vysokých výsledků na 10. ročníku Národních sportovních her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQOE9Fa1Y0MlZGVnQzWEs1bDB4VEttOWs0OUJyeExFUHR5MGV5c04teUYtdlZlc25GZTdOUXhqS24wUnhXbmFLa1lJd2VkTG9sMFlUX2dFV0pCaEFWbS1rV09iYmhnMFBYOFgweE9WSkdTRzFOOXVzM3Q3TE52ZnFRLU1zVk5iblZobDZvOHR5NEp3SmxQQWRDVTZlc3gwbnhNSnhBT2NnbDI?oc=5"
+  },
+  {
+   "text": "Glosa: Klempíř v politice působí jako Alenka v říši divů. Z rockového frajera je ztracená mánička bez respektu - Aplausin.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE1sVDZtUVp4SUJBS3NLTG9BQ3JaRzVtWUlJNmVEbGlrWjJxeGFyOGxkSHVfai0wTTdfbWdtUTFQQjRNRjEyOElGLVBUMUVCMFlsZFRZdmxBMG4?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
