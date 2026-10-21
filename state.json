@@ -20,11 +20,12 @@
     "website:e1abbeabf97fe3a8",
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28",
-    "website:c3f9a45165370aea"
+    "website:c3f9a45165370aea",
+    "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T09:42:18+00:00",
+   "last_success_at": "2026-10-21T10:16:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T06:58:41+00:00"
+   "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
   "facebook": {
    "seen": [
@@ -35,11 +36,12 @@
     "facebook:2c4740170ae369cb",
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a",
-    "facebook:ae7efa227d5b3485"
+    "facebook:ae7efa227d5b3485",
+    "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T09:42:18+00:00",
+   "last_success_at": "2026-10-21T10:16:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T10:26:47+00:00"
+   "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
   "instagram": {
    "seen": [
@@ -51,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T09:42:18+00:00",
+   "last_success_at": "2026-10-21T10:16:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -59,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T09:42:18+00:00",
+   "last_success_at": "2026-10-21T10:16:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -471,7 +473,7 @@
     "news:57b0f42098e15df0",
     "news:f601eed5d336c61c"
    ],
-   "last_success_at": "2026-10-21T09:42:18+00:00",
+   "last_success_at": "2026-10-21T10:16:04+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T09:04:40+00:00"
   }
@@ -542,6 +544,9 @@
   },
   {
    "text": "Sportovní delegace z Hai Phongu je odhodlána získat mnoho medailí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxNaVdiakhwODlyQWxCd0NXR2pqbUtrc2JhU2dCTnVzUWQyZEg3cXdMcVJ4N1R0MmJWc0F3OTJ3U0c1TEZtQ0hZeWl0WWdQZ2VYLTNlb2x0SHduWFV4dTZ5RkJuNmFkaDBjbE5kTXkzazFjQWZONll6QmFZTEVYNDBJM1FKLVU2aFlnZmc?oc=5"
+  },
+  {
+   "text": "Památkářské Oskary\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6612cs-pamatkarske-oskary"
   }
  ],
  "last_digest_date": "2026-10-20"
