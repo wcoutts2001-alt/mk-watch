@@ -22,7 +22,7 @@
     "website:f5fb643ec8ac7c28",
     "website:c3f9a45165370aea"
    ],
-   "last_success_at": "2026-10-21T08:18:12+00:00",
+   "last_success_at": "2026-10-21T09:04:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T06:58:41+00:00"
   },
@@ -37,7 +37,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-21T08:18:12+00:00",
+   "last_success_at": "2026-10-21T09:04:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -51,7 +51,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T08:18:12+00:00",
+   "last_success_at": "2026-10-21T09:04:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -59,7 +59,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T08:18:12+00:00",
+   "last_success_at": "2026-10-21T09:04:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -468,11 +468,12 @@
     "news:cbb51848fefaff7a",
     "news:ce1ca691eed0c7f0",
     "news:eb8e461170751976",
-    "news:57b0f42098e15df0"
+    "news:57b0f42098e15df0",
+    "news:f601eed5d336c61c"
    ],
-   "last_success_at": "2026-10-21T08:18:12+00:00",
+   "last_success_at": "2026-10-21T09:04:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T08:18:12+00:00"
+   "last_new_item_at": "2026-10-21T09:04:40+00:00"
   }
  },
  "digest_queue": [
@@ -538,6 +539,9 @@
   },
   {
    "text": "Silnější decentralizace, ale bez snížení standardů pro ochranu památek. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RlNDNCeEQ1UTlWeC14bUpXSnMzUjRMUXhxRXk2Q3BHSDB4Zm9SN1hFUi1iNnNYLWxqTXRiOTVwRlhhZTE1WWJhVTRHLUJGVlpNZ1ZBeTAxODE5N0F3RHNFRU1qUTh0cnAtNUhoTU1VRkE3SF80OXZYelQxVDRiS3RwRlExbFdxdHZv?oc=5"
+  },
+  {
+   "text": "Sportovní delegace z Hai Phongu je odhodlána získat mnoho medailí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxNaVdiakhwODlyQWxCd0NXR2pqbUtrc2JhU2dCTnVzUWQyZEg3cXdMcVJ4N1R0MmJWc0F3OTJ3U0c1TEZtQ0hZeWl0WWdQZ2VYLTNlb2x0SHduWFV4dTZ5RkJuNmFkaDBjbE5kTXkzazFjQWZONll6QmFZTEVYNDBJM1FKLVU2aFlnZmc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
