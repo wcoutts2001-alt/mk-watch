@@ -21,7 +21,7 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28"
    ],
-   "last_success_at": "2026-10-21T01:10:49+00:00",
+   "last_success_at": "2026-10-21T01:44:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T11:27:15+00:00"
   },
@@ -36,7 +36,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-21T01:10:49+00:00",
+   "last_success_at": "2026-10-21T01:44:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -50,7 +50,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T01:10:49+00:00",
+   "last_success_at": "2026-10-21T01:44:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -58,7 +58,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T01:10:49+00:00",
+   "last_success_at": "2026-10-21T01:44:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -448,11 +448,18 @@
     "news:5e4a20c021f1dca3",
     "news:90cb1f5bab4510bd",
     "news:a3653d8382913557",
-    "news:bf3e2c2812403703"
+    "news:bf3e2c2812403703",
+    "news:b44e5e36ee9dc9ec",
+    "news:e0e6925ccd1551dd",
+    "news:93b26c62daeea574",
+    "news:4c9fa7e5a8234c0b",
+    "news:391fe3de79497726",
+    "news:8ad226ff0322bd7d",
+    "news:a0851c9f029309b7"
    ],
-   "last_success_at": "2026-10-21T01:10:49+00:00",
+   "last_success_at": "2026-10-21T01:44:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T23:19:42+00:00"
+   "last_new_item_at": "2026-10-21T01:44:20+00:00"
   }
  },
  "digest_queue": [
@@ -482,6 +489,21 @@
   },
   {
    "text": "Bridge returned error 302! (20746)\n(Instagram)\nhttp://localhost:3000/?bridge=InstagramBridge&context=Username&u=ministerstvokultury&action=display&format=Atom"
+  },
+  {
+   "text": "Vláda navrhuje zablokovat přístup k pirátským filmům na internetu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxOU3pDZmh6WW81YUlaeWFrM2N6NzZSbTR0dDNrVVRfUTAxV195UzFYNTdhLUtYSFpPamhzTjdCelF1aWlEOE5mRF9pSmlWa0UzYXdwRFNrRWlENG15LWJXc0FmSWJuMGNTaU1GUG1PSUFGZThKMnZ6YnlmZTJLcUlqX2VSOVRvdzdSV0RjQg?oc=5"
+  },
+  {
+   "text": "Kdo měl možnost slyšet legendárního zpěváka Andreu Bocelliho poprvé ve Vietnamu? - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3JXZmEtOXdzLTExeXZaWm1nZE1JM1AyRzJKVWF6d3dSWFE2R0tkYWNRbjdMeUphOHpTN2tMcVZDb21WSW5TajhZb1N5RGY2VWhpaGJPRTltNWNEREpickYzNHo0U2tRYUwzVDl1M1lmUjZORTNoVmFrbnFBcllvZVJjT1ZNZEhYVlN5RWJwcUI3ajNObllZ?oc=5"
+  },
+  {
+   "text": "Představujeme 6 vynikajících filmů na Týdnu italského filmu ve Vietnamu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQRVZUYTlrREEzbTFWdkZJeWMwWEdLbFQ5LS1NRlFReFlGbEdwMnF0QjNYM2VEQ2xfdHh2QktOV2kta25xeUxTXzg5VE9mZmw4d0RsT0lkczVvZDZpNDJ4c1RId0xWMV9qeGxqQ05WYVFlVFV3NzNOMTM3MXV5dWxsUEF0RDJyUzdiQkhERFJzVWdZMTdEQWVSZUV1amtvOGJmSVkxWER3?oc=5"
+  },
+  {
+   "text": "Ta Lam Nhi: Potomek zakladatele cirkusového průmyslu v páté generaci korunován Model Kid Vietnam 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxOb01pNER6ZGlZcUNtUTdRcWtKX244LUhYNHEtc2NlUW51WDJrc1FZUWMtNS1STVZjTlBWamNYeTA5ZFNIeWZManR2UEVTRkx4TDNJNDlOc29DZE91WWRxSnBBWF9abzJOaFJhRW8xWjVxWmJjRFVLbFhBQmgtUmJxcEp5REpCLWtvMWZlb3hjM2tnZ21qSGJHem9GdUxScy1KV2FVZzJ4WU5GNXVUMVlGWA?oc=5"
+  },
+  {
+   "text": "Lang Son: Budování a udržování modelů, které efektivně podporují místní kulturní a sportovní zařízení. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjZHdzBhRGt1d3RhWjBheTBZOG4wSDgtVnZHaGczUzhMRWFtZl9WemtUNmgyU0xfbGlKZm9RNDFSS0h4SUhTdlhncGVGcFNaU3F5T3pLUEtPMUhXOTFURGlsYjRwX0pnNGNPMlRoUFN1cEkyZVUxaHQ3ZmkyZ2R3emZBVHN1SG5DZW9ZM3lnaGNCNnhETVFQNkJ4emtBYkJNS1djWmcyOGxVNkRacUMwRUdxMFpLdDc0?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
