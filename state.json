@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T14:17:31+00:00",
+   "last_success_at": "2026-10-21T15:00:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T14:17:31+00:00",
+   "last_success_at": "2026-10-21T15:00:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T14:17:31+00:00",
+   "last_success_at": "2026-10-21T15:00:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T14:17:31+00:00",
+   "last_success_at": "2026-10-21T15:00:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -476,11 +476,13 @@
     "news:d61c7e5d6aff0bd3",
     "news:8477f30592a24bac",
     "news:3f3db854cac64bb9",
-    "news:eaaf584a0743abb5"
+    "news:eaaf584a0743abb5",
+    "news:2cd212e59ff96718",
+    "news:835edfa67db5fb33"
    ],
-   "last_success_at": "2026-10-21T14:17:31+00:00",
+   "last_success_at": "2026-10-21T15:00:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T13:33:10+00:00"
+   "last_new_item_at": "2026-10-21T15:00:26+00:00"
   }
  },
  "digest_queue": [
@@ -564,6 +566,9 @@
   },
   {
    "text": "Problémoví ukrajinci? Nazývám věci pravým jménem, proto jsme vyhráli, říká lídr ANO v Plzni. - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxQZTdzT2dVN0RRX1RFR3hjMy00NlpuOXR0T1kyZ0lISmJoRHJIdVUxU0NreWxhbHhBemhlc3Z2NlVnMXZsZFFJa0NCa3VDblJwSy1qUElKMnkzaXE2YVJ6MExEZC0xMWdOcW9LQ2FIbUhfb1JVOTVWUklxTTZCdDMtOW5HY0F0T1oxRU5YaGJLMWJocktIN01WWk5hRnNzT3p3ZmZYdnRLZm1DTWRrQkVqd1JDZDgzVUlpa0xSalExZVp3OUhvZ1R5VWFhUkNaM05vSkE?oc=5"
+  },
+  {
+   "text": "Je ministr Klempíř nepřátelský agent, když odmítá dotovat oslavu 17. listopadu? Nemyslím si - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmJCVDlya0hvSDdzSDNVVV9HZl9IZ0pqaTlNVk9JQ3dfWFNyTGQtLU9oLXRTS1ItWndOTnRWVDVvdWIyUmRlOHhkaXhsaTlGNVlNcUV5ajdiWU9tbERMNTUzWHpPT0JGRFJOQU5LUzRNUGFjV3l1WnoyRHg4NnNfV1VxdjhvUHlySFI2R1JrMXFfRUNlbHBLWXRLRjh1NnY3M1pYczZxMXJYMDJEU0FJVk5VeEQ0UmtDbV9RRHhHZ2l4aUwwTDByVmNkcnB2OXFfOVZpWGNDZ0czNUV3N21xTNIB4AFBVV95cUxPWmJCVDlya0hvSDdzSDNVVV9HZl9IZ0pqaTlNVk9JQ3dfWFNyTGQtLU9oLXRTS1ItWndOTnRWVDVvdWIyUmRlOHhkaXhsaTlGNVlNcUV5ajdiWU9tbERMNTUzWHpPT0JGRFJOQU5LUzRNUGFjV3l1WnoyRHg4NnNfV1VxdjhvUHlySFI2R1JrMXFfRUNlbHBLWXRLRjh1NnY3M1pYczZxMXJYMDJEU0FJVk5VeEQ0UmtDbV9RRHhHZ2l4aUwwTDByVmNkcnB2OXFfOVZpWGNDZ0czNUV3N21xTA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
