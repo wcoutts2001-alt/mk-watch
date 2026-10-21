@@ -22,7 +22,7 @@
     "website:f5fb643ec8ac7c28",
     "website:c3f9a45165370aea"
    ],
-   "last_success_at": "2026-10-21T06:58:41+00:00",
+   "last_success_at": "2026-10-21T07:40:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T06:58:41+00:00"
   },
@@ -37,7 +37,7 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485"
    ],
-   "last_success_at": "2026-10-21T06:58:41+00:00",
+   "last_success_at": "2026-10-21T07:40:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T10:26:47+00:00"
   },
@@ -51,7 +51,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T06:58:41+00:00",
+   "last_success_at": "2026-10-21T07:40:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -59,7 +59,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T06:58:41+00:00",
+   "last_success_at": "2026-10-21T07:40:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -464,11 +464,13 @@
     "news:975b0922f845c2a6",
     "news:a7d356b8ef504445",
     "news:4cf10225c2c01add",
-    "news:933a721b95dd4d5d"
+    "news:933a721b95dd4d5d",
+    "news:cbb51848fefaff7a",
+    "news:ce1ca691eed0c7f0"
    ],
-   "last_success_at": "2026-10-21T06:58:41+00:00",
+   "last_success_at": "2026-10-21T07:40:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T06:13:13+00:00"
+   "last_new_item_at": "2026-10-21T07:40:30+00:00"
   }
  },
  "digest_queue": [
@@ -528,6 +530,9 @@
   },
   {
    "text": "SWAP rostlin a doprovodné akce k výstavě Historia naturalis 23. 10. 2026\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6611cs-swap-rostlin-a-doprovodne-akce-k-vystave-historia-naturalis-23-10-2026"
+  },
+  {
+   "text": "V provincii Dong Thap získaly dvě organizace pochvalné certifikáty od Ministerstva kultury, sportu a cestovního ruchu za své fotografické aktivity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxOVlVvTlk0VG1ldUl4QmI1bmVzdHFUWnBPMEVZdmFhMDdFTkh5dUdhanI2YXhSVEJ2NTNUOWdXUmdFMXBoLVgxMlBkWENkZWJpSWs4T195NGxWYmpBeFRDd3JjM3ZJemZvS1ItY1hWbUZfWFZUbWp2NnZINWtVdFdBQlpLME9aU19CREZoR3dJMVcteVdwd0pmYmUyZFN2aHZLa243aG9MOWFkNlNEWFh2S2t6X2l6ZExJNlhTQk5WYw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-20"
