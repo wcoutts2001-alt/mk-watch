@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T17:39:18+00:00",
+   "last_success_at": "2026-10-21T18:10:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T17:39:18+00:00",
+   "last_success_at": "2026-10-21T18:10:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T17:39:18+00:00",
+   "last_success_at": "2026-10-21T18:10:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T17:39:18+00:00",
+   "last_success_at": "2026-10-21T18:10:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -481,13 +481,22 @@
     "news:835edfa67db5fb33",
     "news:480cf1e069346874",
     "news:1bcd0f85f5c3a2fc",
-    "news:a020d294853168d7"
+    "news:a020d294853168d7",
+    "news:38911c216b660721",
+    "news:6d38c7e0da76260c"
    ],
-   "last_success_at": "2026-10-21T17:39:18+00:00",
+   "last_success_at": "2026-10-21T18:10:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T17:39:18+00:00"
+   "last_new_item_at": "2026-10-21T18:10:30+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Speciální program Koncertu přátelství k oslavě 55. výročí diplomatických vztahů mezi Vietnamem a Dánskem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxPYUlVel9XZEF4enA2Vjl3ZDBJYTZBeTNBQ01yU1BhWmZrY000SHFpZDV1VThuOHJia29Zd1RYOEZzeVZtTUcxazA1SXhHbG9NenRVajAtYWpGNjVxOFlPQWU5S0c4Z0hBQ18zNmZEX2VNaDZjSXBKcy1vaHhBNUMyYjQyT2VMelVLdTVmV2VMSVZVcU9UaEJlUTZCZmxCQkRaVlRjUktEMGhnSU1hMGkwcmFLbnVGeGhXcmhNMUFLR0g0Umc4YURGWjRGZnNSS0ZuWGI4?oc=5"
+  },
+  {
+   "text": "Shrnutí 10 let implementace vládního nařízení č. 72 o fotografické činnosti. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxNVmpjRU1VTlBpLXp6MldIYk1iUkIxUGppQ0JBSGdNeWJhc3pyb2R6U3dMeldycnZsUzU3dXkyZkNGdDV5a1A3VVFQakJfMjVqSld3TEVZOUN3b1hHVmdlRkpiWGNuWGd0eXJGdldmZ0VTbFh0aTBVekxsTFJ1MnlGWmhKZFZ0bUU5STFvUVNsUUtLQkRGMHFpSWlOazBrckNjQk9XR21ydw?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-21"
 }
