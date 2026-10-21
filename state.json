@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-21T20:24:13+00:00",
+   "last_success_at": "2026-10-21T20:58:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-21T20:24:13+00:00",
+   "last_success_at": "2026-10-21T20:58:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-21T20:24:13+00:00",
+   "last_success_at": "2026-10-21T20:58:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-21T20:24:13+00:00",
+   "last_success_at": "2026-10-21T20:58:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -485,11 +485,15 @@
     "news:38911c216b660721",
     "news:6d38c7e0da76260c",
     "news:3d0d5e7ff51a18e4",
-    "news:9c452d3a98a87aa9"
+    "news:9c452d3a98a87aa9",
+    "news:bf95c38171f682b6",
+    "news:9508fee16f852639",
+    "news:f752b0479b78a107",
+    "news:ecd2426528c83e41"
    ],
-   "last_success_at": "2026-10-21T20:24:13+00:00",
+   "last_success_at": "2026-10-21T20:58:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T19:58:01+00:00"
+   "last_new_item_at": "2026-10-21T20:58:33+00:00"
   }
  },
  "digest_queue": [
@@ -504,6 +508,15 @@
   },
   {
    "text": "Ministr Klempíř žádá úspory ve Státním fondu audiovize - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQdktSRG9yeFNfdzJXU3J6NURsR2Jxb3ZJWUNwZm9JZGI0UFg3dkJtVkZMc1BOWkhEUXA1aURlMkQ2cXJvUnRQNFgxV3lscjZLeExwbENfbk1yWlhpazltNjZqaDRSSVhYWmEzR1VYRTZZR29ZY2tYVWNsZXU1dGZoeTloYzVIT1k1OVpLV0R6OElHUVByYnJiVThTTFNxREJjWWNrLVhfWQ?oc=5"
+  },
+  {
+   "text": "Hanoj ​​začleňuje kulturní normy chování do 10 praktických modelů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxQUVBuNXJhRDVsLUVlZjdIZk1EakQwRW5TTHdLelRsNjBSMVFfOE5LbV9LTjFzeld4TzluNlYyeWdQSER1R3k1WXY2M0Z5aFF3dzRVMDhjRTVvcXN5dXRPa2ZTWVpOcTdsNDg0Rjlma01uVElyM293SG9nVDRhMjJkTllR?oc=5"
+  },
+  {
+   "text": "Zahájení implementace kodexu chování s cílem vybudovat elegantní a civilizované občany Hanoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxOTnI4cm4tclExd1BTVi1XamU1VFk5RUwxLXdBTUt2WHZpTzdjOVJmcG5meGxiblhmSGlwZEo2Nk5JNFExd1lKc1JwdWFpaHZaMTB5QW1vd3hEaF93TEowelozQm9qbFdGN2p5TVRHbl8yX24tdUNqbkRYa1U3OFhUdTlsQnFrYVFCQlMyOTVQVUJFMEFKU3ppYzkwclNIN2xSaE5wcjh6M0tPTTF6Y3EwNUFFaw?oc=5"
+  },
+  {
+   "text": "Společnost Samsung Vietnam udělila 160 stipendií studentům z Univerzity tělesné výchovy a sportu Bac Ninh a Vysoké školy umění Viet Bac – oddělení mezinárodní spolupráce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwJBVV95cUxNVi1lTFdMSnU2ZmNOV25tRnhsb1VnZ0ZMSjBRZE5Hd2VjeUxsTUh3bXd4ZDRxR3h1VUplUmFydDd2VjEwMXNSM2U3TnJ5d1NoalgxdjNQQTAtS003MmRTWUhmVW1SOEMzOGlpTEpVeE0zRDRNMnFKcnFoOEt4ZEdHSTRYZi00MzZWSHpldlNzSnZXcWxodXZ0YUFIcUgwa19tRjJwSXY3ekoxWXdLLWw4UjZiTlA4QnRXSFp1d2ZyY3dtOTdBbGVqeTBUQ2dER3pEVVRzcXQ3aWQxblJ2dENtMUVDaFczTWxjTVN2U0tCRUt2X3gzQ2dmdVhBTXBMdE9jMEFfWjJlQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
