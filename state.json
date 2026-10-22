@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T09:06:14+00:00",
+   "last_success_at": "2026-10-22T09:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -41,7 +41,7 @@
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439"
    ],
-   "last_success_at": "2026-10-22T09:06:14+00:00",
+   "last_success_at": "2026-10-22T09:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -56,7 +56,7 @@
     "instagram:5d69097e9596fd49",
     "instagram:221389554b3817a2"
    ],
-   "last_success_at": "2026-10-22T09:06:14+00:00",
+   "last_success_at": "2026-10-22T09:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -64,7 +64,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T09:06:14+00:00",
+   "last_success_at": "2026-10-22T09:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -516,11 +516,13 @@
     "news:9e2dc70f63aba031",
     "news:0be2a1cd6e88458f",
     "news:b3a99e72e0a2373e",
-    "news:873478cd79f32fb5"
+    "news:873478cd79f32fb5",
+    "news:323a1dbfb2044901",
+    "news:fb248760bcce252b"
    ],
-   "last_success_at": "2026-10-22T09:06:14+00:00",
+   "last_success_at": "2026-10-22T09:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T09:06:14+00:00"
+   "last_new_item_at": "2026-10-22T09:44:27+00:00"
   }
  },
  "digest_queue": [
@@ -616,6 +618,12 @@
   },
   {
    "text": "Efektivně organizovat kulturní a umělecké aktivity k připomenutí důležitých milníků ve vztazích mezi Vietnamem, Laosem a Vietnamem a Kambodžou. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0VzbGozTV8yTHpTcEkzNGRKWFZIY2pDX3lCRTk5SUpycnJDbDRHel9NSFNxblJKUEgyQWFTOHh4Z3hOQVZYcjA1YlgwWnk0eU1zRHJ5cldVYjBYYlRMSGdBMDhPZ3VHVVJlRHVIaktHXzF4ZHJPWkVkTDlibF9xdUtGbmdjT3I3UThhV3pid3VkZWd3NUxKYS1OSlV0WEpSeTlnVEszZjZzeTk1WFhrYjlJNUtZMmt4dWZGMXQxN1dOSDh2Y055c205MjZnZTd5SWJZdUU2dHR1WG9PTUg0X2N2Y0RWdw?oc=5"
+  },
+  {
+   "text": "Klempíř nedá peníze na oslavu 17. listopadu v Praze, pošle je hejtman Kuba - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxPWXQ2V2xITmthQ1VSTURFWGhyZXJZcVZvYnFLeDVEUWNxbnlCUS1LYVZyLWFUVlZOcG1RYkJ5UWFpdjFjbENjTWRqZmE0Zm9GeUo0c1NMN0ltYWI0cEpyV3ctcXVYSUlRcjNsZy1PdDFJSEdMRTUxc2RVMF8zVW56M0Zn?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh: „Když chodíte, dokud vás nezačnou bolet nohy, vidíte jen namačkané domy, je to tam dost dusivé.“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNSXlFU0Z5LUt5aFo5VFk5TUF6RjZwSnVablVPMF9XTnplQ3BsZWwyb3ZBMVVNenNuZGlvSHF3bXFrejJ4d0tkaG9QNDFGd2hKNVhmaC1SVnJUSUhQSDh2R1MzMjhkZXh1cWw5SWVoNHpERzJOQ3hKTDJKSVJ4VlFvZ05ZWVQ1Vl81ZTFGRHE3NmgxcXNnZXRqQjg0QkZVNkdfTi1XUkFMYV9jY0hKVUdCSlY4OA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
