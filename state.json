@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T17:38:39+00:00",
+   "last_success_at": "2026-10-22T18:08:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -44,7 +44,7 @@
     "facebook:16cb640dd456fb96",
     "facebook:8ae18b1c493ab53d"
    ],
-   "last_success_at": "2026-10-22T17:38:39+00:00",
+   "last_success_at": "2026-10-22T18:08:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T16:16:10+00:00"
   },
@@ -60,7 +60,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T17:38:39+00:00",
+   "last_success_at": "2026-10-22T18:08:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -68,7 +68,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T17:38:39+00:00",
+   "last_success_at": "2026-10-22T18:08:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -552,11 +552,14 @@
     "news:62275103bed700fa",
     "news:9086d25e5fd9ed88",
     "news:074cd520b0d014ac",
-    "news:8298487b0b5a5b7b"
+    "news:8298487b0b5a5b7b",
+    "news:4521ef553e207dfc",
+    "news:9d37bdd48ee3ab33",
+    "news:e6c9278acfb8adde"
    ],
-   "last_success_at": "2026-10-22T17:38:39+00:00",
+   "last_success_at": "2026-10-22T18:08:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T17:38:39+00:00"
+   "last_new_item_at": "2026-10-22T18:08:37+00:00"
   }
  },
  "digest_queue": [
@@ -574,6 +577,12 @@
   },
   {
    "text": "Už žádné státní peníze pro Colours of Ostrava a Rock for People? Klempíř brzdí svého náměstka - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGRQNXFOendqeHJiZ0h3aGJTWDRSVGo4bEhsa3RTWVlrMFZPYklnTE5MN3o5OTQyeDlmMGQwaXZzN1JibU8yMlllLUlaTHBvZ2kwUGJ6T21GcWpSZWlnV3VrZ3kwN2I3TWJ0QkdxVWdfQUJENjBqZDhSeTdsdmcxWWtTQURTOTROaUo1V1FmQ0xxYUFncGVCOFAwVDFYYmRYaUZqUE1PZ25oTTd2R2Q0VTFNcnk0bWhaNG02WXkxMlVjNF95QnE3eGlla01YZXBaU1l1aTlRRm1HQ3c?oc=5"
+  },
+  {
+   "text": "Klempíř podle Radiožurnálu poslal mimořádnou kontrolu na nezávislá divadla - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE9tLXp4bnRqMDlESFFBNjFvSTdjSWpoOGlmcmh2UGRzbDRwMXBQa0c0NXl4UHZNYXk0U1h6VmxCakhnV1ZfVDJWMUZpX0hFV2E5ejRn?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu zintenzivňuje komunikační úsilí v reakci na Měsíc akcí pro vietnamské seniory a práci související se seniory. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxPR1NLVTdsQU93UFlhTW1USzRMczhVbWU4ckxvakJsTXJwdGplazk2Y2JiQm1TbEU4SENpWmx1MlNrd25MRUNNRllQVEhPcF83c01jTEM1Sngyc1NaOW1BSnl4LVR5X1hyQjNpT0tOdHpINFlzQ2dBdl9nS2FJU1ZpN0JQaXlrU0NCS2R0YlBfMXBVbTY2TkR3MHZoNjdvSFB0TE52VE04dnRzV2dGMjVBQlpBVlNRM3VENEFjWEptbjJQcXliVkloSVZ5UHBwekNIX29r?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
