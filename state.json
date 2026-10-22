@@ -21,11 +21,12 @@
     "website:db7b2a94431b55b3",
     "website:f5fb643ec8ac7c28",
     "website:c3f9a45165370aea",
-    "website:2d1ce073cbcbcdec"
+    "website:2d1ce073cbcbcdec",
+    "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T06:57:12+00:00",
+   "last_success_at": "2026-10-22T07:39:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T10:16:04+00:00"
+   "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
   "facebook": {
    "seen": [
@@ -39,7 +40,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T06:57:12+00:00",
+   "last_success_at": "2026-10-22T07:39:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +54,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T06:57:12+00:00",
+   "last_success_at": "2026-10-22T07:39:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +62,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T06:57:12+00:00",
+   "last_success_at": "2026-10-22T07:39:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -505,11 +506,14 @@
     "news:b4531d348820cd71",
     "news:cb50827cfc54b0f4",
     "news:9f8acb315659825a",
-    "news:b47b4aca85a22e25"
+    "news:b47b4aca85a22e25",
+    "news:776cd3bf6ad08d7c",
+    "news:fffe8798d68d9f2f",
+    "news:c02eca959e594db8"
    ],
-   "last_success_at": "2026-10-22T06:57:12+00:00",
+   "last_success_at": "2026-10-22T07:39:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T06:57:12+00:00"
+   "last_new_item_at": "2026-10-22T07:39:52+00:00"
   }
  },
  "digest_queue": [
@@ -578,6 +582,18 @@
   },
   {
    "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. S jejich kritikou jeho politiky to prý nesouvisí - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFh2MkJITkVrVThnbG50ajBGNGd6cVU4RXJKejd4eWkweHpwRG45VUQ1UDNJNU51cWVUNER4ODhqTGs5REpveW5GZmJpczl2WHNTZmUyeHBscldNNmFiWE1oRlpNSjR5bkUzeThCRm1HczI0VmFDME9RQkRGOEpXdkhoRjFEbTJwQlV4UVc1WjRBTGQ3WUZNZUVsdTV2cXFIVE5oNnF2N3FyRFNhQlpFUU1Hb05JS3d2SXRLcHBUZERlblRvMWJIYnpmMkVMcWY3aUlLSXRMR3FmdEtuejdV?oc=5"
+  },
+  {
+   "text": "Podzimní prázdniny v muzeu nabídnou tvoření, řemesla i muziku\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6613cs-podzimni-prazdniny-v-muzeu-nabidnou-tvoreni-remesla-i-muziku"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQaEpleXVBQm0wcy1TZDAwZkRkb1RxQWlCRm1OYTJITk5LM0dUMnp2WERka3p5bEFTMjdZZlNXUV9lM1Z5TFNRcE12MHdrbjRTNFJOSXZuUVVaczEzWDBULUI4bDcwTkxCRUJQY1dBclVoRWQ0YzdaN1NVZ0hBRzFYdWhUSXRGdGJJdHJfS01mU0dBZFdxZkNmWlZud3hrYW9aa2JyYnBqWnNMZTNWWVVCLW1PNA?oc=5"
+  },
+  {
+   "text": "Klempíř chce seškrtat fond audiovize o miliardu. „Vše funguje, není důvod ke změnám,“ namítají producenti - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxQaG9RbDdpLXZTRmhnWUlTYnNKUzlLUzkxVGlnVU1Za2ZTQkRMa3U1R3JoejlCZ0JJUVVTV2VqcXlHTmthTXV6c0dCZDRLaVM2SERmdXgzZkd6ekJZcDJGM1d0LVBkTlM4YWRfaGtrOGZTaUpobFRKZkNQcC04MWtfNWFNZWlqU0Q2bHpYTjdwR2lTVnp4UVNaWGtIblNjX0NneDNsa1ZCZU8xeG5SZUM2MFdhOU9ERVNMY2RWMnJZLU1NVmNMREE?oc=5"
+  },
+  {
+   "text": "Klempířovy nekompetentní zásahy v kultuře ohrožují její nezávislost - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2VCR0tCYmtoLVZ1Z2hUSVJfUmI0ZXJQaDFyTkJzMllVMlRVbTYyX1duLXFHdEF4MHU4TkRlbzJsODI0dXJDOXoxbVd4ZE85djBUNDBrWlFqOS1weGduUEw2NjNPUXRZazExQktydjhzWmViT2dZQmQ5ZkpUbXdMVlAzWVZEZjFTZFR6QkUwblU1X2VtcldyQkxPOVYtaDZFdlByS2FWdWk?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
