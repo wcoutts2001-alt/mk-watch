@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T11:32:21+00:00",
+   "last_success_at": "2026-10-22T12:13:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -39,11 +39,12 @@
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c",
-    "facebook:cb1c6bde77504439"
+    "facebook:cb1c6bde77504439",
+    "facebook:16cb640dd456fb96"
    ],
-   "last_success_at": "2026-10-22T11:32:21+00:00",
+   "last_success_at": "2026-10-22T12:13:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T08:20:59+00:00"
+   "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
   "instagram": {
    "seen": [
@@ -54,17 +55,18 @@
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49",
-    "instagram:221389554b3817a2"
+    "instagram:221389554b3817a2",
+    "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T11:32:21+00:00",
+   "last_success_at": "2026-10-22T12:13:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T08:20:59+00:00"
+   "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T11:32:21+00:00",
+   "last_success_at": "2026-10-22T12:13:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -526,11 +528,15 @@
     "news:8c8613ab9cf9090f",
     "news:38f0ea853d164d94",
     "news:4eb5b52a561cfb24",
-    "news:a9014c9d7f3d2849"
+    "news:a9014c9d7f3d2849",
+    "news:43cdee5ab8af3c50",
+    "news:41d1453b575c6d8d",
+    "news:a5f94bce815fe2db",
+    "news:dbc21f2e7dae7750"
    ],
-   "last_success_at": "2026-10-22T11:32:21+00:00",
+   "last_success_at": "2026-10-22T12:13:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T11:32:21+00:00"
+   "last_new_item_at": "2026-10-22T12:13:27+00:00"
   }
  },
  "digest_queue": [
@@ -653,6 +659,12 @@
   },
   {
    "text": "Co vše ustojí špatný ministr? Více, než si myslíte - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxONldmRkZ4X254dGpCSGN2bnNfSXVTMkFKUWFMMmlySWQyOTVwSFpGaGJKcUpzUENqa2VwLTJLOElFVU55SmJCR284N242ODBMQl9GbUl4Zk1NaGhfODU5UHZjVGlOZmY5Ty1JbXA2eE1DRTRfZ0hFMjFCN2tJLUpoWQ?oc=5"
+  },
+  {
+   "text": "‚Hraje se o mezinárodní ostudu.‘ Klempířův resort chce ušetřit až miliardu v audiovizuálním fondu - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnhtTExxemZmTHJ1X1hNNFBKbDZlbGRUT25yYjhFQlBxR2ptMnBnb0YtU2JuMVhwdG5qTFZ1dU40cmczM1pyWFMtS2FSdU4yTUM0RFNBeDJsMUcwYm5PUDlxNkp2Njk1MENheU1Pb1JpRUxYRnIwLXlOc3JDWlFFT1hNeV94ZHowSXRCWG1URS1SLXlBQ0NpaXIyQjhvTTdPMEMySERIMUU4TmNYX0RGcXdRbk5KYVdlQ3dJUGpvczBnZ0k?oc=5"
+  },
+  {
+   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgJBVV95cUxOTzFRR29kQ3NibmRtMG9wNWlyZUVIdjcwS2NjQ2pFd3FraGJtV05FanJUT1N4ZTFKQV9RaXVjaFpyd01jeGg1T0lmVHhRNnZ4ZUp1RktiM25ZSXl5RHhTay1PZ0R0U21PYmVfaHk0OFN5UW5KM3NOc2YzaHNmTW1OOS1TQ2FsOUVfMTJEdzNOb1k1MkhxdzdtcmluVXZ2U1JKY3J0ZjcwQmlaQzFEWjZnbDVwRVRhbGIwVVBOeXYxS01YS3FDeTd2djNCU2RJd19TSFZrSkswTEFndEJqZGtiS01mOTRmZ2t4RkhWbkNUdlpWWmVlQ2Y0cURHcjRjT0prOFFuNlpla3VvTUM1cnp3RlZYSG5SQ3FjNzZwUC1ocGhVd1lfTnFBdEFrb3BEWXBjRmgtcWpn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
