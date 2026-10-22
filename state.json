@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T10:19:03+00:00",
+   "last_success_at": "2026-10-22T11:00:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -41,7 +41,7 @@
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439"
    ],
-   "last_success_at": "2026-10-22T10:19:03+00:00",
+   "last_success_at": "2026-10-22T11:00:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -56,7 +56,7 @@
     "instagram:5d69097e9596fd49",
     "instagram:221389554b3817a2"
    ],
-   "last_success_at": "2026-10-22T10:19:03+00:00",
+   "last_success_at": "2026-10-22T11:00:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -64,7 +64,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T10:19:03+00:00",
+   "last_success_at": "2026-10-22T11:00:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -521,11 +521,13 @@
     "news:fb248760bcce252b",
     "news:8f346056a4a8e9c7",
     "news:b5694e1ef1b56250",
-    "news:bccedb6b73525005"
+    "news:bccedb6b73525005",
+    "news:1ec1bc7d71c26f0a",
+    "news:8c8613ab9cf9090f"
    ],
-   "last_success_at": "2026-10-22T10:19:03+00:00",
+   "last_success_at": "2026-10-22T11:00:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T10:19:03+00:00"
+   "last_new_item_at": "2026-10-22T11:00:09+00:00"
   }
  },
  "digest_queue": [
@@ -633,6 +635,12 @@
   },
   {
    "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. Odveta, říká člen rady - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxPTldDUndSN1JGUl9GMUNnbXR4dE1BRGNxcWZHMnNuT0ZGdDFpbGpERnBlMmdMT09VbEdLdE1HdGQzbkEtOUhSa1V3VF9Dd1FJc2VPNXN4V0h2RGM5VE5SSldkV0xpZlRocjMzVjJqME1kbXNhYjk1S08xNHZVcW43dWZRVERjOUlrMVRwZk0zZUtUWGdiYTdXQ3oxQWhrSktVbm1VUmFyNmg3Zm5HYkI0RHp3M1l3ZHFRb21vRklWX09BRjMwZFdnRWtpdXo3ZzlEb2fSAdIBQVVfeXFMT05XQ1J3UjdSRlJfRjFDZ210eHRNQURjcXFmRzJzbk9GRnQxaWxqREZwZTJnTE9PVWxHS3RNR3RkM25BLTlIUmtVd1RfQ3dRSXNlTzVzeFdIdkRjOVROUkpXZFdMaWZUaHIzM1YyajBNZG1zYWI5NUtPMTR2VXFuN3VmUVREYzlJazFUcGZNM2VLVFhnYmE3V0N6MUFoa0pLVW5tVVJhcjZoN2ZuR2JCNER6dzNZd2RxUW9tb0ZJVl9PQUYzMGRXZ0VraXV6N2c5RG9n?oc=5"
+  },
+  {
+   "text": "Klempíř poslal na nezávislá divadla mimořádnou kontrolu - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxQcXVSUkR1NGJUd2IxN001clFuSTZPbHJsWVgzMVVLcHJyQ0t3LTRfNlloaDFSTW0zUGs4U1ZMLVhUVTRqdnlJR2l0Q3RqQXBZQzVfQzdoMk1Rak8zRzFvbnhwT2VoeklFdmUxZlE4QXVQSkozUTNrYzVRUHlIb2haMHlsS3VTVDFCSkVlRWFWUV9JRTZUdWthaEZzOFJxQ0RNZ2t2RU5VUDRkNW1RbkRITDRiMGvSAbQBQVVfeXFMUHF1UlJEdTRiVHdiMTdNNXJRbkk2T2xybFlYMzFVS3ByckNLdy00XzZZaGgxUk1tM1BrOFNWTC1YVFU0anZ5SUdpdEN0akFwWUM1X0M3aDJNUWpPM0cxb254cE9laHpJRXZlMWZROEF1UEpKM1Eza2M1UVB5SG9oWjB5bEt1U1QxQkpFZUVhVlFfSUU2VHVrYWhGczhScUNETWdrdkVOVVA0ZDVtUW5ESEw0YjBr?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město hledá řešení pro zachování a rozvoj nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3hGVElFOGVSMkFQczJaakE5VXRrOWNBblhQVVloSmF4LXBaYTd4TlJfVnR0RlYzMlUwWE82Tm1jMF9ORExVRENmdG1TNXNoakJOTnZFVTIyNUZ6VHRfTGVybXhhaFNjVUZaLVEwNk9EUWNReHE1NmJCNDF2ejBvX1dZNVdQQ09qZzlFVGZCY2todXJ3Vks5WGlCTUpKbWktV283WWVQSQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
