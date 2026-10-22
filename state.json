@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T16:16:10+00:00",
+   "last_success_at": "2026-10-22T17:00:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -44,7 +44,7 @@
     "facebook:16cb640dd456fb96",
     "facebook:8ae18b1c493ab53d"
    ],
-   "last_success_at": "2026-10-22T16:16:10+00:00",
+   "last_success_at": "2026-10-22T17:00:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T16:16:10+00:00"
   },
@@ -60,7 +60,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T16:16:10+00:00",
+   "last_success_at": "2026-10-22T17:00:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -68,7 +68,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T16:16:10+00:00",
+   "last_success_at": "2026-10-22T17:00:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -544,13 +544,35 @@
     "news:9de95fcfb1a06e5f",
     "news:86417793791325a3",
     "news:8d68b9c53a08554f",
-    "news:e368d875bdeaccef"
+    "news:e368d875bdeaccef",
+    "news:9920000a08d4bb46",
+    "news:20dab2cb89a7baa0",
+    "news:859139e4578b961c",
+    "news:b38a4f5f286ddda9",
+    "news:62275103bed700fa",
+    "news:9086d25e5fd9ed88"
    ],
-   "last_success_at": "2026-10-22T16:16:10+00:00",
+   "last_success_at": "2026-10-22T17:00:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T16:16:10+00:00"
+   "last_new_item_at": "2026-10-22T17:00:31+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Na Korzo Národní se už vybral milion, který odmítl poslat Klempíř. Z dotačních komisí mezitím utíkají členové - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxORzh3UmtQYXNyWmczVVotd2FDOUZyckppTlk2OHFBa1RQZHc5TWZDeGdUSnFmMXhpOGI1NEdGd2xUbzFqcWFrNmpJVlBnLV9WUnpzTjBlalFzbjNlcDd4cVN4d2VTaTJGdEFOR2E1TlhjNzNlWmNIYXFvUUFycnlPOGkyWHVBTmtfbmtEM1luV3ZWZUk4TzA1WVlvQUpzLVJZeTN6OUs3MF9iRXgyaC1HM3VIOGRUQXJZRkItdnVsV1NSMExGbGFmckFMZ3ZsalVKdGdnMnNhNA?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na některá nezávislá divadla, uvádí Radiožurnál - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxPWWhtWVRXWl9JRGwwZkx1NHNwbFFsUHEwUFRHdDlZMlZXSEN0MEhQTzJuYjdFY09XMlVfcG1aWVdfZENlWkN6YWR6U1BKQ0dCeUdMek5Na1NseVZzLUQtTE45VGtNREpyWVVQSGtSa3B4OXg5MTBYWTNlXzNtRW9rRlBEOUlvQjNjb2x5VlEzV0wwN2RUVEtQZ1M2UTN4R2dtV1NkblZmQVA4RHd0bXI5Q3VYOWtZTGNYLUZ4ZEtYbGRBOGVYdzBmalBkYl9TQQ?oc=5"
+  },
+  {
+   "text": "Klempíř teď ničí systém, který Babiš pomáhal budovat, říká předseda české asociace producentů Šlajer - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGxISjdxYVhPMkFkS3ZfMFlqSDZjcHAwM0o0OWl6cHlxZm9oSHY0dUVrbzJsU0hpQ29LV3V5a3ZvaXlxRktZNU5hdkIzaklXNG9rZnlaekczQzlQZDlHMEtkNEJsdERnc0ZFUWwyNVBqM0VrcjRFNUtfQ0hlLVltbFdWd0dLbVVfb1ltUGlrbFZURE9NN2hRNU55TkszelBJUWRpVlU4YTVIV0VoTDJZbnBzZ3J0RFhfQXpreF9xVHpWeDg?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. Odveta, říká člen rady - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiygFBVV95cUxOX1dfa0VNV0RGaXFBOXVaRE9MNDBRTXpaNHRCR2dBczdGR1dPZmlJOGVzVk8xbVVTQWRQMkQ1N3JIamJhdThnd0tfbGFJeVdvRy1DVzA1bW8yLWkxR19lbUk0Umo3eFdRN3dIZHJWQkRsWWVVVHpnV0hDdFR3Z1dXN0ZRdlVYZ0FxSGRpaE4xTXFJaWh3SzRCbXdWVUI5a0xTZFpaWnpjVjJZemhEUXpyRDc5X1VWdmMwWV9ZUWFBM2tONVh3Sll1ME9B?oc=5"
+  },
+  {
+   "text": "Už žádné státní peníze pro Colours of Ostrava a Rock for People? Klempíř brzdí svého náměstka - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGRQNXFOendqeHJiZ0h3aGJTWDRSVGo4bEhsa3RTWVlrMFZPYklnTE5MN3o5OTQyeDlmMGQwaXZzN1JibU8yMlllLUlaTHBvZ2kwUGJ6T21GcWpSZWlnV3VrZ3kwN2I3TWJ0QkdxVWdfQUJENjBqZDhSeTdsdmcxWWtTQURTOTROaUo1V1FmQ0xxYUFncGVCOFAwVDFYYmRYaUZqUE1PZ25oTTd2R2Q0VTFNcnk0bWhaNG02WXkxMlVjNF95QnE3eGlla01YZXBaU1l1aTlRRm1HQ3c?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-22"
 }
