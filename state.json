@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T12:58:09+00:00",
+   "last_success_at": "2026-10-22T13:40:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -43,7 +43,7 @@
     "facebook:cb1c6bde77504439",
     "facebook:16cb640dd456fb96"
    ],
-   "last_success_at": "2026-10-22T12:58:09+00:00",
+   "last_success_at": "2026-10-22T13:40:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -59,7 +59,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T12:58:09+00:00",
+   "last_success_at": "2026-10-22T13:40:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -67,7 +67,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T12:58:09+00:00",
+   "last_success_at": "2026-10-22T13:40:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -535,11 +535,15 @@
     "news:a5f94bce815fe2db",
     "news:dbc21f2e7dae7750",
     "news:7981b7c1f4281459",
-    "news:566dbc2f25276b4b"
+    "news:566dbc2f25276b4b",
+    "news:0713a49b788c9910",
+    "news:ea092ad7754210c7",
+    "news:4b63d78c8c4ffe22",
+    "news:12544cfa2b8c5219"
    ],
-   "last_success_at": "2026-10-22T12:58:09+00:00",
+   "last_success_at": "2026-10-22T13:40:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T12:58:09+00:00"
+   "last_new_item_at": "2026-10-22T13:40:16+00:00"
   }
  },
  "digest_queue": [
@@ -677,6 +681,18 @@
   },
   {
    "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNN01hMGtsYV9QTWt3VjlWN0VZZ1NleG4tTmNkUXNFanZSQXozdlNwV0N0UFVPbXZTYVJhd2N0Z2FTcXdFS0VmOFQ0ZUxrR05EV3dYaUNFXzgwRV9qUkdhSDEwS1NhRUF1NmozODhQQU91LUk5bHVNdUQ5cURzeDFjMzBDSnZRTFNXRUhfYVZBNDkzMnc5TzRiRUVRLUxBcm03SlV6WVpQaDEyeXdpYmhGODNndlrSAbQBQVVfeXFMTTdNYTBrbGFfUE1rd1Y5VjdFWWdTZXhuLU5jZFFzRWp2UkF6M3ZTcFdDdFBVT212U2FSYXdjdGdhU3F3RUtFZjhUNGVMa0dORFd3WGlDRV84MEVfalJHYUgxMEtTYUVBdTZqMzg4UEFPdS1JOWx1TXVEOXFEc3gxYzMwQ0p2UUxTV0VIX2FWQTQ5MzJ3OU80YkVFUS1MQXJtN0pVellaUGgxMnl3aWJoRjgzZ3Za?oc=5"
+  },
+  {
+   "text": "Využití digitálních technologií v performativním umění: Inovace a zachování identity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVlcHZnTWlkLTBzUVcxclFMeFlncUJ3aWVpWmM0NDJsS21oRFlrSlRIZ19XRUFQamU1ajA4MDdsbm9nUnBfZGJ3azdwaGpoa01BN3ZEejZHTzBUTzZsOXo5emhtRmpjQXpZd01obHJoc2wyNFM5LTRCS3c0SjUxQmdqZ3Nkc2d6SHR2STUwaWxMSGp2RERla056eWJ6aGE1QVQ1WHgzby00Yzg?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh si vzpomněl na rčení: „Unavíte se chůzí a vidíte jen domy postavené blízko sebe.“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOUVY3UU41RDViZXNBV1doR2sySFRkaXREZjRIeDAtYno0SU1JYkRDSGttM0U5Y0ZjX2tLcU92X3RLU2k3V3FDZkJlWm0ybnFvUENjX04yNjVYYXBGdmlqVUV3ekxsdTZONXM2UUpMYWtCcEx4OUdnNGpqUUFFM3V4U2Qtd3B3YzgxS3ZaeEhpWmNPMzE4bGJIaklYMkZQNXQz?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh: Dokud bude vážný nedostatek kin, filmový průmysl se nemůže rozvíjet. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNV1BHS2wxSjZuSHRRd2tIUXRfYVAtQ0F6V2xrUFpCVWZObnN5dGU0T3hQcXJZRFRVekpYSk9Dc29wYlItLUhxbHNkNWxhYk8xNU9BaVkzWmIyUnZ0b1YzRk5GU1VxejBXdlhsaWQzdUpJSlF0NmZFY0VXb0oyNzEyTmJxN1NSNm01MkUwaU11ZWVaNVZHYm5xVmtkOGdlSnIyTEpQckNQS2J6X0xfNnVsdUFfQQ?oc=5"
+  },
+  {
+   "text": "Upřednostnit přidělování pozemků pro kulturní zařízení a efektivně využívat přebytečná zařízení po restrukturalizaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPLVRLLXdmY0p3YkxtTXpkY2ZwZDVKM2RjeEhkVmJmUkdGZkRZRjJnbXNtUnk2VDZiendJQ3paVUZiV3Y2MEVxOGhCZS0tQTNETDhlTWNnZXBHLWlaMk5IQWYwZGlCUlFxMmZFZmVYZVNqS05pSkZ3b1hoYkxEUWNwdVVMV3ppRE1RR1l0NGI4VFZSLTAxQUUxQnpyTzBJdw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
