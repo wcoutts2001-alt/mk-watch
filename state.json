@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T15:43:13+00:00",
+   "last_success_at": "2026-10-22T16:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -41,11 +41,12 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439",
-    "facebook:16cb640dd456fb96"
+    "facebook:16cb640dd456fb96",
+    "facebook:8ae18b1c493ab53d"
    ],
-   "last_success_at": "2026-10-22T15:43:13+00:00",
+   "last_success_at": "2026-10-22T16:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T12:13:27+00:00"
+   "last_new_item_at": "2026-10-22T16:16:10+00:00"
   },
   "instagram": {
    "seen": [
@@ -59,7 +60,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T15:43:13+00:00",
+   "last_success_at": "2026-10-22T16:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -67,7 +68,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T15:43:13+00:00",
+   "last_success_at": "2026-10-22T16:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -542,164 +543,14 @@
     "news:12544cfa2b8c5219",
     "news:9de95fcfb1a06e5f",
     "news:86417793791325a3",
-    "news:8d68b9c53a08554f"
+    "news:8d68b9c53a08554f",
+    "news:e368d875bdeaccef"
    ],
-   "last_success_at": "2026-10-22T15:43:13+00:00",
+   "last_success_at": "2026-10-22T16:16:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T15:43:13+00:00"
+   "last_new_item_at": "2026-10-22T16:16:10+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Speciální program Koncertu přátelství k oslavě 55. výročí diplomatických vztahů mezi Vietnamem a Dánskem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxPYUlVel9XZEF4enA2Vjl3ZDBJYTZBeTNBQ01yU1BhWmZrY000SHFpZDV1VThuOHJia29Zd1RYOEZzeVZtTUcxazA1SXhHbG9NenRVajAtYWpGNjVxOFlPQWU5S0c4Z0hBQ18zNmZEX2VNaDZjSXBKcy1vaHhBNUMyYjQyT2VMelVLdTVmV2VMSVZVcU9UaEJlUTZCZmxCQkRaVlRjUktEMGhnSU1hMGkwcmFLbnVGeGhXcmhNMUFLR0g0Umc4YURGWjRGZnNSS0ZuWGI4?oc=5"
-  },
-  {
-   "text": "Shrnutí 10 let implementace vládního nařízení č. 72 o fotografické činnosti. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxNVmpjRU1VTlBpLXp6MldIYk1iUkIxUGppQ0JBSGdNeWJhc3pyb2R6U3dMeldycnZsUzU3dXkyZkNGdDV5a1A3VVFQakJfMjVqSld3TEVZOUN3b1hHVmdlRkpiWGNuWGd0eXJGdldmZ0VTbFh0aTBVekxsTFJ1MnlGWmhKZFZ0bUU5STFvUVNsUUtLQkRGMHFpSWlOazBrckNjQk9XR21ydw?oc=5"
-  },
-  {
-   "text": "Hanoj ​​šíří kulturu správného chování i malými činy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxQTXZpcGJ4dnByeFZJQkFQSXRvVXZkQ1oxcGFySGtJS2NGWXdnOXhhNmlPMTRlNkZteWE5UjZHMllDWDMxN2FhcUVYZXNicl8zYnRnX2Z1bENpWV9oS3RscThzWEVDdEQycDJRQnR6WnR2d0h4bXd5TUxacEhIeU5zNk1idEI?oc=5"
-  },
-  {
-   "text": "Ministr Klempíř žádá úspory ve Státním fondu audiovize - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQdktSRG9yeFNfdzJXU3J6NURsR2Jxb3ZJWUNwZm9JZGI0UFg3dkJtVkZMc1BOWkhEUXA1aURlMkQ2cXJvUnRQNFgxV3lscjZLeExwbENfbk1yWlhpazltNjZqaDRSSVhYWmEzR1VYRTZZR29ZY2tYVWNsZXU1dGZoeTloYzVIT1k1OVpLV0R6OElHUVByYnJiVThTTFNxREJjWWNrLVhfWQ?oc=5"
-  },
-  {
-   "text": "Hanoj ​​začleňuje kulturní normy chování do 10 praktických modelů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxQUVBuNXJhRDVsLUVlZjdIZk1EakQwRW5TTHdLelRsNjBSMVFfOE5LbV9LTjFzeld4TzluNlYyeWdQSER1R3k1WXY2M0Z5aFF3dzRVMDhjRTVvcXN5dXRPa2ZTWVpOcTdsNDg0Rjlma01uVElyM293SG9nVDRhMjJkTllR?oc=5"
-  },
-  {
-   "text": "Zahájení implementace kodexu chování s cílem vybudovat elegantní a civilizované občany Hanoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxOTnI4cm4tclExd1BTVi1XamU1VFk5RUwxLXdBTUt2WHZpTzdjOVJmcG5meGxiblhmSGlwZEo2Nk5JNFExd1lKc1JwdWFpaHZaMTB5QW1vd3hEaF93TEowelozQm9qbFdGN2p5TVRHbl8yX24tdUNqbkRYa1U3OFhUdTlsQnFrYVFCQlMyOTVQVUJFMEFKU3ppYzkwclNIN2xSaE5wcjh6M0tPTTF6Y3EwNUFFaw?oc=5"
-  },
-  {
-   "text": "Společnost Samsung Vietnam udělila 160 stipendií studentům z Univerzity tělesné výchovy a sportu Bac Ninh a Vysoké školy umění Viet Bac – oddělení mezinárodní spolupráce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwJBVV95cUxNVi1lTFdMSnU2ZmNOV25tRnhsb1VnZ0ZMSjBRZE5Hd2VjeUxsTUh3bXd4ZDRxR3h1VUplUmFydDd2VjEwMXNSM2U3TnJ5d1NoalgxdjNQQTAtS003MmRTWUhmVW1SOEMzOGlpTEpVeE0zRDRNMnFKcnFoOEt4ZEdHSTRYZi00MzZWSHpldlNzSnZXcWxodXZ0YUFIcUgwa19tRjJwSXY3ekoxWXdLLWw4UjZiTlA4QnRXSFp1d2ZyY3dtOTdBbGVqeTBUQ2dER3pEVVRzcXQ3aWQxblJ2dENtMUVDaFczTWxjTVN2U0tCRUt2X3gzQ2dmdVhBTXBMdE9jMEFfWjJlQQ?oc=5"
-  },
-  {
-   "text": "Cenzura, nebo pravidla pro veřejné peníze? Komise ministerstva kultury opouštějí experti i expertky - mujRozhlas\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxPbTU3ZnVfNzEwRERHdG54NWF3YWNsSWFqdXI2TFM0MDc3RFlnRUJHSGtIdXprV0p1Z0p5WmdFTXJEOU9QQnVlaVhmYmVEdG43ZnhDU2Zkc0J2clBRdUxVRS1Ga1ZUdjU0SUgzdGpsZmh5RkpfRFgwWFg4WUc3amRfWDN1OEFHdnhFSmhqeHlxbXhvekZ1b0hTWnB0MnI1c1VQMFZ0UzQ1WjlfeTUyUHhaaDNDYnVlc1F5V3Y2M3VNZw?oc=5"
-  },
-  {
-   "text": "Hai Phong je odhodlán dosáhnout vysokých výsledků na 10. ročníku Národních sportovních her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQOE9Fa1Y0MlZGVnQzWEs1bDB4VEttOWs0OUJyeExFUHR5MGV5c04teUYtdlZlc25GZTdOUXhqS24wUnhXbmFLa1lJd2VkTG9sMFlUX2dFV0pCaEFWbS1rV09iYmhnMFBYOFgweE9WSkdTRzFOOXVzM3Q3TE52ZnFRLU1zVk5iblZobDZvOHR5NEp3SmxQQWRDVTZlc3gwbnhNSnhBT2NnbDI?oc=5"
-  },
-  {
-   "text": "Glosa: Klempíř v politice působí jako Alenka v říši divů. Z rockového frajera je ztracená mánička bez respektu - Aplausin.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE1sVDZtUVp4SUJBS3NLTG9BQ3JaRzVtWUlJNmVEbGlrWjJxeGFyOGxkSHVfai0wTTdfbWdtUTFQQjRNRjEyOElGLVBUMUVCMFlsZFRZdmxBMG4?oc=5"
-  },
-  {
-   "text": "Na Národní soutěži tradičních hudebních nástrojů 2026 se sešlo téměř 800 umělců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOWHh1OFNRRmxkVTJEYWtYdS1CMGVzM3ljVEJXODdzcE9JbzhXNWJPWHJlN0l4T09IcWJYT3Fqc2o4N1RDVkpnaDVhLTh4YlZoYldrVzVIV1owTlJDQUY5UHZ4MlVMR2xXYk5FckZHR29aVXlYTWRpeEpsdkVkVUVJLVFjQmVERS0yRVJ6eFpEcmc5RGJkT29N?oc=5"
-  },
-  {
-   "text": "Klempíř žádá „maximální úspory“. Fond svolá mimořádné zasedání představenstva - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxOLUs2WFlKeTBFOVB1czFabFlpLTZ5R01FSDhkRXlXNXVmRTZwMmtPVjBFUGZwMXJ6VVIyaWMtZVpfYWtzcVVNODl2YTBCWEcyd3V6OUVsbDJ2bDN4dzFyZnpPcTQ4RG1kSUVILWhnNmJKTEFSVXFHai01TURLd2d6X2diMnpfWXVad1R3dkpNYjNOOUFSSDhVeVRIeUQ1X0xvbUZ4M0Jlb2NZOTBVbmdzSkhBbVRyLXU2QUlYMEF1d0loU3EzWDVpdnVTWXRMUdIBzgFBVV95cUxOLUs2WFlKeTBFOVB1czFabFlpLTZ5R01FSDhkRXlXNXVmRTZwMmtPVjBFUGZwMXJ6VVIyaWMtZVpfYWtzcVVNODl2YTBCWEcyd3V6OUVsbDJ2bDN4dzFyZnpPcTQ4RG1kSUVILWhnNmJKTEFSVXFHai01TURLd2d6X2diMnpfWXVad1R3dkpNYjNOOUFSSDhVeVRIeUQ1X0xvbUZ4M0Jlb2NZOTBVbmdzSkhBbVRyLXU2QUlYMEF1d0loU3EzWDVpdnVTWXRMUQ?oc=5"
-  },
-  {
-   "text": "JÁ JSEM KRITIK, KDO JE VÍC? ANEB O ČEM BUDETE PSÁT, PANÍ SPÁČILOVÁ? - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVvZFk3N1FyYXFYeFN1Umt1bUpvYVFFanNfOW51ZU16ZXY1SzMycDlwMm1QdW1yVjI3a3RTdDh5dVo0ZEFiWGNZV2NrV3hhRURwWm5fNXIzSWxpTEZHcnVJcVpRdlhKbmFpYXF0bVV1TC1kbTdhdkctLTJrTnZEVkNqM3FaYkhHNXFkQnB6YkNaVnBGVVhTX2xQZ0NRQVNXREoxLUFYdmpZYTVGT0I5MlpCbw?oc=5"
-  },
-  {
-   "text": "Na Národní dorazí ve čtyři ráno spolu s Babišem. To se tam scházejí estébáci, vpálil Klempířovi poslanec - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGpBMFF4WW82aDRscy1jNFpmYVJxVDlSa2VFVFJYOEgzajNhUndmdkdKM2FmOTI5ZTY2WEswdHdmZHVrdnBobldyZG5jNks3ZWo3bUpBODZWdlZiVzNPYmRsWS02QnZFQ0ZiRkc2UnNCNXRvSWZjTlBjTnMxU1pleWFDeGUxbHI5OENjeWhvTzEzOU5pM09YR0g3QkZVMkMyLUw4amh1Wm5rU2tkVFhfTExTX1cyYmgxSk5rS0FFeTZKbGM?oc=5"
-  },
-  {
-   "text": "Oto Klempíř přichází podepsat koaliční smlouvu hnutí... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTE5qQVN3S3h6NkN6QnpDNUk5aDhNRk1LQ1VqRV9Eb3luSU1EOXNmVWdtVFc1YTE1am9qeE1ERzFPb2Ffd2JzdkM0d0w1OEJHLVlQVGRoaXlR?oc=5"
-  },
-  {
-   "text": "Oslavy 17. listopadu na Národní třídě nedostanou finance od ministerstva kultury - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNRDlTNVNoZk9ZSHhhVHlubUpyU1l3Z0hOYm5mQ0IwLWdvb2ltd3VMYXA2LVdza0ptcDNNZ2ZUa0xtRGhWQjdLRHlGZW1UUF83cFhyVVdCV1BCNnNkVEl0bmgyZUxZS1pXTWpBMXRaVkhiUGotS094aTVZaER3UmlfV2lMRi1xNktsNG01dTBhNVlJX1VacWwtMWVUMzIwMDZiQ0VqYWp3cFJWWHJZUVR4RDJUaWowWVNxdWNqTFMwNDMtdTA?oc=5"
-  },
-  {
-   "text": "Navrhl nové předpisy pro zveřejňování informací o zahraničních záležitostech v tisku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQbXhvVXdnQ0NfY2JpN0dPU3NfRXBaWjNXOTZhUzJWS2F2SEp5TVl3U2dwNFMtVUFRXzhId18za181TWxTczRBSUM0VVBNbXI4TEd1Z1VvRUJ6M1FWUXBnTURtdGU2R25vUGpoY0t3OFYyTTlrTV9RSWdKdGZkNm1iYjFPMDByTklMaG1idEMzQjEybnR1U0VR?oc=5"
-  },
-  {
-   "text": "Hanoj ​​propaguje kulturu řádného chování a buduje elegantní a civilizovaný způsob života. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxObFdWYW9fek15TV9tUE5ZcXk0c1c1R1ZyN2RCMTZ2dnpWWmhYdmFhNmwwRi1uVG5sMTFTZlpiS0ZNMzFRMEVEaTFndnI1ZzdmOTRibXpMc29wOUZ6Vmd4OFNHQXFYcVlXZk1TOGU3RUdWTkNnaU5IMUlGT2pQTmotOU9Za0ktVUUwTWU3ZG1CQnNHejhNeDdFWQ?oc=5"
-  },
-  {
-   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. S jejich kritikou jeho politiky to prý nesouvisí - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiygFBVV95cUxNWERZQkdBb0Y3U2VVaE02WjVGRkJMZVJneF8wX2lsbWJTaDFkTmdtVjNKd2ZvWk1FRkJ2NDVuUjBNbGNXRnNYTDQ3RWNETEFVdU0xdjEyR250RGVlX05ZeVhNYy11Rm9qRnhBRzVzNVQ3TDExVmZhRlZpS2lkUm5jWWpkNnFLOVB1OUk2akR3Sks5TkxwWEpZZ1ZLNzBEczZvOTNuT1ZzQmpjVWRaMGhQcUQ0STF1N01GR1V0WHMySFlGejJLbGIydDJR?oc=5"
-  },
-  {
-   "text": "Klempíř nepozná vtip. To je na kultuře na demisi - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1dJZU92NWN6WTVfWGxOcU5vSi1FYWRWTE5rVHl5bGZRV19yYzE4RW91OTRyWnNnUmdzZlNZZEtaU25GSm1hVkpyOFFTSmZXdmdzYmZLUXU2UkJpakZDYVE2NHRnV3lDQWJzNWw1WDU1SGJoMVBEQUE0VDJ3NXdVLTdJZFZ1OEY0YmppaWhPUWJzN0RxckdmYXpMTWJoWlJtaGhUcW9tZ28?oc=5"
-  },
-  {
-   "text": "Získávám zpětnou vazbu k návrhu oběžníku, kterým se řídí řízení externích informačních aktivit provincií a ústředně spravovaných měst. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPMllXRGJ1TEl1b0ZCcnhxX3lkQ2xJakFHSWphamdRcTk3VGFXWmp6cS1YT21OMTZaLWhlWk8yT3I2NGlZZ1I5bjl0el8ydWU0Y2llcGNTRU1lcnZZdS00WFZ3cmZPSEJUV2MxMXN2OFJGMkExRnJWMEM0WmQyNWtwR1hqc3JIOUxET0FRam93MXI0YVlCWkY5b29ZNk5hbVNMNVIyVWNOMzFnRjNGaVNYYWFIU2hzLUVCMXBpWFZzcVJpWFRhYWxKWkU1aVVBYTlEQTBHeFFjeHZrbUJvRS1j?oc=5"
-  },
-  {
-   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. S jejich kritikou jeho politiky to prý nesouvisí - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFh2MkJITkVrVThnbG50ajBGNGd6cVU4RXJKejd4eWkweHpwRG45VUQ1UDNJNU51cWVUNER4ODhqTGs5REpveW5GZmJpczl2WHNTZmUyeHBscldNNmFiWE1oRlpNSjR5bkUzeThCRm1HczI0VmFDME9RQkRGOEpXdkhoRjFEbTJwQlV4UVc1WjRBTGQ3WUZNZUVsdTV2cXFIVE5oNnF2N3FyRFNhQlpFUU1Hb05JS3d2SXRLcHBUZERlblRvMWJIYnpmMkVMcWY3aUlLSXRMR3FmdEtuejdV?oc=5"
-  },
-  {
-   "text": "Podzimní prázdniny v muzeu nabídnou tvoření, řemesla i muziku\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6613cs-podzimni-prazdniny-v-muzeu-nabidnou-tvoreni-remesla-i-muziku"
-  },
-  {
-   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQaEpleXVBQm0wcy1TZDAwZkRkb1RxQWlCRm1OYTJITk5LM0dUMnp2WERka3p5bEFTMjdZZlNXUV9lM1Z5TFNRcE12MHdrbjRTNFJOSXZuUVVaczEzWDBULUI4bDcwTkxCRUJQY1dBclVoRWQ0YzdaN1NVZ0hBRzFYdWhUSXRGdGJJdHJfS01mU0dBZFdxZkNmWlZud3hrYW9aa2JyYnBqWnNMZTNWWVVCLW1PNA?oc=5"
-  },
-  {
-   "text": "Klempíř chce seškrtat fond audiovize o miliardu. „Vše funguje, není důvod ke změnám,“ namítají producenti - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxQaG9RbDdpLXZTRmhnWUlTYnNKUzlLUzkxVGlnVU1Za2ZTQkRMa3U1R3JoejlCZ0JJUVVTV2VqcXlHTmthTXV6c0dCZDRLaVM2SERmdXgzZkd6ekJZcDJGM1d0LVBkTlM4YWRfaGtrOGZTaUpobFRKZkNQcC04MWtfNWFNZWlqU0Q2bHpYTjdwR2lTVnp4UVNaWGtIblNjX0NneDNsa1ZCZU8xeG5SZUM2MFdhOU9ERVNMY2RWMnJZLU1NVmNMREE?oc=5"
-  },
-  {
-   "text": "Klempířovy nekompetentní zásahy v kultuře ohrožují její nezávislost - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2VCR0tCYmtoLVZ1Z2hUSVJfUmI0ZXJQaDFyTkJzMllVMlRVbTYyX1duLXFHdEF4MHU4TkRlbzJsODI0dXJDOXoxbVd4ZE85djBUNDBrWlFqOS1weGduUEw2NjNPUXRZazExQktydjhzWmViT2dZQmQ5ZkpUbXdMVlAzWVZEZjFTZFR6QkUwblU1X2VtcldyQkxPOVYtaDZFdlByS2FWdWk?oc=5"
-  },
-  {
-   "text": "Klempíř poslal na nezávislá divadla mimořádnou kontrolu - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxPaFVlWTdfQ2d1b0xwbUltYVpkcFlERWpaVkFwalV0dWtzVU5YV3lEYThEaGtyUldIZmVKa1NUV29jQWI2OTc3d1ctTkdDUlpLV091SFlqNy1Yamp1eEphRjRPTDJzanpWdDI2ZTFtcEJkeWNZcmc0YXRIaUxXbF9Wa2E3blZQQWFPTDZZZkZVeFRlc2NzZjJ4VE50eDROTTNiN2ZN?oc=5"
-  },
-  {
-   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxNakpmclltcEUyc1dKRTlHOTF3R2h5bVd4V3RlekZqSzhVUmh3SVljblR4U1R4ZzJGaDlUVldMZDMtNkNNOWR6ODRhNVEtZGJYTXpsX2c3ZE50MkZMZ2c5Y1BJeWxvUktHRDRIS2poS1Q1bTNUdktOYXFCdzlSVzhiX2doQTFhQ1FTaVFvMUN3NWxSLTIxVnRtRHBKT09PcjFDMll4Vkt4WURRTVBqRzJXM3FHLXR0Rlc3TkV6aThYSkxEcFRaZ2JZ?oc=5"
-  },
-  {
-   "text": "Radiožurnál: Klempíř poslal mimořádnou kontrolu na nezávislá divadla - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQc21Wa1FzNTdRNmdNNXZrLWREYjdDLTlTUlRyVng4OVNyczZ4MnVMUWQ2WERyRE1VQlJpcWJ0enlBNjlrQ0RyRkNERE0tVm9heFpKTHhBNi1LdHR1bEtYcjF3NGRpbjlDWmg1c2tTWjQwZXdGMTVvdnF5VlNnLTJydGhGUlRfdFEta085a1pIN1hiSWJlV3pFSy1rZmdsd0ZWdUNqRjJqRWVrdnVfcHc?oc=5"
-  },
-  {
-   "text": "Celostátní soutěže v sólové a souborové hře na tradiční hudební nástroje – 2026 se zúčastnilo téměř 800 umělců a interpretů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWY1N3JwT1BBVUZNTFhoMU9MUGlHWHltajZfLV80N29LTHVtbkZvOGRFMktHeWhnanRGRE53aEN0TEtNMjJKR1BCV0tDMlU0S3hxRTNEU1BnWUkwWUNXVGJrc0JRdHFDYWFReWs4MEEzYUZZRF9PekV4ejktTUdVVUlnN0hqczJEWEhhOTNSdUJmeW0tWHpIc1RBbE9UcG9iLVFRY2Fqc3VUVERKYUZQakpCRmZMRkIzZE40?oc=5"
-  },
-  {
-   "text": "Efektivně organizovat kulturní a umělecké aktivity k připomenutí důležitých milníků ve vztazích mezi Vietnamem, Laosem a Vietnamem a Kambodžou. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0VzbGozTV8yTHpTcEkzNGRKWFZIY2pDX3lCRTk5SUpycnJDbDRHel9NSFNxblJKUEgyQWFTOHh4Z3hOQVZYcjA1YlgwWnk0eU1zRHJ5cldVYjBYYlRMSGdBMDhPZ3VHVVJlRHVIaktHXzF4ZHJPWkVkTDlibF9xdUtGbmdjT3I3UThhV3pid3VkZWd3NUxKYS1OSlV0WEpSeTlnVEszZjZzeTk1WFhrYjlJNUtZMmt4dWZGMXQxN1dOSDh2Y055c205MjZnZTd5SWJZdUU2dHR1WG9PTUg0X2N2Y0RWdw?oc=5"
-  },
-  {
-   "text": "Klempíř nedá peníze na oslavu 17. listopadu v Praze, pošle je hejtman Kuba - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxPWXQ2V2xITmthQ1VSTURFWGhyZXJZcVZvYnFLeDVEUWNxbnlCUS1LYVZyLWFUVlZOcG1RYkJ5UWFpdjFjbENjTWRqZmE0Zm9GeUo0c1NMN0ltYWI0cEpyV3ctcXVYSUlRcjNsZy1PdDFJSEdMRTUxc2RVMF8zVW56M0Zn?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh: „Když chodíte, dokud vás nezačnou bolet nohy, vidíte jen namačkané domy, je to tam dost dusivé.“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNSXlFU0Z5LUt5aFo5VFk5TUF6RjZwSnVablVPMF9XTnplQ3BsZWwyb3ZBMVVNenNuZGlvSHF3bXFrejJ4d0tkaG9QNDFGd2hKNVhmaC1SVnJUSUhQSDh2R1MzMjhkZXh1cWw5SWVoNHpERzJOQ3hKTDJKSVJ4VlFvZ05ZWVQ1Vl81ZTFGRHE3NmgxcXNnZXRqQjg0QkZVNkdfTi1XUkFMYV9jY0hKVUdCSlY4OA?oc=5"
-  },
-  {
-   "text": "Dohady kvůli 17. listopadu na Národní: Klempíř odmítl dát peníze na oslavy, Kuba zasáhl! - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDBMZzRmNEN2QmxZREN6NzhmTW9jU01vVGZOZVp2bTVncUdTR0g4X09rRkMxcmpLR0ZoOHhMRFdFZ0hOOUF4QkV2Ump5Y0JOY1l3LWRIN2w3QW9sZzh2VXM0MllnWkhVY29LWW1JU2ZZR0FVVFd5RkJYaVM1Y3RCa25KUEM1Um1Ic0pQZ0lDcDBDOVBveDlMMGl4dzdUUHI0OE1seDd4QWVLOENDcEVvd2d4LVRzVW9tQ1RIWEVXRTlIbEZ6SE9oNEZ0bzVPMDBxMFhLN1pUOA?oc=5"
-  },
-  {
-   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. Odveta, říká člen rady - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxPTldDUndSN1JGUl9GMUNnbXR4dE1BRGNxcWZHMnNuT0ZGdDFpbGpERnBlMmdMT09VbEdLdE1HdGQzbkEtOUhSa1V3VF9Dd1FJc2VPNXN4V0h2RGM5VE5SSldkV0xpZlRocjMzVjJqME1kbXNhYjk1S08xNHZVcW43dWZRVERjOUlrMVRwZk0zZUtUWGdiYTdXQ3oxQWhrSktVbm1VUmFyNmg3Zm5HYkI0RHp3M1l3ZHFRb21vRklWX09BRjMwZFdnRWtpdXo3ZzlEb2fSAdIBQVVfeXFMT05XQ1J3UjdSRlJfRjFDZ210eHRNQURjcXFmRzJzbk9GRnQxaWxqREZwZTJnTE9PVWxHS3RNR3RkM25BLTlIUmtVd1RfQ3dRSXNlTzVzeFdIdkRjOVROUkpXZFdMaWZUaHIzM1YyajBNZG1zYWI5NUtPMTR2VXFuN3VmUVREYzlJazFUcGZNM2VLVFhnYmE3V0N6MUFoa0pLVW5tVVJhcjZoN2ZuR2JCNER6dzNZd2RxUW9tb0ZJVl9PQUYzMGRXZ0VraXV6N2c5RG9n?oc=5"
-  },
-  {
-   "text": "Klempíř poslal na nezávislá divadla mimořádnou kontrolu - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxQcXVSUkR1NGJUd2IxN001clFuSTZPbHJsWVgzMVVLcHJyQ0t3LTRfNlloaDFSTW0zUGs4U1ZMLVhUVTRqdnlJR2l0Q3RqQXBZQzVfQzdoMk1Rak8zRzFvbnhwT2VoeklFdmUxZlE4QXVQSkozUTNrYzVRUHlIb2haMHlsS3VTVDFCSkVlRWFWUV9JRTZUdWthaEZzOFJxQ0RNZ2t2RU5VUDRkNW1RbkRITDRiMGvSAbQBQVVfeXFMUHF1UlJEdTRiVHdiMTdNNXJRbkk2T2xybFlYMzFVS3ByckNLdy00XzZZaGgxUk1tM1BrOFNWTC1YVFU0anZ5SUdpdEN0akFwWUM1X0M3aDJNUWpPM0cxb254cE9laHpJRXZlMWZROEF1UEpKM1Eza2M1UVB5SG9oWjB5bEt1U1QxQkpFZUVhVlFfSUU2VHVrYWhGczhScUNETWdrdkVOVVA0ZDVtUW5ESEw0YjBr?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město hledá řešení pro zachování a rozvoj nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3hGVElFOGVSMkFQczJaakE5VXRrOWNBblhQVVloSmF4LXBaYTd4TlJfVnR0RlYzMlUwWE82Tm1jMF9ORExVRENmdG1TNXNoakJOTnZFVTIyNUZ6VHRfTGVybXhhaFNjVUZaLVEwNk9EUWNReHE1NmJCNDF2ejBvX1dZNVdQQ09qZzlFVGZCY2todXJ3Vks5WGlCTUpKbWktV283WWVQSQ?oc=5"
-  },
-  {
-   "text": "Never more Klempířovu kulturnímu staveništi: Místo koncepce přináší jen zmar, urážky a zpackané konkurzy - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXJfRWVub2NYUWJKZi1VV1hUdWtUZVZLQzV6UGNTYXN4dUxmZmVtdmNhakRFTkh1M245ZlctY3U5Y0h0NlZVSHloZWM1eDdjbXQtSGxMMmZ5c3JJV29ha25zX1BXeDVJTS0zanVwOVFsMzV2T2Nib2diVVpPYzNIV2lNSFFEQVc0Nm5LWXpKZnVfZ3MtVGJmSEpxZnZuTV8xZ0xBMDBuVkdxcU5fdklJNTFlVWhRNTV2UFhqNzFhVjlqMXhGT2JRVEdodnJBZmJZZERjSlllVXVuQ3FrUG8tcTR5MVBwQQ?oc=5"
-  },
-  {
-   "text": "Blog: Opravdu potřebujeme oslavu 17. listopadu za čtyři a půl milionu? A za jihočeských 300 tisíc? - Jižní Čechy Teď!\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxONGpZZUVUdjZxdkhsbTNJQ3k0aFo4Z0FiOG1pcVF1OEZBcVhQa0VqeHA4NThKV01sQlBxTTJqTnFKcHo1UmRsb0VtbGJnUThEMkhpMWxGbW9RUjJRTjhMYUplYUZrYkE2WVVwNFIxakNQNFVBNUZBODlScE81NVZwM0VTazEwVG8zZXJGSFFFTFFuOE5UN2gwNjVUR3JkY3Rucmpob3lrNkFMa3FOQU9YX2g3Y3J4aXM?oc=5"
-  },
-  {
-   "text": "Co vše ustojí špatný ministr? Více, než si myslíte - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxONldmRkZ4X254dGpCSGN2bnNfSXVTMkFKUWFMMmlySWQyOTVwSFpGaGJKcUpzUENqa2VwLTJLOElFVU55SmJCR284N242ODBMQl9GbUl4Zk1NaGhfODU5UHZjVGlOZmY5Ty1JbXA2eE1DRTRfZ0hFMjFCN2tJLUpoWQ?oc=5"
-  },
-  {
-   "text": "‚Hraje se o mezinárodní ostudu.‘ Klempířův resort chce ušetřit až miliardu v audiovizuálním fondu - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnhtTExxemZmTHJ1X1hNNFBKbDZlbGRUT25yYjhFQlBxR2ptMnBnb0YtU2JuMVhwdG5qTFZ1dU40cmczM1pyWFMtS2FSdU4yTUM0RFNBeDJsMUcwYm5PUDlxNkp2Njk1MENheU1Pb1JpRUxYRnIwLXlOc3JDWlFFT1hNeV94ZHowSXRCWG1URS1SLXlBQ0NpaXIyQjhvTTdPMEMySERIMUU4TmNYX0RGcXdRbk5KYVdlQ3dJUGpvczBnZ0k?oc=5"
-  },
-  {
-   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgJBVV95cUxOTzFRR29kQ3NibmRtMG9wNWlyZUVIdjcwS2NjQ2pFd3FraGJtV05FanJUT1N4ZTFKQV9RaXVjaFpyd01jeGg1T0lmVHhRNnZ4ZUp1RktiM25ZSXl5RHhTay1PZ0R0U21PYmVfaHk0OFN5UW5KM3NOc2YzaHNmTW1OOS1TQ2FsOUVfMTJEdzNOb1k1MkhxdzdtcmluVXZ2U1JKY3J0ZjcwQmlaQzFEWjZnbDVwRVRhbGIwVVBOeXYxS01YS3FDeTd2djNCU2RJd19TSFZrSkswTEFndEJqZGtiS01mOTRmZ2t4RkhWbkNUdlpWWmVlQ2Y0cURHcjRjT0prOFFuNlpla3VvTUM1cnp3RlZYSG5SQ3FjNzZwUC1ocGhVd1lfTnFBdEFrb3BEWXBjRmgtcWpn?oc=5"
-  },
-  {
-   "text": "Šelmy v proměnách času\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6614cs-selmy-v-promenach-casu"
-  },
-  {
-   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUYyR1RDUWk2clg3SHVOTHJ2R2xUZXBLa0ZKZUNmT1VLZVZ0UHZjMHl0UnRnajNEMjE2T3FmTmNNY1E4TFYxbl9HWFBsQXg4eWJYYTJPeGtwcGUzYjZSOHdGUncwQUVCUDRET3dlQ2pnQUY2SUdtbThMdW9yeFVkckFpSTNVNGJyWjd2TUhKTEtMVlpNcmV0czdKMDhnOEs0T1dYSUxvZ1Q4dmxabzdKWk9rUWVRM1R1YUlQcmNEbGxTckNmNjdoS1ZYNVFIdERyUEE?oc=5"
-  },
-  {
-   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNN01hMGtsYV9QTWt3VjlWN0VZZ1NleG4tTmNkUXNFanZSQXozdlNwV0N0UFVPbXZTYVJhd2N0Z2FTcXdFS0VmOFQ0ZUxrR05EV3dYaUNFXzgwRV9qUkdhSDEwS1NhRUF1NmozODhQQU91LUk5bHVNdUQ5cURzeDFjMzBDSnZRTFNXRUhfYVZBNDkzMnc5TzRiRUVRLUxBcm03SlV6WVpQaDEyeXdpYmhGODNndlrSAbQBQVVfeXFMTTdNYTBrbGFfUE1rd1Y5VjdFWWdTZXhuLU5jZFFzRWp2UkF6M3ZTcFdDdFBVT212U2FSYXdjdGdhU3F3RUtFZjhUNGVMa0dORFd3WGlDRV84MEVfalJHYUgxMEtTYUVBdTZqMzg4UEFPdS1JOWx1TXVEOXFEc3gxYzMwQ0p2UUxTV0VIX2FWQTQ5MzJ3OU80YkVFUS1MQXJtN0pVellaUGgxMnl3aWJoRjgzZ3Za?oc=5"
-  },
-  {
-   "text": "Využití digitálních technologií v performativním umění: Inovace a zachování identity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVlcHZnTWlkLTBzUVcxclFMeFlncUJ3aWVpWmM0NDJsS21oRFlrSlRIZ19XRUFQamU1ajA4MDdsbm9nUnBfZGJ3azdwaGpoa01BN3ZEejZHTzBUTzZsOXo5emhtRmpjQXpZd01obHJoc2wyNFM5LTRCS3c0SjUxQmdqZ3Nkc2d6SHR2STUwaWxMSGp2RERla056eWJ6aGE1QVQ1WHgzby00Yzg?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh si vzpomněl na rčení: „Unavíte se chůzí a vidíte jen domy postavené blízko sebe.“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOUVY3UU41RDViZXNBV1doR2sySFRkaXREZjRIeDAtYno0SU1JYkRDSGttM0U5Y0ZjX2tLcU92X3RLU2k3V3FDZkJlWm0ybnFvUENjX04yNjVYYXBGdmlqVUV3ekxsdTZONXM2UUpMYWtCcEx4OUdnNGpqUUFFM3V4U2Qtd3B3YzgxS3ZaeEhpWmNPMzE4bGJIaklYMkZQNXQz?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh: Dokud bude vážný nedostatek kin, filmový průmysl se nemůže rozvíjet. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNV1BHS2wxSjZuSHRRd2tIUXRfYVAtQ0F6V2xrUFpCVWZObnN5dGU0T3hQcXJZRFRVekpYSk9Dc29wYlItLUhxbHNkNWxhYk8xNU9BaVkzWmIyUnZ0b1YzRk5GU1VxejBXdlhsaWQzdUpJSlF0NmZFY0VXb0oyNzEyTmJxN1NSNm01MkUwaU11ZWVaNVZHYm5xVmtkOGdlSnIyTEpQckNQS2J6X0xfNnVsdUFfQQ?oc=5"
-  },
-  {
-   "text": "Upřednostnit přidělování pozemků pro kulturní zařízení a efektivně využívat přebytečná zařízení po restrukturalizaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPLVRLLXdmY0p3YkxtTXpkY2ZwZDVKM2RjeEhkVmJmUkdGZkRZRjJnbXNtUnk2VDZiendJQ3paVUZiV3Y2MEVxOGhCZS0tQTNETDhlTWNnZXBHLWlaMk5IQWYwZGlCUlFxMmZFZmVYZVNqS05pSkZ3b1hoYkxEUWNwdVVMV3ppRE1RR1l0NGI4VFZSLTAxQUUxQnpyTzBJdw?oc=5"
-  },
-  {
-   "text": "Vzepřeli se Klempířovi. Spolek Díky, že můžem vypsal sbírku, ta se rychle plní - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxQcExSckFpWFNUSDFtTm9scmdqMV82VFlLUzlTRUlzd1lKOVpQMGRfaUFCZU9XUm1hQ3dKUmVid3JUeFRnTnVWa2lMcjBWcGJ5TXpTVHZ2cy1yN3lna0N0czNyTjZKSHhlbkxOS3lHRVRUNjl1bWd2UXlGNDZVWDBuazNESVdWb2lqQU1sUWgtc1VYdE5mZ1VacWZPZVJnNFBLb2NXMTFaRlgxNC1odDMwc00xc3pwUVZUbmdKZ0t3ZTVQc0hoYnNJN2tGSDVoMEQyVzJhTDR1QVQwbjBBNFJJ?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-21"
+ "digest_queue": [],
+ "last_digest_date": "2026-10-22"
 }
