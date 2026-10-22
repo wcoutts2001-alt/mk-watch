@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-22T02:04:45+00:00",
+   "last_success_at": "2026-10-22T02:40:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T02:04:45+00:00",
+   "last_success_at": "2026-10-22T02:40:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T02:04:45+00:00",
+   "last_success_at": "2026-10-22T02:40:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T02:04:45+00:00",
+   "last_success_at": "2026-10-22T02:40:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -495,11 +495,12 @@
     "news:9925eab211e31c6e",
     "news:b519088fad906e58",
     "news:de14cd89f051e05f",
-    "news:61ee440420be881a"
+    "news:61ee440420be881a",
+    "news:8b533c0501e13b27"
    ],
-   "last_success_at": "2026-10-22T02:04:45+00:00",
+   "last_success_at": "2026-10-22T02:40:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T00:52:22+00:00"
+   "last_new_item_at": "2026-10-22T02:40:52+00:00"
   }
  },
  "digest_queue": [
@@ -538,6 +539,9 @@
   },
   {
    "text": "Klempíř žádá „maximální úspory“. Fond svolá mimořádné zasedání představenstva - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxOLUs2WFlKeTBFOVB1czFabFlpLTZ5R01FSDhkRXlXNXVmRTZwMmtPVjBFUGZwMXJ6VVIyaWMtZVpfYWtzcVVNODl2YTBCWEcyd3V6OUVsbDJ2bDN4dzFyZnpPcTQ4RG1kSUVILWhnNmJKTEFSVXFHai01TURLd2d6X2diMnpfWXVad1R3dkpNYjNOOUFSSDhVeVRIeUQ1X0xvbUZ4M0Jlb2NZOTBVbmdzSkhBbVRyLXU2QUlYMEF1d0loU3EzWDVpdnVTWXRMUdIBzgFBVV95cUxOLUs2WFlKeTBFOVB1czFabFlpLTZ5R01FSDhkRXlXNXVmRTZwMmtPVjBFUGZwMXJ6VVIyaWMtZVpfYWtzcVVNODl2YTBCWEcyd3V6OUVsbDJ2bDN4dzFyZnpPcTQ4RG1kSUVILWhnNmJKTEFSVXFHai01TURLd2d6X2diMnpfWXVad1R3dkpNYjNOOUFSSDhVeVRIeUQ1X0xvbUZ4M0Jlb2NZOTBVbmdzSkhBbVRyLXU2QUlYMEF1d0loU3EzWDVpdnVTWXRMUQ?oc=5"
+  },
+  {
+   "text": "JÁ JSEM KRITIK, KDO JE VÍC? ANEB O ČEM BUDETE PSÁT, PANÍ SPÁČILOVÁ? - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVvZFk3N1FyYXFYeFN1Umt1bUpvYVFFanNfOW51ZU16ZXY1SzMycDlwMm1QdW1yVjI3a3RTdDh5dVo0ZEFiWGNZV2NrV3hhRURwWm5fNXIzSWxpTEZHcnVJcVpRdlhKbmFpYXF0bVV1TC1kbTdhdkctLTJrTnZEVkNqM3FaYkhHNXFkQnB6YkNaVnBGVVhTX2xQZ0NRQVNXREoxLUFYdmpZYTVGT0I5MlpCbw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
