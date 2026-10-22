@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-22T03:12:39+00:00",
+   "last_success_at": "2026-10-22T03:46:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T03:12:39+00:00",
+   "last_success_at": "2026-10-22T03:46:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T03:12:39+00:00",
+   "last_success_at": "2026-10-22T03:46:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T03:12:39+00:00",
+   "last_success_at": "2026-10-22T03:46:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -497,11 +497,15 @@
     "news:de14cd89f051e05f",
     "news:61ee440420be881a",
     "news:8b533c0501e13b27",
-    "news:cd59ffa900174763"
+    "news:cd59ffa900174763",
+    "news:f415be9a097a7549",
+    "news:cbf0df07898a10ad",
+    "news:f99d6d8bcdb270a4",
+    "news:3f69aef924385cc7"
    ],
-   "last_success_at": "2026-10-22T03:12:39+00:00",
+   "last_success_at": "2026-10-22T03:46:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T03:12:39+00:00"
+   "last_new_item_at": "2026-10-22T03:46:24+00:00"
   }
  },
  "digest_queue": [
@@ -546,6 +550,18 @@
   },
   {
    "text": "Na Národní dorazí ve čtyři ráno spolu s Babišem. To se tam scházejí estébáci, vpálil Klempířovi poslanec - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGpBMFF4WW82aDRscy1jNFpmYVJxVDlSa2VFVFJYOEgzajNhUndmdkdKM2FmOTI5ZTY2WEswdHdmZHVrdnBobldyZG5jNks3ZWo3bUpBODZWdlZiVzNPYmRsWS02QnZFQ0ZiRkc2UnNCNXRvSWZjTlBjTnMxU1pleWFDeGUxbHI5OENjeWhvTzEzOU5pM09YR0g3QkZVMkMyLUw4amh1Wm5rU2tkVFhfTExTX1cyYmgxSk5rS0FFeTZKbGM?oc=5"
+  },
+  {
+   "text": "Oto Klempíř přichází podepsat koaliční smlouvu hnutí... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTE5qQVN3S3h6NkN6QnpDNUk5aDhNRk1LQ1VqRV9Eb3luSU1EOXNmVWdtVFc1YTE1am9qeE1ERzFPb2Ffd2JzdkM0d0w1OEJHLVlQVGRoaXlR?oc=5"
+  },
+  {
+   "text": "Oslavy 17. listopadu na Národní třídě nedostanou finance od ministerstva kultury - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNRDlTNVNoZk9ZSHhhVHlubUpyU1l3Z0hOYm5mQ0IwLWdvb2ltd3VMYXA2LVdza0ptcDNNZ2ZUa0xtRGhWQjdLRHlGZW1UUF83cFhyVVdCV1BCNnNkVEl0bmgyZUxZS1pXTWpBMXRaVkhiUGotS094aTVZaER3UmlfV2lMRi1xNktsNG01dTBhNVlJX1VacWwtMWVUMzIwMDZiQ0VqYWp3cFJWWHJZUVR4RDJUaWowWVNxdWNqTFMwNDMtdTA?oc=5"
+  },
+  {
+   "text": "Navrhl nové předpisy pro zveřejňování informací o zahraničních záležitostech v tisku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQbXhvVXdnQ0NfY2JpN0dPU3NfRXBaWjNXOTZhUzJWS2F2SEp5TVl3U2dwNFMtVUFRXzhId18za181TWxTczRBSUM0VVBNbXI4TEd1Z1VvRUJ6M1FWUXBnTURtdGU2R25vUGpoY0t3OFYyTTlrTV9RSWdKdGZkNm1iYjFPMDByTklMaG1idEMzQjEybnR1U0VR?oc=5"
+  },
+  {
+   "text": "Hanoj ​​propaguje kulturu řádného chování a buduje elegantní a civilizovaný způsob života. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxObFdWYW9fek15TV9tUE5ZcXk0c1c1R1ZyN2RCMTZ2dnpWWmhYdmFhNmwwRi1uVG5sMTFTZlpiS0ZNMzFRMEVEaTFndnI1ZzdmOTRibXpMc29wOUZ6Vmd4OFNHQXFYcVlXZk1TOGU3RUdWTkNnaU5IMUlGT2pQTmotOU9Za0ktVUUwTWU3ZG1CQnNHejhNeDdFWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
