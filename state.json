@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T07:39:52+00:00",
+   "last_success_at": "2026-10-22T08:20:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -38,11 +38,12 @@
     "facebook:0ffd207a317c7f96",
     "facebook:55151c7043b79b3a",
     "facebook:ae7efa227d5b3485",
-    "facebook:e5e4063a9065d64c"
+    "facebook:e5e4063a9065d64c",
+    "facebook:cb1c6bde77504439"
    ],
-   "last_success_at": "2026-10-22T07:39:52+00:00",
+   "last_success_at": "2026-10-22T08:20:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-21T10:16:04+00:00"
+   "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
   "instagram": {
    "seen": [
@@ -52,17 +53,18 @@
     "instagram:8f53b288632fa1be",
     "instagram:f58060bcb2b16965",
     "instagram:73d527e0a5c86afa",
-    "instagram:5d69097e9596fd49"
+    "instagram:5d69097e9596fd49",
+    "instagram:221389554b3817a2"
    ],
-   "last_success_at": "2026-10-22T07:39:52+00:00",
+   "last_success_at": "2026-10-22T08:20:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-20T23:50:57+00:00"
+   "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T07:39:52+00:00",
+   "last_success_at": "2026-10-22T08:20:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -509,11 +511,15 @@
     "news:b47b4aca85a22e25",
     "news:776cd3bf6ad08d7c",
     "news:fffe8798d68d9f2f",
-    "news:c02eca959e594db8"
+    "news:c02eca959e594db8",
+    "news:a36b3d47a7bf4cda",
+    "news:9e2dc70f63aba031",
+    "news:0be2a1cd6e88458f",
+    "news:b3a99e72e0a2373e"
    ],
-   "last_success_at": "2026-10-22T07:39:52+00:00",
+   "last_success_at": "2026-10-22T08:20:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T07:39:52+00:00"
+   "last_new_item_at": "2026-10-22T08:20:59+00:00"
   }
  },
  "digest_queue": [
@@ -594,6 +600,18 @@
   },
   {
    "text": "Klempířovy nekompetentní zásahy v kultuře ohrožují její nezávislost - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2VCR0tCYmtoLVZ1Z2hUSVJfUmI0ZXJQaDFyTkJzMllVMlRVbTYyX1duLXFHdEF4MHU4TkRlbzJsODI0dXJDOXoxbVd4ZE85djBUNDBrWlFqOS1weGduUEw2NjNPUXRZazExQktydjhzWmViT2dZQmQ5ZkpUbXdMVlAzWVZEZjFTZFR6QkUwblU1X2VtcldyQkxPOVYtaDZFdlByS2FWdWk?oc=5"
+  },
+  {
+   "text": "Klempíř poslal na nezávislá divadla mimořádnou kontrolu - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxPaFVlWTdfQ2d1b0xwbUltYVpkcFlERWpaVkFwalV0dWtzVU5YV3lEYThEaGtyUldIZmVKa1NUV29jQWI2OTc3d1ctTkdDUlpLV091SFlqNy1Yamp1eEphRjRPTDJzanpWdDI2ZTFtcEJkeWNZcmc0YXRIaUxXbF9Wa2E3blZQQWFPTDZZZkZVeFRlc2NzZjJ4VE50eDROTTNiN2ZN?oc=5"
+  },
+  {
+   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxNakpmclltcEUyc1dKRTlHOTF3R2h5bVd4V3RlekZqSzhVUmh3SVljblR4U1R4ZzJGaDlUVldMZDMtNkNNOWR6ODRhNVEtZGJYTXpsX2c3ZE50MkZMZ2c5Y1BJeWxvUktHRDRIS2poS1Q1bTNUdktOYXFCdzlSVzhiX2doQTFhQ1FTaVFvMUN3NWxSLTIxVnRtRHBKT09PcjFDMll4Vkt4WURRTVBqRzJXM3FHLXR0Rlc3TkV6aThYSkxEcFRaZ2JZ?oc=5"
+  },
+  {
+   "text": "Radiožurnál: Klempíř poslal mimořádnou kontrolu na nezávislá divadla - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQc21Wa1FzNTdRNmdNNXZrLWREYjdDLTlTUlRyVng4OVNyczZ4MnVMUWQ2WERyRE1VQlJpcWJ0enlBNjlrQ0RyRkNERE0tVm9heFpKTHhBNi1LdHR1bEtYcjF3NGRpbjlDWmg1c2tTWjQwZXdGMTVvdnF5VlNnLTJydGhGUlRfdFEta085a1pIN1hiSWJlV3pFSy1rZmdsd0ZWdUNqRjJqRWVrdnVfcHc?oc=5"
+  },
+  {
+   "text": "Celostátní soutěže v sólové a souborové hře na tradiční hudební nástroje – 2026 se zúčastnilo téměř 800 umělců a interpretů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWY1N3JwT1BBVUZNTFhoMU9MUGlHWHltajZfLV80N29LTHVtbkZvOGRFMktHeWhnanRGRE53aEN0TEtNMjJKR1BCV0tDMlU0S3hxRTNEU1BnWUkwWUNXVGJrc0JRdHFDYWFReWs4MEEzYUZZRF9PekV4ejktTUdVVUlnN0hqczJEWEhhOTNSdUJmeW0tWHpIc1RBbE9UcG9iLVFRY2Fqc3VUVERKYUZQakpCRmZMRkIzZE40?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
