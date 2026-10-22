@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-22T05:01:59+00:00",
+   "last_success_at": "2026-10-22T05:39:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T05:01:59+00:00",
+   "last_success_at": "2026-10-22T05:39:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T05:01:59+00:00",
+   "last_success_at": "2026-10-22T05:39:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T05:01:59+00:00",
+   "last_success_at": "2026-10-22T05:39:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -502,11 +502,13 @@
     "news:cbf0df07898a10ad",
     "news:f99d6d8bcdb270a4",
     "news:3f69aef924385cc7",
-    "news:b4531d348820cd71"
+    "news:b4531d348820cd71",
+    "news:cb50827cfc54b0f4",
+    "news:9f8acb315659825a"
    ],
-   "last_success_at": "2026-10-22T05:01:59+00:00",
+   "last_success_at": "2026-10-22T05:39:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T04:23:39+00:00"
+   "last_new_item_at": "2026-10-22T05:39:43+00:00"
   }
  },
  "digest_queue": [
@@ -566,6 +568,12 @@
   },
   {
    "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. S jejich kritikou jeho politiky to prý nesouvisí - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiygFBVV95cUxNWERZQkdBb0Y3U2VVaE02WjVGRkJMZVJneF8wX2lsbWJTaDFkTmdtVjNKd2ZvWk1FRkJ2NDVuUjBNbGNXRnNYTDQ3RWNETEFVdU0xdjEyR250RGVlX05ZeVhNYy11Rm9qRnhBRzVzNVQ3TDExVmZhRlZpS2lkUm5jWWpkNnFLOVB1OUk2akR3Sks5TkxwWEpZZ1ZLNzBEczZvOTNuT1ZzQmpjVWRaMGhQcUQ0STF1N01GR1V0WHMySFlGejJLbGIydDJR?oc=5"
+  },
+  {
+   "text": "Klempíř nepozná vtip. To je na kultuře na demisi - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1dJZU92NWN6WTVfWGxOcU5vSi1FYWRWTE5rVHl5bGZRV19yYzE4RW91OTRyWnNnUmdzZlNZZEtaU25GSm1hVkpyOFFTSmZXdmdzYmZLUXU2UkJpakZDYVE2NHRnV3lDQWJzNWw1WDU1SGJoMVBEQUE0VDJ3NXdVLTdJZFZ1OEY0YmppaWhPUWJzN0RxckdmYXpMTWJoWlJtaGhUcW9tZ28?oc=5"
+  },
+  {
+   "text": "Získávám zpětnou vazbu k návrhu oběžníku, kterým se řídí řízení externích informačních aktivit provincií a ústředně spravovaných měst. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPMllXRGJ1TEl1b0ZCcnhxX3lkQ2xJakFHSWphamdRcTk3VGFXWmp6cS1YT21OMTZaLWhlWk8yT3I2NGlZZ1I5bjl0el8ydWU0Y2llcGNTRU1lcnZZdS00WFZ3cmZPSEJUV2MxMXN2OFJGMkExRnJWMEM0WmQyNWtwR1hqc3JIOUxET0FRam93MXI0YVlCWkY5b29ZNk5hbVNMNVIyVWNOMzFnRjNGaVNYYWFIU2hzLUVCMXBpWFZzcVJpWFRhYWxKWkU1aVVBYTlEQTBHeFFjeHZrbUJvRS1j?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
