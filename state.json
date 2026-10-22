@@ -22,11 +22,12 @@
     "website:f5fb643ec8ac7c28",
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec",
-    "website:1eda3337d9d1762a"
+    "website:1eda3337d9d1762a",
+    "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T12:13:27+00:00",
+   "last_success_at": "2026-10-22T12:58:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T07:39:52+00:00"
+   "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
   "facebook": {
    "seen": [
@@ -42,7 +43,7 @@
     "facebook:cb1c6bde77504439",
     "facebook:16cb640dd456fb96"
    ],
-   "last_success_at": "2026-10-22T12:13:27+00:00",
+   "last_success_at": "2026-10-22T12:58:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -58,7 +59,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T12:13:27+00:00",
+   "last_success_at": "2026-10-22T12:58:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -66,7 +67,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T12:13:27+00:00",
+   "last_success_at": "2026-10-22T12:58:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -532,11 +533,13 @@
     "news:43cdee5ab8af3c50",
     "news:41d1453b575c6d8d",
     "news:a5f94bce815fe2db",
-    "news:dbc21f2e7dae7750"
+    "news:dbc21f2e7dae7750",
+    "news:7981b7c1f4281459",
+    "news:566dbc2f25276b4b"
    ],
-   "last_success_at": "2026-10-22T12:13:27+00:00",
+   "last_success_at": "2026-10-22T12:58:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T12:13:27+00:00"
+   "last_new_item_at": "2026-10-22T12:58:09+00:00"
   }
  },
  "digest_queue": [
@@ -665,6 +668,15 @@
   },
   {
    "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgJBVV95cUxOTzFRR29kQ3NibmRtMG9wNWlyZUVIdjcwS2NjQ2pFd3FraGJtV05FanJUT1N4ZTFKQV9RaXVjaFpyd01jeGg1T0lmVHhRNnZ4ZUp1RktiM25ZSXl5RHhTay1PZ0R0U21PYmVfaHk0OFN5UW5KM3NOc2YzaHNmTW1OOS1TQ2FsOUVfMTJEdzNOb1k1MkhxdzdtcmluVXZ2U1JKY3J0ZjcwQmlaQzFEWjZnbDVwRVRhbGIwVVBOeXYxS01YS3FDeTd2djNCU2RJd19TSFZrSkswTEFndEJqZGtiS01mOTRmZ2t4RkhWbkNUdlpWWmVlQ2Y0cURHcjRjT0prOFFuNlpla3VvTUM1cnp3RlZYSG5SQ3FjNzZwUC1ocGhVd1lfTnFBdEFrb3BEWXBjRmgtcWpn?oc=5"
+  },
+  {
+   "text": "Šelmy v proměnách času\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6614cs-selmy-v-promenach-casu"
+  },
+  {
+   "text": "„Výslechy StB nahradily kontroly.“ Klempíř poslal kontrolu do divadel, která ho kritizují, schytal to od Kupky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUYyR1RDUWk2clg3SHVOTHJ2R2xUZXBLa0ZKZUNmT1VLZVZ0UHZjMHl0UnRnajNEMjE2T3FmTmNNY1E4TFYxbl9HWFBsQXg4eWJYYTJPeGtwcGUzYjZSOHdGUncwQUVCUDRET3dlQ2pnQUY2SUdtbThMdW9yeFVkckFpSTNVNGJyWjd2TUhKTEtMVlpNcmV0czdKMDhnOEs0T1dYSUxvZ1Q4dmxabzdKWk9rUWVRM1R1YUlQcmNEbGxTckNmNjdoS1ZYNVFIdERyUEE?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNN01hMGtsYV9QTWt3VjlWN0VZZ1NleG4tTmNkUXNFanZSQXozdlNwV0N0UFVPbXZTYVJhd2N0Z2FTcXdFS0VmOFQ0ZUxrR05EV3dYaUNFXzgwRV9qUkdhSDEwS1NhRUF1NmozODhQQU91LUk5bHVNdUQ5cURzeDFjMzBDSnZRTFNXRUhfYVZBNDkzMnc5TzRiRUVRLUxBcm03SlV6WVpQaDEyeXdpYmhGODNndlrSAbQBQVVfeXFMTTdNYTBrbGFfUE1rd1Y5VjdFWWdTZXhuLU5jZFFzRWp2UkF6M3ZTcFdDdFBVT212U2FSYXdjdGdhU3F3RUtFZjhUNGVMa0dORFd3WGlDRV84MEVfalJHYUgxMEtTYUVBdTZqMzg4UEFPdS1JOWx1TXVEOXFEc3gxYzMwQ0p2UUxTV0VIX2FWQTQ5MzJ3OU80YkVFUS1MQXJtN0pVellaUGgxMnl3aWJoRjgzZ3Za?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
