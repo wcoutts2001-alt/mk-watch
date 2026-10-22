@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-22T02:40:52+00:00",
+   "last_success_at": "2026-10-22T03:12:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T02:40:52+00:00",
+   "last_success_at": "2026-10-22T03:12:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T02:40:52+00:00",
+   "last_success_at": "2026-10-22T03:12:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T02:40:52+00:00",
+   "last_success_at": "2026-10-22T03:12:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -496,11 +496,12 @@
     "news:b519088fad906e58",
     "news:de14cd89f051e05f",
     "news:61ee440420be881a",
-    "news:8b533c0501e13b27"
+    "news:8b533c0501e13b27",
+    "news:cd59ffa900174763"
    ],
-   "last_success_at": "2026-10-22T02:40:52+00:00",
+   "last_success_at": "2026-10-22T03:12:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T02:40:52+00:00"
+   "last_new_item_at": "2026-10-22T03:12:39+00:00"
   }
  },
  "digest_queue": [
@@ -542,6 +543,9 @@
   },
   {
    "text": "JÁ JSEM KRITIK, KDO JE VÍC? ANEB O ČEM BUDETE PSÁT, PANÍ SPÁČILOVÁ? - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVvZFk3N1FyYXFYeFN1Umt1bUpvYVFFanNfOW51ZU16ZXY1SzMycDlwMm1QdW1yVjI3a3RTdDh5dVo0ZEFiWGNZV2NrV3hhRURwWm5fNXIzSWxpTEZHcnVJcVpRdlhKbmFpYXF0bVV1TC1kbTdhdkctLTJrTnZEVkNqM3FaYkhHNXFkQnB6YkNaVnBGVVhTX2xQZ0NRQVNXREoxLUFYdmpZYTVGT0I5MlpCbw?oc=5"
+  },
+  {
+   "text": "Na Národní dorazí ve čtyři ráno spolu s Babišem. To se tam scházejí estébáci, vpálil Klempířovi poslanec - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGpBMFF4WW82aDRscy1jNFpmYVJxVDlSa2VFVFJYOEgzajNhUndmdkdKM2FmOTI5ZTY2WEswdHdmZHVrdnBobldyZG5jNks3ZWo3bUpBODZWdlZiVzNPYmRsWS02QnZFQ0ZiRkc2UnNCNXRvSWZjTlBjTnMxU1pleWFDeGUxbHI5OENjeWhvTzEzOU5pM09YR0g3QkZVMkMyLUw4amh1Wm5rU2tkVFhfTExTX1cyYmgxSk5rS0FFeTZKbGM?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
