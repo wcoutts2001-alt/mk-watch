@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T09:44:27+00:00",
+   "last_success_at": "2026-10-22T10:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -41,7 +41,7 @@
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439"
    ],
-   "last_success_at": "2026-10-22T09:44:27+00:00",
+   "last_success_at": "2026-10-22T10:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -56,7 +56,7 @@
     "instagram:5d69097e9596fd49",
     "instagram:221389554b3817a2"
    ],
-   "last_success_at": "2026-10-22T09:44:27+00:00",
+   "last_success_at": "2026-10-22T10:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -64,7 +64,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T09:44:27+00:00",
+   "last_success_at": "2026-10-22T10:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -518,11 +518,14 @@
     "news:b3a99e72e0a2373e",
     "news:873478cd79f32fb5",
     "news:323a1dbfb2044901",
-    "news:fb248760bcce252b"
+    "news:fb248760bcce252b",
+    "news:8f346056a4a8e9c7",
+    "news:b5694e1ef1b56250",
+    "news:bccedb6b73525005"
    ],
-   "last_success_at": "2026-10-22T09:44:27+00:00",
+   "last_success_at": "2026-10-22T10:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T09:44:27+00:00"
+   "last_new_item_at": "2026-10-22T10:19:03+00:00"
   }
  },
  "digest_queue": [
@@ -624,6 +627,12 @@
   },
   {
    "text": "Ministr Lam Thi Phuong Thanh: „Když chodíte, dokud vás nezačnou bolet nohy, vidíte jen namačkané domy, je to tam dost dusivé.“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNSXlFU0Z5LUt5aFo5VFk5TUF6RjZwSnVablVPMF9XTnplQ3BsZWwyb3ZBMVVNenNuZGlvSHF3bXFrejJ4d0tkaG9QNDFGd2hKNVhmaC1SVnJUSUhQSDh2R1MzMjhkZXh1cWw5SWVoNHpERzJOQ3hKTDJKSVJ4VlFvZ05ZWVQ1Vl81ZTFGRHE3NmgxcXNnZXRqQjg0QkZVNkdfTi1XUkFMYV9jY0hKVUdCSlY4OA?oc=5"
+  },
+  {
+   "text": "Dohady kvůli 17. listopadu na Národní: Klempíř odmítl dát peníze na oslavy, Kuba zasáhl! - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDBMZzRmNEN2QmxZREN6NzhmTW9jU01vVGZOZVp2bTVncUdTR0g4X09rRkMxcmpLR0ZoOHhMRFdFZ0hOOUF4QkV2Ump5Y0JOY1l3LWRIN2w3QW9sZzh2VXM0MllnWkhVY29LWW1JU2ZZR0FVVFd5RkJYaVM1Y3RCa25KUEM1Um1Ic0pQZ0lDcDBDOVBveDlMMGl4dzdUUHI0OE1seDd4QWVLOENDcEVvd2d4LVRzVW9tQ1RIWEVXRTlIbEZ6SE9oNEZ0bzVPMDBxMFhLN1pUOA?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. Odveta, říká člen rady - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxPTldDUndSN1JGUl9GMUNnbXR4dE1BRGNxcWZHMnNuT0ZGdDFpbGpERnBlMmdMT09VbEdLdE1HdGQzbkEtOUhSa1V3VF9Dd1FJc2VPNXN4V0h2RGM5VE5SSldkV0xpZlRocjMzVjJqME1kbXNhYjk1S08xNHZVcW43dWZRVERjOUlrMVRwZk0zZUtUWGdiYTdXQ3oxQWhrSktVbm1VUmFyNmg3Zm5HYkI0RHp3M1l3ZHFRb21vRklWX09BRjMwZFdnRWtpdXo3ZzlEb2fSAdIBQVVfeXFMT05XQ1J3UjdSRlJfRjFDZ210eHRNQURjcXFmRzJzbk9GRnQxaWxqREZwZTJnTE9PVWxHS3RNR3RkM25BLTlIUmtVd1RfQ3dRSXNlTzVzeFdIdkRjOVROUkpXZFdMaWZUaHIzM1YyajBNZG1zYWI5NUtPMTR2VXFuN3VmUVREYzlJazFUcGZNM2VLVFhnYmE3V0N6MUFoa0pLVW5tVVJhcjZoN2ZuR2JCNER6dzNZd2RxUW9tb0ZJVl9PQUYzMGRXZ0VraXV6N2c5RG9n?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
