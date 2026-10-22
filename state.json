@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-22T21:03:10+00:00",
+   "last_success_at": "2026-10-22T21:39:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -44,7 +44,7 @@
     "facebook:16cb640dd456fb96",
     "facebook:8ae18b1c493ab53d"
    ],
-   "last_success_at": "2026-10-22T21:03:10+00:00",
+   "last_success_at": "2026-10-22T21:39:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T16:16:10+00:00"
   },
@@ -60,7 +60,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-22T21:03:10+00:00",
+   "last_success_at": "2026-10-22T21:39:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -68,7 +68,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T21:03:10+00:00",
+   "last_success_at": "2026-10-22T21:39:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -559,11 +559,13 @@
     "news:d9407f9927c3744d",
     "news:7201024e3c1373f4",
     "news:556b2473c44b4916",
-    "news:e9e4fcc31bd88aa9"
+    "news:e9e4fcc31bd88aa9",
+    "news:7ccd2c262c463ad8",
+    "news:616d4da2d289d074"
    ],
-   "last_success_at": "2026-10-22T21:03:10+00:00",
+   "last_success_at": "2026-10-22T21:39:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T19:59:57+00:00"
+   "last_new_item_at": "2026-10-22T21:39:30+00:00"
   }
  },
  "digest_queue": [
@@ -593,6 +595,12 @@
   },
   {
    "text": "Klempíř chce seškrtat audiovizi o miliardu a vyměnit rady fondu. Producenti nesouhlasí - www.prahanadlani.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6gFBVV95cUxORklmZnJRNmFsc0RWVzRBOFhaNnU4N19fVjF2bG4wLUNOWWI5R0w1eXVSakVaQnVLVHo1dWNJMDlVOUY1aW9MUXlReGpPUEYwbm9CN0JkNGJ6eVhkd1dveGhITXlXdk5VZHhDbmtWWU9yaElHYmJsYWJjUHF5VDJzRnEybUwzNnR4TDhEalFjYXZVT2FiNUNOcTM2NXBfdmhvYm5ZNzhLR3BSRFd2UVFUVTlxLU1wN0UyaHozN2FuR0RwVEhnNnY2cXBObWNKX19MSzBvZ2wyaHBjY1gybWxwck1NVm9zWWREeGfSAeoBQVVfeXFMTkZJZmZyUTZhbHNEVlc0QThYWjZ1ODdfX1YxdmxuMC1DTlliOUdMNXl1UmpFWkJ1S1R6NXVjSTA5VTlGNWlvTFF5UXhqT1BGMG5vQjdCZDRienlYZHdXb3hoSE15V3ZOVWR4Q25rVllPcmhJR2JibGFiY1BxeVQyc0ZxMm1MMzZ0eEw4RGpRY2F2VU9hYjVDTnEzNjVwX3Zob2JuWTc4S0dwUkRXdlFRVFU5cS1NcDdFMmh6MzdhbkdEcFRIZzZ2NnFwTm1jSl9fTEswb2dsMmhwY2NYMm1scHJNTVZvc1lkRHhn?oc=5"
+  },
+  {
+   "text": "Klempíř podle Radiožurnálu poslal mimořádnou kontrolu na nezávislá divadla - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxOV3ZHa0E2VVljR2tWNTJVZnFnNmowZXMzS1Z5Vk1RdjVBVDZTTEc3ZE9KMm5HOURwWU1uRGNSdFlNdG95d3hzaUhjNE52eng5ZWk2NklnMHZJWllGd1VzOEtoR3N4WlV5TTdHQUctOEhFNWg5UDg0ZndMZTdVd1h5eGs4U2FoWmxpdTdmR0d2WnZ0YWp2aFRiUC1RM2xPeG8xRm9mOFNTNkdPbW9uTDdKWUU0LV9NeHM?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na některá nezávislá divadla, uvádí Radiožurnál - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjRPeWpEWkpVS1dvSXZRd2NGVkNac3Z3SVhRVm1TSEUxOUN3WGRtUVNyS2wyOXQ2cGkyQ2t6ZjliMEZDVFg3UFdlaG1PbV9VNFNhc0xTVjRhelBLaGdraXJBRjFXOG1uMW40ejBpOG1sbm14REo1bGNzUVZ4aEVtWVZOcnA5UGRGM0EzOW1QclBjcEdfbG5VbXNCUzk4bE1McDluZ2ZMMXJjTU1maHBpNDRzVVdFR0w0eFlSTjRRbEU?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
