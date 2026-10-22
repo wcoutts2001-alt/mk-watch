@@ -23,7 +23,7 @@
     "website:c3f9a45165370aea",
     "website:2d1ce073cbcbcdec"
    ],
-   "last_success_at": "2026-10-22T06:12:36+00:00",
+   "last_success_at": "2026-10-22T06:57:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -39,7 +39,7 @@
     "facebook:ae7efa227d5b3485",
     "facebook:e5e4063a9065d64c"
    ],
-   "last_success_at": "2026-10-22T06:12:36+00:00",
+   "last_success_at": "2026-10-22T06:57:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-21T10:16:04+00:00"
   },
@@ -53,7 +53,7 @@
     "instagram:73d527e0a5c86afa",
     "instagram:5d69097e9596fd49"
    ],
-   "last_success_at": "2026-10-22T06:12:36+00:00",
+   "last_success_at": "2026-10-22T06:57:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-20T23:50:57+00:00"
   },
@@ -61,7 +61,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T06:12:36+00:00",
+   "last_success_at": "2026-10-22T06:57:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -504,11 +504,12 @@
     "news:3f69aef924385cc7",
     "news:b4531d348820cd71",
     "news:cb50827cfc54b0f4",
-    "news:9f8acb315659825a"
+    "news:9f8acb315659825a",
+    "news:b47b4aca85a22e25"
    ],
-   "last_success_at": "2026-10-22T06:12:36+00:00",
+   "last_success_at": "2026-10-22T06:57:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T05:39:43+00:00"
+   "last_new_item_at": "2026-10-22T06:57:12+00:00"
   }
  },
  "digest_queue": [
@@ -574,6 +575,9 @@
   },
   {
    "text": "Získávám zpětnou vazbu k návrhu oběžníku, kterým se řídí řízení externích informačních aktivit provincií a ústředně spravovaných měst. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPMllXRGJ1TEl1b0ZCcnhxX3lkQ2xJakFHSWphamdRcTk3VGFXWmp6cS1YT21OMTZaLWhlWk8yT3I2NGlZZ1I5bjl0el8ydWU0Y2llcGNTRU1lcnZZdS00WFZ3cmZPSEJUV2MxMXN2OFJGMkExRnJWMEM0WmQyNWtwR1hqc3JIOUxET0FRam93MXI0YVlCWkY5b29ZNk5hbVNMNVIyVWNOMzFnRjNGaVNYYWFIU2hzLUVCMXBpWFZzcVJpWFRhYWxKWkU1aVVBYTlEQTBHeFFjeHZrbUJvRS1j?oc=5"
+  },
+  {
+   "text": "Klempíř poslal mimořádnou kontrolu na nezávislá divadla. S jejich kritikou jeho politiky to prý nesouvisí - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFh2MkJITkVrVThnbG50ajBGNGd6cVU4RXJKejd4eWkweHpwRG45VUQ1UDNJNU51cWVUNER4ODhqTGs5REpveW5GZmJpczl2WHNTZmUyeHBscldNNmFiWE1oRlpNSjR5bkUzeThCRm1HczI0VmFDME9RQkRGOEpXdkhoRjFEbTJwQlV4UVc1WjRBTGQ3WUZNZUVsdTV2cXFIVE5oNnF2N3FyRFNhQlpFUU1Hb05JS3d2SXRLcHBUZERlblRvMWJIYnpmMkVMcWY3aUlLSXRMR3FmdEtuejdV?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
