@@ -24,7 +24,7 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a"
    ],
-   "last_success_at": "2026-10-22T11:00:09+00:00",
+   "last_success_at": "2026-10-22T11:32:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T07:39:52+00:00"
   },
@@ -41,7 +41,7 @@
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439"
    ],
-   "last_success_at": "2026-10-22T11:00:09+00:00",
+   "last_success_at": "2026-10-22T11:32:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -56,7 +56,7 @@
     "instagram:5d69097e9596fd49",
     "instagram:221389554b3817a2"
    ],
-   "last_success_at": "2026-10-22T11:00:09+00:00",
+   "last_success_at": "2026-10-22T11:32:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T08:20:59+00:00"
   },
@@ -64,7 +64,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-22T11:00:09+00:00",
+   "last_success_at": "2026-10-22T11:32:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -523,11 +523,14 @@
     "news:b5694e1ef1b56250",
     "news:bccedb6b73525005",
     "news:1ec1bc7d71c26f0a",
-    "news:8c8613ab9cf9090f"
+    "news:8c8613ab9cf9090f",
+    "news:38f0ea853d164d94",
+    "news:4eb5b52a561cfb24",
+    "news:a9014c9d7f3d2849"
    ],
-   "last_success_at": "2026-10-22T11:00:09+00:00",
+   "last_success_at": "2026-10-22T11:32:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T11:00:09+00:00"
+   "last_new_item_at": "2026-10-22T11:32:21+00:00"
   }
  },
  "digest_queue": [
@@ -641,6 +644,15 @@
   },
   {
    "text": "Ho Či Minovo Město hledá řešení pro zachování a rozvoj nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3hGVElFOGVSMkFQczJaakE5VXRrOWNBblhQVVloSmF4LXBaYTd4TlJfVnR0RlYzMlUwWE82Tm1jMF9ORExVRENmdG1TNXNoakJOTnZFVTIyNUZ6VHRfTGVybXhhaFNjVUZaLVEwNk9EUWNReHE1NmJCNDF2ejBvX1dZNVdQQ09qZzlFVGZCY2todXJ3Vks5WGlCTUpKbWktV283WWVQSQ?oc=5"
+  },
+  {
+   "text": "Never more Klempířovu kulturnímu staveništi: Místo koncepce přináší jen zmar, urážky a zpackané konkurzy - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXJfRWVub2NYUWJKZi1VV1hUdWtUZVZLQzV6UGNTYXN4dUxmZmVtdmNhakRFTkh1M245ZlctY3U5Y0h0NlZVSHloZWM1eDdjbXQtSGxMMmZ5c3JJV29ha25zX1BXeDVJTS0zanVwOVFsMzV2T2Nib2diVVpPYzNIV2lNSFFEQVc0Nm5LWXpKZnVfZ3MtVGJmSEpxZnZuTV8xZ0xBMDBuVkdxcU5fdklJNTFlVWhRNTV2UFhqNzFhVjlqMXhGT2JRVEdodnJBZmJZZERjSlllVXVuQ3FrUG8tcTR5MVBwQQ?oc=5"
+  },
+  {
+   "text": "Blog: Opravdu potřebujeme oslavu 17. listopadu za čtyři a půl milionu? A za jihočeských 300 tisíc? - Jižní Čechy Teď!\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxONGpZZUVUdjZxdkhsbTNJQ3k0aFo4Z0FiOG1pcVF1OEZBcVhQa0VqeHA4NThKV01sQlBxTTJqTnFKcHo1UmRsb0VtbGJnUThEMkhpMWxGbW9RUjJRTjhMYUplYUZrYkE2WVVwNFIxakNQNFVBNUZBODlScE81NVZwM0VTazEwVG8zZXJGSFFFTFFuOE5UN2gwNjVUR3JkY3Rucmpob3lrNkFMa3FOQU9YX2g3Y3J4aXM?oc=5"
+  },
+  {
+   "text": "Co vše ustojí špatný ministr? Více, než si myslíte - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxONldmRkZ4X254dGpCSGN2bnNfSXVTMkFKUWFMMmlySWQyOTVwSFpGaGJKcUpzUENqa2VwLTJLOElFVU55SmJCR284N242ODBMQl9GbUl4Zk1NaGhfODU5UHZjVGlOZmY5Ty1JbXA2eE1DRTRfZ0hFMjFCN2tJLUpoWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-21"
