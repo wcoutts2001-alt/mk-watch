@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-23T11:58:21+00:00",
+   "last_success_at": "2026-10-23T12:29:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -47,7 +47,7 @@
     "facebook:d1f5d65daa02684f",
     "facebook:6605aa17b58c9370"
    ],
-   "last_success_at": "2026-10-23T11:58:21+00:00",
+   "last_success_at": "2026-10-23T12:29:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -64,7 +64,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-23T11:58:21+00:00",
+   "last_success_at": "2026-10-23T12:29:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -72,7 +72,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T11:58:21+00:00",
+   "last_success_at": "2026-10-23T12:29:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -576,11 +576,12 @@
     "news:c1664fabb16b6db1",
     "news:91a36c7af4f7c165",
     "news:c28acbe8044e5c01",
-    "news:6e7263420361afe4"
+    "news:6e7263420361afe4",
+    "news:5c94f79346a01026"
    ],
-   "last_success_at": "2026-10-23T11:58:21+00:00",
+   "last_success_at": "2026-10-23T12:29:16+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T11:22:53+00:00"
+   "last_new_item_at": "2026-10-23T12:29:16+00:00"
   }
  },
  "digest_queue": [
@@ -640,6 +641,9 @@
   },
   {
    "text": "Filmaři vydali prohlášení ke Klempířovým změnám v audiovizi - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE1HRGdJbFRKaTRwOGtDcjQ4UFY0TzE1WlY4ZlJkVlRIZjJtLWRTOXYzTVE5eGRoNUdUNHdON05PSWp6anI2WWFoNw?oc=5"
+  },
+  {
+   "text": "„Totální destrukce české audiovize.“ Filmaři kritizují Klempířovy škrty - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxNUnprUE05YVQxUF8tdXp0M0QtbkNQYXVrcW1ZTk1rWGFPc1NlWkVuMXFwYkM4OHljeEJyU1ZhQWJTamVwRHlVbFd2bEpZMU9kdUx5NXpmWW1VY0x3VDhobktOekFhMG5CX0d4ZDc5TFJLQ24tcE9meFRsX0hWWW9xdFNLZ2d5a1JFdUpmcEQ1bUtlZVpMYk9ncjZqc19kTzhHUE5uSF9rc05rTzFKdTFzXzVlei01WnliZlRoZ19vSWQ3ZVlySjloZ1JiQU9FR3V2cmNYRnUzMnU?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
