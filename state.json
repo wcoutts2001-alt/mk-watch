@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-23T07:49:49+00:00",
+   "last_success_at": "2026-10-23T08:26:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -42,11 +42,12 @@
     "facebook:e5e4063a9065d64c",
     "facebook:cb1c6bde77504439",
     "facebook:16cb640dd456fb96",
-    "facebook:8ae18b1c493ab53d"
+    "facebook:8ae18b1c493ab53d",
+    "facebook:d1f5d65daa02684f"
    ],
-   "last_success_at": "2026-10-23T07:49:49+00:00",
+   "last_success_at": "2026-10-23T08:26:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-22T16:16:10+00:00"
+   "last_new_item_at": "2026-10-23T08:26:03+00:00"
   },
   "instagram": {
    "seen": [
@@ -60,7 +61,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-23T07:49:49+00:00",
+   "last_success_at": "2026-10-23T08:26:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -68,7 +69,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T07:49:49+00:00",
+   "last_success_at": "2026-10-23T08:26:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -566,11 +567,13 @@
     "news:d370f76c571dfea9",
     "news:1c5595bc8e884898",
     "news:69f2ef4f168d0151",
-    "news:2c42e1209644be1b"
+    "news:2c42e1209644be1b",
+    "news:4093020ec92ba7e7",
+    "news:8523458c2273b4ad"
    ],
-   "last_success_at": "2026-10-23T07:49:49+00:00",
+   "last_success_at": "2026-10-23T08:26:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T07:49:49+00:00"
+   "last_new_item_at": "2026-10-23T08:26:03+00:00"
   }
  },
  "digest_queue": [
@@ -615,6 +618,12 @@
   },
   {
    "text": "Oto Klempíř nařídil kontroly divadel. Jakub Vedral mluví o odvetě - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnByRmpDWWYwRV84MGEzbEVTbUxVaEtkanFJNEtHeU0wQ3hham1wdGpIak9GQ1czb1ppcVNNRVl2UkNTQV9vRUh2aEJ1ZXN0MzloTUNxYzVLRjVIeF85dDdfdV9WYU1OaEpwbHEzZTQ0UVFjYWZLUWNsOWEtUkVuTDQyT0tfQTZVZnV2OVU5U3F1Z0tZNTFTdzZ5TFJ4TXBrS1lGQVFqOGdQUQ?oc=5"
+  },
+  {
+   "text": "Češi se složili na oslavy 17. listopadu! Po stopce od Klempíře poslali přes 4,5 milionu - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkN1U1NlbkhjYlV3dVplVHRCc0d5Mk5HWTh0b3otcm9XdXZTdldMdnRjNHRBU2o4RVZCN09fR2JOTFI4S3FTUFJNMnJQSWVRZWM5c29wZ1N1UWxlRE9CZlNVZUY3NlAxOU1nY2VXaWxXNlUzT3RvWjU3a3JWZDh3cFlGSWZHQ25Jc1c3dnVCcjJMbmFpZXQzUjVfRmxQY3FGOVVqb2ZOS1l1TjM2NW56TWQwcTlXSXRWOTZDekx4bXB6UVpURnZzZGVRZ1ptNnlGYWFlM3NEQzQ?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE8wLVpqOWo0cW51aXM0SkF5R0htMGUwTG0tdi1VdFJ2LUhFMHN0bXo0QS1rOC1IVlZIVnlkM2d4WWg1TWdFVE1xMWQyakVEWTNXOTU3ZjhHUWYyWWxMbl9nZnpGY0x1d3hVLUo5RktB?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
