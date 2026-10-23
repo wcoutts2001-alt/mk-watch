@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-23T08:26:03+00:00",
+   "last_success_at": "2026-10-23T09:03:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -45,7 +45,7 @@
     "facebook:8ae18b1c493ab53d",
     "facebook:d1f5d65daa02684f"
    ],
-   "last_success_at": "2026-10-23T08:26:03+00:00",
+   "last_success_at": "2026-10-23T09:03:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T08:26:03+00:00"
   },
@@ -61,7 +61,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-23T08:26:03+00:00",
+   "last_success_at": "2026-10-23T09:03:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -69,7 +69,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T08:26:03+00:00",
+   "last_success_at": "2026-10-23T09:03:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -569,11 +569,12 @@
     "news:69f2ef4f168d0151",
     "news:2c42e1209644be1b",
     "news:4093020ec92ba7e7",
-    "news:8523458c2273b4ad"
+    "news:8523458c2273b4ad",
+    "news:c1664fabb16b6db1"
    ],
-   "last_success_at": "2026-10-23T08:26:03+00:00",
+   "last_success_at": "2026-10-23T09:03:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T08:26:03+00:00"
+   "last_new_item_at": "2026-10-23T09:03:38+00:00"
   }
  },
  "digest_queue": [
@@ -624,6 +625,9 @@
   },
   {
    "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE8wLVpqOWo0cW51aXM0SkF5R0htMGUwTG0tdi1VdFJ2LUhFMHN0bXo0QS1rOC1IVlZIVnlkM2d4WWg1TWdFVE1xMWQyakVEWTNXOTU3ZjhHUWYyWWxMbl9nZnpGY0x1d3hVLUo5RktB?oc=5"
+  },
+  {
+   "text": "Ranních 5 minut: Jednání poslanců se zvrhlo v osobní urážky a hádky | Klempíř plánuje změny ve Státním fondu audiovize | ČVUT čelilo kyberútoku - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi-AFBVV95cUxPeDA3YlRFZV8zX3JVZGR1dXZGOXhESkk1SjRaMVhNemNZQ3Y1MmV0c3dQaUJ5R3VOaFdFZ05YaURMdG96N1JENmNDQTk4bWJ6RnNGNlFMV2t5MUJiSzhiZ2I4Sk82UHhBdzNwMUFBZVFyZmIwUmtXMGI5YWV6cER6YVNRRFR1c1VzalhjV2FjQzU2a2RsYkk3S0FMWXZHdlg5SVQ0WExUY3YxRWFIZld0SzJxd3cxcnRwWUdEZS1Md1JhUmlIbmNVNVpFTzRlUGdELUVka0E4X1g1bW9LY3ZMVG5FOHZ4SWMwa0lIWjRvMjRjVVJMaE5EWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
