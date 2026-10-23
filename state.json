@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-23T12:29:16+00:00",
+   "last_success_at": "2026-10-23T13:14:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -47,7 +47,7 @@
     "facebook:d1f5d65daa02684f",
     "facebook:6605aa17b58c9370"
    ],
-   "last_success_at": "2026-10-23T12:29:16+00:00",
+   "last_success_at": "2026-10-23T13:14:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -64,7 +64,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-23T12:29:16+00:00",
+   "last_success_at": "2026-10-23T13:14:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -72,14 +72,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T12:29:16+00:00",
+   "last_success_at": "2026-10-23T13:14:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:b99858c2f82b91b8",
-    "news:9e11c0c72eadeb0f",
     "news:4dd297682b269406",
     "news:cadcc312c0daad1e",
     "news:f85730483cc99cd7",
@@ -577,11 +575,13 @@
     "news:91a36c7af4f7c165",
     "news:c28acbe8044e5c01",
     "news:6e7263420361afe4",
-    "news:5c94f79346a01026"
+    "news:5c94f79346a01026",
+    "news:6e844a7655ab0a4d",
+    "news:c8aba36648a9c826"
    ],
-   "last_success_at": "2026-10-23T12:29:16+00:00",
+   "last_success_at": "2026-10-23T13:14:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T12:29:16+00:00"
+   "last_new_item_at": "2026-10-23T13:14:19+00:00"
   }
  },
  "digest_queue": [
@@ -644,6 +644,12 @@
   },
   {
    "text": "„Totální destrukce české audiovize.“ Filmaři kritizují Klempířovy škrty - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxNUnprUE05YVQxUF8tdXp0M0QtbkNQYXVrcW1ZTk1rWGFPc1NlWkVuMXFwYkM4OHljeEJyU1ZhQWJTamVwRHlVbFd2bEpZMU9kdUx5NXpmWW1VY0x3VDhobktOekFhMG5CX0d4ZDc5TFJLQ24tcE9meFRsX0hWWW9xdFNLZ2d5a1JFdUpmcEQ1bUtlZVpMYk9ncjZqc19kTzhHUE5uSF9rc05rTzFKdTFzXzVlei01WnliZlRoZ19vSWQ3ZVlySjloZ1JiQU9FR3V2cmNYRnUzMnU?oc=5"
+  },
+  {
+   "text": "V 80. letech „Olda“ donášel, dnes nechce podpořit oslavy 17. listopadu. Klempíř pod palbou kritiky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdtNy1iVDAzZUZNaGxudk1LVjFianFkVkFuRGhmeDJmdmN4WkExcEhPcFZ6MHRCR2xQM2RORENzRXc5YmozZUpvVGRyaTdFTVlWQ2d2cVJHLTRDWG5uXzB2S1VSZEdXM2JBeHgwMV9fUkg1dXlVejZQcnFuYzd0N1NIOXNhazBneXdkWFF5SlhDTmRrTWs1LW96U1lJelNJbVNOZjNsOEU5ekN2d08wSzNmRTVtUQ?oc=5"
+  },
+  {
+   "text": "Pětistovka pro Oldu. Lidé vybrali na oslavy revoluce přes šest milionů, připomínají Klempíře u StB - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxPZFpsZ2h3b1paRktOVS1ldV9FS0Vncm8zR2hsdmZFSlE4SUZYUkJYSkRaWGVseEh4ZXE2QUU0ME1TdXNUYjhZUFZQMFNMLUowT3dXc1JDNmxPQUNtMTMzOWtTRnlvLVRPUzgtRG51YnBWM2toS2JMUFFIRHFJRGRrNzdEMTBoaExvVXZ2YzM1XzlqMWhCUDNOU3pRcUdqb0s1R002UDFxUDlTUUNWOUxzaEpWSmlFRU5WYVZLaElqaTNRNjU1aXJIaUlGbWQ0cTJvZXJpUVlDeFBYUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
