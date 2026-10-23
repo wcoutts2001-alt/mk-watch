@@ -25,7 +25,7 @@
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c"
    ],
-   "last_success_at": "2026-10-23T07:01:22+00:00",
+   "last_success_at": "2026-10-23T07:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:58:09+00:00"
   },
@@ -44,7 +44,7 @@
     "facebook:16cb640dd456fb96",
     "facebook:8ae18b1c493ab53d"
    ],
-   "last_success_at": "2026-10-23T07:01:22+00:00",
+   "last_success_at": "2026-10-23T07:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T16:16:10+00:00"
   },
@@ -60,7 +60,7 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61"
    ],
-   "last_success_at": "2026-10-23T07:01:22+00:00",
+   "last_success_at": "2026-10-23T07:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-22T12:13:27+00:00"
   },
@@ -68,7 +68,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T07:01:22+00:00",
+   "last_success_at": "2026-10-23T07:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -564,11 +564,13 @@
     "news:616d4da2d289d074",
     "news:cc4f7a2771a390d4",
     "news:d370f76c571dfea9",
-    "news:1c5595bc8e884898"
+    "news:1c5595bc8e884898",
+    "news:69f2ef4f168d0151",
+    "news:2c42e1209644be1b"
    ],
-   "last_success_at": "2026-10-23T07:01:22+00:00",
+   "last_success_at": "2026-10-23T07:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T07:01:22+00:00"
+   "last_new_item_at": "2026-10-23T07:49:49+00:00"
   }
  },
  "digest_queue": [
@@ -610,6 +612,9 @@
   },
   {
    "text": "Oto Klempíř nařídil kontroly divadel. Jakub Vedral mluví o odvetě - Opera PLUS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxPNlM1NDFaTGNVQkRTTEIwaFVxM0tzZEFPTkUxRV9LUndFMHNhc1U5VkdRdDJJQ3VodGJhR21hck5hNlNKTGQ3NlZkR3RpemNyYUhQbjlQN1ZLcDB4dWxCVDlpQjlLTFJjSmd6NHluZllRdUVHVTVWejlFUkdZOUlfQ1diT2FOODV5akhWZnctRQ?oc=5"
+  },
+  {
+   "text": "Oto Klempíř nařídil kontroly divadel. Jakub Vedral mluví o odvetě - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnByRmpDWWYwRV84MGEzbEVTbUxVaEtkanFJNEtHeU0wQ3hham1wdGpIak9GQ1czb1ppcVNNRVl2UkNTQV9vRUh2aEJ1ZXN0MzloTUNxYzVLRjVIeF85dDdfdV9WYU1OaEpwbHEzZTQ0UVFjYWZLUWNsOWEtUkVuTDQyT0tfQTZVZnV2OVU5U3F1Z0tZNTFTdzZ5TFJ4TXBrS1lGQVFqOGdQUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
