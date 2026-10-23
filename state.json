@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-23T10:47:39+00:00",
+   "last_success_at": "2026-10-23T11:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -47,7 +47,7 @@
     "facebook:d1f5d65daa02684f",
     "facebook:6605aa17b58c9370"
    ],
-   "last_success_at": "2026-10-23T10:47:39+00:00",
+   "last_success_at": "2026-10-23T11:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -64,7 +64,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-23T10:47:39+00:00",
+   "last_success_at": "2026-10-23T11:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -72,7 +72,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T10:47:39+00:00",
+   "last_success_at": "2026-10-23T11:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -575,11 +575,12 @@
     "news:8523458c2273b4ad",
     "news:c1664fabb16b6db1",
     "news:91a36c7af4f7c165",
-    "news:c28acbe8044e5c01"
+    "news:c28acbe8044e5c01",
+    "news:6e7263420361afe4"
    ],
-   "last_success_at": "2026-10-23T10:47:39+00:00",
+   "last_success_at": "2026-10-23T11:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T10:14:53+00:00"
+   "last_new_item_at": "2026-10-23T11:22:53+00:00"
   }
  },
  "digest_queue": [
@@ -636,6 +637,9 @@
   },
   {
    "text": "Oldův tarif. Lidé přispívají na oslavy 17. listopadu částkou, jakou dostával Klempíř za pomoc StB - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmh6TVgtYkxhQkdqb1J3R1BIMnI3d1JWQlhJQV9MNWRydWxpNHh3ZG5HSDg0VURGendvTnd0SWNLLUk1cW03amFqZU1rS2hnYjI2LWhQYmlNNnpkdFk3OE1aVGFNY3Z3bFlLSEl4VkpmUkpyZ2Jsc2t1Rlh4VnhzTlVQXzR4WjNyem8yNkVvY0JUZGkwcENqeWwyTmZrdTZNNzlGcldhUVYtako5RHR6cVdMc0NMcjdldHlfQnU3bzhHbkE5bzU5Y0ZlQnp3d0RIeHB4em1xUQ?oc=5"
+  },
+  {
+   "text": "Filmaři vydali prohlášení ke Klempířovým změnám v audiovizi - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE1HRGdJbFRKaTRwOGtDcjQ4UFY0TzE1WlY4ZlJkVlRIZjJtLWRTOXYzTVE5eGRoNUdUNHdON05PSWp6anI2WWFoNw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
