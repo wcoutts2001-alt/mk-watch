@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-23T13:14:19+00:00",
+   "last_success_at": "2026-10-23T13:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -47,7 +47,7 @@
     "facebook:d1f5d65daa02684f",
     "facebook:6605aa17b58c9370"
    ],
-   "last_success_at": "2026-10-23T13:14:19+00:00",
+   "last_success_at": "2026-10-23T13:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -64,7 +64,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-23T13:14:19+00:00",
+   "last_success_at": "2026-10-23T13:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -72,14 +72,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T13:14:19+00:00",
+   "last_success_at": "2026-10-23T13:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:4dd297682b269406",
-    "news:cadcc312c0daad1e",
     "news:f85730483cc99cd7",
     "news:87ca66fe08cfd568",
     "news:dcf640e1825a3e77",
@@ -577,11 +575,13 @@
     "news:6e7263420361afe4",
     "news:5c94f79346a01026",
     "news:6e844a7655ab0a4d",
-    "news:c8aba36648a9c826"
+    "news:c8aba36648a9c826",
+    "news:a9fe9588a8830dc7",
+    "news:fa47d09fd35a6780"
    ],
-   "last_success_at": "2026-10-23T13:14:19+00:00",
+   "last_success_at": "2026-10-23T13:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T13:14:19+00:00"
+   "last_new_item_at": "2026-10-23T13:54:23+00:00"
   }
  },
  "digest_queue": [
@@ -650,6 +650,9 @@
   },
   {
    "text": "Pětistovka pro Oldu. Lidé vybrali na oslavy revoluce přes šest milionů, připomínají Klempíře u StB - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxPZFpsZ2h3b1paRktOVS1ldV9FS0Vncm8zR2hsdmZFSlE4SUZYUkJYSkRaWGVseEh4ZXE2QUU0ME1TdXNUYjhZUFZQMFNMLUowT3dXc1JDNmxPQUNtMTMzOWtTRnlvLVRPUzgtRG51YnBWM2toS2JMUFFIRHFJRGRrNzdEMTBoaExvVXZ2YzM1XzlqMWhCUDNOU3pRcUdqb0s1R002UDFxUDlTUUNWOUxzaEpWSmlFRU5WYVZLaElqaTNRNjU1aXJIaUlGbWQ0cTJvZXJpUVlDeFBYUQ?oc=5"
+  },
+  {
+   "text": "Klempířův resort nepřispěje. Lidé se mohutně skládají na oslavy 17. listopadu na Národní - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8AFBVV95cUxNbC1GdktTUWE5UjF5NVdZa0tHVjdIMG9wMVZSeW5LMkxBSVJWUTlVVEhPOXJNU0tnOV9kVnZzdVJKdVhwd3lLZ2s3M2dNblpydTVqYXI3d3BFVnZwbXpCVzN0eUJJUXk0emp1c1VKQ2x3NVBWNGxBTVRTQ3NPX3dSdkZwcEZQRW1CSGtRMHRFT0dyeWE3dXBJNmczX1NUaDdMOGxDalJJZmM2cnE4X1EwWE5EYWxGMkVzNHFmaFROVjJSMEZLT2dueDV5cHdPSEJVR2R3am1rQ2NLampHejJZNDBodGRQX21qcWtMSE83VXI?oc=5"
   }
  ],
  "last_digest_date": "2026-10-22"
