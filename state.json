@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-23T17:39:30+00:00",
+   "last_success_at": "2026-10-23T18:07:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -48,7 +48,7 @@
     "facebook:6605aa17b58c9370",
     "facebook:2ef0679cac8ba31e"
    ],
-   "last_success_at": "2026-10-23T17:39:30+00:00",
+   "last_success_at": "2026-10-23T18:07:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T17:03:25+00:00"
   },
@@ -65,7 +65,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-23T17:39:30+00:00",
+   "last_success_at": "2026-10-23T18:07:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,15 +73,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-23T17:39:30+00:00",
+   "last_success_at": "2026-10-23T18:07:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:480bacf6d0e203df",
-    "news:a55702801e736927",
-    "news:0f4f61efd2130e13",
     "news:90c67f1daef5ae1a",
     "news:47a34a3a8ba2667b",
     "news:17b2b151420a7587",
@@ -578,15 +575,20 @@
     "news:26c49d7af451b7c1",
     "news:8a640b7887aeba20",
     "news:dc321cfbb39a21cb",
-    "news:edb2d09c9995ba38"
+    "news:edb2d09c9995ba38",
+    "news:22bcd34717f4b9e4",
+    "news:ffd254614c344d47",
+    "news:a4afe072c621e5e6"
    ],
-   "last_success_at": "2026-10-23T17:03:25+00:00",
+   "last_success_at": "2026-10-23T18:07:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T16:26:44+00:00",
-   "first_error_at": "2026-10-23T17:39:30+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-10-23T18:07:12+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "„500 pro Oldu.“ Lidé připomínají Klempířovu minulost u StB, na oslavu 17. listopadu už poslali miliony - České důchody\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxPMF9tTzhyNEZqaHlZMUtDRjdsVTlPTXFwTHlydHhxT2M3QzZtTkJvUXh6TkI1cTR4ZXA3YjlHUjFVWjVCdHAxNXo0SFM5WERtSnZBOXl5cGl3R2ZwdDFwU3FjZE4wbHFGUmJvdWNRSzNwbjZtQ2FvZUd5OXFrYlFqRTd6Z3lBelJyelRRV1c3Q1dXZnFNWFlocGFxRE9EX1BXT1d5T1pmcVQ2WjYtZVA0VnVxWXhOVnJvS19PdFkwLTc2by1KTjNR?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-23"
 }
