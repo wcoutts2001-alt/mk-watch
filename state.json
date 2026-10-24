@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T16:39:49+00:00",
+   "last_success_at": "2026-10-24T17:07:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -46,11 +46,12 @@
     "facebook:8ae18b1c493ab53d",
     "facebook:d1f5d65daa02684f",
     "facebook:6605aa17b58c9370",
-    "facebook:2ef0679cac8ba31e"
+    "facebook:2ef0679cac8ba31e",
+    "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-24T16:39:49+00:00",
+   "last_success_at": "2026-10-24T17:07:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T17:03:25+00:00"
+   "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
   "instagram": {
    "seen": [
@@ -65,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T16:39:49+00:00",
+   "last_success_at": "2026-10-24T17:07:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,19 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T16:39:49+00:00",
+   "last_success_at": "2026-10-24T17:07:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d519ccd4687c1039",
-    "news:f7f531d482a5440e",
-    "news:0c6aefa1e5e9ea02",
-    "news:21a744dbb149681a",
-    "news:d30b832d3cfafb23",
-    "news:a28e261d708ddaf9",
     "news:96f0bee328bcf6f8",
     "news:c5183d58d33f5c03",
     "news:846f86e4c263f202",
@@ -579,13 +574,29 @@
     "news:469db8bccb72db35",
     "news:f810419b45369e9b",
     "news:33f65feefd165272",
-    "news:d55aa9b268b48a92"
+    "news:d55aa9b268b48a92",
+    "news:ec08528717fcc9e5",
+    "news:7dc2faee639796cc",
+    "news:aff7f4fd91308a00",
+    "news:335ced3e3d685cad",
+    "news:df55bd918913abde",
+    "news:06a7727c2d1c1636"
    ],
-   "last_success_at": "2026-10-24T16:39:49+00:00",
+   "last_success_at": "2026-10-24T17:07:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T16:39:49+00:00"
+   "last_new_item_at": "2026-10-24T17:07:48+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Kintera: Budu se muset stáhnout, je zakinterováno. Kontaminuji veřejný prostor sám sebou - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2dKOE16Ukd6eURGN0VDaXJnSWRONGdPMC1uSWJYVG0taTE0ZkQ3YkdNaWJZZFJYaU5nMXY3c0tNM2tnS1pRZk5wME0zdHJjR2VTSlJXUEVtZU9iVWRSX29yVTRWZG5zbDZ3ajFlbzZPNTZNb1dnekNBcmYxWjBqV0padVRRbzNEOUswOXlnWHJXZ2hsTGVvTjlCd0NZS3JnV3dxbDJBOHBNQzFuU25XbUl3?oc=5"
+  },
+  {
+   "text": "Galerie: Horké chvilky Oty Klempíře: Rozzuřený dav žádal jeho příchod, naložila mu i Nerudová - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3ptTzNSWEZzck5hTXNCRDRhQVpfM0Fadk5ueUgxZW5TbUZvR0JNSXptUWxLRWc2cXNVYW5TZ3dDOHZjU1FFVG44V2NPbWt0NWZjNUpzQ3I4OXU0Qk5lcjFQQUkyeXZ4c1hZXzlLdjNWYmY3MnlWeU9VMDlnakxQZ2YxYzhUc2xHd3lodllwX1pPVjcyc3M2c09jeWJGMmd2RFFGalpwRW1CQUJOTm9wdFhmODdWQnkwS3Y4?oc=5"
+  },
+  {
+   "text": "Školení o implementaci Národních kritérií pro kulturní rozvoj pro úředníky obcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOVnhHeVB3V25UOWtSdDJ0SXRycE1oeDM0OElBUVVkWm41THZDUHczUW92bUN3S0NOZ0pxNGJ4WkFNa3B5eGxRbzE1R1hQUDVxV05aZ05vOTRzTjEySmFCb24wYVNORWVtYlNYYnhNVTNIWG9CR3pVLUtLbVBNcUJLNjQtQnZEdmo3ZmpCZ3FpcW42RGF3TDlnTXEyMDZjRkw4VUNvVA?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-24"
 }
