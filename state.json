@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T04:41:32+00:00",
+   "last_success_at": "2026-10-24T05:10:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -48,7 +48,7 @@
     "facebook:6605aa17b58c9370",
     "facebook:2ef0679cac8ba31e"
    ],
-   "last_success_at": "2026-10-24T04:41:32+00:00",
+   "last_success_at": "2026-10-24T05:10:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T17:03:25+00:00"
   },
@@ -65,7 +65,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T04:41:32+00:00",
+   "last_success_at": "2026-10-24T05:10:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,7 +73,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T04:41:32+00:00",
+   "last_success_at": "2026-10-24T05:10:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
@@ -582,7 +582,9 @@
    ],
    "last_success_at": "2026-10-24T04:41:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T04:41:32+00:00"
+   "last_new_item_at": "2026-10-24T04:41:32+00:00",
+   "first_error_at": "2026-10-24T05:10:08+00:00",
+   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
   }
  },
  "digest_queue": [
