@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T13:05:46+00:00",
+   "last_success_at": "2026-10-24T13:38:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -48,7 +48,7 @@
     "facebook:6605aa17b58c9370",
     "facebook:2ef0679cac8ba31e"
    ],
-   "last_success_at": "2026-10-24T13:05:46+00:00",
+   "last_success_at": "2026-10-24T13:38:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T17:03:25+00:00"
   },
@@ -65,7 +65,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T13:05:46+00:00",
+   "last_success_at": "2026-10-24T13:38:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,14 +73,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T13:05:46+00:00",
+   "last_success_at": "2026-10-24T13:38:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:2f4f1abf45ae47f3",
-    "news:38460284a38e8d52",
     "news:1cb45ed75e73a488",
     "news:80ae8bd2e84cd6f6",
     "news:bee2dea1235966d5",
@@ -578,11 +576,13 @@
     "news:4ade2c2a64f70272",
     "news:f0121459cfeb0835",
     "news:4e5148a966251f89",
-    "news:82f323b1ac61dac5"
+    "news:82f323b1ac61dac5",
+    "news:5bd4664a409659c6",
+    "news:20d8a8463c601c39"
    ],
-   "last_success_at": "2026-10-24T13:05:46+00:00",
+   "last_success_at": "2026-10-24T13:38:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T13:05:46+00:00"
+   "last_new_item_at": "2026-10-24T13:38:32+00:00"
   }
  },
  "digest_queue": [
@@ -612,6 +612,9 @@
   },
   {
    "text": "Literární časopisy nesmí psát o politice, to už je otevřená cenzura - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjQ2VUMxNzVEVmF0Y1dlMUllR051VXNyRU9iQ1VuWFQ2T0U1d09GRW1md2NweE5wbjZhMkE5bHMyeHdJaENSQ1RpbHlXbGZYWWxVM2NaZExRUFZiWExHSmNRRnhlOWxPTWhvUnFtemxmV21RaTdYUGtGd0RBdlZmeFp2cG5MejUzaXB1aHZZQ0xHN3duTGNYdWJpajBGbEtMVnRkMW55ak5TeVNjcUd5bnNQSkl0SmU3NTVz?oc=5"
+  },
+  {
+   "text": "Vzepřeli se Klempířovi. Lidé se skládají na oslavy 17. listopadu na Národní třídě - Rádio Impuls\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxOR2taYTdscDB1dXpjaHE3V3J5Zk52Z0E2RVBUeUFyNkIzWG10LXZuX0lMRWtFZ2gxMk4tWHByb3JrSHNHXzdTd3pub005eXhQRUJoNUIyRTZKcUI0WUVKZVZ4NDR5WlhXek5BRmxzMzFaRUxVSEhMblVDYmtSLUwxMGNnYnlRRy1XSm5wNjNlcmM0VkdZMlJHUl95d0RrN1J1LUxTQXdEZ3Y4T3BaNVlzT3U4dVF0b3QwUTVOc29B?oc=5"
   }
  ],
  "last_digest_date": "2026-10-23"
