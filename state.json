@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T09:26:22+00:00",
+   "last_success_at": "2026-10-24T09:56:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -48,7 +48,7 @@
     "facebook:6605aa17b58c9370",
     "facebook:2ef0679cac8ba31e"
    ],
-   "last_success_at": "2026-10-24T09:26:22+00:00",
+   "last_success_at": "2026-10-24T09:56:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T17:03:25+00:00"
   },
@@ -65,7 +65,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T09:26:22+00:00",
+   "last_success_at": "2026-10-24T09:56:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,14 +73,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T09:26:22+00:00",
+   "last_success_at": "2026-10-24T09:56:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:af342c02100c3fab",
-    "news:bee47604cd05ccaa",
     "news:a36020f5a7c0ab8e",
     "news:6af201c33bc954ee",
     "news:099729105c0e343d",
@@ -578,11 +576,13 @@
     "news:3ff5cab8091571af",
     "news:908da5f1e1a6765d",
     "news:7cc08eed7de69c9c",
-    "news:35d769c931bf5616"
+    "news:35d769c931bf5616",
+    "news:7747b780def5e5bd",
+    "news:e125be7a1d6425cc"
    ],
-   "last_success_at": "2026-10-24T09:26:22+00:00",
+   "last_success_at": "2026-10-24T09:56:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T09:26:22+00:00"
+   "last_new_item_at": "2026-10-24T09:56:23+00:00"
   }
  },
  "digest_queue": [
@@ -609,6 +609,9 @@
   },
   {
    "text": "Co si řekli ve Sněmovně ve 2:30: Jurečka popsal Klempířovu údajnou vulgární reakci - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOSFZabUoxbzM0M003Sjd2YUQ2R3lJOTlEQUs0UjhuRklCMlAxUXl3aXJZeWlNVm45Si0tRlBaTWcyTUpqSDFXdW9obThpdk5xTkN6NFNlai1OUDdPaHJLeS1jN1lTNTJVOGtwTHlTZ0pKRmZXeWliMDhtNXZyWU8wT2k1M3d6U2kxTVladFJMTHB0Tm9qcWNnb2VUZUVCcTVsZUxvbHNvTQ?oc=5"
+  },
+  {
+   "text": "Literární časopisy nesmí psát o politice, to už je otevřená cenzura - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjQ2VUMxNzVEVmF0Y1dlMUllR051VXNyRU9iQ1VuWFQ2T0U1d09GRW1md2NweE5wbjZhMkE5bHMyeHdJaENSQ1RpbHlXbGZYWWxVM2NaZExRUFZiWExHSmNRRnhlOWxPTWhvUnFtemxmV21RaTdYUGtGd0RBdlZmeFp2cG5MejUzaXB1aHZZQ0xHN3duTGNYdWJpajBGbEtMVnRkMW55ak5TeVNjcUd5bnNQSkl0SmU3NTVz?oc=5"
   }
  ],
  "last_digest_date": "2026-10-23"
