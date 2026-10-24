@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T07:28:42+00:00",
+   "last_success_at": "2026-10-24T08:00:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -48,7 +48,7 @@
     "facebook:6605aa17b58c9370",
     "facebook:2ef0679cac8ba31e"
    ],
-   "last_success_at": "2026-10-24T07:28:42+00:00",
+   "last_success_at": "2026-10-24T08:00:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T17:03:25+00:00"
   },
@@ -65,7 +65,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T07:28:42+00:00",
+   "last_success_at": "2026-10-24T08:00:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -73,14 +73,12 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T07:28:42+00:00",
+   "last_success_at": "2026-10-24T08:00:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00"
   },
   "news": {
    "seen": [
-    "news:2a4b021186ec0d19",
-    "news:05ea5649edf35f06",
     "news:54c7f978c3707865",
     "news:95c045260c19ecd6",
     "news:af342c02100c3fab",
@@ -578,11 +576,13 @@
     "news:32a73a60474fee19",
     "news:2e6aafd8b5f74a79",
     "news:12e51fbcdb277837",
-    "news:afff26a1ae4434ab"
+    "news:afff26a1ae4434ab",
+    "news:3ff5cab8091571af",
+    "news:908da5f1e1a6765d"
    ],
-   "last_success_at": "2026-10-24T07:28:42+00:00",
+   "last_success_at": "2026-10-24T08:00:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T07:28:42+00:00"
+   "last_new_item_at": "2026-10-24T08:00:06+00:00"
   }
  },
  "digest_queue": [
@@ -600,6 +600,12 @@
   },
   {
    "text": "Dav před Sněmovnou skandoval Hanba, ministr Klempíř mluvil uvnitř - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxQY2psRFItS2hqbmVxQndpbmFiV21pSzg5UWtfYlpzS2hMdllLLXBRazR4enZ4dGtMRXRwd1ZocERCTmkwOUtoZzgtamhMWWtIQ3pIVnNfeU1iNkZaeWRFeEw5TVY1ZEdmbl9GWFpBZlBVdUxaOFpjMGd2M1lyOTItVVRiTTZVSzM5c3VmQXJES0ZNU2lxOFpKWEs1SFJRalAtMW9XR21mYkVYbTB6d2FSTTNZNXpCblhoeFE?oc=5"
+  },
+  {
+   "text": "„Osobní pomsta a zprávy z jiné doby“! Fiala se opřel do Klempíře kvůli kontrolám divadel - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxOeVBmRXlvb1RrZzlzcE9BXzljcFZlUXhQcm1SREw3NkN2c3FzdFRXQWlwQkFwMDJjT20wZC15ZjZlQXk5NzktVnpRVE9rQ1A3S3FRR1pYc3dKRTU5YlA3MERvenFkUHUwUzI1Q2ZsSExkcmItRkhhTG02ZXJwaVlUeEZxMmg2NDFFWFlCdDVSeG9GMHhQR2x6UXNaaVBLemRpV3FudzZEeDV0MlVXbzRla3FFblp1MXd4SWM0WmZmN2NhV2w3akZCMzRpQzdqaVRCYXRqVnY2bXc?oc=5"
+  },
+  {
+   "text": "Horké chvilky Oty Klempíře: Rozzuřený dav žádal jeho příchod, naložila mu i Nerudová - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxPVXNQcVVMT0dJM1Y0UjdVM0loby1HemxfV2NyUEk2UmlnRUdudXJCenBDTzBFSmYwUk9fZU9NUXA4WlU2Z2VZdkpXai01V3RiMlNIMUhNTzNLTzdYYUV3NDhFY09SRF9NNEstMDl1OG5YejF2czJUWm5zWmtUa2J5Z1IxcnByeEJzbTdBbEt5VUVta2d1dFExLUdoZ0VBSFcwOWM3Q1pvUVlXMFpMLWc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-23"
