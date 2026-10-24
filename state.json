@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T17:37:03+00:00",
+   "last_success_at": "2026-10-24T18:03:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-24T17:37:03+00:00",
+   "last_success_at": "2026-10-24T18:03:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T17:37:03+00:00",
+   "last_success_at": "2026-10-24T18:03:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,15 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T17:37:03+00:00",
+   "last_success_at": "2026-10-24T18:03:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:c5183d58d33f5c03",
-    "news:846f86e4c263f202",
     "news:fe550a22c5c8cd8f",
     "news:feab50929709dd5f",
     "news:9efc8cf5b13fd11b",
@@ -580,11 +578,13 @@
     "news:335ced3e3d685cad",
     "news:df55bd918913abde",
     "news:06a7727c2d1c1636",
-    "news:b60e633d6c7ddc0b"
+    "news:b60e633d6c7ddc0b",
+    "news:cd4d44024f6ac744",
+    "news:9ec240b836aa988c"
    ],
-   "last_success_at": "2026-10-24T17:37:03+00:00",
+   "last_success_at": "2026-10-24T18:03:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T17:37:03+00:00"
+   "last_new_item_at": "2026-10-24T18:03:06+00:00"
   }
  },
  "digest_queue": [
@@ -599,6 +599,9 @@
   },
   {
    "text": "Diskuze: V 80. letech „Olda“ donášel, dnes nechce podpořit oslavy 17. listopadu. Klempíř pod palbou kritiky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAJBVV95cUxQem9LWDlKenh0UVltUkl1bWlqYkVyWVkxdHJjMzFTZlcyQVZSaFBDUmZyemJsNHJydHp0R014UHpVOFRfdzVXaFZhREF5cThlR05zTkZkeXhQZjNaYzVWU2JZQzVsZGRjREVtZnVkRmlQY1MyLVExOXpfWW5qejBiZldOZzhYamFyTFBnMW4yWm5vTGVtMFo0ZjNWMmRmcm5Tb090djczZ2g1ZlBCZUR2RGd6bVg4engtNm5NMllsUG00YURVVWlLazNVZFpRS01EX3NLZkdhN3FqZmlyUUllQ3lSRkxiSnB4b0tLcUhrYXhBcW1tSGRhenpTX2NVQnhaNWlHeTMyeGhkTGs4WVdhTFNqbE9CbWc1OUlFMHlBc1NSek0z?oc=5"
+  },
+  {
+   "text": "Školení o implementaci Národních kritérií pro kulturní rozvoj pro úředníky v 78 obcích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0NRRUdNMXRtLWRSUkJ1YkUzdndZLVJGRVYtanRxUFNDT1FQWmNibm01V3V1S2hJamdhX2RYV0s5TnhMWmkwRjRoNEZlcFNicjM2bTZNUmRsN0lNc3hkM1ZNQjNiOVo0UEU2X1pQY2Y4NTFsOVZyWWRDNXlxa1NqWmRlOTNaSV9JcXU5WHZhZkJiVHdFS2t1VFgzdDJBS284R0YwOTF5Y2w?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
