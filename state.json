@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T18:41:47+00:00",
+   "last_success_at": "2026-10-25T19:12:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T18:41:47+00:00",
+   "last_success_at": "2026-10-25T19:12:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T18:41:47+00:00",
+   "last_success_at": "2026-10-25T19:12:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,15 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T18:41:47+00:00",
+   "last_success_at": "2026-10-25T19:12:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e9f3ae52f11b67a0",
-    "news:fff3a152ed5ab295",
     "news:2f085ed590825780",
     "news:9130ec6726af8bf9",
     "news:cca10a4f02aa158c",
@@ -581,11 +579,13 @@
     "news:b3cc4e75dd5daa3c",
     "news:65d3c2ea5fd9d555",
     "news:bb886e90783151a7",
-    "news:3c1e30bd351e0632"
+    "news:3c1e30bd351e0632",
+    "news:8f182b10a76309f1",
+    "news:c8fb6e972651a91f"
    ],
-   "last_success_at": "2026-10-25T18:41:47+00:00",
+   "last_success_at": "2026-10-25T19:12:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T18:03:23+00:00"
+   "last_new_item_at": "2026-10-25T19:12:22+00:00"
   }
  },
  "digest_queue": [
@@ -600,6 +600,12 @@
   },
   {
    "text": "Slavnostní rozloučení se sportovní delegací provincie Thai Nguyen, která se účastní 10. ročníku národních sportovních her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxOM2hKSWFVaTF2Z1A5dHhjUTRFRDlELW84eElnTjk1VS1jbXF5OUx2QWNNVThuQ0FnWGY3cEtEajJmUlBuU2FUdnY3T2gtV0J1U1F3anNwOFNPTGJ0TlczeXpTcWVCSU9NZlF6cVctdTdVVkJrVHpuUmdDd2szMnJFMzh3SS05Z2ktQkNhOExicHhSTVZpQlJpS1IyX3FvclVzNVJ1TFhzaHlIb1FCMGZtblZOOWw?oc=5"
+  },
+  {
+   "text": "Uvolnění kreativních zdrojů pro rozvoj kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxNbi0xbVA3aWVDd2xsV1NpZGJIUmVqS2JCMXJSQzQzTEtKMjBCQ3Q2cmZRQVFYWmZ6T3BkZTYwMTJiTUd3LXV6ZEhWdjVsTmNBYkdOYlU2LXFTUnlZS3RuWmZwX3ZZSGlNLVc2NkxHTXctR2xGNzhxNFRwRl9XVmx3bWZ6ek85dUhfc1o2enl3dDViRUk?oc=5"
+  },
+  {
+   "text": "Policie řešila spor Foldyny s demonstranty, část lidí se snažila dostat do Sněmovny – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3AJBVV95cUxOZHpCWjlvVHJmT09HODBIOExCMGZUMTBHRkNHbXhvVmVJMVVHbERubjZuM0ZQbVkxR0x1UmJmaDBjYjE1QUJpVGlFcVBVUkRVYWpyd2NfRl9sRE45UmpkRlUyT1ZRd0lYSmt3LUxldzQwUkF4V2VfU2pfOGdIZzJYNnNkaExzU1VWYXoyNmhjTXVXMnhMcUZ4WlhhSER3Z1VOVmd1bDFwUmpRU1BSYzJsQldESTVOVXNnakZjSmc0ajUzRUhoeUpranFNdVBQRWtKNEhvcmN5V3NoaGljVlpBT21LcUVwbFlZUW8teWhXN0FvalBWUE5sRkVXUlhNYjlscnR0czhBRU5wTHVhMGs0S084UGFpWk1jN3UzWFdXaU51dmI4djdVQTVhd3dsNEUtZk1nbHA0TDE5dHFKWUtJX25zdU9fU0U4R3lkQUdfNkpXRFVHa1FQU1EtM0Q?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
