@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T11:53:23+00:00",
+   "last_success_at": "2026-10-25T12:19:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T11:53:23+00:00",
+   "last_success_at": "2026-10-25T12:19:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T11:53:23+00:00",
+   "last_success_at": "2026-10-25T12:19:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T11:53:23+00:00",
+   "last_success_at": "2026-10-25T12:19:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f53989420322f778",
     "news:9537bfddcef66f12",
     "news:97ab3091b57054f1",
     "news:9e6bcdff33c8a484",
@@ -580,11 +579,12 @@
     "news:37ae8cdd480e36a7",
     "news:3dc2651790cb0fe7",
     "news:f89ff1665fadc106",
-    "news:412c176743b57ca5"
+    "news:412c176743b57ca5",
+    "news:ee63dd6f2b897f08"
    ],
-   "last_success_at": "2026-10-25T11:53:23+00:00",
+   "last_success_at": "2026-10-25T12:19:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T11:17:22+00:00"
+   "last_new_item_at": "2026-10-25T12:19:21+00:00"
   }
  },
  "digest_queue": [
@@ -653,6 +653,9 @@
   },
   {
    "text": "Boj o ČT a ČRo začal nečekaně brzo. Poslanci mění program na víkend, opozice slibuje „oheň“ - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxQREVmb1R4WDRQcm1waUxJS1VxUlJZbncxTWJscnM4MFhCcmRuZDkyNG15Y2pKZUJaRU5KaTM3akxPLUhyZVpIdEgxVmFTNnBfZW13VW5JNHI1dmJvWjVNT1lhZHpwbFVtNENxZE5NM0ZDUzdkeHFSby0weGR3OEJVS1lrclVid3hBVzU0czNWUDF3aF9lQzM4SWU1d1h1b2R4SFZobFdxeDU5czMtZHl3WElpTE9aWl83SFpZNw?oc=5"
+  },
+  {
+   "text": "„Bude to mezinárodní ostuda.“ Filmařstvo i odbornictvo kritizují záměry ministra Oto Klempíře - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnh0NW9jT0hZWVh1eEZLU2JHOFVtWWl2aERBOGx6eHJ6X1YtU0xlOE9tX3JjN3RxX2xEaU1TN0NRaXFmdEpDYVZ6c1RmOVBXalMyS2FWeFg2eTRnRmxhNWpWMVV0MjB0eXV6cjJVaFRZTHJrN1lqdDZ5dTJHRnU5WnIyaXNZUmJWc1ZHVUlqSWpzcWltNFlWQVhzZGdZN1lrMURaR09wSlZDNHB2VmNIWlctYkNENzhWS1hFY2hFVGJzUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
