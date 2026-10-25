@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T22:14:02+00:00",
+   "last_success_at": "2026-10-25T22:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T22:14:02+00:00",
+   "last_success_at": "2026-10-25T22:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T22:14:02+00:00",
+   "last_success_at": "2026-10-25T22:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,14 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T22:14:02+00:00",
+   "last_success_at": "2026-10-25T22:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:25b87a874b46d185",
     "news:7a82c21fa3928254",
     "news:52cb7fbd000989d2",
     "news:45856f03d3a33710",
@@ -581,11 +580,12 @@
     "news:02ebc173cdc84dcd",
     "news:54a1a8e1c6b1619d",
     "news:64a47a963145d2b7",
-    "news:c4285c5602f94943"
+    "news:c4285c5602f94943",
+    "news:8304bc5167c172e0"
    ],
-   "last_success_at": "2026-10-25T22:14:02+00:00",
+   "last_success_at": "2026-10-25T22:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T22:14:02+00:00"
+   "last_new_item_at": "2026-10-25T22:41:49+00:00"
   }
  },
  "digest_queue": [
@@ -633,6 +633,9 @@
   },
   {
    "text": "Téma: Konec nezávislosti v přímém přenosu? Co přinese zestátnění České televize a jak kroky ministra Klempíře paralyzují český filmový byznys - Totalfilm.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifEFVX3lxTFBBSGRwbGpsVm5DWmNpNWNGTXE5OHZ4UzhZWkxkdHdxMDdMVUxsc21Lck1UVXRJd0VNWkpqaFc0TnFRWGpPOGxGeGxOajVELUE3eTltTk45S0pINFQ2SG52WS1iS1dFVklWbDBUZW53cWdGa09uTHBpY2o1YlI?oc=5"
+  },
+  {
+   "text": "Premiér: Ministerstvo zdravotnictví je agenturou odpovědnou za řízení bezpečnosti potravin. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDVMemNFUWk1ZHFHWkRrRU9MTTBTY1RPX3RoMnBrU1o3cG5iRGhKenNJTjBlZFREWXZaLWZPd2ZzWXg2YlY5cUZPamQwQnRMYXJRMmlzZkNfWnhILVNKNjViNHN5U253XzBZdXdRVHFqRFRILXRpckhKZnZnUm1YaEZqeFMxTS1aQ3kw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
