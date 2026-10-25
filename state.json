@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T04:14:48+00:00",
+   "last_success_at": "2026-10-25T04:48:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T04:14:48+00:00",
+   "last_success_at": "2026-10-25T04:48:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T04:14:48+00:00",
+   "last_success_at": "2026-10-25T04:48:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T04:14:48+00:00",
+   "last_success_at": "2026-10-25T04:48:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ce725486d5aa394b",
     "news:2aea922f0b0e87a0",
     "news:433f54fe16c313b6",
     "news:6d246fe640452c90",
@@ -580,11 +579,12 @@
     "news:8d6998851dc975b1",
     "news:406ff33de5d20ca4",
     "news:1a798f76c8b874bf",
-    "news:b940fa107e94856e"
+    "news:b940fa107e94856e",
+    "news:c42255c543cd57ea"
    ],
-   "last_success_at": "2026-10-25T04:14:48+00:00",
+   "last_success_at": "2026-10-25T04:48:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T01:10:18+00:00"
+   "last_new_item_at": "2026-10-25T04:48:45+00:00"
   }
  },
  "digest_queue": [
@@ -614,6 +614,9 @@
   },
   {
    "text": "Konsolidované oběžníky stanovující předpisy týkající se zařízení, vybavení a odborné přípravy personálu pro Tanec lva a draků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHM2V2hBUHR6NzVtMFVFX19WeHV2UTlvdEJZcWRJNm5yUUJJT3hwYnd2bk90UmlDRTBFNmJQU0h3U0tGVnRPZE5OZ3RiaWNqOWdrMEdSVkNubWdGOElPSVU3LWJGd3BpcG5CS0NOLUFJTWR2dmtrNFBzUFRSRnNJUVAyNWc0aVJia280ajl6ajdDSDEzX1NmVEV0bDJVVDZLZTJ2X1JuSEZvbUl6S245X2hDaXZDZTB0YXVUX0dYSVEzdWVNblhKUVBCYklUbjF5ZFpTY1JNRWRJdw?oc=5"
+  },
+  {
+   "text": "Divadelní a filmová univerzita v Ho Či Minově Městě slaví 50 let vzdělávání, zachování a rozvoje umění. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxON0RSY3U4allwM3pDUGRVcWlLT2dGeFlUUEhQVG5rSmlRcmNXU3REWEJGVU1OU3hXa3hxam4za01XWENxOUxTNnpLZ2Zjb2ZCdGVsWTdDNFhMeHhDZktSS2RvOHpVZVJqdTZuN2l3NWhaaVN1MDh6WmRDTWNGb0t1dTBHMXNzMElUcTVDdEVXMXlHOVE0MkZCdUppenJleGxHMmN5VkVCUlpmZ01rRnBWT2tLejE1aFJfbVRBc0hBOWZIMXFBN2RzaERkWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
