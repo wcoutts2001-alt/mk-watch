@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T16:07:28+00:00",
+   "last_success_at": "2026-10-25T16:40:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T16:07:28+00:00",
+   "last_success_at": "2026-10-25T16:40:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T16:07:28+00:00",
+   "last_success_at": "2026-10-25T16:40:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,15 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T16:07:28+00:00",
+   "last_success_at": "2026-10-25T16:40:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9d2c778026eaebed",
-    "news:c0059394ed55be13",
     "news:c12ab08023a95452",
     "news:791fd8cabcf5952b",
     "news:620b44055745ee4b",
@@ -580,11 +578,13 @@
     "news:f1230d50ef1adaf0",
     "news:486a8893d3bb5355",
     "news:9d4aa3359cecaa5f",
-    "news:5264e8025f303fbf"
+    "news:5264e8025f303fbf",
+    "news:989e65813474efee",
+    "news:e4985e45625daba5"
    ],
-   "last_success_at": "2026-10-25T16:07:28+00:00",
+   "last_success_at": "2026-10-25T16:40:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T16:07:28+00:00"
+   "last_new_item_at": "2026-10-25T16:40:11+00:00"
   }
  },
  "digest_queue": [
@@ -695,6 +695,12 @@
   },
   {
    "text": "Návrh řízeného pilotního programu pro vývoj produktů vietnamského kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUVoVkhkMnR5ZkVLNWZmNUU4RExXVVZVSHBkTmxCSFJNVVpnMnJvMGQtVFdBY0ltYm5IQWtMTXRDQkxCYmwweXJyd1J1a1pULWQtRk1CQzJieDdjWFJCbmJKdkQ4NFE1NE5iN2NwNWxZV3ZPWWtfSk5XeGQzb2NXWGgxSlViRTFPNTVIWUxKQnZ1R3d3WkZxNmxCSUdmZ2pnLWwybEFOVDJRSFE?oc=5"
+  },
+  {
+   "text": "Divadla napříč Českou republikou podpořila nezávislost médií veřejné služby - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2RDTnVual80dWZfTDYwSFNXZVJWQ0trZWpzUnVJTGpPdll0S2VIZWk3SndWSk9CZjZXa180ZzMxZE5IanlNTW90YUlIMGpxRkJrSWhnTTVKckREd0xEaWlmVW9uNVI5bjdFcHZxNTVUQWp3cGVLYWNVR3YwYUZjTXM2RElXVE1JZE9pTS01ZEtQMXVyVExmdjZTdmpDSjdDTzgxNGFFakNVUVphOF9Sc0poWHBJLWdZ?oc=5"
+  },
+  {
+   "text": "Turnaj v pickleballu otevřených věkových kategorií provincie Thanh Hoa 2026 úspěšně skončil. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPYy0tYXdYNWZaRmlBWlM0b1ZhSmhYUDZoS0NkeTN4VFd1OUJ3M3pUR0FvVnpsTjl6NXRxNHVuUDdmRmpwdDlPdUwyU0lId2hna2kxUF9EM1MzUFByR1NhVmtsUFI3THd3TVpaTGJOUF9oZi1fZVlVVldCQUZNVDR4RHFIZkFJbDJWbWIzSGxxZlJYM0k0Rmo4RVVwaVptVXMtV1BvT2JWTzZoY0U?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
