@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T04:48:45+00:00",
+   "last_success_at": "2026-10-25T05:20:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T04:48:45+00:00",
+   "last_success_at": "2026-10-25T05:20:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T04:48:45+00:00",
+   "last_success_at": "2026-10-25T05:20:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,15 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T04:48:45+00:00",
+   "last_success_at": "2026-10-25T05:20:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:2aea922f0b0e87a0",
-    "news:433f54fe16c313b6",
     "news:6d246fe640452c90",
     "news:8989260c03f4a4e4",
     "news:b2936f118349c86f",
@@ -580,11 +578,13 @@
     "news:406ff33de5d20ca4",
     "news:1a798f76c8b874bf",
     "news:b940fa107e94856e",
-    "news:c42255c543cd57ea"
+    "news:c42255c543cd57ea",
+    "news:f3ce9076d7465b07",
+    "news:cf5b270b7238a74e"
    ],
-   "last_success_at": "2026-10-25T04:48:45+00:00",
+   "last_success_at": "2026-10-25T05:20:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T04:48:45+00:00"
+   "last_new_item_at": "2026-10-25T05:20:36+00:00"
   }
  },
  "digest_queue": [
@@ -617,6 +617,12 @@
   },
   {
    "text": "Divadelní a filmová univerzita v Ho Či Minově Městě slaví 50 let vzdělávání, zachování a rozvoje umění. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxON0RSY3U4allwM3pDUGRVcWlLT2dGeFlUUEhQVG5rSmlRcmNXU3REWEJGVU1OU3hXa3hxam4za01XWENxOUxTNnpLZ2Zjb2ZCdGVsWTdDNFhMeHhDZktSS2RvOHpVZVJqdTZuN2l3NWhaaVN1MDh6WmRDTWNGb0t1dTBHMXNzMElUcTVDdEVXMXlHOVE0MkZCdUppenJleGxHMmN5VkVCUlpmZ01rRnBWT2tLejE1aFJfbVRBc0hBOWZIMXFBN2RzaERkWQ?oc=5"
+  },
+  {
+   "text": "Lidé poslali na Korzo Národní třikrát víc než stát za čtyři roky - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOelh4aDUwYkJJTEx1VmJzaWhSYWhDZURqam5oZFAzOVd5YkpoTDA0RnhJcmdxQi0xeHFsTW9JaFctVHdyT0gyWDlxWmVkbXFLQXZJUXdYR2wxQzI2VHJVZTFIOXpnOVFEUHNpTmxtenI3VnYwUkhDOGdKUXVjZkZ3RWx5N1RPczM5NmRhQ3JMOHgzWWN4RVdwT0tTSXJvZGZ1aFJIVi1SWS1TblhyR1l3?oc=5"
+  },
+  {
+   "text": "Navrhnutí několika konkrétních mechanismů na podporu rozvoje kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNaFFUOGRJSEtleklGcE9RM0dsVzFtUXJaMTVwaWxXRm9YVkxCUlZDcEQ4MllKM0g1c2Nsb1lpbnhxM2J5TmQ0Ti1EMlk3d3ltSjc5azBMeXVPcTNmajJqNVJuZ2daV3JtaDFJRjE1ekxCRmgydWlpQUx2aXpzYTFEWmExVF8yalo4dEp4QUpuOTF3Mk5sS3B2Vkxn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
