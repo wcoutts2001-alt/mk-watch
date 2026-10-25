@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T09:21:18+00:00",
+   "last_success_at": "2026-10-25T09:55:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T09:21:18+00:00",
+   "last_success_at": "2026-10-25T09:55:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T09:21:18+00:00",
+   "last_success_at": "2026-10-25T09:55:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,15 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T09:21:18+00:00",
+   "last_success_at": "2026-10-25T09:55:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:45e8f1e3b9884eb7",
-    "news:899abce67ab1fa72",
     "news:119f02a9a67aa774",
     "news:e50289166676c6b1",
     "news:12e88d134bece278",
@@ -580,11 +578,13 @@
     "news:532cf064ea373af2",
     "news:cd9b35d358dc0607",
     "news:0570ef03631f3f9a",
-    "news:49455b2d8325bed7"
+    "news:49455b2d8325bed7",
+    "news:9b394592151f47ed",
+    "news:37ae8cdd480e36a7"
    ],
-   "last_success_at": "2026-10-25T09:21:18+00:00",
+   "last_success_at": "2026-10-25T09:55:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T09:21:18+00:00"
+   "last_new_item_at": "2026-10-25T09:55:53+00:00"
   }
  },
  "digest_queue": [
@@ -644,6 +644,9 @@
   },
   {
    "text": "Provincie Ca Mau šíří znalostní soutěž o vietnamské historii, tradicích a kulturní identitě - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnVMbmVuTllqdEVYTDVjU1hjTy1BaU5LU1NidjJlYWppMWZ2ZXdIbDFxaTlITFBHR1pVdmNTTUgtSl8xRXFWLXJncmwyZVBmbHVMcEx3V0RiTmU0VXlRZjZMWnF4WHZKOVBZandULV9ZRzJ4ZDBjZG1INDdqRUZvZnlobjVqcVpaRnVCQm9LUXFtMWhhaXZHaHlsUjZQUmFkeGJ2bXY0ejNmaG8?oc=5"
+  },
+  {
+   "text": "Celostátní taneční soutěž pro studenty středních a vysokých škol se koná poprvé. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNTWl2ZUswX3dCY2V5anN6T2pHN3BvU3prSmpKMTZ5dWJiVERpUnk3OFNuVFFqeGwza2JjMVMwMkg3NndtX0ZkX3pNZ1N2Q0RheHRGX2xyVlZyT0sxNzc0RWlfY2p6S1hmUmVSZURkOEhtanc0ZE9RMm5jSVNQOFNJaFN4azFDSFFxaUprc2VJZ0ZqOFQtcEY4?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
