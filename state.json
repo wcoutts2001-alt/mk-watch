@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T07:45:31+00:00",
+   "last_success_at": "2026-10-25T08:17:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T07:45:31+00:00",
+   "last_success_at": "2026-10-25T08:17:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T07:45:31+00:00",
+   "last_success_at": "2026-10-25T08:17:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,17 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T07:45:31+00:00",
+   "last_success_at": "2026-10-25T08:17:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:b2936f118349c86f",
-    "news:123d0e6c1a1ecd31",
-    "news:6c4efb335c752492",
-    "news:753a28683c8e4dac",
     "news:cd00494039a6605d",
     "news:e0c719026b132b18",
     "news:cbc357dcea8f8306",
@@ -580,11 +576,15 @@
     "news:f3ce9076d7465b07",
     "news:cf5b270b7238a74e",
     "news:be9fba8b1e62934f",
-    "news:d2b05d2a61bc1f1a"
+    "news:d2b05d2a61bc1f1a",
+    "news:e7e0b949a57fa28e",
+    "news:cdcb11af121292b1",
+    "news:e94bef74ccf790f2",
+    "news:532cf064ea373af2"
    ],
-   "last_success_at": "2026-10-25T07:45:31+00:00",
+   "last_success_at": "2026-10-25T08:17:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T07:45:31+00:00"
+   "last_new_item_at": "2026-10-25T08:17:20+00:00"
   }
  },
  "digest_queue": [
@@ -626,6 +626,15 @@
   },
   {
    "text": "politiky upřednostňující investice do rozvoje kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQaXNlalNKTDFUY3FaclhNbW9kS2RaWmJiUlE3eDB5RXVEMEJhem1NMjhUbm1EOVhfT0VaU1BFSmw0TXZlb2VfRmdVV1NXeDhTamxHR0VXTkI0cERUSG1wWmtLR0U4VDgyN3I3TXljRlJad1FEVE42UThLakNiajROcmZOYzVjOXNybEFLajBmY2ZrOTVIN0FSaWNQYktIelU4WTRSVW53?oc=5"
+  },
+  {
+   "text": "Vezmete-li nám miliardu, bude to mezinárodní ostuda. Filmaři reagují na Klempířem navrhované změny - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7AFBVV95cUxNWHVna1hFM184R3VpZmk0M1lIRUtDVFVPRGlkMm1wRUpaZUptUWRrVE5fZHNIYi16YUt0Smc4WVdUSWE3UEVqLU41dVk0b0RybUdFRDRLUUcwNzc2MXNwOFpEVkhZOFJlQjBldDBvNUZyVWVZYzVIVnl3OVROMFp2Y2JSRlY0TDJwc0pPc2MtdzVhVDZrR0lDcF94NHV5b0hsaE1IdFBxNnNzcVJnNWZQbzNBbnZwY0xKU0RVMkI5UWdNMElucmlCTkJ5S3Q3T2t4bVRlV1B0czNESjJ3blBHTFhoYXZaVVhDRG00ag?oc=5"
+  },
+  {
+   "text": "Na Korzo Národní lidé poslali už osm milionů. Jihočeský kraj přidá 300 tisíc - Budějcká Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxOUVFJTktuUGdhd1puWE1RbEo0U3RHVTdhNmlVcEJiQkpkSUFyY1RJVmRmS2FEeEhIdkdFbG5YRGIzdDFkcmFJVkpEVF81MGZRR0FDdXRaYzBpZUZ4MHk2WVJxR1c1Wk9GVG1va2d4dmN3ZFFEcE9xbjlIeWJyMElkYnNKdjBydFhDUm5PcDNwUzVYSG1nS3V6Y0lrQzA4Yzh0YkEzYnFYU29Sc2NURzVJT0NSOFByNWFDNnB0MQ?oc=5"
+  },
+  {
+   "text": "Nouzový výkop vraku starověké lodi v Hoi An. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFBSbnFudm1BV0JqdUVQM0hhQ01yY3ZXOGZYU2R2VThjdUJUaGcwODhJQkR4RFBBVW8wSlRyUU9YX0pXNmNUWkRnbmgwby15dzdla2x3bjgwYmRCQm1rY1dMUGVoZlRmbWduNGJHeA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
