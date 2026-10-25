@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T21:16:02+00:00",
+   "last_success_at": "2026-10-25T21:51:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T21:16:02+00:00",
+   "last_success_at": "2026-10-25T21:51:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T21:16:02+00:00",
+   "last_success_at": "2026-10-25T21:51:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,15 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T21:16:02+00:00",
+   "last_success_at": "2026-10-25T21:51:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:54723300c54fafc7",
-    "news:6dba374b3951c84a",
     "news:87a581d8869505a5",
     "news:3b0433a9be141d73",
     "news:25b87a874b46d185",
@@ -581,11 +579,13 @@
     "news:3de63d3445edab6a",
     "news:2eef019a0acf39bc",
     "news:be137c51c643a99b",
-    "news:eb445a2620e380b8"
+    "news:eb445a2620e380b8",
+    "news:02ebc173cdc84dcd",
+    "news:54a1a8e1c6b1619d"
    ],
-   "last_success_at": "2026-10-25T21:16:02+00:00",
+   "last_success_at": "2026-10-25T21:51:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T21:16:02+00:00"
+   "last_new_item_at": "2026-10-25T21:51:33+00:00"
   }
  },
  "digest_queue": [
@@ -621,6 +621,12 @@
   },
   {
    "text": "Komu prospěje blesková televizní válka o 150 korun měsíčně? - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxNb0lIbzd1RkhXUjMwaTdQbi1MQTFRRjlvT3lmdXhzUGVuZFVfLXczN1V2V1BLbTRGdlZXQ250Ry16ay1Nem85R1lpdU5BQWdNb1NIUW4xQ1hWTU9qajNIVnlrdTBHTlc2aWZZZC1Pd0puNVEtekExTUlqTGg4V1RXN3FhaFpIcjMzTVEzZXVuWFFGWlFj?oc=5"
+  },
+  {
+   "text": "Zasedání řídícího výboru a poroty pro 1. fázi „Národní soutěže v tradičních hudebních nástrojích pro sóla a soubory 2026“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxQaGlFRkgxYWJwdjVQenZJQmdMaDJVRll2WHB5aDVleTJxMmFvWnMyV3h2XzBnZ09oX2hYTmpKWEZ1YUgwUE0xYkF4R3dXU1RrRk82RWlfRm5qVVBTSzhIbFI2dnRiY0JJeVlaTFVRQkZWZ2RjMlVJclVYa0Q3ZTR6dGVBclJSRC1NNXIxS2ZmaGVnS1h0RHpONDhYUjZYZjRmOUh1ZVgyV3dDSjl1d0tuTDlhcXViVUItVFk3OFRDdUV4SmVMZGlwSg?oc=5"
+  },
+  {
+   "text": "Hanoj: Byly spuštěny dva pilotní modely pro organizování aktivit v komunitních kulturních centrech. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxPamdfUjczYTBzcXRrV2pIT3JvU0lvZ2s0MUM4ZFgyUWdHYUY0NlBQMnc0cHhSMmNlWE0xQ2E0ZzZGcU0zMXYyMWVZWUt0NTQycE1XZXNFcndvZGVfeEx3cXBvdEpReXJSb1FWUjN1eDRoMlJXOUJsdTRrVlRBLXFOaHpwQ2lXVi1jU0MzOFVueER6WlFMTjVyMUNscFprWi1EWDFOOHNSLVk?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
