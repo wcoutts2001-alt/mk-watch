@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T23:34:25+00:00",
+   "last_success_at": "2026-10-25T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T23:34:25+00:00",
+   "last_success_at": "2026-10-25T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T23:34:25+00:00",
+   "last_success_at": "2026-10-25T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,15 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T23:34:25+00:00",
+   "last_success_at": "2026-10-25T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:52cb7fbd000989d2",
-    "news:45856f03d3a33710",
     "news:355fba638db78f65",
     "news:905542b5b3bd139e",
     "news:7fb57e5b765b5298",
@@ -581,11 +579,13 @@
     "news:64a47a963145d2b7",
     "news:c4285c5602f94943",
     "news:8304bc5167c172e0",
-    "news:5d7304c911f0409b"
+    "news:5d7304c911f0409b",
+    "news:97d076c41f911a83",
+    "news:47294867fe2970cd"
    ],
-   "last_success_at": "2026-10-25T23:34:25+00:00",
+   "last_success_at": "2026-10-25T23:59:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T23:34:25+00:00"
+   "last_new_item_at": "2026-10-25T23:59:38+00:00"
   }
  },
  "digest_queue": [
@@ -636,6 +636,12 @@
   },
   {
    "text": "Premiér: Ministerstvo zdravotnictví je agenturou odpovědnou za řízení bezpečnosti potravin. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDVMemNFUWk1ZHFHWkRrRU9MTTBTY1RPX3RoMnBrU1o3cG5iRGhKenNJTjBlZFREWXZaLWZPd2ZzWXg2YlY5cUZPamQwQnRMYXJRMmlzZkNfWnhILVNKNjViNHN5U253XzBZdXdRVHFqRFRILXRpckhKZnZnUm1YaEZqeFMxTS1aQ3kw?oc=5"
+  },
+  {
+   "text": "Hlavní události hudebního večera „Vzpomínka na podzim v Lang Son“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMib0FVX3lxTE5idjkxVzM4T0ItUXV3S3JFUmdfUmpCRzhNeV8ycUstMzE2MENYaWtidFQ5TXFKUmFGU05kQ3JMaWhnNGU0d1U4MDlfY2xUS0ZMUzd3b01KOEc2U21TeU9MNFlKaWoyeDhlemxJYzJYNA?oc=5"
+  },
+  {
+   "text": "Schůze k vypracování plánu na připomenutí 600. výročí vítězství Chi Lăng a Xương Giang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxOOHRLSHNSRW1yVk1BMXBkQlIzcTJOa2Z3Rk1zVDdJZ2VuVG1vcGdfSGdxSkxYSGV3ekdjQ0o0d2p4cWxOYlk3ZGs3U1E2S0FlY2xGOWtTSWotcXRhOGNEMFVkM3VjWk5NRFNKOWdsdUt5RTFTWVpIRXlmM3JodHlGdFFaSkU3R0pfcUxOYVZUM2cxdXZPNTBJT3ZCTFRnNEJSU0pZ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
