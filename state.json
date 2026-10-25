@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T08:17:20+00:00",
+   "last_success_at": "2026-10-25T08:56:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T08:17:20+00:00",
+   "last_success_at": "2026-10-25T08:56:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T08:17:20+00:00",
+   "last_success_at": "2026-10-25T08:56:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T08:17:20+00:00",
+   "last_success_at": "2026-10-25T08:56:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cd00494039a6605d",
     "news:e0c719026b132b18",
     "news:cbc357dcea8f8306",
     "news:45e8f1e3b9884eb7",
@@ -580,11 +579,12 @@
     "news:e7e0b949a57fa28e",
     "news:cdcb11af121292b1",
     "news:e94bef74ccf790f2",
-    "news:532cf064ea373af2"
+    "news:532cf064ea373af2",
+    "news:cd9b35d358dc0607"
    ],
-   "last_success_at": "2026-10-25T08:17:20+00:00",
+   "last_success_at": "2026-10-25T08:56:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T08:17:20+00:00"
+   "last_new_item_at": "2026-10-25T08:56:48+00:00"
   }
  },
  "digest_queue": [
@@ -635,6 +635,9 @@
   },
   {
    "text": "Nouzový výkop vraku starověké lodi v Hoi An. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFBSbnFudm1BV0JqdUVQM0hhQ01yY3ZXOGZYU2R2VThjdUJUaGcwODhJQkR4RFBBVW8wSlRyUU9YX0pXNmNUWkRnbmgwby15dzdla2x3bjgwYmRCQm1rY1dMUGVoZlRmbWduNGJHeA?oc=5"
+  },
+  {
+   "text": "Veřejné peníze nesmějí být nástrojem politického tlaku - Taneční zóna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxNSjF5aS1BdUZ5bUgwLXEyZzI2a1l1aVJWSVQxZ1Nhb2xmRlRiT014Yml6OXktSHpjS19iTHpzSGRrVDNMN2RJeTdJV1JmeGRiWHpzQkoyY2tOUXcwVjNUWjdnck5nb2ZlcTQxenNoNHFhS1U2WTQ1NTd2cFFDVmRyM19wVmUyWl9CdjhqOU14WGtLZVhZZm5YM0RDVQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
