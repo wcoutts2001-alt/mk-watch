@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T17:08:24+00:00",
+   "last_success_at": "2026-10-25T17:37:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T17:08:24+00:00",
+   "last_success_at": "2026-10-25T17:37:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T17:08:24+00:00",
+   "last_success_at": "2026-10-25T17:37:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,17 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T17:08:24+00:00",
+   "last_success_at": "2026-10-25T17:37:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cf3bf581f05a535c",
-    "news:ab0213604be726f3",
-    "news:eabf4762cb9e5e94",
-    "news:e0c70bf09be81b22",
     "news:3033fe0fd3c27a14",
     "news:e9f3ae52f11b67a0",
     "news:fff3a152ed5ab295",
@@ -581,13 +577,27 @@
     "news:e4985e45625daba5",
     "news:d5f06e027a0e6ec7",
     "news:b90c0926e96c45cd",
-    "news:fcb1f28c25aa16b4"
+    "news:fcb1f28c25aa16b4",
+    "news:57b1a7757fd04e6d",
+    "news:b3cc4e75dd5daa3c",
+    "news:65d3c2ea5fd9d555",
+    "news:bb886e90783151a7"
    ],
-   "last_success_at": "2026-10-25T17:08:24+00:00",
+   "last_success_at": "2026-10-25T17:37:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T17:08:24+00:00"
+   "last_new_item_at": "2026-10-25T17:37:26+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "KOMENTÁŘ: Ne, ani ostudná noc ve Sněmovně není začátek konce vlády Andreje Babiše - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxNcEVjNWJOQzFQSlBQRFR2X3RmbkxYdnEtRkZkS2pfSGp3TExyanBJd1A1TkNXbHRxRTk5blB1eVBDakJPeFV0NmlseU1FZ1hrVDIyZFluY1I2Y1daWmQ3SVUxVzNScmJhelp4S1dPU3VRQUE3UmUzWnNtbWFBeVdFcVFRQTE2LWt4VXpKZzBQZUFVSnNDbjhMcVFmbUJzRXFQRVg2aklxbUowc1cwYTE5TDJULS1Rd3BpQjFrZTZlRnNvSC1uWU9V?oc=5"
+  },
+  {
+   "text": "Malostranské náměstí zaplnil protest, Sněmovna rozhodne ve 4:36 ráno - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxOM1JNN2hXcHlpMUlGbUNnZWpHaVpWR3M5NGwxTEFzV040aEJ4dEoxT3NwalhfV0lWczE1RkppZXNXbFNHZjI4bWRuVkpTaDVFZXFVcFV2Ty1oT1RNLXFTTURiRFF3cXZpQlVIUmpYQlE0YjdPUGJ6Mm1VYWtjak0zUGJKMFowTlUwOExuclJMLVBlMHM1YmVNTDNQNGx2enJwazJyTW5sSHRydGZlUkUwVU5OQV91Mms?oc=5"
+  },
+  {
+   "text": "Pevnost Dien Hai se blíží ke konci druhé fáze projektu obnovy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQNWxpVXRCSUdkWko3bWQwOE9wN0dPWnl5S0RYdzdnSHA4Y0w1V2wzNy1WQ2pMeXN6VEpidVozZjZWT2VXb1F0TWNvd1BycUVCenE5VGVkZUc1RHJ2dHZoYlZldUFQSDJfNWRlVVp5S2ZmMWpyRWpJWVpSWDQxNkhlbjlIME5TUQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-25"
 }
