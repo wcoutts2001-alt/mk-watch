@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-24T23:58:58+00:00",
+   "last_success_at": "2026-10-25T00:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-24T23:58:58+00:00",
+   "last_success_at": "2026-10-25T00:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-24T23:58:58+00:00",
+   "last_success_at": "2026-10-25T00:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-24T23:58:58+00:00",
+   "last_success_at": "2026-10-25T00:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:4ae1db625723e664",
     "news:57afd117ea8470f8",
     "news:ce725486d5aa394b",
     "news:2aea922f0b0e87a0",
@@ -580,11 +579,12 @@
     "news:6467c864eebca965",
     "news:57db2e50a487e425",
     "news:8d6998851dc975b1",
-    "news:406ff33de5d20ca4"
+    "news:406ff33de5d20ca4",
+    "news:1a798f76c8b874bf"
    ],
-   "last_success_at": "2026-10-24T23:58:58+00:00",
+   "last_success_at": "2026-10-25T00:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-24T23:58:58+00:00"
+   "last_new_item_at": "2026-10-25T00:29:12+00:00"
   }
  },
  "digest_queue": [
@@ -608,6 +608,9 @@
   },
   {
    "text": "Diskuze: V 80. letech „Olda“ donášel, dnes nechce podpořit oslavy 17. listopadu. Klempíř pod palbou kritiky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmNIUDRBRHR0UTVidlp3X3pMVVVLX3M5SEc2N2ZUV2hRM01UQjFvaG02M0YxZmdiNW4xYmc1dnFDVW1Gc2NEbDAzSnE5U3BxdVpncFdWOThKbGlYR1JXVzJKLTlvWFZmS1lxQ1htU3ljaWpaYnA1MF82VTY3SE9jZFpKeWV6Nm1venUzVE12bmttakhCMjRtWjItd1V6cGppZ2wyMEVmN3luUnh1TUc0U2x2Y0w4T251WWNoX3U4dDA?oc=5"
+  },
+  {
+   "text": "Da Nang provede v roce 2027 nouzový vykopávek starověkého vraku lodi u pobřeží Hoi An. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxQNV96TDA3TUwxZ2lxSlVpSmkweFNmb2lUdWhmNmhQTjd6dFo4ZjdiVHBva043WG43blRMaWRhRURoazZNNzJGSnF1SHpXdVlmYnlDeHY4N0tyWTBqV2tSTW5WcXlXREdtM3YxZE5ET3owTnM0d2RnWU9zN2xuVTNoWjFEU3RDZGtTUHNPeGtCSFptSWM?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
