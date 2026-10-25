@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T13:05:27+00:00",
+   "last_success_at": "2026-10-25T13:38:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T13:05:27+00:00",
+   "last_success_at": "2026-10-25T13:38:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T13:05:27+00:00",
+   "last_success_at": "2026-10-25T13:38:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,21 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T13:05:27+00:00",
+   "last_success_at": "2026-10-25T13:38:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9537bfddcef66f12",
-    "news:97ab3091b57054f1",
-    "news:9e6bcdff33c8a484",
-    "news:d846227b6a69a909",
-    "news:9eb801b288104b6d",
-    "news:a9d0914ee060ed9f",
-    "news:b20cafb99b1a0355",
-    "news:3495848fbcfd4fc2",
     "news:200d4157f1241a20",
     "news:c911a702468896d7",
     "news:6569078ffc90fd47",
@@ -580,13 +572,19 @@
     "news:3dc2651790cb0fe7",
     "news:f89ff1665fadc106",
     "news:412c176743b57ca5",
-    "news:ee63dd6f2b897f08"
+    "news:ee63dd6f2b897f08",
+    "news:783d3d2a8f8693c3",
+    "news:aa2cae091c0900c0",
+    "news:c632b508d7f56a37",
+    "news:2034aab3097a2e2d",
+    "news:48dca69b8635635b",
+    "news:9f5fabe104343125",
+    "news:5cb9d2f15bbba72a",
+    "news:7ffa6c7ba31355ec"
    ],
-   "last_success_at": "2026-10-25T12:19:21+00:00",
+   "last_success_at": "2026-10-25T13:38:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T12:19:21+00:00",
-   "first_error_at": "2026-10-25T13:05:27+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-10-25T13:38:49+00:00"
   }
  },
  "digest_queue": [
@@ -658,6 +656,30 @@
   },
   {
    "text": "„Bude to mezinárodní ostuda.“ Filmařstvo i odbornictvo kritizují záměry ministra Oto Klempíře - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnh0NW9jT0hZWVh1eEZLU2JHOFVtWWl2aERBOGx6eHJ6X1YtU0xlOE9tX3JjN3RxX2xEaU1TN0NRaXFmdEpDYVZ6c1RmOVBXalMyS2FWeFg2eTRnRmxhNWpWMVV0MjB0eXV6cjJVaFRZTHJrN1lqdDZ5dTJHRnU5WnIyaXNZUmJWc1ZHVUlqSWpzcWltNFlWQVhzZGdZN1lrMURaR09wSlZDNHB2VmNIWlctYkNENzhWS1hFY2hFVGJzUQ?oc=5"
+  },
+  {
+   "text": "Návrh na vydávání národních kulturních průkazů studentům, chudým a potřebným. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOR2lFbE83TEQ5cmNPYmxHQnllSEMwZm9IOFVJNktqdndkZ2VMRHNwSmdmTmExdE1nWXNCRFhuSzZKd2dEWm5WZnBmSllpRGRxUUVSYmlhc1lZVHZtcXVfVWxDNnVOc2pFYldJdjZoeDFwQnNDaGVyZ2Z4dEV4dHdGRlF5OG5leEQzd0NYZ21yaDZYQ2JGS0dBcw?oc=5"
+  },
+  {
+   "text": "„500 pro Oldu.“ Lidé připomínají Klempířovu minulost u StB, na oslavu 17. listopadu už poslali miliony - diskuze - České důchody\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGJ5OVdocXBxS2l5dDlpRThFb1gza0hhWjhZTWxCWjh5QTRoQnpyc0gwcHhXRXE0cGgxdTJlRDFHTXNjNlhFeTJROEplYlQ4UkNxN1FZRlhSTXZCU3Y4eFoxeVdodlowbDNjeDRPUDVhc2k2a003ZXdHU1lFcl9sV2M4VDBENm5BRUFqbmpoay15NGZpYjU1UzNsWk1kcTRvZzlxdDRYNEp6NWhxQ2QtdHd4QkhFclQ3dFhDU210R3VwbldjdG5EWg?oc=5"
+  },
+  {
+   "text": "Celkové zhodnocení a kvantifikace zdrojů pro rozvoj kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxPaU05ckRlcXl3OGp2V1l2eWRYSF9GTjZ0OU1GMW92akRvZUdBZmVDVl9qVE5OY3hjZjUwd00tWEswNkJHZnB2TWxTMy0tZWN5NlIxMDV2NU5iS214amxFX0tqZGJYb29WbHJBZzljVWk4dC05UlZPZTdHOEhUTjlmM2doS2N5ejdoTVBYWjN2S0RMRk83V3ZrblZROFZuWE0?oc=5"
+  },
+  {
+   "text": "V Národní soutěži studentských tanečních talentů se zúčastnilo 188 soutěžících. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPa2QxcFlKbXJWQjduamNkcDNWM19aaVZfblB2OXFUYlF5a0o2dnp1WThYSTA0TmNPa3RYaHlnS3hIZ19FNnk5QUNEWDItWXNqcmdtMGViZktaaTZRWGtvd1RLN1pGaU1xXzVIbnVtOENGS3JVZFZTVGRQQU1DeU1DUEpCeVNMeHl5LTZMZTA2QmtfQmpSYlRiOXE3ZEwyX0FHZXhaTVBn?oc=5"
+  },
+  {
+   "text": "Porodnice U Apolináře patří mezi nejdéle nepřetržitě fungující porodnice na světě. Otevřena byla v roce 1875 - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogNBVV95cUxPTUtuc0ZFblBBY3R2LUJCaTRwQU1sUGlvRlV5UUJrcnlBLUE3TDFlM0twMzNtZmx6T2habzA2TEE4T1pud0ExdE11V19fRkpJNVlrU1VVTUMyYmxiSDdFYXV2UjhBYXNQM0JYVWdWTS1HRHViU2JqUHdDVFNiVnREeXVQcWdUa0NBZUhOLXZDZVA2dEY5WjlTaGFxSlYzOEFvcDVzUlZKcklrTUJaRDRkREg0RVZFUk5lLThOeXFESkhpcndmZVRZOWJOMzl0M0tNY1FjOVBJamUwWDRsbm1TbndmYWZXTW5vbUVqN1JhYzU4M3Vydi1CR2pWVjN6N1FJTU51TjZUYkNGQk1WWnF2WjlXZ25KMkUtcUZndTdSSFJEcGsxd1VFcExUYmhFMF8tQVNVT1YyVmVXQ3lkWnBsdWQydm04M050V0F1VzI3aVRyaVhKc1lWRmItWFNCNzgzUUtfUDdhS3VRRU44QzNkWFlIaVBjaWlyMjhMNWV3QV9abG8tMFJsNDBBbjFiQ0ktVVFyUmo5bWh1bVNkbGNDYW13?oc=5"
+  },
+  {
+   "text": "Nelegální tuningový sraz přinesl stovky přestupků, policie vybrala téměř 272 tisíc korun – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5wJBVV95cUxQbC1yaHhYdFVxTVlrM00tc012RjE0QnZFTWkzUG1nTWVrckZHRlFHM1BtV29yMFAwbDBpUG5DSUZLRmlKZDl5V1Z0UlBHM1p1clphOXZ1Y1UzUDFfN2V2T19PYzN5WFZwMWVFaEdpRDN6ZnNJbXE3dk9Tc0dzVENKNzVOWmFtbHV2bjVQcS1UTWhLTnlTVzdjMm11anphRDFwdWMxZUNQYXNWZGRPWWdQZXMzOUhaaUlFRmR6VjdiZTVDaHdPekJOUVBLdk0taDFCY3F4Y3c5MGdpclBEd1I2RFlIVkhVRUJMWi1tTXdjOEpEZjMyS3pPOEdNNlhJTU91clNDbGYtMWtfMEdYWTNnY1poQnlJV0RiUEVqTlY0TFR6Y2MwMjRTZVVEU0pDR09xVGl3ZXpZRDl2aS01dlh4bElPZHJtdTN5cGdZRWlaekpDMWVPQW9XSE81cVdrd2Q1aXlIVWdmOA?oc=5"
+  },
+  {
+   "text": "Vítěze voleb vyšachovali i v Řeporyjích. Starostkou bude sestra Pavla Novotného – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3AJBVV95cUxQQmwzcDJ6bFhMTXFXUldJWU10cjNIQkxyYkcxbHlpMjVrY2gwLXBzZ2dfU0VKMGR5WlMzenI2UTZXeTY5NmVjS1NfOTAwRWFfREh6aVA2ZWdEbm90MjdVN21SZlk0RWpua1JEaHU0SWVVSjJGSGc5akxadzVjX05FVHFvY3FjeUdnRzV4LXBySUk0aUZBd0xaeG1NU243LVZmS2x1N1pkemNhSldscm1PNElXVE1Jdm80WmVUSzRsYTFOZk03Q29MMUxnbG1GR2R2dlpRZlZ0STBwSFN2U3R3Q2lnRmxGMlRIWmZEaFFxX3BsTGowa1ZTc1ZtRGRQaG1rbXg3aEE2ZXJzdDc5Z0NoU1NNWXpsUUZEYUpnMkcwTU9idng5ZFE4SE9hbjRtR1dfemNrVm43ZlA5cktCelhEZjFLQmo2NkZFVE41U0xEX1liOGpMeE5DRllFLU4?oc=5"
+  },
+  {
+   "text": "Kolonu v centru Prahy předjížděl po chodníku. Drzost řidiče teď řeší policie – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wJBVV95cUxQVHVEengzSTlweGpFcHR4cUhaVVlZUmRpSkhicnNWaUZjMlUwc25nZV9KNkk5TTlFV0k1dFM1X25LWEJVM0JOX210bGMtRVlmT3BpZjRGU0ZMbEQwODJrXzZHNXVVRnJsLW42U2ZFc2lpV3B4YVJpQWtwcXJteXgzRldEUGZTWjhyVTFQalZLc25fUnpqRkVnSzYwMFA2NjhDQnF5YjRST1hVaGRsM0RqSlJqN0t4Z1FlbmdoUTZOZHJXZ2FValZKWG94NFJzY19JMWtqR1BGQVozMW9rbld3UXhYOEpGUnhXTk9zVXdlNTFiQzJ4c01sM1VHYVcwM3F3WnRXOHdvT1NWVVh5dDVPcnkxY29kZWFQZWxVc2xWVEswclI1a2ZFNFJIX1YzbTRoY3ZabWlPWU9HOHR0b25iSEZpNk5TZnBWekRfY0ZEcmpsN1E?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
