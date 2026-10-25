@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T15:06:38+00:00",
+   "last_success_at": "2026-10-25T15:39:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T15:06:38+00:00",
+   "last_success_at": "2026-10-25T15:39:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T15:06:38+00:00",
+   "last_success_at": "2026-10-25T15:39:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T15:06:38+00:00",
+   "last_success_at": "2026-10-25T15:39:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:afef061757210afb",
     "news:410f23e255b1bd2d",
     "news:9d2c778026eaebed",
     "news:c0059394ed55be13",
@@ -580,11 +579,12 @@
     "news:e6e914d3db85612c",
     "news:60444aae57ab013a",
     "news:f1230d50ef1adaf0",
-    "news:486a8893d3bb5355"
+    "news:486a8893d3bb5355",
+    "news:9d4aa3359cecaa5f"
    ],
-   "last_success_at": "2026-10-25T15:06:38+00:00",
+   "last_success_at": "2026-10-25T15:39:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T15:06:38+00:00"
+   "last_new_item_at": "2026-10-25T15:39:41+00:00"
   }
  },
  "digest_queue": [
@@ -692,6 +692,9 @@
   },
   {
    "text": "Divadla napříč Českou republikou podpořila nezávislost médií veřejné služby - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTFBOandmX0dOMkZoRVM3ZXVodl8xbE5XdDZiYy1OaHk2Q3BPcWl6Z0c1blVsbllmWExqTXZkTEJCeDBBc2tFMGV6WXlIOTdGY1FyLWg0?oc=5"
+  },
+  {
+   "text": "Návrh řízeného pilotního programu pro vývoj produktů vietnamského kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUVoVkhkMnR5ZkVLNWZmNUU4RExXVVZVSHBkTmxCSFJNVVpnMnJvMGQtVFdBY0ltYm5IQWtMTXRDQkxCYmwweXJyd1J1a1pULWQtRk1CQzJieDdjWFJCbmJKdkQ4NFE1NE5iN2NwNWxZV3ZPWWtfSk5XeGQzb2NXWGgxSlViRTFPNTVIWUxKQnZ1R3d3WkZxNmxCSUdmZ2pnLWwybEFOVDJRSFE?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
