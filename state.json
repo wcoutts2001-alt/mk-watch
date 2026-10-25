@@ -26,11 +26,9 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T20:23:29+00:00",
+   "last_success_at": "2026-10-25T21:16:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T10:47:39+00:00",
-   "first_error_at": "2026-10-25T20:52:24+00:00",
-   "last_error": "HTTPSConnectionPool(host='www.mk.gov.cz', port=443): Read timed out. (read timeout=30)"
+   "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
   "facebook": {
    "seen": [
@@ -52,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-25T20:52:24+00:00",
+   "last_success_at": "2026-10-25T21:16:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -69,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T20:52:24+00:00",
+   "last_success_at": "2026-10-25T21:16:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -77,17 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T20:52:24+00:00",
+   "last_success_at": "2026-10-25T21:16:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cca10a4f02aa158c",
-    "news:c95f7404c3085353",
-    "news:30e205587be74de0",
-    "news:e7e71c5addcd1936",
     "news:54723300c54fafc7",
     "news:6dba374b3951c84a",
     "news:87a581d8869505a5",
@@ -583,11 +577,15 @@
     "news:8f182b10a76309f1",
     "news:c8fb6e972651a91f",
     "news:039c0b7306c11d69",
-    "news:7d50d81b34e98759"
+    "news:7d50d81b34e98759",
+    "news:3de63d3445edab6a",
+    "news:2eef019a0acf39bc",
+    "news:be137c51c643a99b",
+    "news:eb445a2620e380b8"
    ],
-   "last_success_at": "2026-10-25T20:52:24+00:00",
+   "last_success_at": "2026-10-25T21:16:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T20:00:17+00:00"
+   "last_new_item_at": "2026-10-25T21:16:02+00:00"
   }
  },
  "digest_queue": [
@@ -614,6 +612,15 @@
   },
   {
    "text": "Vytváření strategické páky pro kulturní ekonomiku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifEFVX3lxTFB0MjZ2YU9HYnNIcVc2VWliTnBORldpRVhmZkxQVVZYVzRQdGhtSXBMZHE4NHZocTZ2QkVBYmVrX2Y2MzBUNURDS1d6NXZjTUpKSld1aWRCVjZ5MVJzYzlNTmpFVjBvYWtxdTRMNFdjSDJQX0dYTld2X3NjRzI?oc=5"
+  },
+  {
+   "text": "Občané zastoupili stát. Na Korzo Národní vybrali t... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingJBVV95cUxQREFUbUJxX2E4THF4UW1wRVlBTFhqbVdPU05HaTRrc3hmWEkyR2JVaWNrX2ZfUjl0MHcwa3gxaG9tOUs5ZmhkMHdEdklOR2Vocmd5Tk5yRzNTZS1fSi1URzNrTVltdEZKSGtGeE1leTMtVWw1TEVyYzNDZERQZmxyLTZadmkyd2tFcG12MkF4V2NXYWIzcUU4WDRGLURnUjNJVENqcF9kN0hQZmg0aDVaYlYyRDZmOTdQVUZjWUVrZlBNZ08yel9GWVV2R1JheklMeVZRWktzbTVPQl8xZUwyOExVc09NWnlydDFfXy0tY281Z2NfT19VQW9BeTktZG05djVIdUk4WVQtbTIxZHI5VjNDMHFwM0Y5QWVvWlZR?oc=5"
+  },
+  {
+   "text": "Do římského Kolosea vtrhl dav demonstrantů - iDNES.tv\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkVZUmpsNE9OaV9OeVZ6dl9mUTR6Skh1UmFfZV9qbE44U2dvWUpzTW9iSnhhS3M4Z1pzLUxIM2RHWjZLa2RMMlZzZDBSM3U0WmwwQ21yTXF0Ni1RZmQ2ZjA3Vy1MRk9pY0hkb00xX2tTX3FXb1NxalQ2TUJIQjZYeFduc1k1RWlYMDRRTXhkZUkwcGk4S0wtNFNhX1dhZEtudmpqSUJoZDU?oc=5"
+  },
+  {
+   "text": "Komu prospěje blesková televizní válka o 150 korun měsíčně? - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxNb0lIbzd1RkhXUjMwaTdQbi1MQTFRRjlvT3lmdXhzUGVuZFVfLXczN1V2V1BLbTRGdlZXQ250Ry16ay1Nem85R1lpdU5BQWdNb1NIUW4xQ1hWTU9qajNIVnlrdTBHTlc2aWZZZC1Pd0puNVEtekExTUlqTGg4V1RXN3FhaFpIcjMzTVEzZXVuWFFGWlFj?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
