@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-25T07:11:58+00:00",
+   "last_success_at": "2026-10-25T07:45:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -49,7 +49,7 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81"
    ],
-   "last_success_at": "2026-10-25T07:11:58+00:00",
+   "last_success_at": "2026-10-25T07:45:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-24T17:07:48+00:00"
   },
@@ -66,7 +66,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-25T07:11:58+00:00",
+   "last_success_at": "2026-10-25T07:45:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -74,14 +74,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-25T07:11:58+00:00",
+   "last_success_at": "2026-10-25T07:45:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8989260c03f4a4e4",
     "news:b2936f118349c86f",
     "news:123d0e6c1a1ecd31",
     "news:6c4efb335c752492",
@@ -580,11 +579,12 @@
     "news:c42255c543cd57ea",
     "news:f3ce9076d7465b07",
     "news:cf5b270b7238a74e",
-    "news:be9fba8b1e62934f"
+    "news:be9fba8b1e62934f",
+    "news:d2b05d2a61bc1f1a"
    ],
-   "last_success_at": "2026-10-25T07:11:58+00:00",
+   "last_success_at": "2026-10-25T07:45:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T07:11:58+00:00"
+   "last_new_item_at": "2026-10-25T07:45:31+00:00"
   }
  },
  "digest_queue": [
@@ -623,6 +623,9 @@
   },
   {
    "text": "Navrhnutí několika konkrétních mechanismů na podporu rozvoje kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNaFFUOGRJSEtleklGcE9RM0dsVzFtUXJaMTVwaWxXRm9YVkxCUlZDcEQ4MllKM0g1c2Nsb1lpbnhxM2J5TmQ0Ti1EMlk3d3ltSjc5azBMeXVPcTNmajJqNVJuZ2daV3JtaDFJRjE1ekxCRmgydWlpQUx2aXpzYTFEWmExVF8yalo4dEp4QUpuOTF3Mk5sS3B2Vkxn?oc=5"
+  },
+  {
+   "text": "politiky upřednostňující investice do rozvoje kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQaXNlalNKTDFUY3FaclhNbW9kS2RaWmJiUlE3eDB5RXVEMEJhem1NMjhUbm1EOVhfT0VaU1BFSmw0TXZlb2VfRmdVV1NXeDhTamxHR0VXTkI0cERUSG1wWmtLR0U4VDgyN3I3TXljRlJad1FEVE42UThLakNiajROcmZOYzVjOXNybEFLajBmY2ZrOTVIN0FSaWNQYktIelU4WTRSVW53?oc=5"
   }
  ],
  "last_digest_date": "2026-10-24"
