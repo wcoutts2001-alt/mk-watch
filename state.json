@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T20:00:56+00:00",
+   "last_success_at": "2026-10-26T20:42:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T20:00:56+00:00",
+   "last_success_at": "2026-10-26T20:42:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T20:00:56+00:00",
+   "last_success_at": "2026-10-26T20:42:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,16 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T20:00:56+00:00",
+   "last_success_at": "2026-10-26T20:42:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e9254b7432a22eb5",
-    "news:a20d463d8028d480",
-    "news:2a6bed320cdcb380",
     "news:a2ec4e26df190a8c",
     "news:116e6c5722710208",
     "news:15569a3abe09cd48",
@@ -582,11 +579,14 @@
     "news:4e93d5f2d35feeee",
     "news:ac24f01bd54da8ea",
     "news:1dcd3f96d6bdb470",
-    "news:a8017e9a38799f35"
+    "news:a8017e9a38799f35",
+    "news:386ebbbe66e1e0a5",
+    "news:ff28824a75809847",
+    "news:7c04b4e516cf2b37"
    ],
-   "last_success_at": "2026-10-26T20:00:56+00:00",
+   "last_success_at": "2026-10-26T20:42:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T19:18:13+00:00"
+   "last_new_item_at": "2026-10-26T20:42:52+00:00"
   }
  },
  "digest_queue": [
@@ -607,6 +607,15 @@
   },
   {
    "text": "Thanh Hoa: První galavečer Sao Mai se konal na náměstí Sam Son Beach. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPbUdKOTF6MnpsSTI1TVZhNzdZNkVwRG92cV9rbEdnNHUxVnBpenVGM2doX0JBY0lia0FwZWVVUGhnR29fTXdqNnFoNXNQSmtXUlU5dDNtd2xubTdBeC16WE8tUzJwcnc4M1RVQzdCcnBYTzh4T3RmajJfUHRMem9MU2JhWHhTck84R3NRU29oZkVsYVRkVENqZFBEWldyMW5jRTQwbE8zUQ?oc=5"
+  },
+  {
+   "text": "Nekuřácké prostředí – měřítkem kvalitních ubytovacích služeb. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPZDFDYVVCLU1MRmVJMWdLV01sV1JnYWxDbFVxVk5ZbldfRXdwcFBsd2J5Z3IyeHpWbmJvSl9aRks4bWsyNE51dmwwLV80a0RSTGRuSXJXVjg5SmlXU1lmeFhMNHU5ZTVtOENDWF9yV1VYdUVrYVB4bXd4ZmI1cERCNTdST3I?oc=5"
+  },
+  {
+   "text": "Probíhají přípravy na organizaci Týdne kultury národní jednoty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1p6SHdUZVJtSmUwdVpPQzRHNUROMDVNYkFPYXBJUGR3b3YtZVF6Q0tqNUJoYU5jcC1EeFBtaDlwS0h0blhIWllaaWU0WHdQaEZnTFZ4aHhoQ1JrRERlWDhpRDlUQlZpdEFFT1NCeFFjbVQxVXJlZ2VLcjVxVFMxSkJB?oc=5"
+  },
+  {
+   "text": "Chrám Hung experimentuje s živými performativními uměleckými performancemi a v noci přidává další kulturní zážitky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNeERDZVB0UFBDWXJhMGo5Y0J0ZWF5TnE4ZGVwTDRDSUZWRTQ5aVk3VDlLal81LUF1ZXVUdHVoSGVsbVB5bU5sbmp2V3ZwYjduVTBtM3ZGNnpBblpxQ1A3ZXRaLUNabzctSFFTMHFrakZkalllaURURVFVenFlRXFQQ2V2cDV1Ry1tMG9OQjVGdExublpXT3FWVGltRHVUY3FrSHVn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
