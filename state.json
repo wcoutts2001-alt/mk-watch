@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T05:43:17+00:00",
+   "last_success_at": "2026-10-26T06:16:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T05:43:17+00:00",
+   "last_success_at": "2026-10-26T06:16:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T05:43:17+00:00",
+   "last_success_at": "2026-10-26T06:16:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,21 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T05:43:17+00:00",
+   "last_success_at": "2026-10-26T06:16:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:b9a53ab6c2ec63c1",
-    "news:ea4a1ad66bd7c065",
-    "news:f8b3e513c94f1f41",
-    "news:c976989e58784d26",
-    "news:c96d8fe6ccc9d729",
-    "news:a984744625a11ef3",
-    "news:7124a9ad766756c1",
-    "news:6a81ab8bd65039a1",
     "news:cb9a32b6028f9fd6",
     "news:f005ee6eee07731b",
     "news:b683ae9ac59635ab",
@@ -581,11 +573,19 @@
     "news:7c3cfedb34e8bf6c",
     "news:0f087507f8c5aedb",
     "news:8a7ad4206f4e6879",
-    "news:1383da3b95819d07"
+    "news:1383da3b95819d07",
+    "news:c9788a9f15d8b93c",
+    "news:8ebeae0ce4cabbd3",
+    "news:e3022c23d9e8b72f",
+    "news:d6558271143d4f01",
+    "news:1f665d31712b65ab",
+    "news:a3424701938be5c5",
+    "news:85f1b50cb46381e3",
+    "news:26dc7e5e68d15780"
    ],
-   "last_success_at": "2026-10-26T05:43:17+00:00",
+   "last_success_at": "2026-10-26T06:16:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T05:43:17+00:00"
+   "last_new_item_at": "2026-10-26T06:16:54+00:00"
   }
  },
  "digest_queue": [
@@ -663,6 +663,30 @@
   },
   {
    "text": "Dusno, pak bouře. Čtyři mimořádné momenty, které ve Sněmovně předcházely hlasování ve 4:36 - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxQeFE3ZU9GeTZlUFFhX2c4YThfeTNiRVE4YUliZWNGTHB6bk1nMWQ5cnhwM0xQRExyanpYcFgyWmdLd2Myel90LS05blFKbC01blIxR2pkTldQUENaUmZTWERlLUQ2OFpPZC16Ymw2YTV5SDBtUWFuejhQZjBPZXZ5Y0NwYzhNRElwaFVsUWVZQTJwdkt6ZWZCZUdiSzhyS2xVZW1vVDBScW5NWE5OT05kbDh6eWZKbGNPSU9Rdmp2RWd1MDFHV0Jyc0t5VQ?oc=5"
+  },
+  {
+   "text": "Hudební tělesa i divadla podporují nezávislost veřejných médií - KlasikaPlus.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOTGoxcXBaZW5mZzRLTXZVTHMtc1cxd0xNMnUzTTFLcS1KbUVJM0VLOVFtWGtUQXJ2aFlSOFN5VnRFbDNtcXpXc000NFhWUzhjVWNnd29LOEJLX1hCbjBBZ2JQbjhfbGJJbjVMZFlxTDZaMlA4SEZvUVVrQ0p5bzBZRWxSNUFWSXk2Sk1hQmpzV0J2ZFh3?oc=5"
+  },
+  {
+   "text": "Slavnostní zakončení Mistrovství republiky v badmintonu pro nejlepší hráče 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxONlVkMnNZMzllSGlXeXo4REdqRjcxMWxNUC1kbjZWR0FtS01ZNlJsMVB1Y2NMVmJ0MlhSSVVRaXk5WVNjcVZtUmUxQzJkbHJ0RlZqSU9ZOU55MUtnZzk3SFBGZF9pWU1iUEhvUEV0Q21QalhLYTgyWWVlR1YtbWtPQkFGVlRjYlhIS09DOUR0ZXFFcjJCY2ZnVg?oc=5"
+  },
+  {
+   "text": "Vláda navrhuje vydávat studentům a lidem z chudých domácností národní kulturní průkazy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxNR0dKWFkySXM3OGdmWDhsNnVWT0ZFYTRBWVRJRDFVZXNlS182ZzE1cWVOb2lNTWVZdzltYTBtNHJka0RtVTBPWUg2QzVEZ0pYWXNLWXZtV3pHVmFQam9Hd1I3VXpobmI4Z0xDR3N5MGVUVmFHcVlnLUNiN1EyTHZVaUlMTms5dkphVEljUkNua0hEeTE1bzN3OFpJMGhaSVZPZ2c?oc=5"
+  },
+  {
+   "text": "Expert: Pokud by nebyla ČT, Okamura bude rád. To není případ Babiše - PrahaIN\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEtuSlpYdUx1b3BwM1Y1T3V0T3hLTG41TUM3SnhjYzd4NU0teWh2VVRBa0wyTTZRSnBZdDdjQkJPQ0ktZnYxRG9VSWI1UExVdUdIOTNoWnlKZGI2VXMwVGJ0TkhZa1hFbzlyMU00MFliU0RrQzdOWDZnR0pxUW9Ndl81Wk1XZXJJNmYtMGFMbmM5T004bGtKYmpQRG8xb2syRUVGYUNFa290UlU?oc=5"
+  },
+  {
+   "text": "V roce 2026 se 10. ročníku Národních sportovních her zúčastní 522 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPcmd6eTNEdnEwV24zQnNQVkcwQnN0RFdvVzNXVllrNGxsaEFQdk8yZ2Jzc1N5Y2UydkNWUDRvV25tdTVoTlZqOUF5a0xXeEN6UkJTUjdRa2l6SWhuOEQ3RnBidXpiMnJCUTdWcTJITFFhLURIMTdySjItaGRZdE5mLXpGWVJsZUN3Ylh3RlFSZHowZE9yQTVVdnY5MWFPUQ?oc=5"
+  },
+  {
+   "text": "Da Nang vysílá svůj tým k účasti na 10. národních sportovních hrách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPMU1LSWJ1cHFZeWp5dDNSYTFsZHhOTTVFanR4YW9DZEZmRVBOblJSZW1wMzJldVk1M3l1WlFuaTUxbTBvRXB5TlliSVhYa3FRY0gxNGd2R05SeU5NZ1dHdXYxcUdmREVKMDlyWGtsZTBJV3hUWm13dWE2Qml1VEVnYmhsdURKSkZtd2Q1RE1YNEJrQQ?oc=5"
+  },
+  {
+   "text": "Slavnostní zahájení Festivalu umění a sportu pro seniory města Dong Nai 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxNMWJ4Yk1DNUJwYXl1ZDRIYkRENExqZVBUZUVybkZqZU9KUWdiUkROU2tvNzA1ZVVuS0lxTHNTaGJFWVRzb2xsakVRWW1CNmYyTVNURWpoeVNidkNTT01faUdxeWdRU01wQmRNOFlSY3IyS3dUYjFRbnVQd0N0VkloUG5TaTItYnhPckwwM1BtelFNQ2VCQlpOdlhNNE9TM1o5?oc=5"
+  },
+  {
+   "text": "Gia Lai vyhlašuje soutěž fotografií a videoklipů s tématem „Barvy Gia Lai – Rozlehlé lesy se dotýkají modrého moře“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxPOHFBaU82Sk1JdUxPNUpsTUZsV19FWFM4ZHpLa0RuQ0x4QWRYek9GdVZMV2pjN0xzd2dkelJqV1BDeWFpM1dhdE5paWp2QTBDeHZnVzFGQ2FaaWlmU09OTDhwbHVXZU9NTlppMERyQXVuNGxVVlk2MFVsYWFEb2Q3U014TGtidDNMbWRyaENfQ2Q2WU5NNlFJSmRBTnBKdVNRRGlZUGZNNFA5T0Zza0Izci1nenJOdDFrclUyNG1WQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
