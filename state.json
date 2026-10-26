@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T17:11:26+00:00",
+   "last_success_at": "2026-10-26T17:46:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T17:11:26+00:00",
+   "last_success_at": "2026-10-26T17:46:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T17:11:26+00:00",
+   "last_success_at": "2026-10-26T17:46:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,15 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T17:11:26+00:00",
+   "last_success_at": "2026-10-26T17:46:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6f1d2fea730dc6cf",
-    "news:0d4e585399e670a8",
     "news:15e28e53f964ac23",
     "news:9febd64a517a1132",
     "news:88a8b4c96dd75fc9",
@@ -582,13 +580,19 @@
     "news:c74199ac28692037",
     "news:9c7133d46662416b",
     "news:e441112a209d474a",
-    "news:f3cea8621ba2f587"
+    "news:f3cea8621ba2f587",
+    "news:5047b2eaf5b5d1bf",
+    "news:2699b4568f3e3d41"
    ],
-   "last_success_at": "2026-10-26T17:11:26+00:00",
+   "last_success_at": "2026-10-26T17:46:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T17:11:26+00:00"
+   "last_new_item_at": "2026-10-26T17:46:57+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Stanovení bezpečnostních požadavků pro trénink a soutěže ve wushu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxOb05TX3h5ZDk4TmlIOXFqN2docDhpTjVzNkFJOWZSNGlYcktIR3VjWkFncEowVzFQTkRGcEo4anhBUHZsS2dVb2h6eHJQU1ZYSkFVeFNueUJDVllkbjA5RThNSXBMMDYwd2hQWEUwVFNDRW0tV3FUdnZfa2lEMXdFZ3F4WWItNU5SZ0xZVFQtVFlzZkhlNEVoX3lES2pjSk0?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-26"
 }
