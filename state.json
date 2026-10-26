@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T17:46:57+00:00",
+   "last_success_at": "2026-10-26T18:28:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T17:46:57+00:00",
+   "last_success_at": "2026-10-26T18:28:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T17:46:57+00:00",
+   "last_success_at": "2026-10-26T18:28:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,15 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T17:46:57+00:00",
+   "last_success_at": "2026-10-26T18:28:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:15e28e53f964ac23",
-    "news:9febd64a517a1132",
     "news:88a8b4c96dd75fc9",
     "news:d840adb3fe280a6f",
     "news:c923e47af40f0786",
@@ -582,16 +580,24 @@
     "news:e441112a209d474a",
     "news:f3cea8621ba2f587",
     "news:5047b2eaf5b5d1bf",
-    "news:2699b4568f3e3d41"
+    "news:2699b4568f3e3d41",
+    "news:fa9c6a056e363f5b",
+    "news:4e93d5f2d35feeee"
    ],
-   "last_success_at": "2026-10-26T17:46:57+00:00",
+   "last_success_at": "2026-10-26T18:28:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T17:46:57+00:00"
+   "last_new_item_at": "2026-10-26T18:28:48+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Stanovení bezpečnostních požadavků pro trénink a soutěže ve wushu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxOb05TX3h5ZDk4TmlIOXFqN2docDhpTjVzNkFJOWZSNGlYcktIR3VjWkFncEowVzFQTkRGcEo4anhBUHZsS2dVb2h6eHJQU1ZYSkFVeFNueUJDVllkbjA5RThNSXBMMDYwd2hQWEUwVFNDRW0tV3FUdnZfa2lEMXdFZ3F4WWItNU5SZ0xZVFQtVFlzZkhlNEVoX3lES2pjSk0?oc=5"
+  },
+  {
+   "text": "Odstranění úzkých míst, uvolnění zdrojů a vytvoření dynamiky pro cestovní ruch. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxNeTJQczVWdHVMdXJ3cUluX2VVNEFpRzhuV1RqdnRwOHpVbmhkTmRiaHlFUm9sNzJvcGtCc09rOFhacDFsSFhMUDhBQjhySHVFa3p1Ti1oNjF4WTJwTmJxanFyS1A2dVU0TV9fSVZUZi05X3F2ejdScGlCSE8zVS10UU9fa3F4aGljeTJPeTktUHFNQzR2?oc=5"
+  },
+  {
+   "text": "To byl zase týden 169: Babiš přichází za Okamurou se seznamem smrti, Hrad je v ohrožení - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPQWxEQWxtVUljQm9zdkhIcjJSdlF6eWtEeGV4TUExbjloUDNXSlZZYllnUHhMa2tXdnd0dTdsVVYxUmp6TkpfQWl6elVXcFhQbFdYMzNFOW1iUjc0dVNUU3BibWQ3T29fdVhoUXlSUGJmcDMwV1J5ZE9oQU9heTE1WUNHRDdBZ2FndnBZOTFRQTFCRGFmTkNSZWtwUXhJQklOSFNLOVFidzhERVNHbUtJcFFR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
