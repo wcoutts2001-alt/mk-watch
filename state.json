@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T11:21:12+00:00",
+   "last_success_at": "2026-10-26T13:45:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T11:21:12+00:00",
+   "last_success_at": "2026-10-26T13:45:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T11:21:12+00:00",
+   "last_success_at": "2026-10-26T13:45:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,21 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T11:21:12+00:00",
+   "last_success_at": "2026-10-26T13:45:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8bfafc5b9fbb83a5",
-    "news:deb6198c897b0539",
-    "news:cff430ca3674c704",
-    "news:4490f360f17efcd4",
-    "news:86bb59c31e5269b5",
-    "news:49ae992c774f6a82",
-    "news:b0b748fbff8c0d9a",
-    "news:02ba83abc3d04e77",
     "news:6dffbd26961a6ed8",
     "news:958424cbddb604eb",
     "news:b3b4cd3c4eab2354",
@@ -581,11 +573,19 @@
     "news:05311b5be5da8b0e",
     "news:7c4def78b9cb72c7",
     "news:a1ca25d9f5e34ddb",
-    "news:1172e0cb80242c27"
+    "news:1172e0cb80242c27",
+    "news:421c8f550f922a7b",
+    "news:aea03d35ded43a43",
+    "news:f86f870c88a2ea97",
+    "news:6919245b099dac2e",
+    "news:0853f05c1d4826da",
+    "news:fa6cd25f7859be04",
+    "news:5bd4be939ddb06db",
+    "news:44154a0d33f555ab"
    ],
-   "last_success_at": "2026-10-26T11:21:12+00:00",
+   "last_success_at": "2026-10-26T13:45:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T11:21:12+00:00"
+   "last_new_item_at": "2026-10-26T13:45:21+00:00"
   }
  },
  "digest_queue": [
@@ -753,6 +753,21 @@
   },
   {
    "text": "Da Nang: Aspirace na ekologické, chytré pobřežní město a vize pro památky splňující mezinárodní standardy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxQQXpGbTVTVnRXZ0g4akdXb2VDUEJvS09RckNWekd6X2k4akk5aENwQ1hWNVRfUWxzZ0VkOGE1dmpwRmtfZmpMa3FHbFM3dmdlVUpCWkhXRFJrWmN2U1ZDVF91YTBmVVkzWV9CYkhKb0V4TjJ4Vl94c2FYUjVDRksyZXNBR3pETHBOallmUlc4NldEUDNLZG9UaVJ4c3dmZ3pGQUotNTkySUFOdl9zVy1SdmRR?oc=5"
+  },
+  {
+   "text": "1. kulturní portál - Scena.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VVUzR1NWX1dpdWg1MGdnUHVIX19jSWJvUVRqTWNxbWxrWXdvMDluNHh0YW1qUmdaQ2JYdFFZSVdsSFl1VG0zNF93YVNWb1VlWS1vUUktQm83SXhUa0xVN3h2RQ?oc=5"
+  },
+  {
+   "text": "Zažijte památky světového dědictví Vietnamu optikou fotografie. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxPMXlCYWpLckVlS0pLV0RYZU00cEJhTEtBWVFmcHVxNHdRRWxQMXpRNmpvOWJFTE02NUhSQnpvX1Izc0FLNEgtX19sb09TQ19aZXNFc24wanpuOGRoV19jTHR4XzNNUG1TYzd2WGNtNDVMZ3ctdVhmeVZ6YlRxMUVEZUtOczFTSEdrTVZnTUFhRzB5OEhoV2Fr?oc=5"
+  },
+  {
+   "text": "Odstranění úzkých míst a uvolnění zdrojů vytvoří nový impuls pro odvětví cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxPVjRXaktiZ3FxRTk0ckJnNkFGZzBPUE1MZXhOMU5DTE9HZjlRM0c1VkxBa2hzUHRrZlR1aG9FZktIU2NjWkJ0ZHhLV0k0Y2JiMnFwaHYtMzY5VmNJMjdVRURoT3BUby1hbGlqVngtU0FkRzdQNGVtNERJV0tvWllqdlh4bnUyYkU1ckFsY0s1VzFOdnFSY0VRUmowWGpfaFVlMUE?oc=5"
+  },
+  {
+   "text": "Od právních předpisů k praktické implementaci - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifEFVX3lxTE9uTFBySjkzcWw4STlGVk1GTGlVUFdaTmdWR1p1RnB4RFI2VlkwZmtib2hLeWE4cWhkcXR4MzBDUzdDT3B1LV8xRFBTQUpWOV9zT2ZibVlsNlgyV2ZJNHFXZEw2a19hZXZwTkh4RWpKcnZKalZ6Zmh5NFplTEo?oc=5"
+  },
+  {
+   "text": "Organizace Dne vietnamské kultury ve spojení s Dnem národní jednoty v provincii Hung Yen v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxQMXhuekozakxzeTI3YU1IWl9ncU1rNWVtN2tuc2o5RnNhTThJRDBXVVA5QlJpZUxxeWpHOW1CY0dOVTFZc2ZKUW9XTHFZV081WGxrQVE3MW4wdEJKLW9Md2lBV1p2NkZCaDJWd1VudmRkTjlROHgtN2RsbHV6c3FDWmtYUXNWZlpKX3VSVGRQcURfQzBNMFJxV1NIc0ZxSnZXYVB0dDhGYlNNeWVGdENYOHF0MnY1RUdJd2diQzRydERSM2JyUkJDby1QY1JDUHM?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
