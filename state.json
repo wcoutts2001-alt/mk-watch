@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T13:45:21+00:00",
+   "last_success_at": "2026-10-26T15:23:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T13:45:21+00:00",
+   "last_success_at": "2026-10-26T15:23:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T13:45:21+00:00",
+   "last_success_at": "2026-10-26T15:23:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,19 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T13:45:21+00:00",
+   "last_success_at": "2026-10-26T15:23:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6dffbd26961a6ed8",
-    "news:958424cbddb604eb",
-    "news:b3b4cd3c4eab2354",
-    "news:677c58bb1da62f24",
-    "news:818ee6bba5909d4a",
-    "news:b84e1c7d8f8925d0",
     "news:4310b0e076611791",
     "news:84f593e3b38e93fb",
     "news:3249dc5c439d1a8d",
@@ -581,11 +575,17 @@
     "news:0853f05c1d4826da",
     "news:fa6cd25f7859be04",
     "news:5bd4be939ddb06db",
-    "news:44154a0d33f555ab"
+    "news:44154a0d33f555ab",
+    "news:d431fcbe569b8422",
+    "news:663d9486cfabe47c",
+    "news:6796891cec071c2d",
+    "news:5a51ad1199ab6040",
+    "news:e863d9a5f96bdef9",
+    "news:67d48cf8a5e983a1"
    ],
-   "last_success_at": "2026-10-26T13:45:21+00:00",
+   "last_success_at": "2026-10-26T15:23:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T13:45:21+00:00"
+   "last_new_item_at": "2026-10-26T15:23:10+00:00"
   }
  },
  "digest_queue": [
@@ -768,6 +768,24 @@
   },
   {
    "text": "Organizace Dne vietnamské kultury ve spojení s Dnem národní jednoty v provincii Hung Yen v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxQMXhuekozakxzeTI3YU1IWl9ncU1rNWVtN2tuc2o5RnNhTThJRDBXVVA5QlJpZUxxeWpHOW1CY0dOVTFZc2ZKUW9XTHFZV081WGxrQVE3MW4wdEJKLW9Md2lBV1p2NkZCaDJWd1VudmRkTjlROHgtN2RsbHV6c3FDWmtYUXNWZlpKX3VSVGRQcURfQzBNMFJxV1NIc0ZxSnZXYVB0dDhGYlNNeWVGdENYOHF0MnY1RUdJd2diQzRydERSM2JyUkJDby1QY1JDUHM?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxNSVQtVkVqYmg1N09CUENrUl9ZeE5ITVBuS0o5N3ItdjBsTmpSMkRDZ0o5VnZNQ1h4T2RjazlBbF8wOV92SXgweHhteGdmUlBrTnhBTTdSRUxGcGY4ZlpJcEpCVWFLR1lINk1rMEZYeHhRaEhjV2NoeUpkSWFjeC1iRnFHX1gwVnhKM3ZKR2VYQzdVWXM?oc=5"
+  },
+  {
+   "text": "1. kulturní portál - Scena.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE5leURLTWNVQ0pWVlRqZGNRZFdLRExDTWxmQ0lfR2JtNG9hV2JPclRROGplbG9sQVpFWjNVOWE2amxmUHo0ZEM1VXgzMHNuaFkxckIxd3Vja09HUzZJaVE?oc=5"
+  },
+  {
+   "text": "Navrhování konkrétních politik k vytvoření průlomu pro vietnamský turistický průmysl. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQeVZyV3ptMWdrTXVleHNfZlNacnQyR2wzWHJXR3U4SmFPZVoydG9pb09GaDRKZjNZeFdRY3V4T0hmZU9FMlBZdzVSVi1OQUQ3X2ZxSHNXaTdCaU9hZVlEZmliTGhHc2lpSEdid1NCYXc1VkZMWmEzVDFRbzhRXzIyVXNxcElySUl0T0hqZ0Jn?oc=5"
+  },
+  {
+   "text": "Navrhování konkrétních mechanismů a politik k vytvoření průlomů pro vietnamský cestovní ruch. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxQbzM5SXgxSVBhQWs4M2VtZnJLaDVrQlJ4aWllbnBZZkdpTVZ5SXBOQUNRdUEyYXRBNnZZcm9FOERLRldjSUxOUWxkYjQ1WFJaMVJPaVdlMjVrUmtzNEhrTEhBRm4wYVdubUNKeVloMXBGN2dtOHYxZUVJVGhTRXdydm85LXk1bUl2T2hWRTk4TVNieUZvN3dV?oc=5"
+  },
+  {
+   "text": "Vypracování specifických mechanismů a politik pro dosažení průlomů ve vietnamském cestovním ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPeGVEYjNvYUhpeGpWRl8tNndtRE9rTzdzTnVuZlZTdWlxVUpUeWFCcmprQlZVQlpIclZJUGlVNlVQOHhRdnYzaVNDTnVvd3g2NzJWV0plZDZDczhZNjRvTnVYaGtKSjQ3Z1FsQnV6Z20xZzFyWlg2SnVyNVVzYmZrN2NUMHVSdWZ2TzEtSDZWaDhQRXpyazBMRQ?oc=5"
+  },
+  {
+   "text": "Tradiční ceremoniál hledání ohně v rámci přípravy na zahajovací ceremoniál 10. ročníku provinčního sportovního festivalu Son La. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxPbEVEX2N4cXctM285ODVlTHRDTmp5TG9XTTBHR2R4R01qMDJfS3Bfb3dEWk95Qy1VNzdPdUNFNDdOVmFNQWd1eU1VMGxVMFZGemJkei0wRV9VVHBibGQ2cmxOSFBhN2R4alk4TFFQalhJYzJvaVhLa0ZEVlgyeHhTcDNZd2FPV2lHRUlGX3EtY0tpYTlTbFFZSmRRR0o3RklaeElySk12LWlVZ2xjSmxHV0hYTjdNVnM1TWJIQjFkLVA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
