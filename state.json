@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T09:52:18+00:00",
+   "last_success_at": "2026-10-26T10:31:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T09:52:18+00:00",
+   "last_success_at": "2026-10-26T10:31:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T09:52:18+00:00",
+   "last_success_at": "2026-10-26T10:31:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,21 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T09:52:18+00:00",
+   "last_success_at": "2026-10-26T10:31:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9a59d94a19ec6a5d",
-    "news:72004a553dfe126f",
-    "news:12b8dc760dd8d170",
-    "news:41148420a9d3f8bb",
-    "news:71c23f490ffb693e",
-    "news:2153a3e2ba8d8f09",
-    "news:c90e23488d95fb22",
-    "news:3979207166e1d310",
     "news:9e43d94fb64b9b3c",
     "news:81d59cbbc320ff83",
     "news:18be4bdf025a26b9",
@@ -581,11 +573,19 @@
     "news:71cca8b2386a9400",
     "news:2b1a4d5f06f39441",
     "news:fff9d361e8cd07e5",
-    "news:9705aa371f5b601b"
+    "news:9705aa371f5b601b",
+    "news:055401bbff051102",
+    "news:62a739d72e457c11",
+    "news:dc479ee78519eba7",
+    "news:a74dc57a8129110a",
+    "news:96479912db47f1e1",
+    "news:1ad18bcdab8e5d32",
+    "news:fa5126e52c163e9e",
+    "news:fb938fa18566c02b"
    ],
-   "last_success_at": "2026-10-26T09:52:18+00:00",
+   "last_success_at": "2026-10-26T10:31:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T09:52:18+00:00"
+   "last_new_item_at": "2026-10-26T10:31:05+00:00"
   }
  },
  "digest_queue": [
@@ -717,6 +717,27 @@
   },
   {
    "text": "Sedm tenisových klubů bude v roce 2026 soutěžit o pohár „Hai Duong Clean Water“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQWkxzcXhIT3NVTlZYVzc1eFRCX19kYkNReDhKQm00Q2R3NnFmZXRCZ3cwNlBDM29HbldSZ3VhenVqbTk5RU1mY0JncVhSdDQtM21ETEFBVVNVdkdEbE9OYXNkM00zdURTMHNzaDhqVE5wOG5BOHhDd3NMODRmY0JIZXVWcFhoRzBpcnJNV3BPTQ?oc=5"
+  },
+  {
+   "text": "České filmy a seriály čeká nejistá budoucnost. Proti nejnovějšímu návrhu ministra kultury se postavili i slavní herci - TVGURU.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE1qc3FtcFJJNzRzSDk0T181RTRQT05xdGdaTk9tVkthT0p3S0h4Y2lHXzlRNWlXcU1aeU1ERkhSSnBmOGZWZG5LaEoxcUlaQzBKUVhTV1hNZFM5TVRORmp4TXBtMUpGanRaa0d0aW1CUWd3OXFkVlA4?oc=5"
+  },
+  {
+   "text": "Pořádání uměleckého programu k oslavě Dne vietnamské kultury zajišťuje vytvoření podmínek pro plnou účast lidí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3AFBVV95cUxObG9OQXVYU2pFS2tJZHh3Vmw4eUd5dVRhaGlYZE02d19jdDFPNmNULWVhX1FkclFYdGFrdjdoTmhBNXVvbFdsU3lTZUxGaU9QRFpnUEhmMG43ek5wTFRNV1BPR2Fnb01RZXFMdEF1dVIyWm5ncWFybm1zekxCcV9Rc1RTNENBSEJZZ0FQZ21KMVR3V2xLZmRNRXUyWEVvX1JVTHBhd0RlYnNRZjVqV0dZSGNpc1Zsb0lNcG4xcDdBd296RDBEWl9yZ2QtUklQZEpaS3k4QV93RDlYSDlJ?oc=5"
+  },
+  {
+   "text": "Sedmnáctý listopad se nevešel do tabulek. Češi vytáhli peněženky - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxPZnRWVXl6YzFEQ19SQmhpM3ZFZFRMYlc0VWM1SkJ0TmJ3c0YyNEdDT0cybVExQVZPNGxfWUEzX0FhWThyZ0w5LXNmc3BPaVlVQjF6XzZXQnFLc1hlRkVSRnFmdE5taEs0S2E2M1IxMTlSSlRjOE1Nb2FyY3NURGFwUU5wdHZ6NFJ2dHQ3T2Q0RldSc25vdUktMU9rOTNIc3R2VG8yRTRJR281VDlEZ3g1c1lOaFlKZ0E?oc=5"
+  },
+  {
+   "text": "Premiér: Legitimní podniky musí bojovat proti výrobkům, které porušují předpisy o bezpečnosti potravin. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPY19fTmZ4NUgtalVqQXNrb00xOHdpREJkcTRPZEY4VHdCLXdScDdkQ2FEbWtONmhncURWY3JzYldCblRjX2RhVTVWdjZ1c1I5QTluOTZVb25Ec2RkR2QydGpxczhETnpYOVlaeWhUNHNEX1dxVVNDUmtGa1NKRE5nTFdZSGFjaG9seXRFSExfS05yU1RfR2RlZ3pZRmRXQTBPYTVoc0xjQ3dPWHVNNVVFMmZB?oc=5"
+  },
+  {
+   "text": "[Fotografie] Zářivé barvy na festivalu Korejské kulturní stezky 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOaWcxeDBTRFFYYWp1NkNNZHF3TlF2YUtwRDNWcVEzMnlRdXNSMFQ5Tk1wd19lQy1KN2drNUd2dDhLT1FmZ1ZiMi1OV1lpX3NJZDNOczZ2UGZvbmR4RHE3TWljOVNQbTR5R05zZE1NcDJ2WXVWakZucUJsc2tLUTFyOFJXbkY3Z3ZnY0RISjlBZkc?oc=5"
+  },
+  {
+   "text": "Slavnostní zahájení Národní soutěže v hraní na tradiční hudební nástroje pro sóla a soubory 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPR1hmd3dOZThzNnByYktZYTJ1Z0JraUJzM1ZiUFNFRXk3bFdKQ09iT0pjNmNKaVpSejQ5V0dVSGVzRm5TRFNjeUEwb3VVSWFuRlFuZFdsOTc3SlM1SU1ERThGTVRRZ2c3TjQ0bWFJeUpOdjFUNUpxd3NkYjNkd0lfUmFaTHF5bUg0Z014bks5eERrMF90b1hFRA?oc=5"
+  },
+  {
+   "text": "Policejní klub Hai Phong získal na městském tenisovém turnaji dvě zlaté medaile. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FYSFFiZXd0cWp3VV9kY1lWS3lUbkhoaDdIUEhmdWpyaVZib1EzUm1DalpQNW9QeUFDbEhmRURMVFk0S19BZUVxSVdIYzZlRHJYYlpEb2hFT2dwNW92M2VZMWtWLXZGR3Fici1qRm5YakdzZS1zaEIwdEgxTW13LXJLMTByU3FRa0M0YTF0OXhDSWZPTlNzZVZNUmd0T1lBX0hTOA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
