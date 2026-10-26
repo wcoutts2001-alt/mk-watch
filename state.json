@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T08:14:57+00:00",
+   "last_success_at": "2026-10-26T09:00:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T08:14:57+00:00",
+   "last_success_at": "2026-10-26T09:00:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T08:14:57+00:00",
+   "last_success_at": "2026-10-26T09:00:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,16 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T08:14:57+00:00",
+   "last_success_at": "2026-10-26T09:00:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:33011d76e6934776",
-    "news:ff130685462a7727",
-    "news:aafd4085088d7a21",
     "news:bea4d150ec30f481",
     "news:e90fadc70362e83c",
     "news:4e233dc68779dc12",
@@ -581,11 +578,14 @@
     "news:923bdee382e658c9",
     "news:8766eb6044ebf231",
     "news:28714c3de64b71fa",
-    "news:9bfb927322bbe1bf"
+    "news:9bfb927322bbe1bf",
+    "news:92911475b9d977b5",
+    "news:c418ca33e8e97726",
+    "news:6fc7d53b00868a93"
    ],
-   "last_success_at": "2026-10-26T08:14:57+00:00",
+   "last_success_at": "2026-10-26T09:00:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T08:14:57+00:00"
+   "last_new_item_at": "2026-10-26T09:00:21+00:00"
   }
  },
  "digest_queue": [
@@ -693,6 +693,15 @@
   },
   {
    "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE81RG1aLWRQM1BNUXdnczFPdWpGa0t5OGprdjU5OXQzRzVfbEtEeDRFTE00cXR3eWdjZ1hESlRlc0hMTGdJT2FrUmZfcFVUbnphcWtJMWI1d3JkLW1oTWlzcGxad3lkSGpDb0MtbWdn?oc=5"
+  },
+  {
+   "text": "Vietnam vyvíjí digitální sportovní platformu, která začleňuje umělou inteligenci do tréninku sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxPOHBkTzBvQU1rTTQ4c0NfaWI3Z0xIc0o2VkVBTDNMeWJJUUNmYy04Q0liU0h3Y0hiR3Z6NGkwT1hna3czQ3ViTk01ZDhNZnBCWGxpZWktTmpPc2t6Z0NpWDRhMmU4MGNObTI2QjhVbGxCY2dpejIzNkY2TmZaYmh4dy1ZdTF6NHhxOWJtZ0xkb1ZOQ2VGTVNxTmlpTTBKOU9NcUY0Tg?oc=5"
+  },
+  {
+   "text": "Podpora kulturních hodnot komunity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE9aT1pEckQ1YXZkUGtYVGVLc0ZMSkg4eVFkbVdxZzl4ZFV2dUJNWWM3SExWSXBuN3Riczkxa1BUZmx2WDM4Tkg5dENVX1VWeS1BRGF5R2YzaklvVG5sdm1JVVF2WDFzalZZeGJBMg?oc=5"
+  },
+  {
+   "text": "Trang bị kiến thức, kỹ năng xây dựng gia đình hạnh phúc - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxOMkVCdkpLV21RN25HaF9qU0pDenFLU1MtdllDWE42SS1jaEZ6T25waFJSQm8wb3JvOXpYcFdUQ01QZ3hWWUJKQnVVS1ZIVzFQSUFPYm9KbTEtUldpWm9MWE04OEFoQ19iVWVMamlHcmhfQXlSNjQtaVBiQ1lJY2dPU1pDaHZ4YkE?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
