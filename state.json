@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T01:35:44+00:00",
+   "last_success_at": "2026-10-26T02:17:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T01:35:44+00:00",
+   "last_success_at": "2026-10-26T02:17:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T01:35:44+00:00",
+   "last_success_at": "2026-10-26T02:17:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,14 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T01:35:44+00:00",
+   "last_success_at": "2026-10-26T02:17:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:355fba638db78f65",
     "news:905542b5b3bd139e",
     "news:7fb57e5b765b5298",
     "news:eac890d6382e31d2",
@@ -581,11 +580,12 @@
     "news:8304bc5167c172e0",
     "news:5d7304c911f0409b",
     "news:97d076c41f911a83",
-    "news:47294867fe2970cd"
+    "news:47294867fe2970cd",
+    "news:ed86ad28bddd5b2b"
    ],
-   "last_success_at": "2026-10-26T01:35:44+00:00",
+   "last_success_at": "2026-10-26T02:17:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-25T23:59:38+00:00"
+   "last_new_item_at": "2026-10-26T02:17:53+00:00"
   }
  },
  "digest_queue": [
@@ -642,6 +642,9 @@
   },
   {
    "text": "Schůze k vypracování plánu na připomenutí 600. výročí vítězství Chi Lăng a Xương Giang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxOOHRLSHNSRW1yVk1BMXBkQlIzcTJOa2Z3Rk1zVDdJZ2VuVG1vcGdfSGdxSkxYSGV3ekdjQ0o0d2p4cWxOYlk3ZGs3U1E2S0FlY2xGOWtTSWotcXRhOGNEMFVkM3VjWk5NRFNKOWdsdUt5RTFTWVpIRXlmM3JodHlGdFFaSkU3R0pfcUxOYVZUM2cxdXZPNTBJT3ZCTFRnNEJSU0pZ?oc=5"
+  },
+  {
+   "text": "Kdy bude vykopána starověká loď Cam An? - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFBtejJaRmZiN3dhNm0yRkhHLWctdEZCVUpyLXQ5NERSVzM0WUhBR0ZGb2ZjWUpqY1ltTW5OZkdjQUJFNHRxQlNJa1Q3bnRTeFZZLTNycUZqbzNiV3M1bXZBeHNGNnVMTE9yQkRjOVpsQW5EdWs?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
