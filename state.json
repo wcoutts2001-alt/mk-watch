@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T10:31:05+00:00",
+   "last_success_at": "2026-10-26T11:21:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T10:31:05+00:00",
+   "last_success_at": "2026-10-26T11:21:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T10:31:05+00:00",
+   "last_success_at": "2026-10-26T11:21:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,18 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T10:31:05+00:00",
+   "last_success_at": "2026-10-26T11:21:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9e43d94fb64b9b3c",
-    "news:81d59cbbc320ff83",
-    "news:18be4bdf025a26b9",
-    "news:8c8fbadc0a14ace6",
-    "news:b2804a28305833b2",
     "news:8bfafc5b9fbb83a5",
     "news:deb6198c897b0539",
     "news:cff430ca3674c704",
@@ -581,11 +576,16 @@
     "news:96479912db47f1e1",
     "news:1ad18bcdab8e5d32",
     "news:fa5126e52c163e9e",
-    "news:fb938fa18566c02b"
+    "news:fb938fa18566c02b",
+    "news:beca461a4965dc8a",
+    "news:05311b5be5da8b0e",
+    "news:7c4def78b9cb72c7",
+    "news:a1ca25d9f5e34ddb",
+    "news:1172e0cb80242c27"
    ],
-   "last_success_at": "2026-10-26T10:31:05+00:00",
+   "last_success_at": "2026-10-26T11:21:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T10:31:05+00:00"
+   "last_new_item_at": "2026-10-26T11:21:12+00:00"
   }
  },
  "digest_queue": [
@@ -738,6 +738,21 @@
   },
   {
    "text": "Policejní klub Hai Phong získal na městském tenisovém turnaji dvě zlaté medaile. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FYSFFiZXd0cWp3VV9kY1lWS3lUbkhoaDdIUEhmdWpyaVZib1EzUm1DalpQNW9QeUFDbEhmRURMVFk0S19BZUVxSVdIYzZlRHJYYlpEb2hFT2dwNW92M2VZMWtWLXZGR3Fici1qRm5YakdzZS1zaEIwdEgxTW13LXJLMTByU3FRa0M0YTF0OXhDSWZPTlNzZVZNUmd0T1lBX0hTOA?oc=5"
+  },
+  {
+   "text": "„Odstupte!“ Herman a Klempíř v ostré přestřelce. D... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDg1Nkhfc05Nb002bm5xSmlCaFE3NUZtU2U4YXJoRkhqV3R2U0g2a0ZzTlVRSGg2c0FvMlM5VWlsR0hodE1TV2RBRHk1bl9yVGhqQmhXdjNxWHJnZFh1Q1Axd0J3MHR5TXBiNnRBZTdwTTJpX04xNkUwZ1BnT000bDQ1X25SYTZfOHlxU3RkcWMyLVJKd2xRcERWYmM4aEZqRU5sRnBGbFY?oc=5"
+  },
+  {
+   "text": "Uvolnění zdrojů a vytvoření nového impulsu pro rozvoj turistického ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxOckkyRTVRVW8zeDJ1S25VWjExMkNTZGZsM2lsYzV1MlZWRkNSOVcxLUF0NTlxZWdyQ2NrRmo5ZVhhcXA4bXdYYWFwVXNPOGFqcnFZdXVabFdIc1ZBYXpWNDhLTXMzSUw4TWdEbFotbE0yWk5yMFgwNlZLM2haM0xmSzBkRFkyTTFTdHlpVXZNYmNsQ1VEbkVuY21Mdw?oc=5"
+  },
+  {
+   "text": "Připraveni na zahajovací ceremoniál „Národní soutěže sólistů a souborů ve hře na tradiční hudební nástroje“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPWEw4VllUZ3ZRVHJ2UUFtN0dWYVVNeUFGRXhQRTc0QUdBSGFhREZWNWpodjNwd1BIRVB2TXBhd2UwRXpTSGZtWlFsQzBCM3dxYWFrMnZUUWw0ZlFYbVVCSmdoZktJV2YzMU5tNnllQjZFVDU5ZFM0R25jVDdVTjBleGczWWdOT3NMY2IzQ19vSWFBVFNkSGU2Y1U0UXg3TlFyUDVCSWQxaw?oc=5"
+  },
+  {
+   "text": "Pokyny pro tiskové aktivity v listopadu a informace o významných kulturních akcích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPTllsMjZJR2RYWmQzU2dJbEU3QnlvUWh4UGNNSlpwSHZTeDVIdzFvZnRBZ0dGMDZWLUhVUHVwSnJ1X25uMG9WVWFRRUFpeFpocDZKdzZESVhCZURTRGd3UkRsSWhOQUdQMkxnOUxpT1lhRjRqV2ZVQkJkSkxOLXR5M1ZHdFlYS1MxQ3ZmbEVQSE5CSzFTejRLQzc0aDB1RURNRVgzSFV3?oc=5"
+  },
+  {
+   "text": "Da Nang: Aspirace na ekologické, chytré pobřežní město a vize pro památky splňující mezinárodní standardy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxQQXpGbTVTVnRXZ0g4akdXb2VDUEJvS09RckNWekd6X2k4akk5aENwQ1hWNVRfUWxzZ0VkOGE1dmpwRmtfZmpMa3FHbFM3dmdlVUpCWkhXRFJrWmN2U1ZDVF91YTBmVVkzWV9CYkhKb0V4TjJ4Vl94c2FYUjVDRksyZXNBR3pETHBOallmUlc4NldEUDNLZG9UaVJ4c3dmZ3pGQUotNTkySUFOdl9zVy1SdmRR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
