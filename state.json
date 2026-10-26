@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T03:43:05+00:00",
+   "last_success_at": "2026-10-26T04:19:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T03:43:05+00:00",
+   "last_success_at": "2026-10-26T04:19:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T03:43:05+00:00",
+   "last_success_at": "2026-10-26T04:19:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,14 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T03:43:05+00:00",
+   "last_success_at": "2026-10-26T04:19:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:88f5bca19f082eb7",
     "news:6893bf15884820f8",
     "news:b9a53ab6c2ec63c1",
     "news:ea4a1ad66bd7c065",
@@ -581,11 +580,12 @@
     "news:af718d92929fdc27",
     "news:bc1d106c18eb5115",
     "news:7c3cfedb34e8bf6c",
-    "news:0f087507f8c5aedb"
+    "news:0f087507f8c5aedb",
+    "news:8a7ad4206f4e6879"
    ],
-   "last_success_at": "2026-10-26T03:43:05+00:00",
+   "last_success_at": "2026-10-26T04:19:06+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T03:43:05+00:00"
+   "last_new_item_at": "2026-10-26T04:19:06+00:00"
   }
  },
  "digest_queue": [
@@ -657,6 +657,9 @@
   },
   {
    "text": "Thai Nguyen si klade za cíl umístit se na Národních sportovních hrách mezi třemi nejlepšími horskými provinciemi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjFERl9uLTNsUm9EczFQMW1zWllGVU13R2JhaVB6ZFdIQk5uczZkQ21VRFBQQ0l4NllZQ3VJZU9XeUpoVTJhM2lMVExwbHBHQTdrRkRLSDkzVV83WHVRZHg2RmZ6ZmR1ZjEwdEJwaExNMUwwcWdUNUpTc2JMa1UybzdzbHhVNmhVbThuVUxMc0M0ZzFBZXJvRDZUbldHdW54ZUZwbkV5TzI?oc=5"
+  },
+  {
+   "text": "Občané zastoupili stát. Na Korzo Národní vybrali třikrát víc, než dalo ministerstvo za čtyři roky - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxQUF90M19lOWxWbzVqNmkyV1lOdGpYbzhVZW55ejNfVUhnZGtESUp1cWRsNEQ0THNFcmd3Z196YWxJa3JsaEE1RDBmR2dCWHhtNUdYc2VsdmxtSjUtQXYwRWJrVVJkdnZ6VUpoc3VqdHk0LUFFdFUzR21qSDhXS29vM2dDbVcyX01CS1dWS2tRLXZKekN5RU1TNV80OWFsSmlOeE9HQVZwQkEwVFE3bXRYM1RXVmoxd3Z6YXc?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
