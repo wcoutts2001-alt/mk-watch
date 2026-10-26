@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T02:17:53+00:00",
+   "last_success_at": "2026-10-26T03:03:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T02:17:53+00:00",
+   "last_success_at": "2026-10-26T03:03:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T02:17:53+00:00",
+   "last_success_at": "2026-10-26T03:03:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,16 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T02:17:53+00:00",
+   "last_success_at": "2026-10-26T03:03:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:905542b5b3bd139e",
-    "news:7fb57e5b765b5298",
-    "news:eac890d6382e31d2",
     "news:f720b93ff10d0347",
     "news:88f5bca19f082eb7",
     "news:6893bf15884820f8",
@@ -581,11 +578,14 @@
     "news:5d7304c911f0409b",
     "news:97d076c41f911a83",
     "news:47294867fe2970cd",
-    "news:ed86ad28bddd5b2b"
+    "news:ed86ad28bddd5b2b",
+    "news:af718d92929fdc27",
+    "news:bc1d106c18eb5115",
+    "news:7c3cfedb34e8bf6c"
    ],
-   "last_success_at": "2026-10-26T02:17:53+00:00",
+   "last_success_at": "2026-10-26T03:03:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T02:17:53+00:00"
+   "last_new_item_at": "2026-10-26T03:03:02+00:00"
   }
  },
  "digest_queue": [
@@ -645,6 +645,15 @@
   },
   {
    "text": "Kdy bude vykopána starověká loď Cam An? - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFBtejJaRmZiN3dhNm0yRkhHLWctdEZCVUpyLXQ5NERSVzM0WUhBR0ZGb2ZjWUpqY1ltTW5OZkdjQUJFNHRxQlNJa1Q3bnRTeFZZLTNycUZqbzNiV3M1bXZBeHNGNnVMTE9yQkRjOVpsQW5EdWs?oc=5"
+  },
+  {
+   "text": "Školení pro zlepšení novinářských dovedností a aplikaci umělé inteligence v médiích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQMXVNUVptY3BkTTJicksySWVhMTNtQ2xDLWpaVFhPc2hKRlR2OWYwTXhLTWZaTi1OLWEtXzljcmdrdmlPakZPajFKbXBJZ2ZBNHFSbm5ra0ozT3IzcWFHM3FVV1NONjgxX0l2a1Q3d1NRLTVETmFEM204VzgyOUs2SV92enVBUnRMd2RlaklZV1V6OXYxckV0M0JJUWt1ckZ1aDlTMENB?oc=5"
+  },
+  {
+   "text": "Druhé zasedání 16. Národního shromáždění: Podpora rozvoje kulturního průmyslu a zpřísnění řízení bezpečnosti potravin. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxQQUtoWXNGV042T0hsRVhHeWdIWEN1OUJYYlRrMFU0b1JjbXZlUnBhU1A3R1Y4Q0FiOVRyRy1rcFE3a1YtZ3BiMy0yTVRQRUdZTnhfMnRxUDd1a3FmYTFQSVQ4bmZzMnJONFQ3UWNNdnUyU2VweVozWi01YmJoNkxQT2VyeFpPVFBZbFVMTDhhSUI4UHluN0R3LWphSzlRMTkxWE9aaUJaSlkyS1dmTTUzZFlLdDhiZjZibmtSS2RnbXpzWDBqTVBkeWFPTktvM1E?oc=5"
+  },
+  {
+   "text": "Rozvoj kulturního průmyslu ve spojení s inovacemi a zachováním tradičních hodnot. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPVjNLOS1VdWNseUZqcEtWdjhDN0UxZ2tTdG4xaTNldFJFdno1czVocVd1VDNfVnQ3RklKTkU5RlR3cU14ZFlMSWVRcHJjcTNmdHU3dDYyTW5EaFNDNDNyUHVySnVhVDJQVDkwazlhNGtuYnFTdTBSYUE1TzVrdFExbWdhZFpnT3kzSDZ4TWNYblFmV0VNY3RmV2FMRmdnR2s3bW5rUy1MSkVwUkg2VndKWVVn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
