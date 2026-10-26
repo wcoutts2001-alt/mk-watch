@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T06:16:54+00:00",
+   "last_success_at": "2026-10-26T07:23:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T06:16:54+00:00",
+   "last_success_at": "2026-10-26T07:23:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T06:16:54+00:00",
+   "last_success_at": "2026-10-26T07:23:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,16 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T06:16:54+00:00",
+   "last_success_at": "2026-10-26T07:23:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cb9a32b6028f9fd6",
-    "news:f005ee6eee07731b",
-    "news:b683ae9ac59635ab",
     "news:2952d9ed08c93a0c",
     "news:f4d5c6c97951e0d1",
     "news:33011d76e6934776",
@@ -581,11 +578,14 @@
     "news:1f665d31712b65ab",
     "news:a3424701938be5c5",
     "news:85f1b50cb46381e3",
-    "news:26dc7e5e68d15780"
+    "news:26dc7e5e68d15780",
+    "news:62fe3188d2040d56",
+    "news:923bdee382e658c9",
+    "news:8766eb6044ebf231"
    ],
-   "last_success_at": "2026-10-26T06:16:54+00:00",
+   "last_success_at": "2026-10-26T07:23:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T06:16:54+00:00"
+   "last_new_item_at": "2026-10-26T07:23:31+00:00"
   }
  },
  "digest_queue": [
@@ -687,6 +687,9 @@
   },
   {
    "text": "Gia Lai vyhlašuje soutěž fotografií a videoklipů s tématem „Barvy Gia Lai – Rozlehlé lesy se dotýkají modrého moře“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxPOHFBaU82Sk1JdUxPNUpsTUZsV19FWFM4ZHpLa0RuQ0x4QWRYek9GdVZMV2pjN0xzd2dkelJqV1BDeWFpM1dhdE5paWp2QTBDeHZnVzFGQ2FaaWlmU09OTDhwbHVXZU9NTlppMERyQXVuNGxVVlk2MFVsYWFEb2Q3U014TGtidDNMbWRyaENfQ2Q2WU5NNlFJSmRBTnBKdVNRRGlZUGZNNFA5T0Zza0Izci1nenJOdDFrclUyNG1WQQ?oc=5"
+  },
+  {
+   "text": "V roce 2026 se v tenisovém turnaji městských klubů Hai Phong zúčastní přes 100 hráčů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQaHNjMFU5Tm9HRzBHYTFJV0VXN0RxUHoxQ2ZZdHVTZXlUcWZSQ0RZRXNsblpBWG42bFdDblRxbkpmSUd1OWR2a2pIM0tVWFBIb185ZmRBVXBmX1JzM2xDOEpoNzR4SzVyTy03ZTVWejl4b3NNTjJqbUZrUjdQcnQ5TE05UlN2bS1KbElsUUVRRVlCUDc3ZThxMFVwVHphYVFUdlp2dW44a0ZZYUFlTFFQRF9DWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
