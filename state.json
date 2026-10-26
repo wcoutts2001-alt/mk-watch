@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T18:28:48+00:00",
+   "last_success_at": "2026-10-26T19:18:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T18:28:48+00:00",
+   "last_success_at": "2026-10-26T19:18:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T18:28:48+00:00",
+   "last_success_at": "2026-10-26T19:18:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,16 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T18:28:48+00:00",
+   "last_success_at": "2026-10-26T19:18:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:88a8b4c96dd75fc9",
-    "news:d840adb3fe280a6f",
-    "news:c923e47af40f0786",
     "news:e9254b7432a22eb5",
     "news:a20d463d8028d480",
     "news:2a6bed320cdcb380",
@@ -582,11 +579,14 @@
     "news:5047b2eaf5b5d1bf",
     "news:2699b4568f3e3d41",
     "news:fa9c6a056e363f5b",
-    "news:4e93d5f2d35feeee"
+    "news:4e93d5f2d35feeee",
+    "news:ac24f01bd54da8ea",
+    "news:1dcd3f96d6bdb470",
+    "news:a8017e9a38799f35"
    ],
-   "last_success_at": "2026-10-26T18:28:48+00:00",
+   "last_success_at": "2026-10-26T19:18:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T18:28:48+00:00"
+   "last_new_item_at": "2026-10-26T19:18:13+00:00"
   }
  },
  "digest_queue": [
@@ -598,6 +598,15 @@
   },
   {
    "text": "To byl zase týden 169: Babiš přichází za Okamurou se seznamem smrti, Hrad je v ohrožení - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPQWxEQWxtVUljQm9zdkhIcjJSdlF6eWtEeGV4TUExbjloUDNXSlZZYllnUHhMa2tXdnd0dTdsVVYxUmp6TkpfQWl6elVXcFhQbFdYMzNFOW1iUjc0dVNUU3BibWQ3T29fdVhoUXlSUGJmcDMwV1J5ZE9oQU9heTE1WUNHRDdBZ2FndnBZOTFRQTFCRGFmTkNSZWtwUXhJQklOSFNLOVFidzhERVNHbUtJcFFR?oc=5"
+  },
+  {
+   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 26. říjnu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQVTdIT1VFU28xQXVsWGZVaThMdXFZZTVEb3gtWEJkeE43NEZJeUJrOHI2NW5iNkl0cUNTWjlFNnZMSzNQQmpTbmUtS3ZGMFBjczlZbTB4cm80RDZZclV4QWVOTG1jNHB6NWx1RnRLblJDNkd1OVJGcVpUNzdiUE5nNHVXaW5BT0N6ZTZ4VmJFUUVRSEx3b0I3MU9n?oc=5"
+  },
+  {
+   "text": "Na Korzo Národní se vybralo 9 milionů. Je to víc, než dalo ministerstvo za tři roky - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQMXRacFlyMXZpN21VdS1WS1VWbG1ZUVJfczRMNUpZaHozRWEtVE56OTJIRld6NXJPLUxVb3FmbndCMHM5VU5CLTNsVmQ5Wkt6ZGhDMnFtTHM3SWpVbTJCT1lYTUxvZ1hrc2FLVklueFZ1aS1CRFpoVmltVmhzRlBGaXBnUkluckZjM01GX3M2cU1Ec0VENG1Kbm80bDZxTGxvclZZbmYzWG5nQ1Bld09BdDg4dm5udnFYMGVyNWhNVE94VE1F?oc=5"
+  },
+  {
+   "text": "Thanh Hoa: První galavečer Sao Mai se konal na náměstí Sam Son Beach. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPbUdKOTF6MnpsSTI1TVZhNzdZNkVwRG92cV9rbEdnNHUxVnBpenVGM2doX0JBY0lia0FwZWVVUGhnR29fTXdqNnFoNXNQSmtXUlU5dDNtd2xubTdBeC16WE8tUzJwcnc4M1RVQzdCcnBYTzh4T3RmajJfUHRMem9MU2JhWHhTck84R3NRU29oZkVsYVRkVENqZFBEWldyMW5jRTQwbE8zUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
