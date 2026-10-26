@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T09:00:21+00:00",
+   "last_success_at": "2026-10-26T09:52:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -50,7 +50,7 @@
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04"
    ],
-   "last_success_at": "2026-10-26T09:00:21+00:00",
+   "last_success_at": "2026-10-26T09:52:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-25T17:08:24+00:00"
   },
@@ -67,7 +67,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T09:00:21+00:00",
+   "last_success_at": "2026-10-26T09:52:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -75,18 +75,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T09:00:21+00:00",
+   "last_success_at": "2026-10-26T09:52:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:bea4d150ec30f481",
-    "news:e90fadc70362e83c",
-    "news:4e233dc68779dc12",
-    "news:b67719bfaf420b02",
-    "news:b5478c2a44dc672a",
     "news:9a59d94a19ec6a5d",
     "news:72004a553dfe126f",
     "news:12b8dc760dd8d170",
@@ -581,11 +576,16 @@
     "news:9bfb927322bbe1bf",
     "news:92911475b9d977b5",
     "news:c418ca33e8e97726",
-    "news:6fc7d53b00868a93"
+    "news:6fc7d53b00868a93",
+    "news:297373c8170ba277",
+    "news:71cca8b2386a9400",
+    "news:2b1a4d5f06f39441",
+    "news:fff9d361e8cd07e5",
+    "news:9705aa371f5b601b"
    ],
-   "last_success_at": "2026-10-26T09:00:21+00:00",
+   "last_success_at": "2026-10-26T09:52:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T09:00:21+00:00"
+   "last_new_item_at": "2026-10-26T09:52:18+00:00"
   }
  },
  "digest_queue": [
@@ -702,6 +702,21 @@
   },
   {
    "text": "Trang bị kiến thức, kỹ năng xây dựng gia đình hạnh phúc - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxOMkVCdkpLV21RN25HaF9qU0pDenFLU1MtdllDWE42SS1jaEZ6T25waFJSQm8wb3JvOXpYcFdUQ01QZ3hWWUJKQnVVS1ZIVzFQSUFPYm9KbTEtUldpWm9MWE04OEFoQ19iVWVMamlHcmhfQXlSNjQtaVBiQ1lJY2dPU1pDaHZ4YkE?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTFB4X0p6Ni1YNVl4UDIxanBOZ09Xb19DdUZ4eVFKQUM4S1BNcHdVbFNRODhYaWd2TGNKY2Q2QlhjdkFaeW04Z3FGYjBZS1lmQXRDRHc5cHpOSlBtRUhZY01EVUo1U19qYWk0R2R4aWhn?oc=5"
+  },
+  {
+   "text": "Hosté Událostí, komentářů týdne probrali možnou změnu financování ČT a ČRo - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPdW42UXNGWk8zT01lZVdBc2JxMzg2cDhqM0VJQVl6Y0Ixd3RwSXFVS2JhZTFfd21CWTcwNFZ4S3dyU3RvMzhDOTlOdkNXd2ItVm92VXkxcElyR3llN0kxb3VPVVdKdUFuRW02TWZOdXhDTjY0Q3QxaG8xek9mcEJZNjhjQUNwZGF2bW5LZHJGUkhHbkVkbklQeHJBQVZzaUxZamxaYl83NlBuWkptVFlSV1ppQzkwTTBuQVhyRENudTBpZw?oc=5"
+  },
+  {
+   "text": "Projekt digitální sportovní platformy si klade za cíl modernizovat manažerské a tréninkové postupy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQSm8tOGlZV3pjaUtDTUNORnNZM0lqSENLeGxNQlVBZk9GWUJQb3hKMldrR0dQaGxCM0ZuUW5HWDE3OU5XSkRFT3pCOUl3c2o5S0U4Q292N082QXpRbDBtdVJCaE1tczlabWYzM0xzVlBraHRPcHhzcE9RNDVtZkE5SGx1UkF5NlNySWQ0clBiS1lfUE5XZUthLUZ5ZW4?oc=5"
+  },
+  {
+   "text": "Kulturní noviny oznamují a zvou mediální partnery na „Čtvrtý ceremoniál udílení národních novinářských cen za rozvoj vietnamské kultury – 2026“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_gFBVV95cUxQWkpSSzgwR3BGMXZnTzFSMzF5ekRHRFBKNGNNcjBvUFJkNVFxQUlucnQyZ0piM1BidUZ3SUFac3YtY1QzSnZidG5Ua0hmbHZ1emVRdlEzQkdTVGpwSktVZkZtODg2UVR3Q2U4YUdWWEpQYjdzbUhRdWhmdmNydVNJUVpHY0VkRVRJczBOR3NPMWdRWndtZkFuSll2ZzhueE1heDhVQmVTbkl6QmREVWdGMUQ4bEpXdmk3bXRXODdlV1FPc0UybHNWQ3Y1OTd3ZTVlcFZSa09JcUdmalhhVWFscjRZMmZsRFFFU1IyZENEejZZS2tkaTZLcGYwWHpmQQ?oc=5"
+  },
+  {
+   "text": "Sedm tenisových klubů bude v roce 2026 soutěžit o pohár „Hai Duong Clean Water“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQWkxzcXhIT3NVTlZYVzc1eFRCX19kYkNReDhKQm00Q2R3NnFmZXRCZ3cwNlBDM29HbldSZ3VhenVqbTk5RU1mY0JncVhSdDQtM21ETEFBVVNVdkdEbE9OYXNkM00zdURTMHNzaDhqVE5wOG5BOHhDd3NMODRmY0JIZXVWcFhoRzBpcnJNV3BPTQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-25"
