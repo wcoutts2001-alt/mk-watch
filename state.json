@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T20:42:52+00:00",
+   "last_success_at": "2026-10-26T21:14:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T20:42:52+00:00",
+   "last_success_at": "2026-10-26T21:14:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T20:42:52+00:00",
+   "last_success_at": "2026-10-26T21:14:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,16 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T20:42:52+00:00",
+   "last_success_at": "2026-10-26T21:14:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a2ec4e26df190a8c",
-    "news:116e6c5722710208",
-    "news:15569a3abe09cd48",
     "news:82c3c1a903efba25",
     "news:381ccd9b57c706c9",
     "news:97ebdbd3222e1ddb",
@@ -582,11 +579,14 @@
     "news:a8017e9a38799f35",
     "news:386ebbbe66e1e0a5",
     "news:ff28824a75809847",
-    "news:7c04b4e516cf2b37"
+    "news:7c04b4e516cf2b37",
+    "news:2e5d3cb37519ece5",
+    "news:07e6d6b4561fe12a",
+    "news:795a3441fc85b5ce"
    ],
-   "last_success_at": "2026-10-26T20:42:52+00:00",
+   "last_success_at": "2026-10-26T21:14:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T20:42:52+00:00"
+   "last_new_item_at": "2026-10-26T21:14:46+00:00"
   }
  },
  "digest_queue": [
@@ -616,6 +616,15 @@
   },
   {
    "text": "Chrám Hung experimentuje s živými performativními uměleckými performancemi a v noci přidává další kulturní zážitky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNeERDZVB0UFBDWXJhMGo5Y0J0ZWF5TnE4ZGVwTDRDSUZWRTQ5aVk3VDlLal81LUF1ZXVUdHVoSGVsbVB5bU5sbmp2V3ZwYjduVTBtM3ZGNnpBblpxQ1A3ZXRaLUNabzctSFFTMHFrakZkalllaURURVFVenFlRXFQQ2V2cDV1Ry1tMG9OQjVGdExublpXT3FWVGltRHVUY3FrSHVn?oc=5"
+  },
+  {
+   "text": "Can Tho: V národním mistrovství v šachu a Go soutěží 312 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxQWC00Sm9RZDkyQWo1ZmtoUlRCRHFUWnZEekd6MDNtN0t6Nl9zTDlZZnk0YzlTX0JJeXczZXY4TFEtNTl6TkpIOWU0Y0JOUW5BOHZJbS1IOFNWNlV4SUhNS0lDZjRuNUxnU25panlPNEFJV2xqRTJTNmJyQWpwZzZVVkFjR2QzMERYRTYyUE5wZ2RjTllWS1JyNjBCX0Q2ZzhVb0E?oc=5"
+  },
+  {
+   "text": "Podpora průlomového a efektivního rozvoje cestovního ruchu v nové éře. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPYjlyNzNJNzVfUFh0UnJkQk5OSHEtdDZJUk1MSHZUVjRkUDNlZmlFT1UzMU45RFQxVHlFX3JTUGFpM3JxaXFiNzhnZEQtb1YydUhaZXZJaUk4TmMtLXoxS09Zam12dXZTSVRBbElzNXh1bTgtQWNBRjBVeGJYMUloay10WnJyQ2gwTWhJeHNUeW5qZw?oc=5"
+  },
+  {
+   "text": "Cesta „Osvěžující spojení“ v Hanoji. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE1zNTluNnhGREtHZ0N0MkZHeHFpNy1qVDhrZ2x2aE9lcHJqYmtKMVUxNFRmdy1hbDBrdl9IOVluQlRiRUJCTEFjX19tOWd2enlVVlJXUkRaQWRQSWJVb0d1UU1CalBmc0Qzb1BXeGRxQzF6MmtSZUVIdE9WVEpGQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
