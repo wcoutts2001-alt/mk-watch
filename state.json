@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-27T16:12:54+00:00",
+   "last_success_at": "2026-10-27T16:57:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -50,11 +50,12 @@
     "facebook:2ef0679cac8ba31e",
     "facebook:84bf967133817b81",
     "facebook:fa5bdebb6c169b04",
-    "facebook:b4d28205356bff18"
+    "facebook:b4d28205356bff18",
+    "facebook:260680631effb955"
    ],
-   "last_success_at": "2026-10-27T16:12:54+00:00",
+   "last_success_at": "2026-10-27T16:57:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T17:11:26+00:00"
+   "last_new_item_at": "2026-10-27T16:57:22+00:00"
   },
   "instagram": {
    "seen": [
@@ -69,7 +70,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T16:12:54+00:00",
+   "last_success_at": "2026-10-27T16:57:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -77,15 +78,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T16:12:54+00:00",
+   "last_success_at": "2026-10-27T16:57:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:1b5ba54c59f83f1d",
-    "news:e9483b4257ef547b",
     "news:52b9ada570c4b4e0",
     "news:43693986bc5b2ec4",
     "news:085de50701fa77e5",
@@ -583,11 +582,13 @@
     "news:66f54e52142d35b8",
     "news:b3b23acd9ef83e26",
     "news:174b7823b92c76be",
-    "news:1c965b21b27726d0"
+    "news:1c965b21b27726d0",
+    "news:85eb8c49ca9399aa",
+    "news:b25d786ccf750707"
    ],
-   "last_success_at": "2026-10-27T16:12:54+00:00",
+   "last_success_at": "2026-10-27T16:57:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T16:12:54+00:00"
+   "last_new_item_at": "2026-10-27T16:57:22+00:00"
   }
  },
  "digest_queue": [
