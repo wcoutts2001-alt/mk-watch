@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T03:14:46+00:00",
+   "last_success_at": "2026-10-27T03:50:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T03:14:46+00:00",
+   "last_success_at": "2026-10-27T03:50:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T03:14:46+00:00",
+   "last_success_at": "2026-10-27T03:50:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,14 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T03:14:46+00:00",
+   "last_success_at": "2026-10-27T03:50:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:4885ba2f686cd01f",
     "news:4d9081c431453e1f",
     "news:60bdfb945822a437",
     "news:35e84db6cff1c1c5",
@@ -582,11 +581,12 @@
     "news:381e027d0c49a873",
     "news:eb158197fa721d74",
     "news:10f75e8fe1ce62d4",
-    "news:6e1d86aa6c92874c"
+    "news:6e1d86aa6c92874c",
+    "news:9cc80fb2ef2a0a60"
    ],
-   "last_success_at": "2026-10-27T03:14:46+00:00",
+   "last_success_at": "2026-10-27T03:50:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T02:40:15+00:00"
+   "last_new_item_at": "2026-10-27T03:50:50+00:00"
   }
  },
  "digest_queue": [
@@ -640,6 +640,9 @@
   },
   {
    "text": "Objevte 30 neocenitelných památek vietnamského dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9VMkJZV2EwbDh0Mzl5TDZqWEZRNHE5emVsUURkdnRSS2FYRlRsUzVqR2liOWJ2QmlMOWtuU0NqWVJqenhlSm9RUldheWsxWDlKY21PRm9EZVdDNVZhSF9fWWFRU3dQTm1mWGZjTkR1d3RNZw?oc=5"
+  },
+  {
+   "text": "Navrhnutí mechanismu pro rozvoj cestovního ruchu v klíčové ekonomické odvětví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPSDZZLVo3ekZSSUNaZjMwaUFPeV8zM05naWVRbVEzbzlyYk9lMHVoREhlTUoxWV9uU2NoTnhyUnJRNkdyRUdTZEZZeEIzdk1NbndpQ1pCUU5Qb1lHZzJOeWoyQ1NIeHVaWElDNV9zYzNjNUpyeEs1UkZOVTFVQ3owRUNjN0ZnN3NNY2hwN2plRExZUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
