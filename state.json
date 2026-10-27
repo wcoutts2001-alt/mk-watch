@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-27T15:27:42+00:00",
+   "last_success_at": "2026-10-27T16:12:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -52,7 +52,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T15:27:42+00:00",
+   "last_success_at": "2026-10-27T16:12:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -69,7 +69,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T15:27:42+00:00",
+   "last_success_at": "2026-10-27T16:12:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -77,16 +77,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T15:27:42+00:00",
+   "last_success_at": "2026-10-27T16:12:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:defb0cfb540e64e9",
-    "news:2af08f0cf33f5d1f",
-    "news:113aa1c5249b6a06",
     "news:1b5ba54c59f83f1d",
     "news:e9483b4257ef547b",
     "news:52b9ada570c4b4e0",
@@ -583,11 +580,14 @@
     "news:fffa34407450cf26",
     "news:55859c579aa8cca2",
     "news:3d98790e9b578dd7",
-    "news:66f54e52142d35b8"
+    "news:66f54e52142d35b8",
+    "news:b3b23acd9ef83e26",
+    "news:174b7823b92c76be",
+    "news:1c965b21b27726d0"
    ],
-   "last_success_at": "2026-10-27T15:27:42+00:00",
+   "last_success_at": "2026-10-27T16:12:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T15:27:42+00:00"
+   "last_new_item_at": "2026-10-27T16:12:54+00:00"
   }
  },
  "digest_queue": [
@@ -680,6 +680,9 @@
   },
   {
    "text": "Mlýnská dolina uzavře sezónu spuštěním hamerních kladiv\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6616cs-mlynska-dolina-uzavre-sezonu-spustenim-hamernich-kladiv"
+  },
+  {
+   "text": "Aby přilákaly turisty, musí být dobré silnice a čisté toalety. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmdLZ0JLZnNPTnR5eEs2d2NWRl9PMG9ubmVZZjJsU0ZxLTZkV0FsZ3g1RFhPMThZdXhzbHJYNW5NdzRtLXhzWWNXN0xlTXg4VjZoMFZmMDZrenFwa2tmaGRCLVkybW9vMkdxNDY2eE5UNXBxSEluZWhKR3BsMzN0QlRMeGpqUTRnNlZz?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
