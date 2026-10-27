@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T02:04:12+00:00",
+   "last_success_at": "2026-10-27T02:40:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T02:04:12+00:00",
+   "last_success_at": "2026-10-27T02:40:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T02:04:12+00:00",
+   "last_success_at": "2026-10-27T02:40:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,15 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T02:04:12+00:00",
+   "last_success_at": "2026-10-27T02:40:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:39caf37aed670376",
-    "news:8104d6f262c5012b",
     "news:4885ba2f686cd01f",
     "news:4d9081c431453e1f",
     "news:60bdfb945822a437",
@@ -582,11 +580,13 @@
     "news:7d5d4d13e10cb631",
     "news:3de493fc54156d66",
     "news:381e027d0c49a873",
-    "news:eb158197fa721d74"
+    "news:eb158197fa721d74",
+    "news:10f75e8fe1ce62d4",
+    "news:6e1d86aa6c92874c"
    ],
-   "last_success_at": "2026-10-27T02:04:12+00:00",
+   "last_success_at": "2026-10-27T02:40:15+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T02:04:12+00:00"
+   "last_new_item_at": "2026-10-27T02:40:15+00:00"
   }
  },
  "digest_queue": [
@@ -634,6 +634,12 @@
   },
   {
    "text": "Seminář o propagaci tradičních kulturních hodnot ve spojení s digitální transformací v oblastech s etnickými menšinami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU0xRDdNX2RIZkdXTXpLVzBzSGRCTkk3empDZWhZeVUzQUdsRm1hLWxEM19QOFJpTVd5Z1ltWG91Z25mNkM0ZlRRbDFWQTI1QTNIYXRZUVRBSEp0S094dzJTZUpuR0I2QWc1UzJLa2wzNUVCY2E1VWhwUGxjdzFYTWhuMC01bFlMWDRMb3RoNFlBMlVPWFd1bi1NUFdlQVl1Z0VWRGpHa1E2dFRkeHNPTjV0a1R6cXBs?oc=5"
+  },
+  {
+   "text": "Poskytování odborného školení v oblasti informací a komunikace pro úředníky na místní úrovni. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOTkcxbHdhaFEtdG8ybGNCdFhLaEdYMldEcEhXbWlBVGd2OFVPaklocGNicnEtcnBRdU1la3phS0FCWWRsQjhvazJ1OW1JM0VrTXVLMUJjbFZ1NjdxS0JKXzFHM0xkTUtBcjhuQkdybGpRMnF6NTc3NjdNUldmc25IOGEweUg3Zno3ckthcGZR?oc=5"
+  },
+  {
+   "text": "Objevte 30 neocenitelných památek vietnamského dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9VMkJZV2EwbDh0Mzl5TDZqWEZRNHE5emVsUURkdnRSS2FYRlRsUzVqR2liOWJ2QmlMOWtuU0NqWVJqenhlSm9RUldheWsxWDlKY21PRm9EZVdDNVZhSF9fWWFRU3dQTm1mWGZjTkR1d3RNZw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
