@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T01:18:53+00:00",
+   "last_success_at": "2026-10-27T02:04:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T01:18:53+00:00",
+   "last_success_at": "2026-10-27T02:04:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T01:18:53+00:00",
+   "last_success_at": "2026-10-27T02:04:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,14 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T01:18:53+00:00",
+   "last_success_at": "2026-10-27T02:04:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:5af960c301a8b072",
     "news:39caf37aed670376",
     "news:8104d6f262c5012b",
     "news:4885ba2f686cd01f",
@@ -582,11 +581,12 @@
     "news:795a3441fc85b5ce",
     "news:7d5d4d13e10cb631",
     "news:3de493fc54156d66",
-    "news:381e027d0c49a873"
+    "news:381e027d0c49a873",
+    "news:eb158197fa721d74"
    ],
-   "last_success_at": "2026-10-27T01:18:53+00:00",
+   "last_success_at": "2026-10-27T02:04:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T00:29:18+00:00"
+   "last_new_item_at": "2026-10-27T02:04:12+00:00"
   }
  },
  "digest_queue": [
@@ -631,6 +631,9 @@
   },
   {
    "text": "Odstranění úzkých míst, uvolnění zdrojů a vytvoření nového impulsu pro rozvoj turistického ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxPSU93cW96NkJ6dF9Ud3lUOU9qQWJjdGNYMThMd1E4LVBueFgxM2E3TXFHMm1pdWdZSGQ5STZOY2VHVndzQ3prZUF6LXFWSGMwRF82WkV4MkFJX2Z0cm1SSEZsVlVBajVGMngtc3ZZOWhmYlNpVzJCVmY2bXpaUElqdVg3VkVua0hpV3dsbmxQQl9TZlZEZUFFLTFRLUg3VDFCWkJ5ekdGWTV6SnRTVTVuQmpfUE0?oc=5"
+  },
+  {
+   "text": "Seminář o propagaci tradičních kulturních hodnot ve spojení s digitální transformací v oblastech s etnickými menšinami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU0xRDdNX2RIZkdXTXpLVzBzSGRCTkk3empDZWhZeVUzQUdsRm1hLWxEM19QOFJpTVd5Z1ltWG91Z25mNkM0ZlRRbDFWQTI1QTNIYXRZUVRBSEp0S094dzJTZUpuR0I2QWc1UzJLa2wzNUVCY2E1VWhwUGxjdzFYTWhuMC01bFlMWDRMb3RoNFlBMlVPWFd1bi1NUFdlQVl1Z0VWRGpHa1E2dFRkeHNPTjV0a1R6cXBs?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
