@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T04:25:01+00:00",
+   "last_success_at": "2026-10-27T05:01:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T04:25:01+00:00",
+   "last_success_at": "2026-10-27T05:01:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T04:25:01+00:00",
+   "last_success_at": "2026-10-27T05:01:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,15 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T04:25:01+00:00",
+   "last_success_at": "2026-10-27T05:01:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:4d9081c431453e1f",
-    "news:60bdfb945822a437",
     "news:35e84db6cff1c1c5",
     "news:0e3489c02ba4bd5c",
     "news:32e747034af468fe",
@@ -582,11 +580,13 @@
     "news:eb158197fa721d74",
     "news:10f75e8fe1ce62d4",
     "news:6e1d86aa6c92874c",
-    "news:9cc80fb2ef2a0a60"
+    "news:9cc80fb2ef2a0a60",
+    "news:234ead818e146177",
+    "news:9b4b1653f2914ee4"
    ],
-   "last_success_at": "2026-10-27T04:25:01+00:00",
+   "last_success_at": "2026-10-27T05:01:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T03:50:50+00:00"
+   "last_new_item_at": "2026-10-27T05:01:21+00:00"
   }
  },
  "digest_queue": [
@@ -643,6 +643,12 @@
   },
   {
    "text": "Navrhnutí mechanismu pro rozvoj cestovního ruchu v klíčové ekonomické odvětví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPSDZZLVo3ekZSSUNaZjMwaUFPeV8zM05naWVRbVEzbzlyYk9lMHVoREhlTUoxWV9uU2NoTnhyUnJRNkdyRUdTZEZZeEIzdk1NbndpQ1pCUU5Qb1lHZzJOeWoyQ1NIeHVaWElDNV9zYzNjNUpyeEs1UkZOVTFVQ3owRUNjN0ZnN3NNY2hwN2plRExZUQ?oc=5"
+  },
+  {
+   "text": "Seminář \"Vybraná témata památkové péče\" - TZB-info\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE5sYm5WSmxxeC1PTXNfSmV2a1g0U1dYdXJtaTRvRm0yTHk0MHZIaWhHUmNJVHpJQWVBSzNhNXY5OUE2dTZncmxKTDdPQ2hJeWg5bWtERmlTRGJLd2FxUXMzTlF3NVRDdjd1NUVLVmhYaGZyY2NXS2R0Q0dkWQ?oc=5"
+  },
+  {
+   "text": "Foto: Požár Orlího hnízda - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiY0FVX3lxTE5lLXdvZV83ZUwxX1NGelQ1NWNRYlo2VnB6ZHVsYkRodktUUVFQUE5kNUIwZTkzdzFfRzlmQU43Qk9VWEZvWTVPSUxzLTZxdWJZYm5kR1FRUUpqb1lLT3hCWUNXMA?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
