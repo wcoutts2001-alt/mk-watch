@@ -24,11 +24,12 @@
     "website:2d1ce073cbcbcdec",
     "website:1eda3337d9d1762a",
     "website:b855ec3af5fa502c",
-    "website:fa03155d05cfeb40"
+    "website:fa03155d05cfeb40",
+    "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-27T14:31:43+00:00",
+   "last_success_at": "2026-10-27T15:27:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-23T10:47:39+00:00"
+   "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
   "facebook": {
    "seen": [
@@ -51,7 +52,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T14:31:43+00:00",
+   "last_success_at": "2026-10-27T15:27:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +69,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T14:31:43+00:00",
+   "last_success_at": "2026-10-27T15:27:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,20 +77,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T14:31:43+00:00",
+   "last_success_at": "2026-10-27T15:27:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:927762e68541a438",
-    "news:256dfd499ad3ffc2",
-    "news:d0e488eb4cce1a28",
-    "news:6c93e1974022b707",
-    "news:a89816592e0acf42",
-    "news:a286003448416718",
-    "news:ff51d46a1ba8143b",
     "news:defb0cfb540e64e9",
     "news:2af08f0cf33f5d1f",
     "news:113aa1c5249b6a06",
@@ -582,11 +576,18 @@
     "news:deb8a21def64b688",
     "news:a2157f1cbf151275",
     "news:4572911a5585484f",
-    "news:3199b77388ff3241"
+    "news:3199b77388ff3241",
+    "news:eb810a6f5ac48032",
+    "news:12cce5860c7a9721",
+    "news:bc9714c6c56d29b8",
+    "news:fffa34407450cf26",
+    "news:55859c579aa8cca2",
+    "news:3d98790e9b578dd7",
+    "news:66f54e52142d35b8"
    ],
-   "last_success_at": "2026-10-27T14:31:43+00:00",
+   "last_success_at": "2026-10-27T15:27:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T14:31:43+00:00"
+   "last_new_item_at": "2026-10-27T15:27:42+00:00"
   }
  },
  "digest_queue": [
@@ -676,6 +677,9 @@
   },
   {
    "text": "„Tohle jste přehnali.“ Milion chvilek poslal vládě ostrý vzkaz - PrahaIN\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE9HYkNtUEpSVkNQSjRJVGtpLWR4OTFuOVY5VkhkUFhsVURCTGhFREZGem1sOWJMNHFwMEc0dml1SGJEbnVRYVh2TWNkdFZkdGJZMG5lVFY0ZWp0d3lSbnB1cXAzTzJxZUl0VkJkbFFCYjJQbWdHeUxSZ1ViU3llZw?oc=5"
+  },
+  {
+   "text": "Mlýnská dolina uzavře sezónu spuštěním hamerních kladiv\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6616cs-mlynska-dolina-uzavre-sezonu-spustenim-hamernich-kladiv"
   }
  ],
  "last_digest_date": "2026-10-26"
