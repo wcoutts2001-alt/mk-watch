@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-27T16:57:22+00:00",
+   "last_success_at": "2026-10-27T17:40:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -53,7 +53,7 @@
     "facebook:b4d28205356bff18",
     "facebook:260680631effb955"
    ],
-   "last_success_at": "2026-10-27T16:57:22+00:00",
+   "last_success_at": "2026-10-27T17:40:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T16:57:22+00:00"
   },
@@ -70,7 +70,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T16:57:22+00:00",
+   "last_success_at": "2026-10-27T17:40:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -78,14 +78,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T16:57:22+00:00",
+   "last_success_at": "2026-10-27T17:40:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:52b9ada570c4b4e0",
     "news:43693986bc5b2ec4",
     "news:085de50701fa77e5",
     "news:1fb9fa1e1637c45a",
@@ -584,107 +583,14 @@
     "news:174b7823b92c76be",
     "news:1c965b21b27726d0",
     "news:85eb8c49ca9399aa",
-    "news:b25d786ccf750707"
+    "news:b25d786ccf750707",
+    "news:f438de3c6ba6a9cc"
    ],
-   "last_success_at": "2026-10-27T16:57:22+00:00",
+   "last_success_at": "2026-10-27T17:40:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T16:57:22+00:00"
+   "last_new_item_at": "2026-10-27T17:40:37+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Stanovení bezpečnostních požadavků pro trénink a soutěže ve wushu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxOb05TX3h5ZDk4TmlIOXFqN2docDhpTjVzNkFJOWZSNGlYcktIR3VjWkFncEowVzFQTkRGcEo4anhBUHZsS2dVb2h6eHJQU1ZYSkFVeFNueUJDVllkbjA5RThNSXBMMDYwd2hQWEUwVFNDRW0tV3FUdnZfa2lEMXdFZ3F4WWItNU5SZ0xZVFQtVFlzZkhlNEVoX3lES2pjSk0?oc=5"
-  },
-  {
-   "text": "Odstranění úzkých míst, uvolnění zdrojů a vytvoření dynamiky pro cestovní ruch. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxNeTJQczVWdHVMdXJ3cUluX2VVNEFpRzhuV1RqdnRwOHpVbmhkTmRiaHlFUm9sNzJvcGtCc09rOFhacDFsSFhMUDhBQjhySHVFa3p1Ti1oNjF4WTJwTmJxanFyS1A2dVU0TV9fSVZUZi05X3F2ejdScGlCSE8zVS10UU9fa3F4aGljeTJPeTktUHFNQzR2?oc=5"
-  },
-  {
-   "text": "To byl zase týden 169: Babiš přichází za Okamurou se seznamem smrti, Hrad je v ohrožení - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPQWxEQWxtVUljQm9zdkhIcjJSdlF6eWtEeGV4TUExbjloUDNXSlZZYllnUHhMa2tXdnd0dTdsVVYxUmp6TkpfQWl6elVXcFhQbFdYMzNFOW1iUjc0dVNUU3BibWQ3T29fdVhoUXlSUGJmcDMwV1J5ZE9oQU9heTE1WUNHRDdBZ2FndnBZOTFRQTFCRGFmTkNSZWtwUXhJQklOSFNLOVFidzhERVNHbUtJcFFR?oc=5"
-  },
-  {
-   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 26. říjnu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQVTdIT1VFU28xQXVsWGZVaThMdXFZZTVEb3gtWEJkeE43NEZJeUJrOHI2NW5iNkl0cUNTWjlFNnZMSzNQQmpTbmUtS3ZGMFBjczlZbTB4cm80RDZZclV4QWVOTG1jNHB6NWx1RnRLblJDNkd1OVJGcVpUNzdiUE5nNHVXaW5BT0N6ZTZ4VmJFUUVRSEx3b0I3MU9n?oc=5"
-  },
-  {
-   "text": "Na Korzo Národní se vybralo 9 milionů. Je to víc, než dalo ministerstvo za tři roky - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQMXRacFlyMXZpN21VdS1WS1VWbG1ZUVJfczRMNUpZaHozRWEtVE56OTJIRld6NXJPLUxVb3FmbndCMHM5VU5CLTNsVmQ5Wkt6ZGhDMnFtTHM3SWpVbTJCT1lYTUxvZ1hrc2FLVklueFZ1aS1CRFpoVmltVmhzRlBGaXBnUkluckZjM01GX3M2cU1Ec0VENG1Kbm80bDZxTGxvclZZbmYzWG5nQ1Bld09BdDg4dm5udnFYMGVyNWhNVE94VE1F?oc=5"
-  },
-  {
-   "text": "Thanh Hoa: První galavečer Sao Mai se konal na náměstí Sam Son Beach. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPbUdKOTF6MnpsSTI1TVZhNzdZNkVwRG92cV9rbEdnNHUxVnBpenVGM2doX0JBY0lia0FwZWVVUGhnR29fTXdqNnFoNXNQSmtXUlU5dDNtd2xubTdBeC16WE8tUzJwcnc4M1RVQzdCcnBYTzh4T3RmajJfUHRMem9MU2JhWHhTck84R3NRU29oZkVsYVRkVENqZFBEWldyMW5jRTQwbE8zUQ?oc=5"
-  },
-  {
-   "text": "Nekuřácké prostředí – měřítkem kvalitních ubytovacích služeb. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPZDFDYVVCLU1MRmVJMWdLV01sV1JnYWxDbFVxVk5ZbldfRXdwcFBsd2J5Z3IyeHpWbmJvSl9aRks4bWsyNE51dmwwLV80a0RSTGRuSXJXVjg5SmlXU1lmeFhMNHU5ZTVtOENDWF9yV1VYdUVrYVB4bXd4ZmI1cERCNTdST3I?oc=5"
-  },
-  {
-   "text": "Probíhají přípravy na organizaci Týdne kultury národní jednoty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1p6SHdUZVJtSmUwdVpPQzRHNUROMDVNYkFPYXBJUGR3b3YtZVF6Q0tqNUJoYU5jcC1EeFBtaDlwS0h0blhIWllaaWU0WHdQaEZnTFZ4aHhoQ1JrRERlWDhpRDlUQlZpdEFFT1NCeFFjbVQxVXJlZ2VLcjVxVFMxSkJB?oc=5"
-  },
-  {
-   "text": "Chrám Hung experimentuje s živými performativními uměleckými performancemi a v noci přidává další kulturní zážitky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNeERDZVB0UFBDWXJhMGo5Y0J0ZWF5TnE4ZGVwTDRDSUZWRTQ5aVk3VDlLal81LUF1ZXVUdHVoSGVsbVB5bU5sbmp2V3ZwYjduVTBtM3ZGNnpBblpxQ1A3ZXRaLUNabzctSFFTMHFrakZkalllaURURVFVenFlRXFQQ2V2cDV1Ry1tMG9OQjVGdExublpXT3FWVGltRHVUY3FrSHVn?oc=5"
-  },
-  {
-   "text": "Can Tho: V národním mistrovství v šachu a Go soutěží 312 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxQWC00Sm9RZDkyQWo1ZmtoUlRCRHFUWnZEekd6MDNtN0t6Nl9zTDlZZnk0YzlTX0JJeXczZXY4TFEtNTl6TkpIOWU0Y0JOUW5BOHZJbS1IOFNWNlV4SUhNS0lDZjRuNUxnU25panlPNEFJV2xqRTJTNmJyQWpwZzZVVkFjR2QzMERYRTYyUE5wZ2RjTllWS1JyNjBCX0Q2ZzhVb0E?oc=5"
-  },
-  {
-   "text": "Podpora průlomového a efektivního rozvoje cestovního ruchu v nové éře. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPYjlyNzNJNzVfUFh0UnJkQk5OSHEtdDZJUk1MSHZUVjRkUDNlZmlFT1UzMU45RFQxVHlFX3JTUGFpM3JxaXFiNzhnZEQtb1YydUhaZXZJaUk4TmMtLXoxS09Zam12dXZTSVRBbElzNXh1bTgtQWNBRjBVeGJYMUloay10WnJyQ2gwTWhJeHNUeW5qZw?oc=5"
-  },
-  {
-   "text": "Cesta „Osvěžující spojení“ v Hanoji. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE1zNTluNnhGREtHZ0N0MkZHeHFpNy1qVDhrZ2x2aE9lcHJqYmtKMVUxNFRmdy1hbDBrdl9IOVluQlRiRUJCTEFjX19tOWd2enlVVlJXUkRaQWRQSWJVb0d1UU1CalBmc0Qzb1BXeGRxQzF6MmtSZUVIdE9WVEpGQQ?oc=5"
-  },
-  {
-   "text": "Hlavní cenu Grand Prix Architektů – Národní cenu za architekturu letos získala Horácká multifunkční aréna v Jihlavě - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNWNuQTJRZHJNaGZRdlRlQ240V3R4enZJdEVET2o0UzBDdWZSQ1lWMmpHZHNGUkJMaDFsUTFGV21FeUE3TDZDa2xsQXhOYVlNZUF2Sg?oc=5"
-  },
-  {
-   "text": "Odstranění úzkých míst, uvolnění zdrojů a vytvoření nového impulsu pro rozvoj turistického ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxPSU93cW96NkJ6dF9Ud3lUOU9qQWJjdGNYMThMd1E4LVBueFgxM2E3TXFHMm1pdWdZSGQ5STZOY2VHVndzQ3prZUF6LXFWSGMwRF82WkV4MkFJX2Z0cm1SSEZsVlVBajVGMngtc3ZZOWhmYlNpVzJCVmY2bXpaUElqdVg3VkVua0hpV3dsbmxQQl9TZlZEZUFFLTFRLUg3VDFCWkJ5ekdGWTV6SnRTVTVuQmpfUE0?oc=5"
-  },
-  {
-   "text": "Seminář o propagaci tradičních kulturních hodnot ve spojení s digitální transformací v oblastech s etnickými menšinami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU0xRDdNX2RIZkdXTXpLVzBzSGRCTkk3empDZWhZeVUzQUdsRm1hLWxEM19QOFJpTVd5Z1ltWG91Z25mNkM0ZlRRbDFWQTI1QTNIYXRZUVRBSEp0S094dzJTZUpuR0I2QWc1UzJLa2wzNUVCY2E1VWhwUGxjdzFYTWhuMC01bFlMWDRMb3RoNFlBMlVPWFd1bi1NUFdlQVl1Z0VWRGpHa1E2dFRkeHNPTjV0a1R6cXBs?oc=5"
-  },
-  {
-   "text": "Poskytování odborného školení v oblasti informací a komunikace pro úředníky na místní úrovni. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOTkcxbHdhaFEtdG8ybGNCdFhLaEdYMldEcEhXbWlBVGd2OFVPaklocGNicnEtcnBRdU1la3phS0FCWWRsQjhvazJ1OW1JM0VrTXVLMUJjbFZ1NjdxS0JKXzFHM0xkTUtBcjhuQkdybGpRMnF6NTc3NjdNUldmc25IOGEweUg3Zno3ckthcGZR?oc=5"
-  },
-  {
-   "text": "Objevte 30 neocenitelných památek vietnamského dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9VMkJZV2EwbDh0Mzl5TDZqWEZRNHE5emVsUURkdnRSS2FYRlRsUzVqR2liOWJ2QmlMOWtuU0NqWVJqenhlSm9RUldheWsxWDlKY21PRm9EZVdDNVZhSF9fWWFRU3dQTm1mWGZjTkR1d3RNZw?oc=5"
-  },
-  {
-   "text": "Navrhnutí mechanismu pro rozvoj cestovního ruchu v klíčové ekonomické odvětví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPSDZZLVo3ekZSSUNaZjMwaUFPeV8zM05naWVRbVEzbzlyYk9lMHVoREhlTUoxWV9uU2NoTnhyUnJRNkdyRUdTZEZZeEIzdk1NbndpQ1pCUU5Qb1lHZzJOeWoyQ1NIeHVaWElDNV9zYzNjNUpyeEs1UkZOVTFVQ3owRUNjN0ZnN3NNY2hwN2plRExZUQ?oc=5"
-  },
-  {
-   "text": "Seminář \"Vybraná témata památkové péče\" - TZB-info\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE5sYm5WSmxxeC1PTXNfSmV2a1g0U1dYdXJtaTRvRm0yTHk0MHZIaWhHUmNJVHpJQWVBSzNhNXY5OUE2dTZncmxKTDdPQ2hJeWg5bWtERmlTRGJLd2FxUXMzTlF3NVRDdjd1NUVLVmhYaGZyY2NXS2R0Q0dkWQ?oc=5"
-  },
-  {
-   "text": "Foto: Požár Orlího hnízda - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiY0FVX3lxTE5lLXdvZV83ZUwxX1NGelQ1NWNRYlo2VnB6ZHVsYkRodktUUVFQUE5kNUIwZTkzdzFfRzlmQU43Qk9VWEZvWTVPSUxzLTZxdWJZYm5kR1FRUUpqb1lLT3hCWUNXMA?oc=5"
-  },
-  {
-   "text": "Vypracovat průlomové politiky a bezprecedentní pobídky pro cestovní ruch. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOUnoxb0p2dkJsQVhSdUFCWHhHOHpmZjY1SmpTdXk4TzM4aVVuWmxBVWJnWWNqcW8wNlJGdWF1RE1KMHRRWmRSQy1jOUFRNk1NX3RHZElIanBpTVlFQ0M1TVdJS0lUQnlOaktWUEZTZnZNOFM2LUEybDFzdTlIRDJQVjI2N09xWllkWXBHTmRMUDZkT2FWTkdUdA?oc=5"
-  },
-  {
-   "text": "Thai Nguyen vysílá svůj tým k účasti na 10. národních sportovních hrách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNT1ptNkJUdVFaMHZvVmxFcGZSbzRUcHo5YkJEbTctdE9Pbzc5UUtweXNHNC1iZU40cDlNdl9pSzBBRF91REM1WUpWdnFySVBfNE5Zb2hUdnZ5TWpJaUJoVTVGSnlPVjRvLTR2VnRST2hsazhjellqY0NIbDM4a1hORko3enAzbldtMVZfSGd3OVVkXzRZeEkw?oc=5"
-  },
-  {
-   "text": "Hotely bez kouření: Ochrana zdraví a zvyšování kvality ubytovacích služeb. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFVTM1d5dVBmRjd2UmJKV0ZHUU50VGlEY2RtUkRzUGVRc0lha3UyanlXMWtlTTBoaGRwRWVqMHk1a0x5QWthdVFMWkdWeE5qVWZnTk9yTEZJSjNBcGlaSmxHRmZWNnl6dFU1UGJhaHFmNlZaR0ZSYkI0eVpxa2QtMXpmZVA3TmxZdXJrUF91aWZqdV9lb3VlT0FmdkJ6MUdPQUtjQ0RrR2Q?oc=5"
-  },
-  {
-   "text": "Leoš Kyša. Armáda hádajících se „debílků“, nešťastný Ota Klempíř, konec zlatých časů a děti připravované na přežití - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5wFBVV95cUxQRmdObGhIMHhzR205cXpQVTFzb2c5cm1sREk5cGR0R0dtd3plSUl3MkNpdHBFdHVLdFE1N2drZXdsX3djNWU1NlN1VDh4cDdVZDdJSDRZTGR6ZlJzQ0pHaE5sMWJvVG5iUmZCdzI3eXhXdUx1SVg5SHZTejdLQlI0VDNqd0gtY21JQVZGeXlvdTNSazVMNVJQNDNyQTFhM1FJci1tSG8wazlRTjdzUGJ1c0dPaWI5a0Fka3B4b1ZOZHAzM2ptUlF4b3J0a3RZMGNxWG9jX2Jic3Q0aFVUQi1xNVM0ZUJWckE?oc=5"
-  },
-  {
-   "text": "Ha Tinh posiluje rozvoj turistických produktů spojených se zážitkovými aktivitami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxPbHZDVWR4b2dlbmRURFNhcGpITkRiYkI1LVU1c1g2MFNtOTgxTEFDWDNoR0hZRmRKSjFVcnZOXzNJOVNnUjNQcmEzc3o0RE1aS2hNOGxDVUI5alJvQmxxN3MxV293VloxQUl6eDA1dDBaWXVzbTl2X2ZOZVRwR2dqakJKa0ZDSDFSeXNJbmlwdE52RjZUS2VR?oc=5"
-  },
-  {
-   "text": "Měsíce nic, teď jde proti všem. Proč se Klempíř pustil do ostřelování kultury - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmZZSXh5ZXhPbEFsUG41TmZDc0Fib1NVM0FXb2J0TjEzODlXaEd4VTFJdjQzR2tadWwtZFlmQ21ycVZ3RUcwdnprWFpHdjRGMC1UVk5ReVVqUnQ4UXBXbzRLMmFGYW1tSy0wQmI5SGI5cVlkM1ZyUEhndUtVZXhwcldvbjczOTZMX0Nhd3I5VFdvSmxmTTJZV2QxQ0RJSGRES3U5WXpyVGM0b3MxVzh2SmxoV3UxdTg2SnhxM2NWNGdoRV9LX19RSUstUWJ5MTlMdlhFOTl5TDdtUQ?oc=5"
-  },
-  {
-   "text": "Měsíce nic, teď jde proti všem. Proč se Klempíř pustil do ostřelování kultury - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2VOWWhPMXBCeDBzMi1DNDN2eVpzNkxGUEJrbkNGdE1TOXpqQ2x2SGswUFBHdmQyMEFuNTFhR1dWRzBzbklEYml5X19iSFExdFM4ZURuZmpBbEo5VHZlcm44aFB2R1dEUERXbDc0OTdsTnd2NTBrQ3VsN1RBc1hOMjdVODlacFVfU2NLVGp1bXFkNkJHWHNRSEJsT1JvS0RPUlJ1X3JRcHAxVGNQd3ZSeUVwSG5aMVlLc3RYYzl3aGhEX2s?oc=5"
-  },
-  {
-   "text": "Měkká síla Vietnamu: Od kulturního potenciálu ke strategickým zdrojům pro komplexní zahraniční politiku - Oddělení mezinárodní spolupráce - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFljN1BrMXh0V2syUTM3VlVSNUdvS0NhU0MxTmR3cnlGUjl2RXY3emVyb043V2NNbndmdjYtTlFFNUFUT3hPdzhoaTRKTVROMUh2Zmk5WV8xdkVzXzY3OE40RzNyR1N3QVRqQnNlOVBDVFBtTUdRMzZySUlUelRkdWlkaGxkWTUwWVprSmxIV1hIX3FIb29NNHZhaEVJb2lDT0swMTd2X2JEZjRUTWxHSHFOMG9oRUZ5cWFCbWtsQzhaUVJzYTR4STczWGl4VnJEbHBB?oc=5"
-  },
-  {
-   "text": "„Tohle jste přehnali.“ Milion chvilek poslal vládě ostrý vzkaz - PrahaIN\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE9HYkNtUEpSVkNQSjRJVGtpLWR4OTFuOVY5VkhkUFhsVURCTGhFREZGem1sOWJMNHFwMEc0dml1SGJEbnVRYVh2TWNkdFZkdGJZMG5lVFY0ZWp0d3lSbnB1cXAzTzJxZUl0VkJkbFFCYjJQbWdHeUxSZ1ViU3llZw?oc=5"
-  },
-  {
-   "text": "Mlýnská dolina uzavře sezónu spuštěním hamerních kladiv\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6616cs-mlynska-dolina-uzavre-sezonu-spustenim-hamernich-kladiv"
-  },
-  {
-   "text": "Aby přilákaly turisty, musí být dobré silnice a čisté toalety. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmdLZ0JLZnNPTnR5eEs2d2NWRl9PMG9ubmVZZjJsU0ZxLTZkV0FsZ3g1RFhPMThZdXhzbHJYNW5NdzRtLXhzWWNXN0xlTXg4VjZoMFZmMDZrenFwa2tmaGRCLVkybW9vMkdxNDY2eE5UNXBxSEluZWhKR3BsMzN0QlRMeGpqUTRnNlZz?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-26"
+ "digest_queue": [],
+ "last_digest_date": "2026-10-27"
 }
