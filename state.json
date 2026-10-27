@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T13:42:21+00:00",
+   "last_success_at": "2026-10-27T14:31:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T13:42:21+00:00",
+   "last_success_at": "2026-10-27T14:31:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T13:42:21+00:00",
+   "last_success_at": "2026-10-27T14:31:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,18 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T13:42:21+00:00",
+   "last_success_at": "2026-10-27T14:31:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ae287b2f0b18cd1c",
-    "news:462ea228c841800f",
-    "news:8ca86b7f02e69321",
-    "news:56c58154af419c48",
-    "news:82cc8d329e279ef7",
     "news:927762e68541a438",
     "news:256dfd499ad3ffc2",
     "news:d0e488eb4cce1a28",
@@ -582,11 +577,16 @@
     "news:877743924c101693",
     "news:3fe323cd34593b99",
     "news:920a31144eb33e4a",
-    "news:a5375e02a27550fb"
+    "news:a5375e02a27550fb",
+    "news:ddd9905a245064ef",
+    "news:deb8a21def64b688",
+    "news:a2157f1cbf151275",
+    "news:4572911a5585484f",
+    "news:3199b77388ff3241"
    ],
-   "last_success_at": "2026-10-27T13:42:21+00:00",
+   "last_success_at": "2026-10-27T14:31:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T13:42:21+00:00"
+   "last_new_item_at": "2026-10-27T14:31:43+00:00"
   }
  },
  "digest_queue": [
