@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T11:27:12+00:00",
+   "last_success_at": "2026-10-27T12:04:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T11:27:12+00:00",
+   "last_success_at": "2026-10-27T12:04:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T11:27:12+00:00",
+   "last_success_at": "2026-10-27T12:04:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,15 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T11:27:12+00:00",
+   "last_success_at": "2026-10-27T12:04:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:55c0f8bbf2159963",
-    "news:9f14a94b8904d564",
     "news:412516a0fbb4b97a",
     "news:acdd31a38fb7bcaa",
     "news:afc72a09c0124671",
@@ -582,11 +580,13 @@
     "news:7cdcef73ae5b8941",
     "news:7b4c850ab6471bad",
     "news:56bd2a022ec79cd1",
-    "news:9153f0305443e219"
+    "news:9153f0305443e219",
+    "news:29c0338c444d2baf",
+    "news:de74bd5ab26eb7fc"
    ],
-   "last_success_at": "2026-10-27T11:27:12+00:00",
+   "last_success_at": "2026-10-27T12:04:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T11:27:12+00:00"
+   "last_new_item_at": "2026-10-27T12:04:22+00:00"
   }
  },
  "digest_queue": [
@@ -673,6 +673,9 @@
   },
   {
    "text": "Měkká síla Vietnamu: Od kulturního potenciálu ke strategickým zdrojům pro komplexní zahraniční politiku - Oddělení mezinárodní spolupráce - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFljN1BrMXh0V2syUTM3VlVSNUdvS0NhU0MxTmR3cnlGUjl2RXY3emVyb043V2NNbndmdjYtTlFFNUFUT3hPdzhoaTRKTVROMUh2Zmk5WV8xdkVzXzY3OE40RzNyR1N3QVRqQnNlOVBDVFBtTUdRMzZySUlUelRkdWlkaGxkWTUwWVprSmxIV1hIX3FIb29NNHZhaEVJb2lDT0swMTd2X2JEZjRUTWxHSHFOMG9oRUZ5cWFCbWtsQzhaUVJzYTR4STczWGl4VnJEbHBB?oc=5"
+  },
+  {
+   "text": "„Tohle jste přehnali.“ Milion chvilek poslal vládě ostrý vzkaz - PrahaIN\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE9HYkNtUEpSVkNQSjRJVGtpLWR4OTFuOVY5VkhkUFhsVURCTGhFREZGem1sOWJMNHFwMEc0dml1SGJEbnVRYVh2TWNkdFZkdGJZMG5lVFY0ZWp0d3lSbnB1cXAzTzJxZUl0VkJkbFFCYjJQbWdHeUxSZ1ViU3llZw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
