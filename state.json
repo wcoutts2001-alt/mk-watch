@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T09:29:29+00:00",
+   "last_success_at": "2026-10-27T10:12:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T09:29:29+00:00",
+   "last_success_at": "2026-10-27T10:12:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T09:29:29+00:00",
+   "last_success_at": "2026-10-27T10:12:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,17 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T09:29:29+00:00",
+   "last_success_at": "2026-10-27T10:12:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:522f54331ee86cde",
-    "news:178ad432690054b8",
-    "news:ce686c6369d2808e",
-    "news:5633b22da5567805",
     "news:5be68ab3389fdddb",
     "news:803fd8f6231f0fd6",
     "news:55c0f8bbf2159963",
@@ -582,11 +578,15 @@
     "news:5ae36121a9e54f99",
     "news:4686f600b29d504b",
     "news:92fcf2e68990232f",
-    "news:6c86cc7648aec11c"
+    "news:6c86cc7648aec11c",
+    "news:e6349e3bbc8e7557",
+    "news:d67143d883dd86a3",
+    "news:7cdcef73ae5b8941",
+    "news:7b4c850ab6471bad"
    ],
-   "last_success_at": "2026-10-27T09:29:29+00:00",
+   "last_success_at": "2026-10-27T10:12:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T09:29:29+00:00"
+   "last_new_item_at": "2026-10-27T10:12:31+00:00"
   }
  },
  "digest_queue": [
@@ -664,6 +664,12 @@
   },
   {
    "text": "Ha Tinh posiluje rozvoj turistických produktů spojených se zážitkovými aktivitami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxPbHZDVWR4b2dlbmRURFNhcGpITkRiYkI1LVU1c1g2MFNtOTgxTEFDWDNoR0hZRmRKSjFVcnZOXzNJOVNnUjNQcmEzc3o0RE1aS2hNOGxDVUI5alJvQmxxN3MxV293VloxQUl6eDA1dDBaWXVzbTl2X2ZOZVRwR2dqakJKa0ZDSDFSeXNJbmlwdE52RjZUS2VR?oc=5"
+  },
+  {
+   "text": "Měsíce nic, teď jde proti všem. Proč se Klempíř pustil do ostřelování kultury - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmZZSXh5ZXhPbEFsUG41TmZDc0Fib1NVM0FXb2J0TjEzODlXaEd4VTFJdjQzR2tadWwtZFlmQ21ycVZ3RUcwdnprWFpHdjRGMC1UVk5ReVVqUnQ4UXBXbzRLMmFGYW1tSy0wQmI5SGI5cVlkM1ZyUEhndUtVZXhwcldvbjczOTZMX0Nhd3I5VFdvSmxmTTJZV2QxQ0RJSGRES3U5WXpyVGM0b3MxVzh2SmxoV3UxdTg2SnhxM2NWNGdoRV9LX19RSUstUWJ5MTlMdlhFOTl5TDdtUQ?oc=5"
+  },
+  {
+   "text": "Měsíce nic, teď jde proti všem. Proč se Klempíř pustil do ostřelování kultury - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2VOWWhPMXBCeDBzMi1DNDN2eVpzNkxGUEJrbkNGdE1TOXpqQ2x2SGswUFBHdmQyMEFuNTFhR1dWRzBzbklEYml5X19iSFExdFM4ZURuZmpBbEo5VHZlcm44aFB2R1dEUERXbDc0OTdsTnd2NTBrQ3VsN1RBc1hOMjdVODlacFVfU2NLVGp1bXFkNkJHWHNRSEJsT1JvS0RPUlJ1X3JRcHAxVGNQd3ZSeUVwSG5aMVlLc3RYYzl3aGhEX2s?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
