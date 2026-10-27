@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-27T19:52:36+00:00",
+   "last_success_at": "2026-10-27T20:27:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -53,7 +53,7 @@
     "facebook:b4d28205356bff18",
     "facebook:260680631effb955"
    ],
-   "last_success_at": "2026-10-27T19:52:36+00:00",
+   "last_success_at": "2026-10-27T20:27:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T16:57:22+00:00"
   },
@@ -70,7 +70,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T19:52:36+00:00",
+   "last_success_at": "2026-10-27T20:27:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -78,14 +78,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T19:52:36+00:00",
+   "last_success_at": "2026-10-27T20:27:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:5bb4a995b5594316",
     "news:77b742985ab7e3ff",
     "news:ab2ae10f3661bc70",
     "news:5040a1972babebf3",
@@ -584,16 +583,20 @@
     "news:7e840b2ad4460076",
     "news:f94ce564784f0cc7",
     "news:541bf4bf570d7f7f",
-    "news:de176984ecfdb58d"
+    "news:de176984ecfdb58d",
+    "news:2488096aee4e606c"
    ],
-   "last_success_at": "2026-10-27T19:52:36+00:00",
+   "last_success_at": "2026-10-27T20:27:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T19:52:36+00:00"
+   "last_new_item_at": "2026-10-27T20:27:31+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Klempíř se přepočítal aneb Večerníčkové vyhlašují 28.10. v 11.55 slušnou neposlušnost - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxOSnpsLTU5TzZyNEtXMEFlR2JOcmFPUktRSmxnWk9DNUV4YmVYOHc5Zms0Vi1zZ3gtQzZ2b1NUa3Q1UnZkQzVVSmVOMEZ1WElCMDdEcHU5UG1LdldPN2c4Szk5MmNFYkYxQ0EtU3diNDV5V0w2Uk5PUy1ndlc4ME15el9aeHRzY0t1TDNJT3hrWlZ2a0dhY2FOcUU1bTgzUHNPaVZJVWhQY0lsR2RRbklWNnBReEp1VEdLSGIzVTFPNjVBbWRtaWZBVnBLTFdLaWM?oc=5"
+  },
+  {
+   "text": "Petr Dvořák končí v čele fondu audiovize kvůli sporu o úspory - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOaFlsNEhkLW9BckE4MDB4ZEhvV2t5ZjRHOW8zREc1TXl4MmtMTXhCOEtjYmliRFd5TlRWQVE5S2N2SEZXYTFtSk9SQXplOVB6VXNBZy1TZ2VyYUJ6VHBIeWlzSFg0OUFTc0pIN3duel9oMEwtR2hTUms1OTBwT2tmdmtjR2UybUFFaG54ZU50YUQ4d2Raa1NMVjBDUGp0dUtBYVVuRW1oSWRLZHFJdzdmdFZWS2xQUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-27"
