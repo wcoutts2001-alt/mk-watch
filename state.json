@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-26T23:57:35+00:00",
+   "last_success_at": "2026-10-27T00:29:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-26T23:57:35+00:00",
+   "last_success_at": "2026-10-27T00:29:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-26T23:57:35+00:00",
+   "last_success_at": "2026-10-27T00:29:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,14 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-26T23:57:35+00:00",
+   "last_success_at": "2026-10-27T00:29:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:97ebdbd3222e1ddb",
     "news:5af960c301a8b072",
     "news:39caf37aed670376",
     "news:8104d6f262c5012b",
@@ -582,11 +581,12 @@
     "news:07e6d6b4561fe12a",
     "news:795a3441fc85b5ce",
     "news:7d5d4d13e10cb631",
-    "news:3de493fc54156d66"
+    "news:3de493fc54156d66",
+    "news:381e027d0c49a873"
    ],
-   "last_success_at": "2026-10-26T23:57:35+00:00",
+   "last_success_at": "2026-10-27T00:29:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-26T23:57:35+00:00"
+   "last_new_item_at": "2026-10-27T00:29:18+00:00"
   }
  },
  "digest_queue": [
@@ -628,6 +628,9 @@
   },
   {
    "text": "Hlavní cenu Grand Prix Architektů – Národní cenu za architekturu letos získala Horácká multifunkční aréna v Jihlavě - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNWNuQTJRZHJNaGZRdlRlQ240V3R4enZJdEVET2o0UzBDdWZSQ1lWMmpHZHNGUkJMaDFsUTFGV21FeUE3TDZDa2xsQXhOYVlNZUF2Sg?oc=5"
+  },
+  {
+   "text": "Odstranění úzkých míst, uvolnění zdrojů a vytvoření nového impulsu pro rozvoj turistického ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxPSU93cW96NkJ6dF9Ud3lUOU9qQWJjdGNYMThMd1E4LVBueFgxM2E3TXFHMm1pdWdZSGQ5STZOY2VHVndzQ3prZUF6LXFWSGMwRF82WkV4MkFJX2Z0cm1SSEZsVlVBajVGMngtc3ZZOWhmYlNpVzJCVmY2bXpaUElqdVg3VkVua0hpV3dsbmxQQl9TZlZEZUFFLTFRLUg3VDFCWkJ5ekdGWTV6SnRTVTVuQmpfUE0?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
