@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T08:50:02+00:00",
+   "last_success_at": "2026-10-27T09:29:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T08:50:02+00:00",
+   "last_success_at": "2026-10-27T09:29:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T08:50:02+00:00",
+   "last_success_at": "2026-10-27T09:29:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,16 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T08:50:02+00:00",
+   "last_success_at": "2026-10-27T09:29:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6bd4a4c6e531f8ae",
-    "news:c736a45ae7437d86",
-    "news:f1595a35f6d664b0",
     "news:522f54331ee86cde",
     "news:178ad432690054b8",
     "news:ce686c6369d2808e",
@@ -582,11 +579,14 @@
     "news:feb5cd269beb3737",
     "news:2b7c187274bfee58",
     "news:15a195941a57c618",
-    "news:5ae36121a9e54f99"
+    "news:5ae36121a9e54f99",
+    "news:4686f600b29d504b",
+    "news:92fcf2e68990232f",
+    "news:6c86cc7648aec11c"
    ],
-   "last_success_at": "2026-10-27T08:50:02+00:00",
+   "last_success_at": "2026-10-27T09:29:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T08:09:38+00:00"
+   "last_new_item_at": "2026-10-27T09:29:29+00:00"
   }
  },
  "digest_queue": [
@@ -658,6 +658,12 @@
   },
   {
    "text": "Hotely bez kouření: Ochrana zdraví a zvyšování kvality ubytovacích služeb. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFVTM1d5dVBmRjd2UmJKV0ZHUU50VGlEY2RtUkRzUGVRc0lha3UyanlXMWtlTTBoaGRwRWVqMHk1a0x5QWthdVFMWkdWeE5qVWZnTk9yTEZJSjNBcGlaSmxHRmZWNnl6dFU1UGJhaHFmNlZaR0ZSYkI0eVpxa2QtMXpmZVA3TmxZdXJrUF91aWZqdV9lb3VlT0FmdkJ6MUdPQUtjQ0RrR2Q?oc=5"
+  },
+  {
+   "text": "Leoš Kyša. Armáda hádajících se „debílků“, nešťastný Ota Klempíř, konec zlatých časů a děti připravované na přežití - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5wFBVV95cUxQRmdObGhIMHhzR205cXpQVTFzb2c5cm1sREk5cGR0R0dtd3plSUl3MkNpdHBFdHVLdFE1N2drZXdsX3djNWU1NlN1VDh4cDdVZDdJSDRZTGR6ZlJzQ0pHaE5sMWJvVG5iUmZCdzI3eXhXdUx1SVg5SHZTejdLQlI0VDNqd0gtY21JQVZGeXlvdTNSazVMNVJQNDNyQTFhM1FJci1tSG8wazlRTjdzUGJ1c0dPaWI5a0Fka3B4b1ZOZHAzM2ptUlF4b3J0a3RZMGNxWG9jX2Jic3Q0aFVUQi1xNVM0ZUJWckE?oc=5"
+  },
+  {
+   "text": "Ha Tinh posiluje rozvoj turistických produktů spojených se zážitkovými aktivitami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxPbHZDVWR4b2dlbmRURFNhcGpITkRiYkI1LVU1c1g2MFNtOTgxTEFDWDNoR0hZRmRKSjFVcnZOXzNJOVNnUjNQcmEzc3o0RE1aS2hNOGxDVUI5alJvQmxxN3MxV293VloxQUl6eDA1dDBaWXVzbTl2X2ZOZVRwR2dqakJKa0ZDSDFSeXNJbmlwdE52RjZUS2VR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
