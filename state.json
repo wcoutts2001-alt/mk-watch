@@ -26,7 +26,7 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40"
    ],
-   "last_success_at": "2026-10-27T07:18:27+00:00",
+   "last_success_at": "2026-10-27T08:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -51,7 +51,7 @@
     "facebook:fa5bdebb6c169b04",
     "facebook:b4d28205356bff18"
    ],
-   "last_success_at": "2026-10-27T07:18:27+00:00",
+   "last_success_at": "2026-10-27T08:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-26T17:11:26+00:00"
   },
@@ -68,7 +68,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-27T07:18:27+00:00",
+   "last_success_at": "2026-10-27T08:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -76,14 +76,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-27T07:18:27+00:00",
+   "last_success_at": "2026-10-27T08:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ffb74bbe37892c88",
     "news:6bd4a4c6e531f8ae",
     "news:c736a45ae7437d86",
     "news:f1595a35f6d664b0",
@@ -582,11 +581,12 @@
     "news:d5b60e26cd4e0f02",
     "news:feb5cd269beb3737",
     "news:2b7c187274bfee58",
-    "news:15a195941a57c618"
+    "news:15a195941a57c618",
+    "news:5ae36121a9e54f99"
    ],
-   "last_success_at": "2026-10-27T07:18:27+00:00",
+   "last_success_at": "2026-10-27T08:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-27T07:18:27+00:00"
+   "last_new_item_at": "2026-10-27T08:09:38+00:00"
   }
  },
  "digest_queue": [
@@ -655,6 +655,9 @@
   },
   {
    "text": "Thai Nguyen vysílá svůj tým k účasti na 10. národních sportovních hrách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNT1ptNkJUdVFaMHZvVmxFcGZSbzRUcHo5YkJEbTctdE9Pbzc5UUtweXNHNC1iZU40cDlNdl9pSzBBRF91REM1WUpWdnFySVBfNE5Zb2hUdnZ5TWpJaUJoVTVGSnlPVjRvLTR2VnRST2hsazhjellqY0NIbDM4a1hORko3enAzbldtMVZfSGd3OVVkXzRZeEkw?oc=5"
+  },
+  {
+   "text": "Hotely bez kouření: Ochrana zdraví a zvyšování kvality ubytovacích služeb. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFVTM1d5dVBmRjd2UmJKV0ZHUU50VGlEY2RtUkRzUGVRc0lha3UyanlXMWtlTTBoaGRwRWVqMHk1a0x5QWthdVFMWkdWeE5qVWZnTk9yTEZJSjNBcGlaSmxHRmZWNnl6dFU1UGJhaHFmNlZaR0ZSYkI0eVpxa2QtMXpmZVA3TmxZdXJrUF91aWZqdV9lb3VlT0FmdkJ6MUdPQUtjQ0RrR2Q?oc=5"
   }
  ],
  "last_digest_date": "2026-10-26"
