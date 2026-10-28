@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-28T18:56:07+00:00",
+   "last_success_at": "2026-10-28T19:38:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -54,7 +54,7 @@
     "facebook:260680631effb955",
     "facebook:89b3075dafe86d22"
    ],
-   "last_success_at": "2026-10-28T18:56:07+00:00",
+   "last_success_at": "2026-10-28T19:38:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-28T17:22:10+00:00"
   },
@@ -71,7 +71,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-28T18:56:07+00:00",
+   "last_success_at": "2026-10-28T19:38:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -79,14 +79,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-28T18:56:07+00:00",
+   "last_success_at": "2026-10-28T19:38:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6b8a5cef1ae7e7f8",
     "news:2e4ab4b4b84f1af6",
     "news:d400015c859194ed",
     "news:008e14c2c7d54fe0",
@@ -585,16 +584,20 @@
     "news:112777029b76b746",
     "news:61f1509ac08d0bd2",
     "news:0de80a2db85e81ca",
-    "news:3ec98db24949d5c2"
+    "news:3ec98db24949d5c2",
+    "news:69f2283950fe463b"
    ],
-   "last_success_at": "2026-10-28T18:56:07+00:00",
+   "last_success_at": "2026-10-28T19:38:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-28T18:09:32+00:00"
+   "last_new_item_at": "2026-10-28T19:38:40+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Leoš Kyša. Motoristé přišli všechno zapálit, Klempíř kulturu nezničí, jeho kroky ale škodí - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmpRRmIzRUlwdXFGOXctQ09mRWxXNW1lU25XLUFXS0NBNG5hRFJsZW5Oa3A2bUhKQjQ3T3FWNEtxM3pmQWx3RVNvMEN1QUhfbXVCVWN1bzdoRkFZRDFWeFlhbjBoRW5nUWlweWRieTRaTkczbmNIZzhDUzVEcHR4SEx4YVdQUS1ES2FfSFpwYnBpdGRvQnZ5UVQ3cU1zNUFNbnUtM2FUZS1ZNWZxcUxUQVoya0h4d0sxZmh1Y0hSazJRRzRDU0hZS1R6em9FXzYtR0lCWmJIMkdwSjQ?oc=5"
+  },
+  {
+   "text": "Šéfredaktor Kulturních novin se ujímá nové role. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE0xeHhfRm1xRklTSmJHekdCeWx3ZnZTYkRrcUV4WnNUR0U4ZnUtTm00ejhZS19OVi1icWllMzZPa0dZdlRMTlJoOGVpTVo4Q1VMdjd2V2JZTmx5NzBHY2VUR3B1b0tpUmREd3Q4RzR0VE9acTNVMThfMg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-28"
