@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-28T05:20:39+00:00",
+   "last_success_at": "2026-10-28T06:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -53,7 +53,7 @@
     "facebook:b4d28205356bff18",
     "facebook:260680631effb955"
    ],
-   "last_success_at": "2026-10-28T05:20:39+00:00",
+   "last_success_at": "2026-10-28T06:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T16:57:22+00:00"
   },
@@ -70,7 +70,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-28T05:20:39+00:00",
+   "last_success_at": "2026-10-28T06:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -78,14 +78,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-28T05:20:39+00:00",
+   "last_success_at": "2026-10-28T06:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:55fe968d3c49e7b2",
     "news:ed30fbf0e68d2d02",
     "news:fda65453be1164f6",
     "news:7338c7431ced8f75",
@@ -584,11 +583,12 @@
     "news:99c1442dd75ee9d3",
     "news:0ac834e54a5b7b54",
     "news:5ca3025e640bd3b6",
-    "news:8b71ef014942d1b6"
+    "news:8b71ef014942d1b6",
+    "news:e548194fcb102fcd"
    ],
-   "last_success_at": "2026-10-28T05:20:39+00:00",
+   "last_success_at": "2026-10-28T06:07:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-28T03:52:45+00:00"
+   "last_new_item_at": "2026-10-28T06:07:21+00:00"
   }
  },
  "digest_queue": [
@@ -597,6 +597,9 @@
   },
   {
    "text": "Petr Dvořák končí v čele fondu audiovize kvůli sporu o úspory - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOaFlsNEhkLW9BckE4MDB4ZEhvV2t5ZjRHOW8zREc1TXl4MmtMTXhCOEtjYmliRFd5TlRWQVE5S2N2SEZXYTFtSk9SQXplOVB6VXNBZy1TZ2VyYUJ6VHBIeWlzSFg0OUFTc0pIN3duel9oMEwtR2hTUms1OTBwT2tmdmtjR2UybUFFaG54ZU50YUQ4d2Raa1NMVjBDUGp0dUtBYVVuRW1oSWRLZHFJdzdmdFZWS2xQUQ?oc=5"
+  },
+  {
+   "text": "Radka Denemarková: Oto Klempíř se chová, jako kdyby neexistoval rok 1989 - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjM1dEtjc1oyTnppU01VVEh1NHdfaHVjWDY1Wi1RN3hLMXE3ZHoyMm9HWDhZSnVacXRJOXJnN0ZpN09rdkdraUVHbExiRzMtNFdDN0FNWEFmWFlXV3F1SXBkR3ZXNUtLeUMxWmtKOEZhRkhxZmVFSEVtRkJGNElSenhjTk55NlcxT2FWcjBOa2NBVFYwVTItbFRLTWxDWmJuWG1OMmdmMnlURWxfbXJhZ094Qk5DYmZxWjhhSnJRdXg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-27"
