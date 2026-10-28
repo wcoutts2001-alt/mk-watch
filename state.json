@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-28T10:25:23+00:00",
+   "last_success_at": "2026-10-28T11:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -53,7 +53,7 @@
     "facebook:b4d28205356bff18",
     "facebook:260680631effb955"
    ],
-   "last_success_at": "2026-10-28T10:25:23+00:00",
+   "last_success_at": "2026-10-28T11:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T16:57:22+00:00"
   },
@@ -70,7 +70,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-28T10:25:23+00:00",
+   "last_success_at": "2026-10-28T11:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -78,14 +78,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-28T10:25:23+00:00",
+   "last_success_at": "2026-10-28T11:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:3b2ebf16bff6f638",
     "news:003993feddeaef5e",
     "news:e48c13799dc545db",
     "news:13a7f2119bb89f42",
@@ -584,11 +583,12 @@
     "news:e82a8f91cd005085",
     "news:3b302a0e47518ea4",
     "news:a5dfe720aa8abdf3",
-    "news:ab829a41e10c8432"
+    "news:ab829a41e10c8432",
+    "news:58603ebef75a4eca"
    ],
-   "last_success_at": "2026-10-28T10:25:23+00:00",
+   "last_success_at": "2026-10-28T11:09:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-28T10:25:23+00:00"
+   "last_new_item_at": "2026-10-28T11:09:38+00:00"
   }
  },
  "digest_queue": [
@@ -600,6 +600,9 @@
   },
   {
    "text": "Radka Denemarková: Oto Klempíř se chová, jako kdyby neexistoval rok 1989 - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjM1dEtjc1oyTnppU01VVEh1NHdfaHVjWDY1Wi1RN3hLMXE3ZHoyMm9HWDhZSnVacXRJOXJnN0ZpN09rdkdraUVHbExiRzMtNFdDN0FNWEFmWFlXV3F1SXBkR3ZXNUtLeUMxWmtKOEZhRkhxZmVFSEVtRkJGNElSenhjTk55NlcxT2FWcjBOa2NBVFYwVTItbFRLTWxDWmJuWG1OMmdmMnlURWxfbXJhZ094Qk5DYmZxWjhhSnJRdXg?oc=5"
+  },
+  {
+   "text": "Glosa: Kultura už zažila ledacos, ale Klempíř je fakt úkaz. Řádí tak, že Macinka škemrá na policii - Super.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0FzVkE1UkcxZGExMU5mRDVPWG5iOC1zM1E3dTAtYjRadXk2OHVuU2ItT0ltUHR1a0RSU1J3Y0Y4YVp1Nk1weDNLV0hOWTlnMGRZMGVpVGZwOHRtMTIzWWVsa1J4QUJYSEZSYUpra21WazMzQzdaNWVzdS1faGQ4N3JBN0dnQ3ZiR2pMb0l2ZmtfWTRZd2cwMndTak5BbEVfR1VqSFh5ZDF0dkdUSFFtQjF5dmc5SDhhVHJpbE9WU3p1V1pvNjB5QU1uMnB4Z3U0Qk94YTd3?oc=5"
   }
  ],
  "last_digest_date": "2026-10-27"
