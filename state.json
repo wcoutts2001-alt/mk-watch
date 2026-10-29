@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T20:52:42+00:00",
+   "last_success_at": "2026-10-29T21:29:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -58,7 +58,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-29T20:52:42+00:00",
+   "last_success_at": "2026-10-29T21:29:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T20:52:42+00:00",
+   "last_success_at": "2026-10-29T21:29:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,21 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T20:52:42+00:00",
+   "last_success_at": "2026-10-29T21:29:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cddf8b14fa6bcc00",
-    "news:eb09fa037edeb3ac",
-    "news:22a8c32dbd1866a2",
-    "news:62cd10031d6a89d3",
-    "news:a56a967ce531d2ca",
-    "news:8fbad4b98b53990b",
-    "news:36f81d07b81fe9f1",
-    "news:db3eaef2a05f5a52",
     "news:a54979f289434e02",
     "news:17f7f6db86e06180",
     "news:687375967b035c52",
@@ -590,11 +582,19 @@
     "news:e21bd07acb10cc05",
     "news:080736b1354230dd",
     "news:43dac873bee61fd6",
-    "news:e772f92a5540037c"
+    "news:e772f92a5540037c",
+    "news:30e833ec8a0b9b22",
+    "news:524996b1413cb208",
+    "news:dc39475f1ae6ef3b",
+    "news:833f017a3887f479",
+    "news:8950beb287c86c30",
+    "news:d9662dfaac9a93ca",
+    "news:aeadc779c9ce999f",
+    "news:fec94b9d21b89f15"
    ],
-   "last_success_at": "2026-10-29T20:52:42+00:00",
+   "last_success_at": "2026-10-29T21:29:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T20:52:42+00:00"
+   "last_new_item_at": "2026-10-29T21:29:01+00:00"
   }
  },
  "digest_queue": [
@@ -612,6 +612,12 @@
   },
   {
    "text": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTQzNk1QSVVrc2E4S0VGaEptTnY4SXlJN096QXBvSzgxVVh6NktnclBHSUJhUUFveEQ2eEY0NVctbUlaYWpNZGFZV09ZMHRRWjFWYjVxTjdoQk9zYWQzbEJycGh5WVBQRi1mTkJqQXZvLUp5QVkwa25xVXNoelJ2NkN3UmJpWkVFMm5aOVhiZ2VwdzRJRXNTSEpnd1IzT3kzcUhQUDdrSE4?oc=5"
+  },
+  {
+   "text": "Změny dotačního systému v kultuře jsou podle ministra Klempíře nezbytné - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTFBzN1BEMjllMnVMUi1TdExLcjNUeTRXUkpBTkQ5cjU0aFR3TEx1a2pXSzNQSDJwdXRXSnBENTZyWHZWcjFxWDJkUw?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu - Apple Corporation: Podpora spolupráce v oblasti rozvoje kulturního průmyslu a digitálního ekosystému. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ29XREpBQm44NnZuSEw0UWNtSkhHdnRfNjIwVFBxdjlvTEJISVNxa1l3UVFMUEVtMXRDbnMweFpKN0NiQ0t6Q1I3YUNBNVoxY2U3VW9CVC1ncmdSTWtvNUY5LTQwZXdfRzBmdWNrOEMxS1NjOGpTMkhfajQ1YVdxOERDRXMtRWU1cEZ6X3U4Q09zeXFOMXViTlZiTjdRQWRxT0xjbDlJQjRURXhTc0lRT2F6MXZvNy1G?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
