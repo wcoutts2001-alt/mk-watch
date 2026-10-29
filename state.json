@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T14:09:07+00:00",
+   "last_success_at": "2026-10-29T15:02:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -56,7 +56,7 @@
     "facebook:89b3075dafe86d22",
     "facebook:c2707225b242d38b"
    ],
-   "last_success_at": "2026-10-29T14:09:07+00:00",
+   "last_success_at": "2026-10-29T15:02:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T13:03:12+00:00"
   },
@@ -73,7 +73,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-29T14:09:07+00:00",
+   "last_success_at": "2026-10-29T15:02:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -81,17 +81,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T14:09:07+00:00",
+   "last_success_at": "2026-10-29T15:02:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:57ab7a5b9817703a",
-    "news:21f9286866677127",
-    "news:fe46390eb7279777",
-    "news:420c7472ecaa8f58",
     "news:28e043b15691e5fc",
     "news:85cb65ee0b74966e",
     "news:c5192a4570e272be",
@@ -587,11 +583,15 @@
     "news:7c39cd251f14aaca",
     "news:0ffa1e0f7b9481df",
     "news:8c1a7a85b9d8b0d8",
-    "news:6abc9fe6de55c1af"
+    "news:6abc9fe6de55c1af",
+    "news:dbb80e0077ce86a2",
+    "news:cf91871b06eb9d64",
+    "news:db3557d578fae659",
+    "news:6660fd673f775f63"
    ],
-   "last_success_at": "2026-10-29T14:09:07+00:00",
+   "last_success_at": "2026-10-29T15:02:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T14:09:07+00:00"
+   "last_new_item_at": "2026-10-29T15:02:20+00:00"
   }
  },
  "digest_queue": [
@@ -621,6 +621,12 @@
   },
   {
    "text": "GALERIE: Zeman slavil 28. říjen s Klausem i ministry. Šili do opozice i „hysterických“ demonstrací | FOTO 1 - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxNc01ZZkhINS10MlZrNWIzYTlGWkFGNEdKVkJVZ2NzTEFsQm56ZXhSTDJtTUtDNWFaMURVM0ltbUlLNXBoT3VQLWdlMUp2MnNuWS1aakFkNWc1ZWktd2hpbUlMQ0xITzREXzJXU2pTVTVpeDFXUENKcmh4c2EwLTBzTUNGT3p0X215S1NEQXN0SWpTSjFBT0RWcVMtMWNnNVN2ckN2UExWSmhFUjdsV211NVZoM2tEanlIRVF4VnFGSXctOFJkX1hQQ19UUEhKNFhNc3VhVlVZcS1LTjZuNmc?oc=5"
+  },
+  {
+   "text": "Literární časopisy se ohradily proti dotačním podmínkám ministerstva kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE5vblg2WlliN2U3WDJOUlM5TVlTQmRCSGp3YU9UMXJMTjlLLWtFYUdTZmFHWDNsZmNIZmhNbnNHbW5aUHhpRmVON2RpU3luSFhaaVFn?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE9HdHVBOUh2c0JTVzhpQ0dyM0dHMmowNUFMaVd5MHVSVG1DUU1xUWp5LXF1MDhzZlVFOS0tYndOV3hoWXRWZzRJS0hVOHlWU2lFbGIwQ0FGY1F2Z3hZVk0tQmljSHI5Q0pGMGtlTzZR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-28"
