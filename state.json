@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-29T03:55:23+00:00",
+   "last_success_at": "2026-10-29T04:36:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -54,7 +54,7 @@
     "facebook:260680631effb955",
     "facebook:89b3075dafe86d22"
    ],
-   "last_success_at": "2026-10-29T03:55:23+00:00",
+   "last_success_at": "2026-10-29T04:36:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-28T17:22:10+00:00"
   },
@@ -71,7 +71,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-29T03:55:23+00:00",
+   "last_success_at": "2026-10-29T04:36:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -79,14 +79,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T03:55:23+00:00",
+   "last_success_at": "2026-10-29T04:36:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a4f4658ba7ba6a49",
     "news:2bb1c93f0fc49cd4",
     "news:1555c54fe3ee251d",
     "news:42834bca5515209e",
@@ -585,11 +584,12 @@
     "news:69f2283950fe463b",
     "news:537ce3120af7ac6b",
     "news:f70ecbb019c535e0",
-    "news:3e417b81d2dd6f58"
+    "news:3e417b81d2dd6f58",
+    "news:d13bb1e79bcf8f79"
    ],
-   "last_success_at": "2026-10-29T03:55:23+00:00",
+   "last_success_at": "2026-10-29T04:36:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T03:55:23+00:00"
+   "last_new_item_at": "2026-10-29T04:36:37+00:00"
   }
  },
  "digest_queue": [
@@ -604,6 +604,9 @@
   },
   {
    "text": "Klempíř a Babiš utnuli, Plaga dává spolku „Díky, že můžem“ dál - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxNVjlrQm8yd0FYb1BzQUJVM3RIU2dGd3VfMnhSSms2Q3BHU2dBcVpROGRPX0FfQ0EwYlVSU1JlT1FZV1p5dTVnV2drOGxwRWxoRy15bUU2RGhTcnZMelc2QU0xZmRPX0Qyb2VHSlpJOG5PNFJvNDd0Q2NRWUZhemJvZ2x6WHZvdGQweVlNU0YzOFlKQWlqbmI5aTN4LWplWXh6d2dmYzdsemtiN0hHLVFXeg?oc=5"
+  },
+  {
+   "text": "„Čistka, destrukce kultury, agent se nezapře.“ Pol... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxQcjdldTFmV0pGT1U1a3ptS3ZVWFkxVW9hamNIVldUYzZiSW1ESWlTdjY2STJyX2dlMDZkWldBVG85RkRlcTBqT0YyZ1o5SlJwWlc3REJpc01pV1daeENVeGJfM2J3SFpaSG1CQmxRdVJfeGF4NGgzSmNWVXUwemlIZWxmSW9LTzRrN3dwQnB1M1V2VkUtM19aVXpqSTl6WkJjY29Fdm9mRGFwOE4yRXdyYlBOdHBpX2pCX1E?oc=5"
   }
  ],
  "last_digest_date": "2026-10-28"
