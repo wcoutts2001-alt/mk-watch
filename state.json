@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T20:10:46+00:00",
+   "last_success_at": "2026-10-29T20:52:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -55,11 +55,12 @@
     "facebook:260680631effb955",
     "facebook:89b3075dafe86d22",
     "facebook:c2707225b242d38b",
-    "facebook:d4747b0376515b36"
+    "facebook:d4747b0376515b36",
+    "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-29T20:10:46+00:00",
+   "last_success_at": "2026-10-29T20:52:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T17:37:24+00:00"
+   "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
   "instagram": {
    "seen": [
@@ -75,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T20:10:46+00:00",
+   "last_success_at": "2026-10-29T20:52:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -83,16 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T20:10:46+00:00",
+   "last_success_at": "2026-10-29T20:52:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:70f6cead0d5f93c8",
-    "news:723146653b1ccbbd",
-    "news:4084de90e70e5eb8",
     "news:cddf8b14fa6bcc00",
     "news:eb09fa037edeb3ac",
     "news:22a8c32dbd1866a2",
@@ -589,11 +587,14 @@
     "news:2cfbc67fe082ed72",
     "news:e58b119502585094",
     "news:930eb7b51dd0be81",
-    "news:e21bd07acb10cc05"
+    "news:e21bd07acb10cc05",
+    "news:080736b1354230dd",
+    "news:43dac873bee61fd6",
+    "news:e772f92a5540037c"
    ],
-   "last_success_at": "2026-10-29T20:10:46+00:00",
+   "last_success_at": "2026-10-29T20:52:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T20:10:46+00:00"
+   "last_new_item_at": "2026-10-29T20:52:42+00:00"
   }
  },
  "digest_queue": [
@@ -608,6 +609,9 @@
   },
   {
    "text": "Minář z Milionu chvilek přirovnal Klempíře k Jakešovi. Němcová se přidala ostrými slovy o vládním gangu - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxPdzlHM1F0YkVaZU92RG9lTFBZNERjNnBsbU9kVGcyNmtKRnFCb3c2XzF4c2I4cndsbE1vTkJxd2dZcmsxTmpfZE41R2FwVzJuM01iZF9vSzFSS0hZcDZoXzQ0OTVjeEFLWGlXdGlrSEh2LUNhSnRGZ0dEODdlQVFmZ0NkejBhWk5pVk1GZHhWUy0yTzRoa3pTNGJvMFhrcm5oQlBHYzZNMHBxWWhaVWNKaU9DMU9zejQySVRhQWtpbVVrRWJN?oc=5"
+  },
+  {
+   "text": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTQzNk1QSVVrc2E4S0VGaEptTnY4SXlJN096QXBvSzgxVVh6NktnclBHSUJhUUFveEQ2eEY0NVctbUlaYWpNZGFZV09ZMHRRWjFWYjVxTjdoQk9zYWQzbEJycGh5WVBQRi1mTkJqQXZvLUp5QVkwa25xVXNoelJ2NkN3UmJpWkVFMm5aOVhiZ2VwdzRJRXNTSEpnd1IzT3kzcUhQUDdrSE4?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
