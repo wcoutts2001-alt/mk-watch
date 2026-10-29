@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T15:59:46+00:00",
+   "last_success_at": "2026-10-29T16:49:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -56,7 +56,7 @@
     "facebook:89b3075dafe86d22",
     "facebook:c2707225b242d38b"
    ],
-   "last_success_at": "2026-10-29T15:59:46+00:00",
+   "last_success_at": "2026-10-29T16:49:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T13:03:12+00:00"
   },
@@ -74,7 +74,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T15:59:46+00:00",
+   "last_success_at": "2026-10-29T16:49:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -82,16 +82,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T15:59:46+00:00",
+   "last_success_at": "2026-10-29T16:49:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d012e584a3c923b9",
-    "news:87a69cab7723e321",
-    "news:8fa4f3505cdb65a6",
     "news:04cfe8927a5929fd",
     "news:8614eff9d2174537",
     "news:12a5df1ce7778fb0",
@@ -588,11 +585,14 @@
     "news:6660fd673f775f63",
     "news:c7aba5bda876d021",
     "news:d2f8738fbff3f2ad",
-    "news:4589d6dbe47d2a5b"
+    "news:4589d6dbe47d2a5b",
+    "news:e726c77a7f9bd7fa",
+    "news:806bd36e288919ad",
+    "news:a90df9497f5faf0b"
    ],
-   "last_success_at": "2026-10-29T15:59:46+00:00",
+   "last_success_at": "2026-10-29T16:49:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T15:59:46+00:00"
+   "last_new_item_at": "2026-10-29T16:49:57+00:00"
   }
  },
  "digest_queue": [
@@ -628,6 +628,9 @@
   },
   {
    "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE9HdHVBOUh2c0JTVzhpQ0dyM0dHMmowNUFMaVd5MHVSVG1DUU1xUWp5LXF1MDhzZlVFOS0tYndOV3hoWXRWZzRJS0hVOHlWU2lFbGIwQ0FGY1F2Z3hZVk0tQmljSHI5Q0pGMGtlTzZR?oc=5"
+  },
+  {
+   "text": "Televize a rozhlas ušetří, slibuje Klempíř. Změnou by ale přišly o miliardu a půl - Ekonomický deník\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTFB0SjdKVkVKVXJmMldMQkFhQ2JoTXUyT0JqMVQyMER0TUlzdGd5S3BlZ3ZINEZMaXNqWWE0dWZqYWdIYklLOHFyY25GUlZoVnN5Q2pyTFY2c3Y1TXdwNm91QjQ3T1V6bmZtSEExdnVYN0Z1V0xPZDh3?oc=5"
   }
  ],
  "last_digest_date": "2026-10-28"
