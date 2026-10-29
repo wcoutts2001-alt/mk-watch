@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T17:37:24+00:00",
+   "last_success_at": "2026-10-29T18:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -57,7 +57,7 @@
     "facebook:c2707225b242d38b",
     "facebook:d4747b0376515b36"
    ],
-   "last_success_at": "2026-10-29T17:37:24+00:00",
+   "last_success_at": "2026-10-29T18:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T17:37:24+00:00"
   },
@@ -75,7 +75,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T17:37:24+00:00",
+   "last_success_at": "2026-10-29T18:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -83,16 +83,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T17:37:24+00:00",
+   "last_success_at": "2026-10-29T18:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8614eff9d2174537",
-    "news:12a5df1ce7778fb0",
-    "news:adeb1b31bbea557f",
     "news:edea751eb9fab90c",
     "news:85a90d5e087b20d6",
     "news:fc9ee3251857769f",
@@ -589,13 +586,23 @@
     "news:e726c77a7f9bd7fa",
     "news:806bd36e288919ad",
     "news:a90df9497f5faf0b",
-    "news:01258ba8f138f9a8"
+    "news:01258ba8f138f9a8",
+    "news:e3ad1b580d836dda",
+    "news:8ba9bf858f8e5988",
+    "news:7cd17b7ac04875a8"
    ],
-   "last_success_at": "2026-10-29T17:37:24+00:00",
+   "last_success_at": "2026-10-29T18:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T17:37:24+00:00"
+   "last_new_item_at": "2026-10-29T18:22:37+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Vy tomu říkáte blitzkrieg ve 4:36, my zase Velký pátek. Poslanci se přeli o budoucnost financování České televize a Českého rozhlasu - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTJ0VElHSTFiWjlVNHNqOVA4Z29mcm8yTWllTmtEcm5pVWR0eUZyNm9vaWk0LUVlQkNnSHh6LWF5bThYMjlHYTkzaU9qNVRqUWpUSkluWURzQTlPZHhJTWhiT1UtNWV3dDQ5dVd5eUtrV3FYMnF6WUk3al9yWDluNVBqcnFLcjhsdnFSRnZWMTJmNTBoWkp4U1RTSTZnczN4d0xEcnZOaHpxU2RfemZzd3JRbmR6dm5OWEptMTZnNTZfZGhrTzU5TGdiZHY2NElGU1BWQWtSRUNteXVmZ3VPd3VmemhwOC1UQ05uX014WGF2akhjOXc?oc=5"
+  },
+  {
+   "text": "O výši peněz pro ČT a ČRo se ještě můžeme bavit, připustil Klempíř. Opozici chybí pojistky nezávislosti - MediaGuru\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxOM3hTOWpxNUNWRnpDM0c0Nng3Q2trMlBZdGFod3BpT2V4elI3SDBWNVdxeWdDRUpFSHluSTBXWFhjeVlBdWRocWRGOXJoVVlqZ0JUT1R1cDZDTnRjVk5yYWJFZ1RlcGNCajlma21LWTVyY1F0cVlsSlN2dmUzNzgxcm42dnplV3lINnppRDREN3lvLWZFTzc1WVQ1S0dRMmhQM3ZuNlNJY3VWem1zWWtBRFBZVy00NTgwUTZsS1FpRGkwSXdXd3c?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-29"
 }
