@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T19:22:42+00:00",
+   "last_success_at": "2026-10-29T20:10:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -57,7 +57,7 @@
     "facebook:c2707225b242d38b",
     "facebook:d4747b0376515b36"
    ],
-   "last_success_at": "2026-10-29T19:22:42+00:00",
+   "last_success_at": "2026-10-29T20:10:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T17:37:24+00:00"
   },
@@ -75,7 +75,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T19:22:42+00:00",
+   "last_success_at": "2026-10-29T20:10:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -83,16 +83,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T19:22:42+00:00",
+   "last_success_at": "2026-10-29T20:10:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:85a90d5e087b20d6",
-    "news:fc9ee3251857769f",
-    "news:af0042732edb370f",
     "news:70f6cead0d5f93c8",
     "news:723146653b1ccbbd",
     "news:4084de90e70e5eb8",
@@ -589,11 +586,14 @@
     "news:e3ad1b580d836dda",
     "news:8ba9bf858f8e5988",
     "news:7cd17b7ac04875a8",
-    "news:2cfbc67fe082ed72"
+    "news:2cfbc67fe082ed72",
+    "news:e58b119502585094",
+    "news:930eb7b51dd0be81",
+    "news:e21bd07acb10cc05"
    ],
-   "last_success_at": "2026-10-29T19:22:42+00:00",
+   "last_success_at": "2026-10-29T20:10:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T19:22:42+00:00"
+   "last_new_item_at": "2026-10-29T20:10:46+00:00"
   }
  },
  "digest_queue": [
@@ -602,6 +602,12 @@
   },
   {
    "text": "O výši peněz pro ČT a ČRo se ještě můžeme bavit, připustil Klempíř. Opozici chybí pojistky nezávislosti - MediaGuru\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxOM3hTOWpxNUNWRnpDM0c0Nng3Q2trMlBZdGFod3BpT2V4elI3SDBWNVdxeWdDRUpFSHluSTBXWFhjeVlBdWRocWRGOXJoVVlqZ0JUT1R1cDZDTnRjVk5yYWJFZ1RlcGNCajlma21LWTVyY1F0cVlsSlN2dmUzNzgxcm42dnplV3lINnppRDREN3lvLWZFTzc1WVQ1S0dRMmhQM3ZuNlNJY3VWem1zWWtBRFBZVy00NTgwUTZsS1FpRGkwSXdXd3c?oc=5"
+  },
+  {
+   "text": "ČT má dostat o miliardu méně, rozhlas o 400 milionů. Spor trvá - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3JCUFMwWE5Wampha25JMnBtRXlvV0tkc1JtekxtVUJUaExHdjdiV2k0TTVLcmRXczJETVY0TXR5Uk9Ccm1FaUhyQ2tlYTA1RG53eWlmVEpjYjltbHdUSzF3ZVVRakZLeFFuRmdERlZQekphdUlwelZjcWxSRVRFaTZJU2ZFZHFsV0puaF9FYk0xTjhSR2EzeG5Gb2JvTkloeDRkSklhUVBLbFJ4MnlNeVdlQlZLeUtNNW12dFl2bmJCWHlieVVBWlFaeldpRm82OGRzNFBoQmM5cXM?oc=5"
+  },
+  {
+   "text": "Minář z Milionu chvilek přirovnal Klempíře k Jakešovi. Němcová se přidala ostrými slovy o vládním gangu - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxPdzlHM1F0YkVaZU92RG9lTFBZNERjNnBsbU9kVGcyNmtKRnFCb3c2XzF4c2I4cndsbE1vTkJxd2dZcmsxTmpfZE41R2FwVzJuM01iZF9vSzFSS0hZcDZoXzQ0OTVjeEFLWGlXdGlrSEh2LUNhSnRGZ0dEODdlQVFmZ0NkejBhWk5pVk1GZHhWUy0yTzRoa3pTNGJvMFhrcm5oQlBHYzZNMHBxWWhaVWNKaU9DMU9zejQySVRhQWtpbVVrRWJN?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
