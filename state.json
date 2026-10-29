@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-29T16:49:57+00:00",
+   "last_success_at": "2026-10-29T17:37:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -54,11 +54,12 @@
     "facebook:b4d28205356bff18",
     "facebook:260680631effb955",
     "facebook:89b3075dafe86d22",
-    "facebook:c2707225b242d38b"
+    "facebook:c2707225b242d38b",
+    "facebook:d4747b0376515b36"
    ],
-   "last_success_at": "2026-10-29T16:49:57+00:00",
+   "last_success_at": "2026-10-29T17:37:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T13:03:12+00:00"
+   "last_new_item_at": "2026-10-29T17:37:24+00:00"
   },
   "instagram": {
    "seen": [
@@ -74,7 +75,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-29T16:49:57+00:00",
+   "last_success_at": "2026-10-29T17:37:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -82,14 +83,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T16:49:57+00:00",
+   "last_success_at": "2026-10-29T17:37:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:04cfe8927a5929fd",
     "news:8614eff9d2174537",
     "news:12a5df1ce7778fb0",
     "news:adeb1b31bbea557f",
@@ -588,50 +588,14 @@
     "news:4589d6dbe47d2a5b",
     "news:e726c77a7f9bd7fa",
     "news:806bd36e288919ad",
-    "news:a90df9497f5faf0b"
+    "news:a90df9497f5faf0b",
+    "news:01258ba8f138f9a8"
    ],
-   "last_success_at": "2026-10-29T16:49:57+00:00",
+   "last_success_at": "2026-10-29T17:37:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T16:49:57+00:00"
+   "last_new_item_at": "2026-10-29T17:37:24+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Leoš Kyša. Motoristé přišli všechno zapálit, Klempíř kulturu nezničí, jeho kroky ale škodí - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmpRRmIzRUlwdXFGOXctQ09mRWxXNW1lU25XLUFXS0NBNG5hRFJsZW5Oa3A2bUhKQjQ3T3FWNEtxM3pmQWx3RVNvMEN1QUhfbXVCVWN1bzdoRkFZRDFWeFlhbjBoRW5nUWlweWRieTRaTkczbmNIZzhDUzVEcHR4SEx4YVdQUS1ES2FfSFpwYnBpdGRvQnZ5UVQ3cU1zNUFNbnUtM2FUZS1ZNWZxcUxUQVoya0h4d0sxZmh1Y0hSazJRRzRDU0hZS1R6em9FXzYtR0lCWmJIMkdwSjQ?oc=5"
-  },
-  {
-   "text": "Šéfredaktor Kulturních novin se ujímá nové role. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE0xeHhfRm1xRklTSmJHekdCeWx3ZnZTYkRrcUV4WnNUR0U4ZnUtTm00ejhZS19OVi1icWllMzZPa0dZdlRMTlJoOGVpTVo4Q1VMdjd2V2JZTmx5NzBHY2VUR3B1b0tpUmREd3Q4RzR0VE9acTNVMThfMg?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu jmenuje vedoucího kanceláře a několik vedoucích pracovníků na úrovni resortů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxNZF9iNlhfQmdnNUZINm5ETEpPUi1zZ0lmZkhrUDRSRjFpcEx1TktDTmduazd5dlNoT2hobVNoaG51YTU0ZlJWcjRGajR4azQwWURQUGVDYm1uNWJmU2tJdkoweF8weThkajlGZ3RoTkZGY1o0LUVocFRqQ0x4RkFURE5QX1VRWXBtb25fYXdR?oc=5"
-  },
-  {
-   "text": "Klempíř a Babiš utnuli, Plaga dává spolku „Díky, že můžem“ dál - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxNVjlrQm8yd0FYb1BzQUJVM3RIU2dGd3VfMnhSSms2Q3BHU2dBcVpROGRPX0FfQ0EwYlVSU1JlT1FZV1p5dTVnV2drOGxwRWxoRy15bUU2RGhTcnZMelc2QU0xZmRPX0Qyb2VHSlpJOG5PNFJvNDd0Q2NRWUZhemJvZ2x6WHZvdGQweVlNU0YzOFlKQWlqbmI5aTN4LWplWXh6d2dmYzdsemtiN0hHLVFXeg?oc=5"
-  },
-  {
-   "text": "„Čistka, destrukce kultury, agent se nezapře.“ Pol... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxQcjdldTFmV0pGT1U1a3ptS3ZVWFkxVW9hamNIVldUYzZiSW1ESWlTdjY2STJyX2dlMDZkWldBVG85RkRlcTBqT0YyZ1o5SlJwWlc3REJpc01pV1daeENVeGJfM2J3SFpaSG1CQmxRdVJfeGF4NGgzSmNWVXUwemlIZWxmSW9LTzRrN3dwQnB1M1V2VkUtM19aVXpqSTl6WkJjY29Fdm9mRGFwOE4yRXdyYlBOdHBpX2pCX1E?oc=5"
-  },
-  {
-   "text": "Klempíř se otřel o Voskovce a Wericha. Spolupracovník StB by měl mít víc pokory - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxQWkdnNWp2bGM0MkRkeGEwaVlHclkweEQ0eXhYVlJtQmtSNGMwUVNkUzFkUC1zRG5qMkRxbkYxS3BjcjVtd3AtM2Zjek5sekhvdFBDamNzM0xxWC1ZTk16akdZVkd1SkVudWZBNXd0TFl4SG1oeS0tamhKRDY4LUktV3BhSDFLRGhwamRWbDFibERxNjVOanFGdkg4aU9mdHpKcHpMeE5tVDdEUmg2WTRnVzBSOVVIUWNkSTZZcUFlSWhZX1NPbzJv?oc=5"
-  },
-  {
-   "text": "Lekce z morálky od Klempíře. Kázání na akci s Vodi... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQUk1ZeW5reXlkenplNG15eTlGR0JuRVZjZkMyWXVEaXp5OXFZMXVHTlNUVlpwTTZVZjNSdzRuX3JFOEMweEpIamQ2azJvMjRDZENXTE90RHR1T2pxZjBQb3F1UjlLSkpmTlpWNnNseDEtV3Q3U2l0R2NuUVZFNWMyck1jRGxWMXdrNDN5dlJ0Y0lpajN2TmNPeUtZMUduNmN2S1AwcW8wZWloSVRwNUE?oc=5"
-  },
-  {
-   "text": "Národní divadlo žádá Klempířovu demisi a burcuje celé Česko k stávkové pohotovosti - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6AFBVV95cUxObzBmX093XzVJM1JOUTBfcTAwTHYyT0VDWlduYXdFazdQWDh3clMzUUstRUFCc3luQkVaMk9Ea095dmNlaEtPRkVydjVvaDQ4VXc5ZWxpam90VVhYc2hOQU5RdVhOajFSQnRKR2ZvM0d6M0JWVXdLMXFkaGFaeVJYd19naDJWTWpMT3dhdF9zbDBaZU5waXlma2pWa2p0dGRtWmtoRGpIWGw5YjNYbFFyNFY3UGJxMnNOdG92cVZqZkVVWmZXMU5aUW1US0VPclVJdUN5RkhaaXpvSGItRXBrRVJHMVJfdklH?oc=5"
-  },
-  {
-   "text": "GALERIE: Zeman slavil 28. říjen s Klausem i ministry. Šili do opozice i „hysterických“ demonstrací | FOTO 1 - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxNc01ZZkhINS10MlZrNWIzYTlGWkFGNEdKVkJVZ2NzTEFsQm56ZXhSTDJtTUtDNWFaMURVM0ltbUlLNXBoT3VQLWdlMUp2MnNuWS1aakFkNWc1ZWktd2hpbUlMQ0xITzREXzJXU2pTVTVpeDFXUENKcmh4c2EwLTBzTUNGT3p0X215S1NEQXN0SWpTSjFBT0RWcVMtMWNnNVN2ckN2UExWSmhFUjdsV211NVZoM2tEanlIRVF4VnFGSXctOFJkX1hQQ19UUEhKNFhNc3VhVlVZcS1LTjZuNmc?oc=5"
-  },
-  {
-   "text": "Literární časopisy se ohradily proti dotačním podmínkám ministerstva kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE5vblg2WlliN2U3WDJOUlM5TVlTQmRCSGp3YU9UMXJMTjlLLWtFYUdTZmFHWDNsZmNIZmhNbnNHbW5aUHhpRmVON2RpU3luSFhaaVFn?oc=5"
-  },
-  {
-   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE9HdHVBOUh2c0JTVzhpQ0dyM0dHMmowNUFMaVd5MHVSVG1DUU1xUWp5LXF1MDhzZlVFOS0tYndOV3hoWXRWZzRJS0hVOHlWU2lFbGIwQ0FGY1F2Z3hZVk0tQmljSHI5Q0pGMGtlTzZR?oc=5"
-  },
-  {
-   "text": "Televize a rozhlas ušetří, slibuje Klempíř. Změnou by ale přišly o miliardu a půl - Ekonomický deník\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTFB0SjdKVkVKVXJmMldMQkFhQ2JoTXUyT0JqMVQyMER0TUlzdGd5S3BlZ3ZINEZMaXNqWWE0dWZqYWdIYklLOHFyY25GUlZoVnN5Q2pyTFY2c3Y1TXdwNm91QjQ3T1V6bmZtSEExdnVYN0Z1V0xPZDh3?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-28"
+ "digest_queue": [],
+ "last_digest_date": "2026-10-29"
 }
