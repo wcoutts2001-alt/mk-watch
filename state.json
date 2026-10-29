@@ -27,7 +27,7 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436"
    ],
-   "last_success_at": "2026-10-29T05:23:36+00:00",
+   "last_success_at": "2026-10-29T06:07:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-27T15:27:42+00:00"
   },
@@ -54,7 +54,7 @@
     "facebook:260680631effb955",
     "facebook:89b3075dafe86d22"
    ],
-   "last_success_at": "2026-10-29T05:23:36+00:00",
+   "last_success_at": "2026-10-29T06:07:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-28T17:22:10+00:00"
   },
@@ -71,7 +71,7 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de"
    ],
-   "last_success_at": "2026-10-29T05:23:36+00:00",
+   "last_success_at": "2026-10-29T06:07:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-23T10:47:39+00:00"
   },
@@ -79,14 +79,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-29T05:23:36+00:00",
+   "last_success_at": "2026-10-29T06:07:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:2bb1c93f0fc49cd4",
     "news:1555c54fe3ee251d",
     "news:42834bca5515209e",
     "news:ec9d8fad4cb4780b",
@@ -585,11 +584,12 @@
     "news:537ce3120af7ac6b",
     "news:f70ecbb019c535e0",
     "news:3e417b81d2dd6f58",
-    "news:d13bb1e79bcf8f79"
+    "news:d13bb1e79bcf8f79",
+    "news:223e38260d08d672"
    ],
-   "last_success_at": "2026-10-29T05:23:36+00:00",
+   "last_success_at": "2026-10-29T06:07:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T04:36:37+00:00"
+   "last_new_item_at": "2026-10-29T06:07:50+00:00"
   }
  },
  "digest_queue": [
@@ -607,6 +607,9 @@
   },
   {
    "text": "„Čistka, destrukce kultury, agent se nezapře.“ Pol... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxQcjdldTFmV0pGT1U1a3ptS3ZVWFkxVW9hamNIVldUYzZiSW1ESWlTdjY2STJyX2dlMDZkWldBVG85RkRlcTBqT0YyZ1o5SlJwWlc3REJpc01pV1daeENVeGJfM2J3SFpaSG1CQmxRdVJfeGF4NGgzSmNWVXUwemlIZWxmSW9LTzRrN3dwQnB1M1V2VkUtM19aVXpqSTl6WkJjY29Fdm9mRGFwOE4yRXdyYlBOdHBpX2pCX1E?oc=5"
+  },
+  {
+   "text": "Klempíř se otřel o Voskovce a Wericha. Spolupracovník StB by měl mít víc pokory - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxQWkdnNWp2bGM0MkRkeGEwaVlHclkweEQ0eXhYVlJtQmtSNGMwUVNkUzFkUC1zRG5qMkRxbkYxS3BjcjVtd3AtM2Zjek5sekhvdFBDamNzM0xxWC1ZTk16akdZVkd1SkVudWZBNXd0TFl4SG1oeS0tamhKRDY4LUktV3BhSDFLRGhwamRWbDFibERxNjVOanFGdkg4aU9mdHpKcHpMeE5tVDdEUmg2WTRnVzBSOVVIUWNkSTZZcUFlSWhZX1NPbzJv?oc=5"
   }
  ],
  "last_digest_date": "2026-10-28"
