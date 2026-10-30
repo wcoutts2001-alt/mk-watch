@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T11:07:34+00:00",
+   "last_success_at": "2026-10-30T11:48:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T11:07:34+00:00",
+   "last_success_at": "2026-10-30T11:48:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -77,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T11:07:34+00:00",
+   "last_success_at": "2026-10-30T11:48:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -85,16 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T11:07:34+00:00",
+   "last_success_at": "2026-10-30T11:48:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:06190a76ccc1c167",
-    "news:6e60ab81f1aacfd4",
-    "news:06c3525923f01ddf",
     "news:58f266805d7cc871",
     "news:b290ad384bcbd95e",
     "news:65f4537d96707251",
@@ -591,11 +588,14 @@
     "news:39c0c1f2e96805bf",
     "news:704325fe497c3e7d",
     "news:962ba696eda6ea13",
-    "news:5a9f2c88c4fbc086"
+    "news:5a9f2c88c4fbc086",
+    "news:ae9f873688fcc843",
+    "news:b8fe7c537ddc663d",
+    "news:a81f3c03dd9fc37f"
    ],
-   "last_success_at": "2026-10-30T11:07:34+00:00",
+   "last_success_at": "2026-10-30T11:48:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T11:07:34+00:00"
+   "last_new_item_at": "2026-10-30T11:48:54+00:00"
   }
  },
  "digest_queue": [
@@ -658,6 +658,15 @@
   },
   {
    "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTFBmMlRQN2sxUTYtZW5HMVRLdGRBRnFoZGtEV1I4Q1VTcnJrT3NNckVSYnZJaU5oMkhYYk9wTWxReGpZZF9Cbm1ON2wtT21BUm5XVnVLdjZKY0xfUHJ6?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRVRIUTBqaFJtYmRaWFB2bjRIX080VkFiMUFXYkRNVDBJNmV4UVRTNjNxb1UzRWFMelhHNnBJdFRNYW1lb2NMcTYwdDVlMnRuVjJR?oc=5"
+  },
+  {
+   "text": "GALERIE: Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta| FOTO 4 - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxOczFhNE5iQUJKWm1wb05PRWNEdjlVbWlVWGJvUU80SE5kOFJrQkJyWFY2NmprSWUySmMyQUNGVDhyU3ZJa1N2aHpQcWNLYzQzOHZIVklMdE1sUUxWTVo0Zi1iZ3BNWVN3bkVZUW1fN3JUcTBGTks1bXpNdkF1NXpJWjJ0WF8zOW5wRkFzSGZyUlpYTVRCX0JFSmt5Smo5V2JTanQxWWRRc2JPTUc0dkFwMzNqcTczczhmeWYwcHJyQXBsYVpSZHY3MWNCYw?oc=5"
+  },
+  {
+   "text": "Dav skandoval jeho jméno před Sněmovnou, on se neukázal. Nerudová poslala Klempířovi ostrý vzkaz: „Zbabělý ministr\" - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQdi1JYko3MHdiRFBJbEJVM2xrUlhFSHdfWmhmZEV6QXBabFBHVERVT3N1dlVxTkhuMjJ6Y25LaEdweTFuXzM0OVNfVlYtbkVDNkFDenlTOUtvSGlfUVFWWUFFSGhlNDAxbXlLX2xZdUlPRjZtM3dEcG9WbFpKRTdJWHFaa2U4Mk5zb2tFc3VJZXNUSU9HVmsycV9HLVRQdFU5czVFdV84REV4d1VvdHliSk5qUFFuODZlN1loR0x5bFZIc2dRTGluODVWUm1xUFpjb3dvODJZTQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
