@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-30T02:54:14+00:00",
+   "last_success_at": "2026-10-30T03:35:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -58,7 +58,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T02:54:14+00:00",
+   "last_success_at": "2026-10-30T03:35:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T02:54:14+00:00",
+   "last_success_at": "2026-10-30T03:35:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,14 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T02:54:14+00:00",
+   "last_success_at": "2026-10-30T03:35:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e88abd26ff673582",
     "news:ca5f0288bf47351c",
     "news:3c3da7b2f357453c",
     "news:024d13fb5a292557",
@@ -590,11 +589,12 @@
     "news:63a045c1a202bc17",
     "news:67dbd296e4dc0f4e",
     "news:d140fdc7af86a20b",
-    "news:cbc4b0ef3823fd9c"
+    "news:cbc4b0ef3823fd9c",
+    "news:0f5db22993a736a7"
    ],
-   "last_success_at": "2026-10-30T02:54:14+00:00",
+   "last_success_at": "2026-10-30T03:35:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T02:54:14+00:00"
+   "last_new_item_at": "2026-10-30T03:35:11+00:00"
   }
  },
  "digest_queue": [
@@ -627,6 +627,9 @@
   },
   {
    "text": "Oto Klempíř – český hudebník a politik – stránka 7 - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5uN1J6TDRLQVQ5S1ZaNmgzd3I5cDRESjNYWkJMeUI0VTk4UFpId1k2VW9rakxWZWdZYzg3bC00TGFqVkhncnd2U2dXOUpxVFRS?oc=5"
+  },
+  {
+   "text": "Šéf divadla se opřel do Klempíře. Vadí mu jeho výrok o Voskovci a Werichovi - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1RFWEhnTktZRjZ0R2xLT0NCUlRONk54Qnp6Q1ptdG9rLV9PSEhuZzFOMVhoN2pNc2VhOXplZWpqc0JQLWxWR1BGalhMZ29yS0hhWGp5Wk5mRDZoQkNPT3dqUWhhVnJvNElMNXhidXhpY1VkT0NEVXhOSXVwM2NvaUxJangtcmFkajdUdGlqYTJKeDl2QU83RklyWDNJcXEwdU52WUtQQzNfRTZjWDg0Ql9NdzdNZk1rYkp0TVNBSlBfUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
