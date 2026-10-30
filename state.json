@@ -26,11 +26,12 @@
     "website:b855ec3af5fa502c",
     "website:fa03155d05cfeb40",
     "website:a5216319de994436",
-    "website:572b866c8a7ec4a9"
+    "website:572b866c8a7ec4a9",
+    "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T09:30:17+00:00",
+   "last_success_at": "2026-10-30T10:21:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T09:45:47+00:00"
+   "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
   "facebook": {
    "seen": [
@@ -58,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T09:30:17+00:00",
+   "last_success_at": "2026-10-30T10:21:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T09:30:17+00:00",
+   "last_success_at": "2026-10-30T10:21:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,16 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T09:30:17+00:00",
+   "last_success_at": "2026-10-30T10:21:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e211c7d83cc80f73",
-    "news:b1e83bb69a3abbd0",
-    "news:962fef49fb2be61b",
     "news:18aade79c67b40e0",
     "news:6b9d1f9e9fb28ad5",
     "news:06190a76ccc1c167",
@@ -590,11 +588,14 @@
     "news:0f5db22993a736a7",
     "news:3dc68406681ffa4f",
     "news:e7bd01cea478723c",
-    "news:e5ad2baf2073daee"
+    "news:e5ad2baf2073daee",
+    "news:cce8a217d77c6273",
+    "news:39c0c1f2e96805bf",
+    "news:704325fe497c3e7d"
    ],
-   "last_success_at": "2026-10-30T09:30:17+00:00",
+   "last_success_at": "2026-10-30T10:21:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T09:30:17+00:00"
+   "last_new_item_at": "2026-10-30T10:21:36+00:00"
   }
  },
  "digest_queue": [
@@ -639,6 +640,18 @@
   },
   {
    "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxOWFRoR01leDRLQ2tnV1l3emlPVzVzYnpkUEg4WWIwcWUxbGVvS3pkM0VXT0JYTGg1dEo0WEV4YUxydWtDZmpEMGJoeW1ZemZtekIyUFNwbEo0RHNTQ0NVUDdSRm1BVU9xRmZmVVJOazl0TjA5S2dLaHpCMlFvNGhtVnItYzVvU2g5REQ4cG41bUZCT0dmc2RHRHRPRVBpZzROWGNKRENhajg5aUthMkQ3MHpMYzM?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury rozhodlo o ukončení činnosti Garanční rady Muzea romské kultury\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6618cs-ministerstvo-kultury-rozhodlo-o-ukonceni-cinnosti-garancni-rady-muzea-romske-kultury"
+  },
+  {
+   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE50NllTQ0lGR3dqbmxweEl5MU1peVU3eWVjNlRGeDBQSFVubjg4NS1qeUhyLVh0amNEVUJEdHF1LW1ucVFrb0Jnaw?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxQbXA3cGpLU1JqczMyMFRsRHNXUEc4dlFPbUwzN2VCUENib3ZNQnI5aVFwQzBaTkQxOTNFdzFwbzUtTml0c2JtYzVPUU8zd2RSUEVEU0xOQ1RMUFg4N1MzSjA4aFlKVFZacXRNSEpObW5YRE5BeVVJRHVlcUlsbjFYUEpXMXZ5eS0yaHkwbHlFS1hkd0U2MjJmUUhNenZqTGtUdlV4bElyek12emVncUllRE5yM2E?oc=5"
+  },
+  {
+   "text": "Víkend bez politiky: Vydejte se do podzimní přírody dříve, než opadá listí. Nebo Klempíř - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPa0swTHFQaDAzdWRhbU43ZzU0YV9OLVFuWmxnZXVSMldiUy1lXzFrazlEX1AweUlJWWZYRE9LODdmcHplS3JlUVRxVHp5aUFxcWdSdXk2R0w5OHFoOXNHbnAxVU5FYldUMWRNVktKR2NHWW1MOTFHVENwcVBDUVlVWEtxTVUtQ3MwdFRMWTB3VVd4Nk9VZk5fb21MLUVSemdFWExESGpxWEF0UTVhdmU1cFRn?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
