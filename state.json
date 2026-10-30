@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T11:48:54+00:00",
+   "last_success_at": "2026-10-30T12:33:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T11:48:54+00:00",
+   "last_success_at": "2026-10-30T12:33:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -77,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T11:48:54+00:00",
+   "last_success_at": "2026-10-30T12:33:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -85,15 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T11:48:54+00:00",
+   "last_success_at": "2026-10-30T12:33:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:58f266805d7cc871",
-    "news:b290ad384bcbd95e",
     "news:65f4537d96707251",
     "news:973555effd8ffa5d",
     "news:b68ef391ec78e9f3",
@@ -591,11 +589,13 @@
     "news:5a9f2c88c4fbc086",
     "news:ae9f873688fcc843",
     "news:b8fe7c537ddc663d",
-    "news:a81f3c03dd9fc37f"
+    "news:a81f3c03dd9fc37f",
+    "news:6a39e25687449184",
+    "news:21f68b50d2507259"
    ],
-   "last_success_at": "2026-10-30T11:48:54+00:00",
+   "last_success_at": "2026-10-30T12:33:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T11:48:54+00:00"
+   "last_new_item_at": "2026-10-30T12:33:36+00:00"
   }
  },
  "digest_queue": [
@@ -667,6 +667,12 @@
   },
   {
    "text": "Dav skandoval jeho jméno před Sněmovnou, on se neukázal. Nerudová poslala Klempířovi ostrý vzkaz: „Zbabělý ministr\" - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQdi1JYko3MHdiRFBJbEJVM2xrUlhFSHdfWmhmZEV6QXBabFBHVERVT3N1dlVxTkhuMjJ6Y25LaEdweTFuXzM0OVNfVlYtbkVDNkFDenlTOUtvSGlfUVFWWUFFSGhlNDAxbXlLX2xZdUlPRjZtM3dEcG9WbFpKRTdJWHFaa2U4Mk5zb2tFc3VJZXNUSU9HVmsycV9HLVRQdFU5czVFdV84REV4d1VvdHliSk5qUFFuODZlN1loR0x5bFZIc2dRTGluODVWUm1xUFpjb3dvODJZTQ?oc=5"
+  },
+  {
+   "text": "„Úspěšná, a tak zahořklá.“ Do sporu kolem Denemarkové vstoupil Kyša - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTY5V2JhQk9VWUY3OGJ4NldtRUt1c0dmMEtyTzg2ekVjT1cxWWJlTGYzU2FnRS02YkwxcElJcEVNSVRQRzdQYUhYb2xzSUVpcjU0N2J3TWNhbFRxZVgwUDh2RXBQRjdYWDhyZ1RDcThCdFIzakw5bjR3ZUo4QUh4ajhHcTlQVnNoTmI2SUZ2WGhVVlVocFREREhjOGxIbmozOWMySnllYmhJaC1IRENuNlgzUzJaNEdMS1pzZWlCUzhPbVBndU50ZnZVbVhURGVt?oc=5"
+  },
+  {
+   "text": "GALERIE: Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta| FOTO 1 - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmdzMEF0ZkFCcTlDbGdrX2VNUmxHeDFNMC04QnptenllNWE2QlhtT2s5NjA5akFHYVZsQlVnV1JKNXVUeHMzRHB2blhjSUVoYmRjYXkxWm1taFZXTFF4Wk9KOVNhVnNnajd2OFlxTmNyWmRkMHZQem1VbjBlMkFZeF8tcEVPZHBEdHA3YWpseExBYWdkUEpUWW5nY3RXd1d1T2JRbFMzY1YybzFFRU1QZm04R1hHdFRWUFI3M1FGTlFlUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
