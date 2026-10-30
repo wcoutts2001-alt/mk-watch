@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T16:19:15+00:00",
+   "last_success_at": "2026-10-30T17:11:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T16:19:15+00:00",
+   "last_success_at": "2026-10-30T17:11:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -77,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T16:19:15+00:00",
+   "last_success_at": "2026-10-30T17:11:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -85,15 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T16:19:15+00:00",
+   "last_success_at": "2026-10-30T17:11:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cc0e4616e96a6e84",
-    "news:0f0484a73338bfd0",
     "news:fb4913fe465569bd",
     "news:bfa65fd3895257d9",
     "news:d5b116b2cf5075a6",
@@ -591,104 +589,15 @@
     "news:48a5bd6096d831aa",
     "news:013742411d4d15e6",
     "news:290005d2e6a2e964",
-    "news:d46004bdea9d265b"
+    "news:d46004bdea9d265b",
+    "news:3413acd403605d28",
+    "news:56dbcd89d02b8c0c"
    ],
-   "last_success_at": "2026-10-30T16:19:15+00:00",
+   "last_success_at": "2026-10-30T17:11:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T16:19:15+00:00"
+   "last_new_item_at": "2026-10-30T17:11:09+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Vy tomu říkáte blitzkrieg ve 4:36, my zase Velký pátek. Poslanci se přeli o budoucnost financování České televize a Českého rozhlasu - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTJ0VElHSTFiWjlVNHNqOVA4Z29mcm8yTWllTmtEcm5pVWR0eUZyNm9vaWk0LUVlQkNnSHh6LWF5bThYMjlHYTkzaU9qNVRqUWpUSkluWURzQTlPZHhJTWhiT1UtNWV3dDQ5dVd5eUtrV3FYMnF6WUk3al9yWDluNVBqcnFLcjhsdnFSRnZWMTJmNTBoWkp4U1RTSTZnczN4d0xEcnZOaHpxU2RfemZzd3JRbmR6dm5OWEptMTZnNTZfZGhrTzU5TGdiZHY2NElGU1BWQWtSRUNteXVmZ3VPd3VmemhwOC1UQ05uX014WGF2akhjOXc?oc=5"
-  },
-  {
-   "text": "O výši peněz pro ČT a ČRo se ještě můžeme bavit, připustil Klempíř. Opozici chybí pojistky nezávislosti - MediaGuru\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxOM3hTOWpxNUNWRnpDM0c0Nng3Q2trMlBZdGFod3BpT2V4elI3SDBWNVdxeWdDRUpFSHluSTBXWFhjeVlBdWRocWRGOXJoVVlqZ0JUT1R1cDZDTnRjVk5yYWJFZ1RlcGNCajlma21LWTVyY1F0cVlsSlN2dmUzNzgxcm42dnplV3lINnppRDREN3lvLWZFTzc1WVQ1S0dRMmhQM3ZuNlNJY3VWem1zWWtBRFBZVy00NTgwUTZsS1FpRGkwSXdXd3c?oc=5"
-  },
-  {
-   "text": "ČT má dostat o miliardu méně, rozhlas o 400 milionů. Spor trvá - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3JCUFMwWE5Wampha25JMnBtRXlvV0tkc1JtekxtVUJUaExHdjdiV2k0TTVLcmRXczJETVY0TXR5Uk9Ccm1FaUhyQ2tlYTA1RG53eWlmVEpjYjltbHdUSzF3ZVVRakZLeFFuRmdERlZQekphdUlwelZjcWxSRVRFaTZJU2ZFZHFsV0puaF9FYk0xTjhSR2EzeG5Gb2JvTkloeDRkSklhUVBLbFJ4MnlNeVdlQlZLeUtNNW12dFl2bmJCWHlieVVBWlFaeldpRm82OGRzNFBoQmM5cXM?oc=5"
-  },
-  {
-   "text": "Minář z Milionu chvilek přirovnal Klempíře k Jakešovi. Němcová se přidala ostrými slovy o vládním gangu - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxPdzlHM1F0YkVaZU92RG9lTFBZNERjNnBsbU9kVGcyNmtKRnFCb3c2XzF4c2I4cndsbE1vTkJxd2dZcmsxTmpfZE41R2FwVzJuM01iZF9vSzFSS0hZcDZoXzQ0OTVjeEFLWGlXdGlrSEh2LUNhSnRGZ0dEODdlQVFmZ0NkejBhWk5pVk1GZHhWUy0yTzRoa3pTNGJvMFhrcm5oQlBHYzZNMHBxWWhaVWNKaU9DMU9zejQySVRhQWtpbVVrRWJN?oc=5"
-  },
-  {
-   "text": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTQzNk1QSVVrc2E4S0VGaEptTnY4SXlJN096QXBvSzgxVVh6NktnclBHSUJhUUFveEQ2eEY0NVctbUlaYWpNZGFZV09ZMHRRWjFWYjVxTjdoQk9zYWQzbEJycGh5WVBQRi1mTkJqQXZvLUp5QVkwa25xVXNoelJ2NkN3UmJpWkVFMm5aOVhiZ2VwdzRJRXNTSEpnd1IzT3kzcUhQUDdrSE4?oc=5"
-  },
-  {
-   "text": "Změny dotačního systému v kultuře jsou podle ministra Klempíře nezbytné - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTFBzN1BEMjllMnVMUi1TdExLcjNUeTRXUkpBTkQ5cjU0aFR3TEx1a2pXSzNQSDJwdXRXSnBENTZyWHZWcjFxWDJkUw?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu - Apple Corporation: Podpora spolupráce v oblasti rozvoje kulturního průmyslu a digitálního ekosystému. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ29XREpBQm44NnZuSEw0UWNtSkhHdnRfNjIwVFBxdjlvTEJISVNxa1l3UVFMUEVtMXRDbnMweFpKN0NiQ0t6Q1I3YUNBNVoxY2U3VW9CVC1ncmdSTWtvNUY5LTQwZXdfRzBmdWNrOEMxS1NjOGpTMkhfajQ1YVdxOERDRXMtRWU1cEZ6X3U4Q09zeXFOMXViTlZiTjdRQWRxT0xjbDlJQjRURXhTc0lRT2F6MXZvNy1G?oc=5"
-  },
-  {
-   "text": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE03Zi1qdU5pRzlCLWNqc0FqYnFXQTA3aU1RSDdSWHZqWFUxb2dMOUpsLTNVRkRRZE9teDVNQU1LS2YyRFUxRG5rd3hDZms3aU0yV2dF?oc=5"
-  },
-  {
-   "text": "Literární časopisy se ohradily proti dotačním podmínkám ministerstva kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxOMkN5b1gwc3NEbXY0NGxkLXhMV1dVeGl5ZDVxRHptczhWUk82eFBGNDNyYi05dVVlZVNXcUNrTjI1cVZtX1R0RjNuTGtpdHNpLVpsVW9RTTBvSENwQXA5RC1CenlLYjY1VVlEYkotaERyd25zREpIYmZCS3puWGd1Q05MRXczZ2RYZkp5Y01Vb1VoS2RfRnhKZDlqeXkwcU4zQjM2Z3A1MmRUUjdJdUpmVVVYTUxnVHB3S3c?oc=5"
-  },
-  {
-   "text": "Oto Klempíř – český hudebník a politik – stránka 7 - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5uN1J6TDRLQVQ5S1ZaNmgzd3I5cDRESjNYWkJMeUI0VTk4UFpId1k2VW9rakxWZWdZYzg3bC00TGFqVkhncnd2U2dXOUpxVFRS?oc=5"
-  },
-  {
-   "text": "Šéf divadla se opřel do Klempíře. Vadí mu jeho výrok o Voskovci a Werichovi - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1RFWEhnTktZRjZ0R2xLT0NCUlRONk54Qnp6Q1ptdG9rLV9PSEhuZzFOMVhoN2pNc2VhOXplZWpqc0JQLWxWR1BGalhMZ29yS0hhWGp5Wk5mRDZoQkNPT3dqUWhhVnJvNElMNXhidXhpY1VkT0NEVXhOSXVwM2NvaUxJangtcmFkajdUdGlqYTJKeDl2QU83RklyWDNJcXEwdU52WUtQQzNfRTZjWDg0Ql9NdzdNZk1rYkp0TVNBSlBfUQ?oc=5"
-  },
-  {
-   "text": "Oto, zabal to, je čas. Všude hledá viníka, jen ne u sebe a u vlády, pustil se do Klempíře ostře Kupka - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxPOENFTnhFUTVXYlZ3eVhHczJIbk83Ri15cEc3WG1UYzdLNGpJZllaaGN3dWxhRTA1MnFmMTlpNzRSN19LczNZTml6RTIxVk5NblZZQWVla3h3WVZKQl9TSmxfdURvb0lYa1NUeDF2MU82bHZFaW9yMUVTWWVYRnBGcjBDTkRYZ2dBQ0ZubGYzWGtYbzI5U0djR2tjUWttYlhUSlVMTUl2TXVwcDlpUGE2UlF1bVZLcGp4M3o0?oc=5"
-  },
-  {
-   "text": "Už dost, vole. Zpěvák slavné kapely tvrdě zúčtoval s Klempířem za „poplivání“ Voskovce a Wericha - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOVGlkZGNnODdzM29UTWI4ODE2Z0VIN29zMUNfRDg1c2drRENfU1ZEMUlLand3Mmh2bmhzM2NpNVg0NW03UkV6M01naWYySjN6dGowNGh6T1ZYcS1OY0RYTlFqOHktbjUyakU1Y1RPVmVNWVpobGFuVjA3eE1LZ04xdGE1VmIwSjZ6c3U1UUR2U1BKWEF1ZkhKUWZCTTZ0XzNmSGMtdmZKQWhNc3dEWmlxWjJLZ2R5Zw?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxOWFRoR01leDRLQ2tnV1l3emlPVzVzYnpkUEg4WWIwcWUxbGVvS3pkM0VXT0JYTGg1dEo0WEV4YUxydWtDZmpEMGJoeW1ZemZtekIyUFNwbEo0RHNTQ0NVUDdSRm1BVU9xRmZmVVJOazl0TjA5S2dLaHpCMlFvNGhtVnItYzVvU2g5REQ4cG41bUZCT0dmc2RHRHRPRVBpZzROWGNKRENhajg5aUthMkQ3MHpMYzM?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury rozhodlo o ukončení činnosti Garanční rady Muzea romské kultury\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6618cs-ministerstvo-kultury-rozhodlo-o-ukonceni-cinnosti-garancni-rady-muzea-romske-kultury"
-  },
-  {
-   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE50NllTQ0lGR3dqbmxweEl5MU1peVU3eWVjNlRGeDBQSFVubjg4NS1qeUhyLVh0amNEVUJEdHF1LW1ucVFrb0Jnaw?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxQbXA3cGpLU1JqczMyMFRsRHNXUEc4dlFPbUwzN2VCUENib3ZNQnI5aVFwQzBaTkQxOTNFdzFwbzUtTml0c2JtYzVPUU8zd2RSUEVEU0xOQ1RMUFg4N1MzSjA4aFlKVFZacXRNSEpObW5YRE5BeVVJRHVlcUlsbjFYUEpXMXZ5eS0yaHkwbHlFS1hkd0U2MjJmUUhNenZqTGtUdlV4bElyek12emVncUllRE5yM2E?oc=5"
-  },
-  {
-   "text": "Víkend bez politiky: Vydejte se do podzimní přírody dříve, než opadá listí. Nebo Klempíř - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPa0swTHFQaDAzdWRhbU43ZzU0YV9OLVFuWmxnZXVSMldiUy1lXzFrazlEX1AweUlJWWZYRE9LODdmcHplS3JlUVRxVHp5aUFxcWdSdXk2R0w5OHFoOXNHbnAxVU5FYldUMWRNVktKR2NHWW1MOTFHVENwcVBDUVlVWEtxTVUtQ3MwdFRMWTB3VVd4Nk9VZk5fb21MLUVSemdFWExESGpxWEF0UTVhdmU1cFRn?oc=5"
-  },
-  {
-   "text": "Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxQQzc0Z2pabnZoMzNvcnNtUWMxWjRHcU1tejhhOHljZDU0dl9HcWZYdkRQck5kb3QzV0JkVDJlTGRFMTc2VTN0UjlicGJYVnlwVkNSNnhlLWtkLXNkcnlDX0YwSkNlVGY2STlMN1VqbWprbTRvei1hS2c5Mk8xTVY3WFAzLTRod2FOTEROUFVrLVYtUXFuSDZuTk9DOV9helBKWVBydEwzYlhxY1c5dzVSTU43RDNXTVZTZHoxY1h1dGZTS1c1X1Nn?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTFBmMlRQN2sxUTYtZW5HMVRLdGRBRnFoZGtEV1I4Q1VTcnJrT3NNckVSYnZJaU5oMkhYYk9wTWxReGpZZF9Cbm1ON2wtT21BUm5XVnVLdjZKY0xfUHJ6?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRVRIUTBqaFJtYmRaWFB2bjRIX080VkFiMUFXYkRNVDBJNmV4UVRTNjNxb1UzRWFMelhHNnBJdFRNYW1lb2NMcTYwdDVlMnRuVjJR?oc=5"
-  },
-  {
-   "text": "GALERIE: Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta| FOTO 4 - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxOczFhNE5iQUJKWm1wb05PRWNEdjlVbWlVWGJvUU80SE5kOFJrQkJyWFY2NmprSWUySmMyQUNGVDhyU3ZJa1N2aHpQcWNLYzQzOHZIVklMdE1sUUxWTVo0Zi1iZ3BNWVN3bkVZUW1fN3JUcTBGTks1bXpNdkF1NXpJWjJ0WF8zOW5wRkFzSGZyUlpYTVRCX0JFSmt5Smo5V2JTanQxWWRRc2JPTUc0dkFwMzNqcTczczhmeWYwcHJyQXBsYVpSZHY3MWNCYw?oc=5"
-  },
-  {
-   "text": "Dav skandoval jeho jméno před Sněmovnou, on se neukázal. Nerudová poslala Klempířovi ostrý vzkaz: „Zbabělý ministr\" - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQdi1JYko3MHdiRFBJbEJVM2xrUlhFSHdfWmhmZEV6QXBabFBHVERVT3N1dlVxTkhuMjJ6Y25LaEdweTFuXzM0OVNfVlYtbkVDNkFDenlTOUtvSGlfUVFWWUFFSGhlNDAxbXlLX2xZdUlPRjZtM3dEcG9WbFpKRTdJWHFaa2U4Mk5zb2tFc3VJZXNUSU9HVmsycV9HLVRQdFU5czVFdV84REV4d1VvdHliSk5qUFFuODZlN1loR0x5bFZIc2dRTGluODVWUm1xUFpjb3dvODJZTQ?oc=5"
-  },
-  {
-   "text": "„Úspěšná, a tak zahořklá.“ Do sporu kolem Denemarkové vstoupil Kyša - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTY5V2JhQk9VWUY3OGJ4NldtRUt1c0dmMEtyTzg2ekVjT1cxWWJlTGYzU2FnRS02YkwxcElJcEVNSVRQRzdQYUhYb2xzSUVpcjU0N2J3TWNhbFRxZVgwUDh2RXBQRjdYWDhyZ1RDcThCdFIzakw5bjR3ZUo4QUh4ajhHcTlQVnNoTmI2SUZ2WGhVVlVocFREREhjOGxIbmozOWMySnllYmhJaC1IRENuNlgzUzJaNEdMS1pzZWlCUzhPbVBndU50ZnZVbVhURGVt?oc=5"
-  },
-  {
-   "text": "GALERIE: Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta| FOTO 1 - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmdzMEF0ZkFCcTlDbGdrX2VNUmxHeDFNMC04QnptenllNWE2QlhtT2s5NjA5akFHYVZsQlVnV1JKNXVUeHMzRHB2blhjSUVoYmRjYXkxWm1taFZXTFF4Wk9KOVNhVnNnajd2OFlxTmNyWmRkMHZQem1VbjBlMkFZeF8tcEVPZHBEdHA3YWpseExBYWdkUEpUWW5nY3RXd1d1T2JRbFMzY1YybzFFRU1QZm04R1hHdFRWUFI3M1FGTlFlUQ?oc=5"
-  },
-  {
-   "text": "GALERIE: Noční útok a blietzkrieg, znělo na mediálním výboru. Klempíř citoval prezidenta| FOTO 2 - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxPQVdteFEybGpoNFBCaTVTMkRXREY5MlNOb1FPdURFV2pTNXNaQmgtQ1BYeGxMQ3gzSnpBeTd6T3Jpa0JUb1U0QlR6ZF9YYlNiLTVKSWozZVpwcnNzNUJqQXdNMXBHaHhDU1E3dlRQWjJVeHQyU2FZTm9UcjFsVWhqXzZ1bVRpTGFROEZ0ZmVEN0daSU0zSHhvTlBOWS0wWE9HYUlFRGtXbkpjMGYzVGlPVk80aXdMSEgtenAxdmVWajRocWZrS1JzdURZdw?oc=5"
-  },
-  {
-   "text": "Mravokárce Werich, hysterie protestů a cizí šachovnice. Řečnili Klempíř, Zeman a Okamura - iDNES.tv\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQZTJScDVHZDY1dm9lbS1mb3BWcWppeUNsWmJnTHRCUUExRGJya0xhMzJsajlHbDZCdEYxd1lIcVItVVVYZFBzS0E3NElVWFdpY1NPSG9OaHhSMUIxTVdPaHY2anRCbzFoa2x0VFdGdzRqSDZDcmRybmZBcWhDZmJnVmMyQ0txeGZKd00yZXlUd0k3eU9BSnBtV2dIT2VVZ1dMdWZsaFFR?oc=5"
-  },
-  {
-   "text": "Mravokárce Werich, hysterie protestů a cizí šachovnice. Řečnili Klempíř, Zeman a Okamura - Rádio Impuls\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxOVklIZ3lJTXo1WkZsUnNpYXdsUHhXUDB4NG9mWEZfNU42NzNVTFduTGliaTdzcXIzd0ZoV18yeDlkRF85Um54LUpjdkJHLTBybGdTMVZMWmQwWXVCdVo3Z1NEU2tIR2Nka1lQQ0xfWmVOaVMtMzBIX0RNejFvSXN5ZXRrSTl2WDdfMVJSWVlyaDh1UnVWVkE?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu města Da Nang oznamuje řadu personálních změn a zřizuje tři podřízené jednotky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxPdlVJMTBFOC05cVZnaG41QTFZaDZzZTVCRktfNzRnUUxPZS15ZzhrRmpiS1Y5NDdsc2RlRGZHQ1VBTHI5cjhneDJYNTNTa2FSeElQeHhXWEZ4LTBzdnM3R1k3UHlfMUl6S0UtMVZ5OXVKcUZKUU9lbzljdVJaTUVqaUdjT3BTdk04bjgwYVF5dWJBQXZaQVU5ZzZlcGZaVTRfWGc?oc=5"
-  },
-  {
-   "text": "Nechtěl jsem zesměšňovat křesťanskou víru, řekl Klempíř o přirovnání k Velkému pátku - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE9OQmR0TDhrOW9lN0xMTzUwN3BMeW1RYWoyWHJicG01UHJEbEdfSEVmWVZ5ZDRXOEwzZUxNalhxclFKSC1VOHJQMw?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-29"
+ "digest_queue": [],
+ "last_digest_date": "2026-10-30"
 }
