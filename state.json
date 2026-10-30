@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-30T03:35:11+00:00",
+   "last_success_at": "2026-10-30T04:25:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -58,7 +58,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T03:35:11+00:00",
+   "last_success_at": "2026-10-30T04:25:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T03:35:11+00:00",
+   "last_success_at": "2026-10-30T04:25:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,15 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T03:35:11+00:00",
+   "last_success_at": "2026-10-30T04:25:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ca5f0288bf47351c",
-    "news:3c3da7b2f357453c",
     "news:024d13fb5a292557",
     "news:e211c7d83cc80f73",
     "news:b1e83bb69a3abbd0",
@@ -590,11 +588,13 @@
     "news:67dbd296e4dc0f4e",
     "news:d140fdc7af86a20b",
     "news:cbc4b0ef3823fd9c",
-    "news:0f5db22993a736a7"
+    "news:0f5db22993a736a7",
+    "news:3dc68406681ffa4f",
+    "news:e7bd01cea478723c"
    ],
-   "last_success_at": "2026-10-30T03:35:11+00:00",
+   "last_success_at": "2026-10-30T04:25:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T03:35:11+00:00"
+   "last_new_item_at": "2026-10-30T04:25:17+00:00"
   }
  },
  "digest_queue": [
@@ -630,6 +630,12 @@
   },
   {
    "text": "Šéf divadla se opřel do Klempíře. Vadí mu jeho výrok o Voskovci a Werichovi - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1RFWEhnTktZRjZ0R2xLT0NCUlRONk54Qnp6Q1ptdG9rLV9PSEhuZzFOMVhoN2pNc2VhOXplZWpqc0JQLWxWR1BGalhMZ29yS0hhWGp5Wk5mRDZoQkNPT3dqUWhhVnJvNElMNXhidXhpY1VkT0NEVXhOSXVwM2NvaUxJangtcmFkajdUdGlqYTJKeDl2QU83RklyWDNJcXEwdU52WUtQQzNfRTZjWDg0Ql9NdzdNZk1rYkp0TVNBSlBfUQ?oc=5"
+  },
+  {
+   "text": "Oto, zabal to, je čas. Všude hledá viníka, jen ne u sebe a u vlády, pustil se do Klempíře ostře Kupka - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxPOENFTnhFUTVXYlZ3eVhHczJIbk83Ri15cEc3WG1UYzdLNGpJZllaaGN3dWxhRTA1MnFmMTlpNzRSN19LczNZTml6RTIxVk5NblZZQWVla3h3WVZKQl9TSmxfdURvb0lYa1NUeDF2MU82bHZFaW9yMUVTWWVYRnBGcjBDTkRYZ2dBQ0ZubGYzWGtYbzI5U0djR2tjUWttYlhUSlVMTUl2TXVwcDlpUGE2UlF1bVZLcGp4M3o0?oc=5"
+  },
+  {
+   "text": "Už dost, vole. Zpěvák slavné kapely tvrdě zúčtoval s Klempířem za „poplivání“ Voskovce a Wericha - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOVGlkZGNnODdzM29UTWI4ODE2Z0VIN29zMUNfRDg1c2drRENfU1ZEMUlLand3Mmh2bmhzM2NpNVg0NW03UkV6M01naWYySjN6dGowNGh6T1ZYcS1OY0RYTlFqOHktbjUyakU1Y1RPVmVNWVpobGFuVjA3eE1LZ04xdGE1VmIwSjZ6c3U1UUR2U1BKWEF1ZkhKUWZCTTZ0XzNmSGMtdmZKQWhNc3dEWmlxWjJLZ2R5Zw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
