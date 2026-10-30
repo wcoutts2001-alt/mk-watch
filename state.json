@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T17:49:59+00:00",
+   "last_success_at": "2026-10-30T18:30:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T17:49:59+00:00",
+   "last_success_at": "2026-10-30T18:30:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -77,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T17:49:59+00:00",
+   "last_success_at": "2026-10-30T18:30:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -85,16 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T17:49:59+00:00",
+   "last_success_at": "2026-10-30T18:30:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:bfa65fd3895257d9",
-    "news:d5b116b2cf5075a6",
-    "news:51568edf2035dcd5",
     "news:a124b3eaaa19dd48",
     "news:cee9d6ea82d8cd04",
     "news:58aa5a8915b8a0d4",
@@ -591,13 +588,20 @@
     "news:d46004bdea9d265b",
     "news:3413acd403605d28",
     "news:56dbcd89d02b8c0c",
-    "news:b6b16eb51d0ed923"
+    "news:b6b16eb51d0ed923",
+    "news:573c4274c93066e2",
+    "news:65c1b3935283174f",
+    "news:eee3bcb88eb04637"
    ],
-   "last_success_at": "2026-10-30T17:49:59+00:00",
+   "last_success_at": "2026-10-30T18:30:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T17:49:59+00:00"
+   "last_new_item_at": "2026-10-30T18:30:49+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Galerie: Drsný výprask pro Klempíře. Rajmont mu poslal nekompromisní vzkaz - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxQRlR6SEE3czY5NWlSV011V1BnSXpfc3lUUTEwWWtLT3JGc2JDcE1sZ3FNWU5taC1VNVBRRDNmWkNuNWd1MGY0dFdhc2hyTUlZQ0poeDBOcVNxX1Z4UjVfdEVEdDNheFYxcU1HdzVvMl9nWkZtbWV2Y3RLZjR6TEcwZG80VVo3ZWpYRkFqUVFCRVBiRnlJbW5mTDREazN5NFZG?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-30"
 }
