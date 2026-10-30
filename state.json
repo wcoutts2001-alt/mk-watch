@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-30T14:35:41+00:00",
+   "last_success_at": "2026-10-30T15:29:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,7 +59,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T14:35:41+00:00",
+   "last_success_at": "2026-10-30T15:29:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -77,7 +77,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T14:35:41+00:00",
+   "last_success_at": "2026-10-30T15:29:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -85,15 +85,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T14:35:41+00:00",
+   "last_success_at": "2026-10-30T15:29:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:eb8c8e9d52a08598",
-    "news:28bab30eb5b47c1b",
     "news:2b7fba60e958fab3",
     "news:cc0e4616e96a6e84",
     "news:0f0484a73338bfd0",
@@ -591,11 +589,13 @@
     "news:fc73e9d7266ef3b0",
     "news:12a30d78184717bf",
     "news:713916d7b0100563",
-    "news:48a5bd6096d831aa"
+    "news:48a5bd6096d831aa",
+    "news:013742411d4d15e6",
+    "news:290005d2e6a2e964"
    ],
-   "last_success_at": "2026-10-30T14:35:41+00:00",
+   "last_success_at": "2026-10-30T15:29:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T14:35:41+00:00"
+   "last_new_item_at": "2026-10-30T15:29:21+00:00"
   }
  },
  "digest_queue": [
@@ -685,6 +685,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu města Da Nang oznamuje řadu personálních změn a zřizuje tři podřízené jednotky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxPdlVJMTBFOC05cVZnaG41QTFZaDZzZTVCRktfNzRnUUxPZS15ZzhrRmpiS1Y5NDdsc2RlRGZHQ1VBTHI5cjhneDJYNTNTa2FSeElQeHhXWEZ4LTBzdnM3R1k3UHlfMUl6S0UtMVZ5OXVKcUZKUU9lbzljdVJaTUVqaUdjT3BTdk04bjgwYVF5dWJBQXZaQVU5ZzZlcGZaVTRfWGc?oc=5"
+  },
+  {
+   "text": "Nechtěl jsem zesměšňovat křesťanskou víru, řekl Klempíř o přirovnání k Velkému pátku - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE9OQmR0TDhrOW9lN0xMTzUwN3BMeW1RYWoyWHJicG01UHJEbEdfSEVmWVZ5ZDRXOEwzZUxNalhxclFKSC1VOHJQMw?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
