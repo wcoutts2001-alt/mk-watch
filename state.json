@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-30T01:04:41+00:00",
+   "last_success_at": "2026-10-30T02:03:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -58,7 +58,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T01:04:41+00:00",
+   "last_success_at": "2026-10-30T02:03:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T01:04:41+00:00",
+   "last_success_at": "2026-10-30T02:03:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,14 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T01:04:41+00:00",
+   "last_success_at": "2026-10-30T02:03:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:72b89601615081be",
     "news:bc1a104670ec00c1",
     "news:e88abd26ff673582",
     "news:ca5f0288bf47351c",
@@ -590,11 +589,12 @@
     "news:07b7f36811e1f4f2",
     "news:07e83068989dcd2f",
     "news:63a045c1a202bc17",
-    "news:67dbd296e4dc0f4e"
+    "news:67dbd296e4dc0f4e",
+    "news:d140fdc7af86a20b"
    ],
-   "last_success_at": "2026-10-30T01:04:41+00:00",
+   "last_success_at": "2026-10-30T02:03:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T01:04:41+00:00"
+   "last_new_item_at": "2026-10-30T02:03:03+00:00"
   }
  },
  "digest_queue": [
@@ -621,6 +621,9 @@
   },
   {
    "text": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE03Zi1qdU5pRzlCLWNqc0FqYnFXQTA3aU1RSDdSWHZqWFUxb2dMOUpsLTNVRkRRZE9teDVNQU1LS2YyRFUxRG5rd3hDZms3aU0yV2dF?oc=5"
+  },
+  {
+   "text": "Literární časopisy se ohradily proti dotačním podmínkám ministerstva kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxOMkN5b1gwc3NEbXY0NGxkLXhMV1dVeGl5ZDVxRHptczhWUk82eFBGNDNyYi05dVVlZVNXcUNrTjI1cVZtX1R0RjNuTGtpdHNpLVpsVW9RTTBvSENwQXA5RC1CenlLYjY1VVlEYkotaERyd25zREpIYmZCS3puWGd1Q05MRXczZ2RYZkp5Y01Vb1VoS2RfRnhKZDlqeXkwcU4zQjM2Z3A1MmRUUjdJdUpmVVVYTUxnVHB3S3c?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
