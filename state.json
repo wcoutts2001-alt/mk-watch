@@ -28,7 +28,7 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9"
    ],
-   "last_success_at": "2026-10-30T08:31:56+00:00",
+   "last_success_at": "2026-10-30T09:30:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T09:45:47+00:00"
   },
@@ -58,7 +58,7 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27"
    ],
-   "last_success_at": "2026-10-30T08:31:56+00:00",
+   "last_success_at": "2026-10-30T09:30:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T20:52:42+00:00"
   },
@@ -76,7 +76,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-30T08:31:56+00:00",
+   "last_success_at": "2026-10-30T09:30:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -84,14 +84,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-30T08:31:56+00:00",
+   "last_success_at": "2026-10-30T09:30:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:024d13fb5a292557",
     "news:e211c7d83cc80f73",
     "news:b1e83bb69a3abbd0",
     "news:962fef49fb2be61b",
@@ -590,11 +589,12 @@
     "news:cbc4b0ef3823fd9c",
     "news:0f5db22993a736a7",
     "news:3dc68406681ffa4f",
-    "news:e7bd01cea478723c"
+    "news:e7bd01cea478723c",
+    "news:e5ad2baf2073daee"
    ],
-   "last_success_at": "2026-10-30T08:31:56+00:00",
+   "last_success_at": "2026-10-30T09:30:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T04:25:17+00:00"
+   "last_new_item_at": "2026-10-30T09:30:17+00:00"
   }
  },
  "digest_queue": [
@@ -636,6 +636,9 @@
   },
   {
    "text": "Už dost, vole. Zpěvák slavné kapely tvrdě zúčtoval s Klempířem za „poplivání“ Voskovce a Wericha - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOVGlkZGNnODdzM29UTWI4ODE2Z0VIN29zMUNfRDg1c2drRENfU1ZEMUlLand3Mmh2bmhzM2NpNVg0NW03UkV6M01naWYySjN6dGowNGh6T1ZYcS1OY0RYTlFqOHktbjUyakU1Y1RPVmVNWVpobGFuVjA3eE1LZ04xdGE1VmIwSjZ6c3U1UUR2U1BKWEF1ZkhKUWZCTTZ0XzNmSGMtdmZKQWhNc3dEWmlxWjJLZ2R5Zw?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury ukončilo činnost Garanční rady Muzea romské kultury - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxOWFRoR01leDRLQ2tnV1l3emlPVzVzYnpkUEg4WWIwcWUxbGVvS3pkM0VXT0JYTGg1dEo0WEV4YUxydWtDZmpEMGJoeW1ZemZtekIyUFNwbEo0RHNTQ0NVUDdSRm1BVU9xRmZmVVJOazl0TjA5S2dLaHpCMlFvNGhtVnItYzVvU2g5REQ4cG41bUZCT0dmc2RHRHRPRVBpZzROWGNKRENhajg5aUthMkQ3MHpMYzM?oc=5"
   }
  ],
  "last_digest_date": "2026-10-29"
