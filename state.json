@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T10:25:19+00:00",
+   "last_success_at": "2026-10-31T11:00:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -61,7 +61,7 @@
     "facebook:ea1b9a7f5ecb78f2",
     "facebook:5ef1bbf0b6a80351"
    ],
-   "last_success_at": "2026-10-31T10:25:19+00:00",
+   "last_success_at": "2026-10-31T11:00:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T22:45:08+00:00"
   },
@@ -79,7 +79,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T10:25:19+00:00",
+   "last_success_at": "2026-10-31T11:00:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -87,14 +87,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T10:25:19+00:00",
+   "last_success_at": "2026-10-31T11:00:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:eb7d76f3135d4389",
     "news:6e6a332bfc59012f",
     "news:f2b4097e360e73d5",
     "news:d319e6c9bfa3653d",
@@ -593,11 +592,12 @@
     "news:10e11e7811640b35",
     "news:3ee1330348d7ebf2",
     "news:c35380fe6df03fcc",
-    "news:73d8bfbb7b75e57a"
+    "news:73d8bfbb7b75e57a",
+    "news:d80a88dccfed4fa6"
    ],
-   "last_success_at": "2026-10-31T10:25:19+00:00",
+   "last_success_at": "2026-10-31T11:00:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T09:49:24+00:00"
+   "last_new_item_at": "2026-10-31T11:00:00+00:00"
   }
  },
  "digest_queue": [
@@ -609,6 +609,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu zahajuje program „Zvuky Vietnamu: Melodie života“ pro rok 2026 pro vzdělávací a školicí instituce pod jeho přímou správou. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUZrZnBYclQxX1lELUVNR2RoQVgwS25qdGMzcUlnUl9GR25CRlhSSTQ4Y2tiNEp0d0tsWjB3TW5pS1c5cUtVeUVDSHU2Q09ZTUtJTHFCa3pDN0pMTkRIcVB3cmlXYm5vSzBNZHZFT1dNQjNMeTBhZzJBb3QzbXl4N0QyRnJxaEFZRk0xM1ZDak9sOGF4bkhkdUJ5dG54c3VTTEVRc1BERmgwX1U2Vi1oWUhQbTNMTWJnUEpaTnpZVFBYdGpteFpNeXcyMTMxVm5qWkItVjAwdkNyOVJBSm1tV1habEo?oc=5"
+  },
+  {
+   "text": "Studenti dostanou omluvenku na protesty. Klempíř nesmí na DAMU - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHFxWmYzQ2diaUxDYm1sT2xjQjdfYjJCbW85QVcyQ1BHZ3pDR0FEMzliNnFNUUdPN0JfX3c0dEtkTFRkbl92ZW5icjA0QXozdDNvaEdLb0JoTklOckowOTNvSDV3aE0xYmRzZVd2dWtLZ0xoMm05Q09HQWZEU3JfSEJtTGVkaGtKbC1kUWhWQXhmMHl2VGVVbTcyUklBb1ZBUDY1TWZucmg0aUU?oc=5"
   }
  ],
  "last_digest_date": "2026-10-30"
