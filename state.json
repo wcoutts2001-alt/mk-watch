@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T20:43:09+00:00",
+   "last_success_at": "2026-10-31T21:16:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -62,7 +62,7 @@
     "facebook:5ef1bbf0b6a80351",
     "facebook:5da99eb485b67b1f"
    ],
-   "last_success_at": "2026-10-31T20:43:09+00:00",
+   "last_success_at": "2026-10-31T21:16:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-31T20:43:09+00:00"
   },
@@ -80,7 +80,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T20:43:09+00:00",
+   "last_success_at": "2026-10-31T21:16:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -88,18 +88,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T20:43:09+00:00",
+   "last_success_at": "2026-10-31T21:16:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e18fc36651d1bcf2",
-    "news:a6a84e6c2c633160",
-    "news:ac78276bcacdf6ea",
-    "news:39278a0b6a8dbc3f",
-    "news:fd0922a09be4ab6d",
     "news:77fa945e60e91476",
     "news:50b752806833c12a",
     "news:e92975d876fe20c5",
@@ -594,11 +589,16 @@
     "news:6b368e71759a8dd4",
     "news:4b1c0d2de2e2eab6",
     "news:d0380d016371e2b9",
-    "news:64049c2e6fdaf248"
+    "news:64049c2e6fdaf248",
+    "news:74dc4e58c0ec1ab7",
+    "news:6897eee171298f8c",
+    "news:674bc8d0f6f99365",
+    "news:f3506542f83010ab",
+    "news:99da1951baf0af35"
    ],
-   "last_success_at": "2026-10-31T20:43:09+00:00",
+   "last_success_at": "2026-10-31T21:16:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T20:43:09+00:00"
+   "last_new_item_at": "2026-10-31T21:16:18+00:00"
   }
  },
  "digest_queue": [
@@ -622,6 +622,21 @@
   },
   {
    "text": "Tři scénáře růstu vietnamského cestovního ruchu do roku 2030 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3hvMjVIb3NpR0gxODUyUHJyNm9CYlBDcjNWMWFDQlE4Q3gwRWhfY2o0TnA4cWVUbEcyOVo3bklURjNHbG1IM29nVnczdF9aU3BxNlJPYVk2Vk55OGJsakp5eTVjR2xMV2dYVDN4UXJsWFRQYThUcFNlOTFtTExwY0Z5OFhuMExKUXpZ?oc=5"
+  },
+  {
+   "text": "Klempířova přestavba kultury se hroutí. Postavila se jí občanská společnost i jeho vlastní přešlapy. - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ2Zjamp5QkhRQ1FTV0pfRVBTellkeGVjTlNGWnprVy1TeFU4eWw3UEZBZ3BNci1YLWs2X1duY1hweVNRSVBfT1FQdmxwU1N4UDNaelRBcXpidVplQXdPTk12czNKYkRLSWVyUnBQcEFGNW14aVlPMHpEZFlEYnBlZ29NUlRLZEEwT204NGQzVTl1OUVyRWVIRzllMjdDV0xPVm80UlJITmt3QUQ3S2l3bXBTLUY0cTFCbUNZNUgtTTJrVHB4c1NBd3Q4X1hQLVlqTXdvbExoVzA1emw5QXlaWE4wVDhTQlN0WDNCWjNnMA?oc=5"
+  },
+  {
+   "text": "„Kritika vyplývá z neznalosti.“ Poslanci jednali o financování ČT a rozhlasu, přišla stovka lidí - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcGt2YUY3bzhGOEhwZkM1UkJxa2lZMEV2eEI0NWlZQXhQdVJqMWxSV0ZJZ2x5NENlOFc4OHkwMVBudS13NGJOQVkwdm5CNGt4WUNzblcwbHJSUGVM?oc=5"
+  },
+  {
+   "text": "Vietnam a Japonsko podporují spolupráci v oblasti kultury, cestovního ruchu a ochrany autorských práv v digitálním prostředí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPX3NpMHpmb3dvTWtFR19zSlBnMHY1MEpUT2duMEppdS1xOGRjbjRYQ1QzZWpEeE5DWE51cWpRanlBRG1KX1Q0RHdIdUx5alMwNTVEZ3hYT1BNeDBhS2NJd3dwdFNJNmpKN2lRYkhjM0Y5TGhJYlAtcGtvSTlZUTNVM045cTRuN0pFYXZhNm8tSVdHbXozd0NXVEJrcGlqLXVSZ2NudGFPUVg5Sm9aU2tsUXZPUjRBdw?oc=5"
+  },
+  {
+   "text": "Podpora cestovního ruchu v Hai Phongu, rozšíření turistického trhu na jihu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxOcWczSVJWRE9ETzJoc01BQXJqdnFDNzU2WXRFOW9NMUpUbEdJdXMtVmVSM2F4YkkybkFaeEVXbXNWNGlMYVE1VXFIY3A5RDhaWWs5Z2NETnB6MF84ZmRtQnpRcnhycWFXX1Z0YWpObDZReC1idlNCemhhQm1FQks2UW5WNjMtMVFJMEtrZWZ6Yw?oc=5"
+  },
+  {
+   "text": "Pokračujte v používání starého loga Da Nang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE50TTVqcVUxYkUwemhObTM1M1FsVU5KNFlmbTlNUXJqbnhzMkdZd3I0aHNJcGktakxVcjU4QU1vU0txb0RIWUZZb3B2REFiT3ZVSV9qaE5xc0lHMEtfYTBES1NxWGwwY1MxQXBmc2VZTXU2TnZsQkxxNg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
