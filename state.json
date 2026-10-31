@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T17:39:41+00:00",
+   "last_success_at": "2026-10-31T18:11:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -61,7 +61,7 @@
     "facebook:ea1b9a7f5ecb78f2",
     "facebook:5ef1bbf0b6a80351"
    ],
-   "last_success_at": "2026-10-31T17:39:41+00:00",
+   "last_success_at": "2026-10-31T18:11:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T22:45:08+00:00"
   },
@@ -79,7 +79,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T17:39:41+00:00",
+   "last_success_at": "2026-10-31T18:11:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -87,14 +87,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T17:39:41+00:00",
+   "last_success_at": "2026-10-31T18:11:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:348f478c2e9b1d62",
     "news:a2d53488b5d59e7b",
     "news:efcf09816ae0f2eb",
     "news:659902728cabc907",
@@ -593,13 +592,18 @@
     "news:e5e3cba881683645",
     "news:8b88cca0e0e5dcc8",
     "news:66bcfcc559f77570",
-    "news:b0adfe78ff287e6c"
+    "news:b0adfe78ff287e6c",
+    "news:45cae5228ec63f47"
    ],
-   "last_success_at": "2026-10-31T17:39:41+00:00",
+   "last_success_at": "2026-10-31T18:11:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T15:41:37+00:00"
+   "last_new_item_at": "2026-10-31T18:11:55+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Drsný výprask pro Klempíře. Rajmont mu poslal nekompromisní vzkaz - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPdFJGanExWkFDLTRUQWhpd3NHN1dMbjYtQWxJY0lkZHRNMUVKZ3p3bk4xcy14SEpXS1dXb1pkck1fSnNlaFJrVUpaamRueG10Nm9tVW9WTmNzSHNXSlpYaThURWhCeTJUd0lUQXJNMVVHU1BXZlo1ZHVXTi1kX2NSbGczdFNqMVpMTDY5bUJmaEhqVERPN3c?oc=5"
+  }
+ ],
  "last_digest_date": "2026-10-31"
 }
