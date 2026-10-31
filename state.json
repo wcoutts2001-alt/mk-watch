@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T22:29:13+00:00",
+   "last_success_at": "2026-10-31T23:01:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -62,7 +62,7 @@
     "facebook:5ef1bbf0b6a80351",
     "facebook:5da99eb485b67b1f"
    ],
-   "last_success_at": "2026-10-31T22:29:13+00:00",
+   "last_success_at": "2026-10-31T23:01:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-31T20:43:09+00:00"
   },
@@ -80,7 +80,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T22:29:13+00:00",
+   "last_success_at": "2026-10-31T23:01:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -88,14 +88,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T22:29:13+00:00",
+   "last_success_at": "2026-10-31T23:01:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:79574ba6e67c6e8c",
     "news:99e28cd1681b1914",
     "news:18e9006eab0765ee",
     "news:931422dc2dcadec0",
@@ -594,11 +593,12 @@
     "news:99da1951baf0af35",
     "news:d66a5a80cb937ba0",
     "news:ca92e11941a586df",
-    "news:cabc8bcb866f49ea"
+    "news:cabc8bcb866f49ea",
+    "news:3a86198c8a4d971c"
    ],
-   "last_success_at": "2026-10-31T22:29:13+00:00",
+   "last_success_at": "2026-10-31T23:01:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T22:29:13+00:00"
+   "last_new_item_at": "2026-10-31T23:01:58+00:00"
   }
  },
  "digest_queue": [
@@ -643,6 +643,9 @@
   },
   {
    "text": "34 provincií a měst je připraveno na Den vietnamské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPNURHZEhTeHh0WVZIT2Y4c3dXUDgydlQySk02eWs1UUlveXhZTElEMzIxcDg3UlUyQ3FZeUFhR3o0eWdXcmRSd1BIX1ZGZTRIWmt6RGYyUC01U2VfSGtEY0ZfUnBKVEt6Wk9CNTJOb184MURxYTdfWjNfc0c5Q0Z5bGRmdy1WaHVPYmhz?oc=5"
+  },
+  {
+   "text": "Uvolnění kreativity studentů prostřednictvím „Zvuků Vietnamu“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOZjNmVldrOEtwYjRCeXdaSUxHR2VjaThhS2sxc1NLVHAwV3cwcWlGUk1YSjByQS1lM0JFYloyZ3d3OHZmOElGYi04alRNVXdWOHJvVTJRQVhCWU5YMDVSYURPZ2s2R29UUURrN2NPVUZmdnZZeEhfSUx1ZW1GNkQxR1U3U0dET0QyZXZ6d3U5T2o5QmY1RVFr?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
