@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T21:58:26+00:00",
+   "last_success_at": "2026-10-31T22:29:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -62,7 +62,7 @@
     "facebook:5ef1bbf0b6a80351",
     "facebook:5da99eb485b67b1f"
    ],
-   "last_success_at": "2026-10-31T21:58:26+00:00",
+   "last_success_at": "2026-10-31T22:29:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-31T20:43:09+00:00"
   },
@@ -80,7 +80,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T21:58:26+00:00",
+   "last_success_at": "2026-10-31T22:29:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -88,16 +88,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T21:58:26+00:00",
+   "last_success_at": "2026-10-31T22:29:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:77fa945e60e91476",
-    "news:50b752806833c12a",
-    "news:e92975d876fe20c5",
     "news:79574ba6e67c6e8c",
     "news:99e28cd1681b1914",
     "news:18e9006eab0765ee",
@@ -594,11 +591,14 @@
     "news:6897eee171298f8c",
     "news:674bc8d0f6f99365",
     "news:f3506542f83010ab",
-    "news:99da1951baf0af35"
+    "news:99da1951baf0af35",
+    "news:d66a5a80cb937ba0",
+    "news:ca92e11941a586df",
+    "news:cabc8bcb866f49ea"
    ],
-   "last_success_at": "2026-10-31T21:58:26+00:00",
+   "last_success_at": "2026-10-31T22:29:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T21:16:18+00:00"
+   "last_new_item_at": "2026-10-31T22:29:13+00:00"
   }
  },
  "digest_queue": [
@@ -637,6 +637,12 @@
   },
   {
    "text": "Pokračujte v používání starého loga Da Nang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE50TTVqcVUxYkUwemhObTM1M1FsVU5KNFlmbTlNUXJqbnhzMkdZd3I0aHNJcGktakxVcjU4QU1vU0txb0RIWUZZb3B2REFiT3ZVSV9qaE5xc0lHMEtfYTBES1NxWGwwY1MxQXBmc2VZTXU2TnZsQkxxNg?oc=5"
+  },
+  {
+   "text": "Školení o implementaci Národního souboru kritérií pro kulturní rozvoj - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZjZVhyNWtiM0JIeDhNWDYwajFuTFhZQjJEdC04SFh4Vm5DOWh2WGtLRDZsVE4zNzFqeFVoU3lTMTlTWlBrdnpBT1NkWURITGptY0liMWlOdTJwODdqQ25YSzYtWkRseF9FTW54djRjVnVZRDJDZEVlT2VXOWh4WmFpLWZOcWRweEdJVUVzN2hEUQ?oc=5"
+  },
+  {
+   "text": "34 provincií a měst je připraveno na Den vietnamské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPNURHZEhTeHh0WVZIT2Y4c3dXUDgydlQySk02eWs1UUlveXhZTElEMzIxcDg3UlUyQ3FZeUFhR3o0eWdXcmRSd1BIX1ZGZTRIWmt6RGYyUC01U2VfSGtEY0ZfUnBKVEt6Wk9CNTJOb184MURxYTdfWjNfc0c5Q0Z5bGRmdy1WaHVPYmhz?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
