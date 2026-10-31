@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T13:03:37+00:00",
+   "last_success_at": "2026-10-31T13:50:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -61,7 +61,7 @@
     "facebook:ea1b9a7f5ecb78f2",
     "facebook:5ef1bbf0b6a80351"
    ],
-   "last_success_at": "2026-10-31T13:03:37+00:00",
+   "last_success_at": "2026-10-31T13:50:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T22:45:08+00:00"
   },
@@ -79,7 +79,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T13:03:37+00:00",
+   "last_success_at": "2026-10-31T13:50:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -87,14 +87,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T13:03:37+00:00",
+   "last_success_at": "2026-10-31T13:50:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f2b4097e360e73d5",
     "news:d319e6c9bfa3653d",
     "news:199d75a40f58e1d1",
     "news:348f478c2e9b1d62",
@@ -593,11 +592,12 @@
     "news:c35380fe6df03fcc",
     "news:73d8bfbb7b75e57a",
     "news:d80a88dccfed4fa6",
-    "news:e5e3cba881683645"
+    "news:e5e3cba881683645",
+    "news:8b88cca0e0e5dcc8"
    ],
-   "last_success_at": "2026-10-31T13:03:37+00:00",
+   "last_success_at": "2026-10-31T13:50:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T11:32:16+00:00"
+   "last_new_item_at": "2026-10-31T13:50:21+00:00"
   }
  },
  "digest_queue": [
@@ -615,6 +615,9 @@
   },
   {
    "text": "Galerie: Drsný výprask pro Klempíře. Rajmont mu poslal nekompromisní vzkaz - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxQdWJYVUpuVnpzQmRhREZUOHl0ZnczdFh0UDF5ejJ3RVJ3UkhPTkdVZDFyQ0lWWFlQcGlDcHBRWjFwLXpidldscUt6dy1mbEVmSFM3SWhGQnpTdUdueDBuUTVnaEVLMVhxaFJHaF81bzRYeEktMHYzeWRybzZ6VUxsVjRrTVl0Slg0aFBTVE5EZV93Y2l4TVgxd09uQWowMElqa1VV?oc=5"
+  },
+  {
+   "text": "Vzduchem voní samet. Studenti dostávají omluvenky. Ministr Klempíř má zákaz vstupu na DAMU - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxNcm5mQ1g2VXE0ZWhGUkpxQTU4elVqSmRLekpPUV9pRkk2ckVqRkRwVFlHb29GaTA5MC01QnJsYW9hWTRWNkVVRkZLRjI5Y0ZoODlGZ3lQT25pRGlSemE5NXk1RWVLQ1Q1cldSWlN1TXBqdGVTZlRXX2xRSlE1eFlUaUFKQjdXS0w4M0RVbEtIU0x3VUpLYXF4bVFrdEhfY2d5bUVnN2cyU3V5X0hER1VPWWRiUy04WFNsX2pxekU1RDdmbWhVVVlqQ3F2NW02ekxqbU8tQg?oc=5"
   }
  ],
  "last_digest_date": "2026-10-30"
