@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-10-31T20:00:21+00:00",
+   "last_success_at": "2026-10-31T20:43:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -59,11 +59,12 @@
     "facebook:d4747b0376515b36",
     "facebook:ca5230436d627c27",
     "facebook:ea1b9a7f5ecb78f2",
-    "facebook:5ef1bbf0b6a80351"
+    "facebook:5ef1bbf0b6a80351",
+    "facebook:5da99eb485b67b1f"
    ],
-   "last_success_at": "2026-10-31T20:00:21+00:00",
+   "last_success_at": "2026-10-31T20:43:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T22:45:08+00:00"
+   "last_new_item_at": "2026-10-31T20:43:09+00:00"
   },
   "instagram": {
    "seen": [
@@ -79,7 +80,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-10-31T20:00:21+00:00",
+   "last_success_at": "2026-10-31T20:43:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -87,19 +88,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-10-31T20:00:21+00:00",
+   "last_success_at": "2026-10-31T20:43:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a2d53488b5d59e7b",
-    "news:efcf09816ae0f2eb",
-    "news:659902728cabc907",
-    "news:d46d885e71388b39",
-    "news:a5563fcbc94023e3",
-    "news:fa6acea8d2878079",
     "news:e18fc36651d1bcf2",
     "news:a6a84e6c2c633160",
     "news:ac78276bcacdf6ea",
@@ -593,16 +588,40 @@
     "news:8b88cca0e0e5dcc8",
     "news:66bcfcc559f77570",
     "news:b0adfe78ff287e6c",
-    "news:45cae5228ec63f47"
+    "news:45cae5228ec63f47",
+    "news:462db4ced1a5b88e",
+    "news:35f6a2d264a9c85d",
+    "news:6b368e71759a8dd4",
+    "news:4b1c0d2de2e2eab6",
+    "news:d0380d016371e2b9",
+    "news:64049c2e6fdaf248"
    ],
-   "last_success_at": "2026-10-31T20:00:21+00:00",
+   "last_success_at": "2026-10-31T20:43:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-31T18:11:55+00:00"
+   "last_new_item_at": "2026-10-31T20:43:09+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Drsný výprask pro Klempíře. Rajmont mu poslal nekompromisní vzkaz - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPdFJGanExWkFDLTRUQWhpd3NHN1dMbjYtQWxJY0lkZHRNMUVKZ3p3bk4xcy14SEpXS1dXb1pkck1fSnNlaFJrVUpaamRueG10Nm9tVW9WTmNzSHNXSlpYaThURWhCeTJUd0lUQXJNMVVHU1BXZlo1ZHVXTi1kX2NSbGczdFNqMVpMTDY5bUJmaEhqVERPN3c?oc=5"
+  },
+  {
+   "text": "Klempíře už na DAMU nechtějí. Šťastný soptí, nežádoucí je i jeho manželka - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNQV9wUzg4ZTJ2M3IzYm96dkFpUC1jaEh0anRZcHdnSWpBQlhLS0tDRUVsWEF2MXhKNnYxMXBFcHVvT3pRaEVmVnVVYXN2UWI1aXdvWWFaWG56Sk12M0FtQ01pQURHVUNBeEhfZTRXbnNPNjNldFFCQzVhZ0wtNUQzdDV1MVpBWmxXRkJQZDYxM09qQlJmU2p1eXIwLVVrYTI3TURF?oc=5"
+  },
+  {
+   "text": "Blížíme se dnu, slušnost už nestačí. Babiš přichází o přízeň, říká Cibulka k protestům - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXdVREthUEtzaU1RamhBeFczc3hpS1RzZnJ6ejdlX1doZFdNaTc4cE1CYV9acW1pMEpFeHB1TmZRMXBkMjdOcnhMa2tBZlVhWEZtVjJKYzRiS0VNRngwS3VqVWNxR2FwcDdrSVEwTVh1czRiX0l0Ny1odnY5U1NMc3h3ay13ZXF4YThxemJQaWpIMU9YN1AySnE5X0RnRmhKR2YzOGMtaFRidmVwR1h6cUlKUEw1akR2cWNhNG1VOGpYOVZvTUpLRWFKVXNTQTBKQzVya0VkalFiV2phZnRDczZheXpwNEZiWWNmb01NU3ZLeXM?oc=5"
+  },
+  {
+   "text": "Eva Turnová: Klempířovo ticho - mujRozhlas\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFB2UW4xZHBxQ3psREFJRFhmZEctVE5TM1lPUHktZkx0NVluTFRfM19hb18tRFNLNzZyTUdrUWtNdEFNaFNPcWRsSDBqdFA4bWpDU1FpYnhoQktiY3QzRkFyU3pDa3JkMTdIaHVUVEdVcnAycFk?oc=5"
+  },
+  {
+   "text": "Zintenzivněte komunikaci a propagaci Dne vietnamské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1ExU2Y2V21UMFJNQmo4MlloRVFhM0hXVVZyXzBXVjhIYnF0dzJZemc5M2x6Z2N2blRyM1YzbWNIOTRVTnBnX24wVDlabjNZelpuRXlQX1ltQ1dOVDBYWW9pVTVCOEg5RERNMlc5a2NxWXRoclVncUdIdDJkckdFVmwtSG03dmhpRXFB?oc=5"
+  },
+  {
+   "text": "Šíření zvuků Vietnamu, probouzení kulturních zdrojů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQWFF6SkNTTEF5UDZ3dEtHaHg5TzJiemx0X0czMXMxMmM0Z1ItYkN0YU1EdkNTZ2R6V2QtbE9ER0xQT29NUTJMQUhNUHQwYlVoUEhjR21vaUxVSXBMbVg4NC1tWnBxYVFzaTVkX1c3aDhwdzZFaUN6ckdvMmRiVTlES3U0UUpXQQ?oc=5"
+  },
+  {
+   "text": "Tři scénáře růstu vietnamského cestovního ruchu do roku 2030 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3hvMjVIb3NpR0gxODUyUHJyNm9CYlBDcjNWMWFDQlE4Q3gwRWhfY2o0TnA4cWVUbEcyOVo3bklURjNHbG1IM29nVnczdF9aU3BxNlJPYVk2Vk55OGJsakp5eTVjR2xMV2dYVDN4UXJsWFRQYThUcFNlOTFtTExwY0Z5OFhuMExKUXpZ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
