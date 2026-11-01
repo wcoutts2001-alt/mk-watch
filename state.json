@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T20:22:50+00:00",
+   "last_success_at": "2026-11-01T21:00:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -61,11 +61,12 @@
     "facebook:ea1b9a7f5ecb78f2",
     "facebook:5ef1bbf0b6a80351",
     "facebook:5da99eb485b67b1f",
-    "facebook:62d4d7c0e7da64ba"
+    "facebook:62d4d7c0e7da64ba",
+    "facebook:1a88f8e7c3b67faa"
    ],
-   "last_success_at": "2026-11-01T20:22:50+00:00",
+   "last_success_at": "2026-11-01T21:00:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T03:59:33+00:00"
+   "last_new_item_at": "2026-11-01T21:00:08+00:00"
   },
   "instagram": {
    "seen": [
@@ -81,7 +82,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T20:22:50+00:00",
+   "last_success_at": "2026-11-01T21:00:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,17 +90,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T20:22:50+00:00",
+   "last_success_at": "2026-11-01T21:00:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8b533c0501e13b27",
-    "news:cd59ffa900174763",
-    "news:f415be9a097a7549",
-    "news:cbf0df07898a10ad",
     "news:f99d6d8bcdb270a4",
     "news:3f69aef924385cc7",
     "news:b4531d348820cd71",
@@ -595,11 +592,15 @@
     "news:19bbb5f5b10e05a0",
     "news:c9e2589782874445",
     "news:820c92b6bd08e9cb",
-    "news:f97bfa199308608e"
+    "news:f97bfa199308608e",
+    "news:9ac33abbe8e1649f",
+    "news:185997c979bd8d00",
+    "news:ec08794f8491fb10",
+    "news:ba76552e44e56602"
    ],
-   "last_success_at": "2026-11-01T20:22:50+00:00",
+   "last_success_at": "2026-11-01T21:00:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T19:49:19+00:00"
+   "last_new_item_at": "2026-11-01T21:00:08+00:00"
   }
  },
  "digest_queue": [
@@ -635,6 +636,15 @@
   },
   {
    "text": "Bez televizního přenosu i ministra. Předávání státních cen vyvolalo nesouhlas umělců - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxPbEl0UG9VTGg1MDU3WElsazlPazVPWXNfbXp1S0tPZGFPb0ltYVA3WEJfX1ljVGRTX3N2UXlqeGhVTS11YkcxdnM0akFzWFRDdGV5UjJGTEVBeXJEanZRZ1RlS29fLTFKbFhPOFdQSW5seWVtMUdhZENVNmhXZDNHamJueWVRTWx1eDV2ZzZNUm9FYlBsTm92OXlrVDhWdUZLYUliOFhja0Y2ejRtSzdXUElvMlZoWk5PZmxEdDV0bGRzMXhLUjVn?oc=5"
+  },
+  {
+   "text": "Udílení cen kultury provázely protesty i prázdné židle. Ministr nedorazil - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxOQkdMeWpWRTlCeHRZM1NRZm52ZnZ4cEo3b1NZOUtPcW9WQ0JTUWppajgtd1hBZUtJZXpWSzFyS1dzNTh0VndmNDFoZWMxczF0Rk1VRFE3enJwWjF2aUtvMmM1SHNDRTZYVWRCZ1B6T2RYQWVHbUhBYjhwX01CU2Z4Zmk3SjlkUHJVODZzeUpPdEFaX0tqcm1uOGM5V3J1TXFvVXdFejNEMTd3WFZzRW12YjZBbEk4bGZTUm5rTWhXN0M4ZnpVMzln?oc=5"
+  },
+  {
+   "text": "Spuštění digitální mapy, propojení veřejnosti s kulturou. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE15bTFSRjNPMWtPOVpVa04yMmVoYkhOMDI1aElHeWpaaU9YT2d1eUF1aWtQNFJmQWdYS2lFRm01VFR5QjBVcWJBa29PQTltZWFaTXNjNGdQMG1FMzIwYjc3S19lby1xZEpzVXpLX0E4aG1LWE5tWTZkV0FzZjludw?oc=5"
+  },
+  {
+   "text": "Spuštění platformy Digitální mapa vietnamské kultury: - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE9FUW1UbFZvZmY3Ukh2SlRsZUNQeGNxN0ZBSVVBME04aE4wQnpSUUVPUXZ2a3B1UTdHSTdVLUxrdWl4S1A4cUpQVkswMExjSnhhT09mRjdCZElEM3Rtdlk4bDVIaDdYWndFRmxaMkxHTzFsRFdndmE4?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
