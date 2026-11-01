@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T16:31:28+00:00",
+   "last_success_at": "2026-11-01T17:13:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T16:31:28+00:00",
+   "last_success_at": "2026-11-01T17:13:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T16:31:28+00:00",
+   "last_success_at": "2026-11-01T17:13:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,20 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T16:31:28+00:00",
+   "last_success_at": "2026-11-01T17:13:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:835edfa67db5fb33",
-    "news:480cf1e069346874",
-    "news:1bcd0f85f5c3a2fc",
-    "news:a020d294853168d7",
-    "news:38911c216b660721",
-    "news:6d38c7e0da76260c",
-    "news:3d0d5e7ff51a18e4",
     "news:9c452d3a98a87aa9",
     "news:bf95c38171f682b6",
     "news:9508fee16f852639",
@@ -595,152 +588,20 @@
     "news:d5161b4ddfac19b3",
     "news:3074c63ccc00be60",
     "news:d2843b8b15042385",
-    "news:9ccc4fbb48506ee3"
+    "news:9ccc4fbb48506ee3",
+    "news:06da4e04aab6a391",
+    "news:55b35018bad04f25",
+    "news:3cfcce2329cdae66",
+    "news:27c7fa475da91e34",
+    "news:0959daaa9084eefa",
+    "news:594d1fe81556b1b3",
+    "news:cb59abc42a3f6dc6"
    ],
-   "last_success_at": "2026-11-01T16:31:28+00:00",
+   "last_success_at": "2026-11-01T17:13:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T16:31:28+00:00"
+   "last_new_item_at": "2026-11-01T17:13:51+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Drsný výprask pro Klempíře. Rajmont mu poslal nekompromisní vzkaz - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPdFJGanExWkFDLTRUQWhpd3NHN1dMbjYtQWxJY0lkZHRNMUVKZ3p3bk4xcy14SEpXS1dXb1pkck1fSnNlaFJrVUpaamRueG10Nm9tVW9WTmNzSHNXSlpYaThURWhCeTJUd0lUQXJNMVVHU1BXZlo1ZHVXTi1kX2NSbGczdFNqMVpMTDY5bUJmaEhqVERPN3c?oc=5"
-  },
-  {
-   "text": "Klempíře už na DAMU nechtějí. Šťastný soptí, nežádoucí je i jeho manželka - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNQV9wUzg4ZTJ2M3IzYm96dkFpUC1jaEh0anRZcHdnSWpBQlhLS0tDRUVsWEF2MXhKNnYxMXBFcHVvT3pRaEVmVnVVYXN2UWI1aXdvWWFaWG56Sk12M0FtQ01pQURHVUNBeEhfZTRXbnNPNjNldFFCQzVhZ0wtNUQzdDV1MVpBWmxXRkJQZDYxM09qQlJmU2p1eXIwLVVrYTI3TURF?oc=5"
-  },
-  {
-   "text": "Blížíme se dnu, slušnost už nestačí. Babiš přichází o přízeň, říká Cibulka k protestům - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXdVREthUEtzaU1RamhBeFczc3hpS1RzZnJ6ejdlX1doZFdNaTc4cE1CYV9acW1pMEpFeHB1TmZRMXBkMjdOcnhMa2tBZlVhWEZtVjJKYzRiS0VNRngwS3VqVWNxR2FwcDdrSVEwTVh1czRiX0l0Ny1odnY5U1NMc3h3ay13ZXF4YThxemJQaWpIMU9YN1AySnE5X0RnRmhKR2YzOGMtaFRidmVwR1h6cUlKUEw1akR2cWNhNG1VOGpYOVZvTUpLRWFKVXNTQTBKQzVya0VkalFiV2phZnRDczZheXpwNEZiWWNmb01NU3ZLeXM?oc=5"
-  },
-  {
-   "text": "Eva Turnová: Klempířovo ticho - mujRozhlas\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFB2UW4xZHBxQ3psREFJRFhmZEctVE5TM1lPUHktZkx0NVluTFRfM19hb18tRFNLNzZyTUdrUWtNdEFNaFNPcWRsSDBqdFA4bWpDU1FpYnhoQktiY3QzRkFyU3pDa3JkMTdIaHVUVEdVcnAycFk?oc=5"
-  },
-  {
-   "text": "Zintenzivněte komunikaci a propagaci Dne vietnamské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1ExU2Y2V21UMFJNQmo4MlloRVFhM0hXVVZyXzBXVjhIYnF0dzJZemc5M2x6Z2N2blRyM1YzbWNIOTRVTnBnX24wVDlabjNZelpuRXlQX1ltQ1dOVDBYWW9pVTVCOEg5RERNMlc5a2NxWXRoclVncUdIdDJkckdFVmwtSG03dmhpRXFB?oc=5"
-  },
-  {
-   "text": "Šíření zvuků Vietnamu, probouzení kulturních zdrojů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQWFF6SkNTTEF5UDZ3dEtHaHg5TzJiemx0X0czMXMxMmM0Z1ItYkN0YU1EdkNTZ2R6V2QtbE9ER0xQT29NUTJMQUhNUHQwYlVoUEhjR21vaUxVSXBMbVg4NC1tWnBxYVFzaTVkX1c3aDhwdzZFaUN6ckdvMmRiVTlES3U0UUpXQQ?oc=5"
-  },
-  {
-   "text": "Tři scénáře růstu vietnamského cestovního ruchu do roku 2030 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3hvMjVIb3NpR0gxODUyUHJyNm9CYlBDcjNWMWFDQlE4Q3gwRWhfY2o0TnA4cWVUbEcyOVo3bklURjNHbG1IM29nVnczdF9aU3BxNlJPYVk2Vk55OGJsakp5eTVjR2xMV2dYVDN4UXJsWFRQYThUcFNlOTFtTExwY0Z5OFhuMExKUXpZ?oc=5"
-  },
-  {
-   "text": "Klempířova přestavba kultury se hroutí. Postavila se jí občanská společnost i jeho vlastní přešlapy. - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ2Zjamp5QkhRQ1FTV0pfRVBTellkeGVjTlNGWnprVy1TeFU4eWw3UEZBZ3BNci1YLWs2X1duY1hweVNRSVBfT1FQdmxwU1N4UDNaelRBcXpidVplQXdPTk12czNKYkRLSWVyUnBQcEFGNW14aVlPMHpEZFlEYnBlZ29NUlRLZEEwT204NGQzVTl1OUVyRWVIRzllMjdDV0xPVm80UlJITmt3QUQ3S2l3bXBTLUY0cTFCbUNZNUgtTTJrVHB4c1NBd3Q4X1hQLVlqTXdvbExoVzA1emw5QXlaWE4wVDhTQlN0WDNCWjNnMA?oc=5"
-  },
-  {
-   "text": "„Kritika vyplývá z neznalosti.“ Poslanci jednali o financování ČT a rozhlasu, přišla stovka lidí - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcGt2YUY3bzhGOEhwZkM1UkJxa2lZMEV2eEI0NWlZQXhQdVJqMWxSV0ZJZ2x5NENlOFc4OHkwMVBudS13NGJOQVkwdm5CNGt4WUNzblcwbHJSUGVM?oc=5"
-  },
-  {
-   "text": "Vietnam a Japonsko podporují spolupráci v oblasti kultury, cestovního ruchu a ochrany autorských práv v digitálním prostředí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPX3NpMHpmb3dvTWtFR19zSlBnMHY1MEpUT2duMEppdS1xOGRjbjRYQ1QzZWpEeE5DWE51cWpRanlBRG1KX1Q0RHdIdUx5alMwNTVEZ3hYT1BNeDBhS2NJd3dwdFNJNmpKN2lRYkhjM0Y5TGhJYlAtcGtvSTlZUTNVM045cTRuN0pFYXZhNm8tSVdHbXozd0NXVEJrcGlqLXVSZ2NudGFPUVg5Sm9aU2tsUXZPUjRBdw?oc=5"
-  },
-  {
-   "text": "Podpora cestovního ruchu v Hai Phongu, rozšíření turistického trhu na jihu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxOcWczSVJWRE9ETzJoc01BQXJqdnFDNzU2WXRFOW9NMUpUbEdJdXMtVmVSM2F4YkkybkFaeEVXbXNWNGlMYVE1VXFIY3A5RDhaWWs5Z2NETnB6MF84ZmRtQnpRcnhycWFXX1Z0YWpObDZReC1idlNCemhhQm1FQks2UW5WNjMtMVFJMEtrZWZ6Yw?oc=5"
-  },
-  {
-   "text": "Pokračujte v používání starého loga Da Nang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE50TTVqcVUxYkUwemhObTM1M1FsVU5KNFlmbTlNUXJqbnhzMkdZd3I0aHNJcGktakxVcjU4QU1vU0txb0RIWUZZb3B2REFiT3ZVSV9qaE5xc0lHMEtfYTBES1NxWGwwY1MxQXBmc2VZTXU2TnZsQkxxNg?oc=5"
-  },
-  {
-   "text": "Školení o implementaci Národního souboru kritérií pro kulturní rozvoj - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZjZVhyNWtiM0JIeDhNWDYwajFuTFhZQjJEdC04SFh4Vm5DOWh2WGtLRDZsVE4zNzFqeFVoU3lTMTlTWlBrdnpBT1NkWURITGptY0liMWlOdTJwODdqQ25YSzYtWkRseF9FTW54djRjVnVZRDJDZEVlT2VXOWh4WmFpLWZOcWRweEdJVUVzN2hEUQ?oc=5"
-  },
-  {
-   "text": "34 provincií a měst je připraveno na Den vietnamské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPNURHZEhTeHh0WVZIT2Y4c3dXUDgydlQySk02eWs1UUlveXhZTElEMzIxcDg3UlUyQ3FZeUFhR3o0eWdXcmRSd1BIX1ZGZTRIWmt6RGYyUC01U2VfSGtEY0ZfUnBKVEt6Wk9CNTJOb184MURxYTdfWjNfc0c5Q0Z5bGRmdy1WaHVPYmhz?oc=5"
-  },
-  {
-   "text": "Uvolnění kreativity studentů prostřednictvím „Zvuků Vietnamu“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOZjNmVldrOEtwYjRCeXdaSUxHR2VjaThhS2sxc1NLVHAwV3cwcWlGUk1YSjByQS1lM0JFYloyZ3d3OHZmOElGYi04alRNVXdWOHJvVTJRQVhCWU5YMDVSYURPZ2s2R29UUURrN2NPVUZmdnZZeEhfSUx1ZW1GNkQxR1U3U0dET0QyZXZ6d3U5T2o5QmY1RVFr?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu Hung Yen posiluje vnitřní kontrolu a předchází korupci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxOSEJ6Rmx4T011VWhpZTFZVWxBUE1BWTlTdFAxTWdramt6Ti1Ua2NKVS1EWmR3THFfWUUtQ1hSNndYc1lXLTN1VVR3TjhJLVVjaG5iZHZOU181emRncllwQlBydG5NUmZvdkZ5X0JvVjh5WjMxa04tcmFwdUUxaEZqSDNhUDV3VXlpUF9CVzVVTzltNHFWamhkOHo5ZlhnYTVVcXdQXy11NGQ5NkM4cXc?oc=5"
-  },
-  {
-   "text": "Persony non grata. Ministr Klempíř a mluvčí Šťastná mají zakázaný vstup na DAMU - Pražský patriot\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3RFWmk2ekVkaWJuVnRPc1BUX0lJY21ySWhzWlU2ckVMNUlQbHpZd2ZXYkNlOXM3RVVLVmNFUVRkTTl4S0h3RUt1MWJYQkxTcHpCWHgtdjZyQXMtSXRmQXdRLTVvLXZUQ3VsbkZ3ZDlwU2VWVllQa09kdkhhU0F0YXY3QnAzbHhlWjhlRURxUER6eXJ2aDRZUUhwNG01NVRZWGN3QjVjdEVYeHJQ?oc=5"
-  },
-  {
-   "text": "Socialistický mléčný bar i myšlenky Havla. Korzo Národní zve na oslavy revoluce - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTNFN1JlT251bnhqcEpybGt3c0pjTlJOWk4wQTJmdmtjNEVKa2Nka1EtWll3NWYtTEpoS1ZrbWRJRU1HM2JLaGpHcnBkUDd1aXd3Q2l6WHlyQmpaV19fcDg3ZlJqZ0ZzUE9aNGQ4UlZVc0NFTXZSVms1SGNGUGlWUzhDcVR4RzROaDNXN2lTZ3NUVUNhYXZsSFVyZFVjYW1ob0NTU3lOR2VLeUNGNXQ4OERjZlR4U0wxbUMzcDFRV1lmNFJzVm40cnZmTC1YM185WkgxUVNOOEZ2QXp0UEE?oc=5"
-  },
-  {
-   "text": "ANO zřejmě skončí na radnici Faltýnkova města. Pocítí to i tenisový boss Černošek - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE8tRW0yVHpTOEpBWjNjWDIxNUktcXZDNnJNSXpLSFhwdjR0NWNLRGZMU2tLOElDaWNHVFlBVFh0NDBPTDg1VkJNanp2bEowM2tSaDJHWVFoTTQwOFlK?oc=5"
-  },
-  {
-   "text": "Klempíř a Šťastná mají zákaz vstupu na DAMU. Prý je to zásah do demokracie - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxQVVQ1R1I4bHZncGMtWHpaNEpMXzBLY1dsbXhmV2h0bWNtVUw5elZuMGg2TUo1c3gxTzFMMG1OQ3ZUSHk5Q1VTaVd1VVhxRmEzeVVXMmdyOUtHOXZBejJhU25mNEtWSzRSRVAzRzVSU0pyNVNabmUyQWJVRGQ3eDNJbTRGOG5pMkcxTFdfUXVLTmtCdFg5dHVJWHVpcmlUWEYtT25OMkEtMWxQbFcwMWZxakxsWnJSM0tVNlFIMVZR?oc=5"
-  },
-  {
-   "text": "Klempíř potěšil Turka - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNTHExUXJMd1pYdlVfYzBpZTkzWk4wWVlTYnNEaVAzRFdOR0lXOVBjbjlab1A1dXlzWE5GN2Z0aGFWSW9UTTRlQVhUeFNrd092Mk12Sl83OUZNNXptU2tRRVpiZHBTaExVeGQwYlBOWkVtejhwX0VoaUhxZnpEUEVZb0tn?oc=5"
-  },
-  {
-   "text": "Blížíme se dnu, slušnost už nestačí. Babiš přichází o přízeň. Aleš Cibulka k protestům - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6AFBVV95cUxOUlNuenpqMURlYmtVWlc4X2tPMThQYmd5Rnc2Z0h4UFllWDlSUUlFbWxBejZCVTBLRll1bjl4ZHdDVnI1R1lienl2bXJfWlR6eDc2MUZUUElzcHJyOWRwczZEV0xXUEdxSkxRVFdEeWxFS25QbjRDeDFZbjJpZ3RWWFNTd0FkTlJBcmlxbzd1ZENPQ3RtXzd5WlBMaHJmQ29KalNhNFk3Q3NDWkE5UFcteGlEOE01YmxwU0E0dGV5dVdjNDZ1aXJCRXE1V1VsVTZLV3dfNDBEc2VVRDQwbmdzRDQwRktLelpH?oc=5"
-  },
-  {
-   "text": "Motoristé aktuálně soutěží o nejtrapnější výstup na veřejnosti - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxQcFljZ1VDbGkwR05iSERTUWUtbU1yLXNxRS1VRjc4QjQwVFdscDV0T3A3cUtxOWdyR3hMaENnNWdvMTdBeGp3Q0gzdnVJNm9Jd3NXTVduRm5vckMzdzVaYUN5Z3pHeVkyV013dkZLZkJZMk9PQk5qeXlNV3BmUExET014QWN2YmhmOTdIanZkR0Z1QVNrQ2NGNDNPOHBZRlBQSWh2bmJvb2ZGbmxWM0czZjNQVTVUdw?oc=5"
-  },
-  {
-   "text": "Brněnská Masarykova univerzita omluví 3. listopadu absenci ve výuce studentům, kteří se zúčastní shromáždění na podporu České televize a Českého rozhlasu - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE80cmN6a21jQWpiQm00TFdhaFh1a1JjalZpVXNoY0FzYTBPNldfLXhCYWVDTGFiRW5hNktiZWVFV0E4eFhwZjcxNFVFM3dFSkZSVzBDVg?oc=5"
-  },
-  {
-   "text": "Školení o metodách výuky výtvarné výchovy ve školách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNTzIwS2FSWDVxR3JudjdnbF9IbVNvMTNjUG9SblNWdm9ZRjM5U0o2cTY3OXBVU0o2S0hXOVJXbUNuSk5fS3hMUk9MOUFrWExKYVRpMXh4S05uQmltVUxrdWE5bnFpTFI1amR4UEhFaGtfMjgzLVZ4ZjFXa3N0Z09QMTlvNFMyeWo5VnhMXw?oc=5"
-  },
-  {
-   "text": "Propojení aktivit a vytvoření širšího dopadu pro Vietnamský den kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZlTGVIZ1RwM0xvM1RFbldjckJmcnZZUXFsR2tKMWF1TkIxYXIxWnJlcTRfQW9BMnRuV1ctTFpzUjRQemNNS3VEd0RydWh5ckYtanljb1VOaW9ZSlZnTmQ0amVmV0NiUzRCOHY2a3NpWkVWcFliOEJnODVzNEd4SHlyTnhOMVpwbWowSTZ5NThiNlN5QTJUWlln?oc=5"
-  },
-  {
-   "text": "Hlas Vietnamu 2026: Probuzení kulturní hrdosti v mladší generaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhCVmJpbnM1bVlXdWdJLVczd1lpVUtFU0pQSnA0TEFmLVJ4cXZhbk1xYUROaU05a2haMEd1a2pFbVJsUTJ4T20tZ1JqVmduOGZjV180cUtzMWc4VUVIVk5hUlJCQlRzR1NmNmE2cmFteF9CLUs4cEItVXRsMjFEVTNldVRvNFNaRVdtQXVyMDNERkxDVTA4?oc=5"
-  },
-  {
-   "text": "Na digitální mapě vietnamské kultury je aktualizováno 467 událostí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1lrb2xoNklkblFHOXZWWkduOFQ4WFk2UWdHV2t0cVpNcDdJUUhOeUh4cmFqckhUbHAwOVA0Q0lXdHRPSXRiWUZwUDQ5Vlh3QkM5bXNpdGtiRk9UNVV1aWttZXZpMmJHNlJIa010emNqek1tSkNnWldXZHBXamdmczZScGhaWXd0bG44?oc=5"
-  },
-  {
-   "text": "Aby se využil potenciál cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFB1cHVRVTk4WE50d3M4MDJSTjlwZy11Tml5YVJ5dU5veUdqYU1UWHZMUHVXWGFBbC1QbW03TWFiSFRCTHBaUTFWYm1fSlFsRk43RWV5RmNFSDl3SXd6amd1c0QtLVRpZ0Jlc191azhqRWVZQQ?oc=5"
-  },
-  {
-   "text": "Digitální mapa vietnamské kultury: Propojení dědictví, událostí a destinací v digitálním prostoru - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0R0VTJmM2VhZjZadFZRSks4NmhwMy1RdWdYNVpsM3lzaXA4Mm16Q1JWR2doRjYzRER6ZlgtckpQMC14S1BQb2VxMXhWUjNqOHhEeDR4TXpuUF9Gc0V3QnEtQ2dLbERYUVpqbWZVRTlQOHVRTzlETkEtR1RuSDZsQURCajB5Rkk4ZXZSd1M3QnZFSlM5dVBQNmZmb25ldERXS2VlaWpJeWdPZw?oc=5"
-  },
-  {
-   "text": "Ten zatracenej měsíc listopad - Deník TO\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTFBmUHdEUXh4eHhkWkE3b0wxaF9WQ002aDNKNFdibXcycHhrTXFTY2FLVXBqZTNNWjE1aXBsR19nWTRCc3RVYkp3aDc4YzgtU0VvN1FaNFZldVdHSkk?oc=5"
-  },
-  {
-   "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiygFBVV95cUxPV0htYlhFVWQ0d2E2SlVCSF9uNFhVUERsM3RhVFFtalB4Sm1PS3RuWUdpTl91ZE80ZC0wR2thZjc2X3pQQlROU25GSFRIZGxjeDRXS1ZUUFFHdFRyenRsOGFVWXNyNlpPREREZ1dNVzhrOEJLdWI0SDc5dkpuYmpOSEt0Z2FxanZKd01KaktBVWVaaDZfV3kxOGpIdHFrejBTc1oyMGxwTGMzajVKMjJBNXJwbFk5NGI2SWFlS183UjBYWUkwaTVNeGRB?oc=5"
-  },
-  {
-   "text": "Česká politika mezi ukřižováním a blitzkriegem - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxNWl9UY1pMZTBMQ2tndlVoRjRnRzZIZk9HaUpQSDJUdEZoeF9FVVVtMlVCX0RBMTZtUnNkRXNmOUxPdGI0XzBfdDFHT1JLZEdKd25rVWVUZjQzcTFoRkh0bXlldFpEeUttSlJRWGhDSGJMeG4wV3F4eURHc0g4U0l3RmF0c2FhOEduLWk1Z2Zn?oc=5"
-  },
-  {
-   "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEtZMzVWWDlXUm5uY19YQWltWUhHR2ltdmxBVW1rdnJBTFlLYU50MGlqQ2lqY1l4b2lpTEhvUkNUUDVXaFhyS1F4c3FFU3p3dVhuc19oa3M2WDZYMEkzYXBTT1dWcU5CM3VFR2JhajM5YnFEY3Y0cjV3RnpvTFlHN1FucWRsQk4tMnl2LTNSLVRkbE1FSmo4elFUb0p6QzFRN1lUZWdtQWxXS0dUUmFfUXFNdHpHNmhTZ18zUEJhcnBPUTM3M1k0czU0V0l3eFprOXdCWFVR?oc=5"
-  },
-  {
-   "text": "Respekt/despekt - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZEFVX3lxTE9oejUzRDAyNFJOTTZfcktyTWMyU3NTdGhKWDhKUi1Ub0hXZGIxRG1nSWJ4R2YwdnkwUGh4bmpMRGlJTnVzejlLUlJaRjFwcURQamJpT2k1UUJZS3g1b0tsMjNiMzU?oc=5"
-  },
-  {
-   "text": "Uplynulých sedm dní očima Ivana Lampera - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxNVnBvNVRTdU1DNXFHc0NtclM5b0VRZGQyT2pzdERqQkRubnl6RXlHbW1Nall2cXpmOTQwc0l4UmI3XzlKMTR3RlZuZVVaRUZuZWx2bk41dFRzSjhrUmd5VHVBMkxMaGlaUDdIWmpEY050X1VTR290QjMzSDNobm1jOEtQcWc?oc=5"
-  },
-  {
-   "text": "Nedělejte si srandu z Klempíře - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTFBqempoT3FsS0RrYUxlaXVUZWJCbGFpZzhZUGREZmlCMHpBZnBPdTc3SkRoa0hKd2l0c2N6RV9kd3dyVDhMLU95Zm9DZlV2TDNsWFRDYnB1cEs2ZHVfQzRZUUdvUHZpdzZtOXZWN3N0V05MOEQtZmtNdw?oc=5"
-  },
-  {
-   "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE5rdEpXcUIwTXkxUmN3TjlZZ251T0ZSNGc5NFVWRWFiVFZFenpjMHFhd1daSEUxOEpYT05SMHphd3lGSkJZOHV1OQ?oc=5"
-  },
-  {
-   "text": "Klempířův Velký pátek. Kříž, kladivo a hřebíky jsou nachystány! - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPZXVpX3AwYURIVUpGaU1UaldWcmYtQjhaSENOcVdyVmFBMVczd2J2S2tnYWs1VEs0UTZ5RGQ3VmtMRGVCVXlNMHNYaUlLTDRfemFVOXN3RnFHSUpxSnRVUTRKVE9lWXFUNEJQQ2RnMmgyWmtxZzFlbmYzS1pYYUg3bUZwUmVrUFBOZlZGN2g2WUtNOUExa2FLWWxkaGNzS3g4eFFVWWFHUWZWdnhJa3dkNEl3?oc=5"
-  },
-  {
-   "text": "Ministr Štastný (Motoristé) pošle oficiální protest proti návratu Rusů na hokejové šampionáty - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlIzTmE2SE43RFR5cHljTGhFdWd3R2oxNE5oei1ZbWNfM3Z5MlB4NFFyeEhoeWxROG5BYlJqRlJBRkZOU19Xa0xFYVFiWXlGX1lBLURlYUROVDR1eGV6WkhDbzE2ZjNKZlkwVDAtX0NPUjNqUThSMFNpYmVkU24xUGdlb01oVllGVkVWNjJmaV8yRGhuSExUamV6QzExU3Uyd3g5bEY3TlBDNzVPcEhnLWxIS0VRa1poU3lTaTZGbUo2UFdHay1SWE9lUGwzdkxFMERhUjBsM25yeTJpT21CbzJZVQ?oc=5"
-  },
-  {
-   "text": "Foto: Klempíř potěšil Turka - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiYkFVX3lxTE41NUZsOVFHSHgzaWVfOTlBTG1ia0NGemtLMzZJYW9UZGdoRTN1dnBfdURqRzV5dS01bXh2c2dnenlHU3FFTFRVQkRSOXUxTkpuX251QlF4dzhVbFZEX1hUR3NB?oc=5"
-  },
-  {
-   "text": "Očekávání „kulturní revoluce“. Jak chtějí národní konzervativci usměrňovat umění - Echo24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxOa1lUMTM3Nk8wZHQwSTBvUFlWdTNOanFfSld5REZucXhpRnBzSXpNczJsT0VNTmdxUnZubWhrM05zaXdfanU2QVM4NjRvODhyM1hxbnUyWmhvNUR4OG92X3dCM000djhiVFJkVGl6NU9WMHJXejdFSlI2Z1hlcTA2d2xjMGpkRzV4bVE?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město školí umělce v metodách výuky umění ve školách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNZEg1V051VW9WQzFRQ1p2RXZ3aHRrdW9SY0lkWWxLTG5LQUxfVW5VOFduaDZwZEF5Z3c3Ukt6MnlmdHdMajRCY0YxOUNIamxWZHpYdmwta3ZmX2R4WGZBaVYtZkJVQnRaTVlvaEl4YmhrXzB1eU1jUTh5TzJHN2prNm8xM0gzbzZtOU1BTllWcUVWRXZyNmQtMDdwaDNzMzBZZlBQeGJn?oc=5"
-  },
-  {
-   "text": "Vědecký workshop „Zachování a propagace jemné tradiční kulturní identity etnických skupin s populací do 10 000 obyvatel v provincii Lai Chau“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTVRaVFhVmlyRXJjUDR6ZUMzS3dtQUYzRmVIeG8wNEVYcnlFVE5VTVFmaXVJaXIzR2NRSUtxVHdyZ0tlVVFERV9waVJYV1d6VWYwSkduZF92WWVqQ29JbkdrN0hVaTc0MldjTlV3ZEx1bmRlQlNYU2ZjN0wyNGpCZXprT2VoQjEyQlY0QmowbV9kQzdxN09jWVlJMENaRjRIYlhoVE1BRGVhaWlfc0JKMUlsZjVUMVB3d0ZzWG9XekZqWnNCYW4tS1lMbERvclFLc2FVc3VfNlNWSVEyTVBlSDA3a24zZ0hMR3FUcF8tTHVNbTI3Y0dLZ0FrbHg?oc=5"
-  },
-  {
-   "text": "Babiš udělal z Klempíře statistu a z protestů hysterii. Čeština jeho nedělního kázání by zaskočila i Jakeše - Centrum.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxPU3lBdjhnNTdoa3d4bWZFS09MWUtZTnRZSFVlOGdLU291blVYbFNXV05KSm5mZkFWQ0dOWnRFc2k2LU03SnZRcGpZV0x4Wm1JenM0RXJKb2hEMlQ4eEF1X2VlMXliekRIUDI3bG1rQ09GeF9CMjBEbGw1OWdpMndMVjNBTmVvdHFuV2NaYzA3cE51QzJSU1d1ZkF1VVhCQ3d6TjhTQjFnanc1djJuZWhPRjEtNkpmR1N4QV9HZ3c3dVhoYlVGQVdQaUNmUDV2NTVPdGszSmFpWldENzg?oc=5"
-  },
-  {
-   "text": "Klempíř ve Sněmovně obhajuje vládní kroky. Před novináři ale utíká - Super.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxQdjU4NFlkZGo5bnRQY1BfRXdiU0JyRXc2eUNqYXJaVkM1UTJKU1dGdWlFYk9Xb0JZMDBjT19IcEFod3o4Mkt0TVcyQlRZZms0QXZ1Y29RYWt6NW5SU2FsMWpfc1JCZjk0d3lMdmJEbzBPeG1TZ3d0Q1RrSUJYREQ4azFERUJ3SHYwaWZqejdubEZ1VXRmV1I1YmRqVC1INndLUF9EUWs0UjR4UHlIa0RndFJwMU4zTnhQbU5HTmJoVQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-10-31"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-01"
 }
