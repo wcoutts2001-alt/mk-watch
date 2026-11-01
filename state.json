@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T10:28:05+00:00",
+   "last_success_at": "2026-11-01T11:07:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T10:28:05+00:00",
+   "last_success_at": "2026-11-01T11:07:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T10:28:05+00:00",
+   "last_success_at": "2026-11-01T11:07:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,15 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T10:28:05+00:00",
+   "last_success_at": "2026-11-01T11:07:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:3ecb7c55bd7db82c",
-    "news:6b670f0567b213da",
     "news:cb9d4bf9483517f5",
     "news:975b0922f845c2a6",
     "news:a7d356b8ef504445",
@@ -595,11 +593,13 @@
     "news:0728305415431e80",
     "news:13fc51cf639b6d29",
     "news:f39af50652e5a8d6",
-    "news:21501b8ea870e069"
+    "news:21501b8ea870e069",
+    "news:a1022b12ae017bb2",
+    "news:ebd2121fc90620d3"
    ],
-   "last_success_at": "2026-11-01T10:28:05+00:00",
+   "last_success_at": "2026-11-01T11:07:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T09:53:01+00:00"
+   "last_new_item_at": "2026-11-01T11:07:17+00:00"
   }
  },
  "digest_queue": [
@@ -698,6 +698,12 @@
   },
   {
    "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiygFBVV95cUxPV0htYlhFVWQ0d2E2SlVCSF9uNFhVUERsM3RhVFFtalB4Sm1PS3RuWUdpTl91ZE80ZC0wR2thZjc2X3pQQlROU25GSFRIZGxjeDRXS1ZUUFFHdFRyenRsOGFVWXNyNlpPREREZ1dNVzhrOEJLdWI0SDc5dkpuYmpOSEt0Z2FxanZKd01KaktBVWVaaDZfV3kxOGpIdHFrejBTc1oyMGxwTGMzajVKMjJBNXJwbFk5NGI2SWFlS183UjBYWUkwaTVNeGRB?oc=5"
+  },
+  {
+   "text": "Česká politika mezi ukřižováním a blitzkriegem - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxNWl9UY1pMZTBMQ2tndlVoRjRnRzZIZk9HaUpQSDJUdEZoeF9FVVVtMlVCX0RBMTZtUnNkRXNmOUxPdGI0XzBfdDFHT1JLZEdKd25rVWVUZjQzcTFoRkh0bXlldFpEeUttSlJRWGhDSGJMeG4wV3F4eURHc0g4U0l3RmF0c2FhOEduLWk1Z2Zn?oc=5"
+  },
+  {
+   "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEtZMzVWWDlXUm5uY19YQWltWUhHR2ltdmxBVW1rdnJBTFlLYU50MGlqQ2lqY1l4b2lpTEhvUkNUUDVXaFhyS1F4c3FFU3p3dVhuc19oa3M2WDZYMEkzYXBTT1dWcU5CM3VFR2JhajM5YnFEY3Y0cjV3RnpvTFlHN1FucWRsQk4tMnl2LTNSLVRkbE1FSmo4elFUb0p6QzFRN1lUZWdtQWxXS0dUUmFfUXFNdHpHNmhTZ18zUEJhcnBPUTM3M1k0czU0V0l3eFprOXdCWFVR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
