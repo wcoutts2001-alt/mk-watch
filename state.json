@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T19:13:32+00:00",
+   "last_success_at": "2026-11-01T19:49:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T19:13:32+00:00",
+   "last_success_at": "2026-11-01T19:49:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T19:13:32+00:00",
+   "last_success_at": "2026-11-01T19:49:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,15 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T19:13:32+00:00",
+   "last_success_at": "2026-11-01T19:49:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:de14cd89f051e05f",
-    "news:61ee440420be881a",
     "news:8b533c0501e13b27",
     "news:cd59ffa900174763",
     "news:f415be9a097a7549",
@@ -595,11 +593,13 @@
     "news:bdc1a881d8c30ed3",
     "news:ca10242afe7d6823",
     "news:19bbb5f5b10e05a0",
-    "news:c9e2589782874445"
+    "news:c9e2589782874445",
+    "news:820c92b6bd08e9cb",
+    "news:f97bfa199308608e"
    ],
-   "last_success_at": "2026-11-01T19:13:32+00:00",
+   "last_success_at": "2026-11-01T19:49:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T19:13:32+00:00"
+   "last_new_item_at": "2026-11-01T19:49:19+00:00"
   }
  },
  "digest_queue": [
@@ -629,6 +629,12 @@
   },
   {
    "text": "Spor mezi Klempířem a umělci pokračuje: Část laureátů bojkotuje Cenu ministerstva kultury - CNN Prima NEWS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWNUb3NoQnRLNEpuVXBCLUNoOUhjTUNTeGpYSkhZcEt2MU9MZ2lieWI5bVEwdXU4ak1BVHVYV3BJR3RiUV9XR0FXdlZYTTltMEg5MnNvcFZzcDJIU3cwYW1kcW44X2d0NlBhNzE1VWlES0NmdTR5bE85T2l5cm1sSTlQTXVjMVAxU2xRcEJFUlpBMWtNNU14UUlmX01kLWIyUVl0UzVScFp3bzVta1JPWU9YeTVpczli?oc=5"
+  },
+  {
+   "text": "Kulturní ceny dostali Jamek, Fraňková nebo Herz, ministr Klempíř nedorazil - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxNSEk4djJ5dVhDczRMcm02NDZMRHZaa1J5OUhJSW5VYjZ3NnpvRVc1a251RmZEZG45dWFlX1NpOHpBWVZ1SFRBckNVck9HVkUwcXZzVkJmR1pjNXNLUmZfQWZFMkxVUXRHVzZMT2tiNGt3Nm4xY1lyeTQxRXpRbnBLLV9iT0N3R0tiak9kdWJQQ3FGOEJmbHp5LUxERmxfMl9rYlBRMVowdjRzN3JOeWs0SGxPOWEwMVNWSUF0VWwwWQ?oc=5"
+  },
+  {
+   "text": "Bez televizního přenosu i ministra. Předávání státních cen vyvolalo nesouhlas umělců - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxPbEl0UG9VTGg1MDU3WElsazlPazVPWXNfbXp1S0tPZGFPb0ltYVA3WEJfX1ljVGRTX3N2UXlqeGhVTS11YkcxdnM0akFzWFRDdGV5UjJGTEVBeXJEanZRZ1RlS29fLTFKbFhPOFdQSW5seWVtMUdhZENVNmhXZDNHamJueWVRTWx1eDV2ZzZNUm9FYlBsTm92OXlrVDhWdUZLYUliOFhja0Y2ejRtSzdXUElvMlZoWk5PZmxEdDV0bGRzMXhLUjVn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
