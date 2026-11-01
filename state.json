@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T08:18:53+00:00",
+   "last_success_at": "2026-11-01T09:11:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T08:18:53+00:00",
+   "last_success_at": "2026-11-01T09:11:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T08:18:53+00:00",
+   "last_success_at": "2026-11-01T09:11:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,15 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T08:18:53+00:00",
+   "last_success_at": "2026-11-01T09:11:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8ad226ff0322bd7d",
-    "news:a0851c9f029309b7",
     "news:a312f01d79836b5d",
     "news:3ecb7c55bd7db82c",
     "news:6b670f0567b213da",
@@ -595,11 +593,13 @@
     "news:deae92c7296efd52",
     "news:43f5f13ba914066a",
     "news:109ef983afa32699",
-    "news:0728305415431e80"
+    "news:0728305415431e80",
+    "news:13fc51cf639b6d29",
+    "news:f39af50652e5a8d6"
    ],
-   "last_success_at": "2026-11-01T08:18:53+00:00",
+   "last_success_at": "2026-11-01T09:11:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T08:18:53+00:00"
+   "last_new_item_at": "2026-11-01T09:11:50+00:00"
   }
  },
  "digest_queue": [
@@ -689,6 +689,12 @@
   },
   {
    "text": "Aby se využil potenciál cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFB1cHVRVTk4WE50d3M4MDJSTjlwZy11Tml5YVJ5dU5veUdqYU1UWHZMUHVXWGFBbC1QbW03TWFiSFRCTHBaUTFWYm1fSlFsRk43RWV5RmNFSDl3SXd6amd1c0QtLVRpZ0Jlc191azhqRWVZQQ?oc=5"
+  },
+  {
+   "text": "Digitální mapa vietnamské kultury: Propojení dědictví, událostí a destinací v digitálním prostoru - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0R0VTJmM2VhZjZadFZRSks4NmhwMy1RdWdYNVpsM3lzaXA4Mm16Q1JWR2doRjYzRER6ZlgtckpQMC14S1BQb2VxMXhWUjNqOHhEeDR4TXpuUF9Gc0V3QnEtQ2dLbERYUVpqbWZVRTlQOHVRTzlETkEtR1RuSDZsQURCajB5Rkk4ZXZSd1M3QnZFSlM5dVBQNmZmb25ldERXS2VlaWpJeWdPZw?oc=5"
+  },
+  {
+   "text": "Ten zatracenej měsíc listopad - Deník TO\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTFBmUHdEUXh4eHhkWkE3b0wxaF9WQ002aDNKNFdibXcycHhrTXFTY2FLVXBqZTNNWjE1aXBsR19nWTRCc3RVYkp3aDc4YzgtU0VvN1FaNFZldVdHSkk?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
