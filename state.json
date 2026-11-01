@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T15:58:39+00:00",
+   "last_success_at": "2026-11-01T16:31:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T15:58:39+00:00",
+   "last_success_at": "2026-11-01T16:31:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T15:58:39+00:00",
+   "last_success_at": "2026-11-01T16:31:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,17 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T15:58:39+00:00",
+   "last_success_at": "2026-11-01T16:31:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8477f30592a24bac",
-    "news:3f3db854cac64bb9",
-    "news:eaaf584a0743abb5",
-    "news:2cd212e59ff96718",
     "news:835edfa67db5fb33",
     "news:480cf1e069346874",
     "news:1bcd0f85f5c3a2fc",
@@ -595,11 +591,15 @@
     "news:932b89a12cf18af0",
     "news:7e2f24babaec6248",
     "news:fcfc73013f0947dd",
-    "news:4638338bfe7e895c"
+    "news:4638338bfe7e895c",
+    "news:d5161b4ddfac19b3",
+    "news:3074c63ccc00be60",
+    "news:d2843b8b15042385",
+    "news:9ccc4fbb48506ee3"
    ],
-   "last_success_at": "2026-11-01T15:58:39+00:00",
+   "last_success_at": "2026-11-01T16:31:28+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T15:58:39+00:00"
+   "last_new_item_at": "2026-11-01T16:31:28+00:00"
   }
  },
  "digest_queue": [
@@ -734,6 +734,12 @@
   },
   {
    "text": "Vědecký workshop „Zachování a propagace jemné tradiční kulturní identity etnických skupin s populací do 10 000 obyvatel v provincii Lai Chau“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTVRaVFhVmlyRXJjUDR6ZUMzS3dtQUYzRmVIeG8wNEVYcnlFVE5VTVFmaXVJaXIzR2NRSUtxVHdyZ0tlVVFERV9waVJYV1d6VWYwSkduZF92WWVqQ29JbkdrN0hVaTc0MldjTlV3ZEx1bmRlQlNYU2ZjN0wyNGpCZXprT2VoQjEyQlY0QmowbV9kQzdxN09jWVlJMENaRjRIYlhoVE1BRGVhaWlfc0JKMUlsZjVUMVB3d0ZzWG9XekZqWnNCYW4tS1lMbERvclFLc2FVc3VfNlNWSVEyTVBlSDA3a24zZ0hMR3FUcF8tTHVNbTI3Y0dLZ0FrbHg?oc=5"
+  },
+  {
+   "text": "Babiš udělal z Klempíře statistu a z protestů hysterii. Čeština jeho nedělního kázání by zaskočila i Jakeše - Centrum.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxPU3lBdjhnNTdoa3d4bWZFS09MWUtZTnRZSFVlOGdLU291blVYbFNXV05KSm5mZkFWQ0dOWnRFc2k2LU03SnZRcGpZV0x4Wm1JenM0RXJKb2hEMlQ4eEF1X2VlMXliekRIUDI3bG1rQ09GeF9CMjBEbGw1OWdpMndMVjNBTmVvdHFuV2NaYzA3cE51QzJSU1d1ZkF1VVhCQ3d6TjhTQjFnanc1djJuZWhPRjEtNkpmR1N4QV9HZ3c3dVhoYlVGQVdQaUNmUDV2NTVPdGszSmFpWldENzg?oc=5"
+  },
+  {
+   "text": "Klempíř ve Sněmovně obhajuje vládní kroky. Před novináři ale utíká - Super.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxQdjU4NFlkZGo5bnRQY1BfRXdiU0JyRXc2eUNqYXJaVkM1UTJKU1dGdWlFYk9Xb0JZMDBjT19IcEFod3o4Mkt0TVcyQlRZZms0QXZ1Y29RYWt6NW5SU2FsMWpfc1JCZjk0d3lMdmJEbzBPeG1TZ3d0Q1RrSUJYREQ4azFERUJ3SHYwaWZqejdubEZ1VXRmV1I1YmRqVC1INndLUF9EUWs0UjR4UHlIa0RndFJwMU4zTnhQbU5HTmJoVQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
