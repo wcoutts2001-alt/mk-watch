@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T07:29:49+00:00",
+   "last_success_at": "2026-11-01T08:18:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T07:29:49+00:00",
+   "last_success_at": "2026-11-01T08:18:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T07:29:49+00:00",
+   "last_success_at": "2026-11-01T08:18:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,23 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T07:29:49+00:00",
+   "last_success_at": "2026-11-01T08:18:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:0094f3dadd21e262",
-    "news:5e4a20c021f1dca3",
-    "news:90cb1f5bab4510bd",
-    "news:a3653d8382913557",
-    "news:bf3e2c2812403703",
-    "news:b44e5e36ee9dc9ec",
-    "news:e0e6925ccd1551dd",
-    "news:93b26c62daeea574",
-    "news:4c9fa7e5a8234c0b",
-    "news:391fe3de79497726",
     "news:8ad226ff0322bd7d",
     "news:a0851c9f029309b7",
     "news:a312f01d79836b5d",
@@ -595,11 +585,21 @@
     "news:8128a4eb2439bffc",
     "news:f354e6eecd73b22a",
     "news:8d9a541e7584c877",
-    "news:4e6c4b9df556119c"
+    "news:4e6c4b9df556119c",
+    "news:098100bea7375293",
+    "news:13ba238943c998d0",
+    "news:0ffcbd8e676db79e",
+    "news:b209f015e57e4c03",
+    "news:a506638265d87336",
+    "news:14741d73978274b2",
+    "news:deae92c7296efd52",
+    "news:43f5f13ba914066a",
+    "news:109ef983afa32699",
+    "news:0728305415431e80"
    ],
-   "last_success_at": "2026-11-01T07:29:49+00:00",
+   "last_success_at": "2026-11-01T08:18:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T07:29:49+00:00"
+   "last_new_item_at": "2026-11-01T08:18:53+00:00"
   }
  },
  "digest_queue": [
@@ -662,6 +662,33 @@
   },
   {
    "text": "Klempíř a Šťastná mají zákaz vstupu na DAMU. Prý je to zásah do demokracie - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxQVVQ1R1I4bHZncGMtWHpaNEpMXzBLY1dsbXhmV2h0bWNtVUw5elZuMGg2TUo1c3gxTzFMMG1OQ3ZUSHk5Q1VTaVd1VVhxRmEzeVVXMmdyOUtHOXZBejJhU25mNEtWSzRSRVAzRzVSU0pyNVNabmUyQWJVRGQ3eDNJbTRGOG5pMkcxTFdfUXVLTmtCdFg5dHVJWHVpcmlUWEYtT25OMkEtMWxQbFcwMWZxakxsWnJSM0tVNlFIMVZR?oc=5"
+  },
+  {
+   "text": "Klempíř potěšil Turka - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNTHExUXJMd1pYdlVfYzBpZTkzWk4wWVlTYnNEaVAzRFdOR0lXOVBjbjlab1A1dXlzWE5GN2Z0aGFWSW9UTTRlQVhUeFNrd092Mk12Sl83OUZNNXptU2tRRVpiZHBTaExVeGQwYlBOWkVtejhwX0VoaUhxZnpEUEVZb0tn?oc=5"
+  },
+  {
+   "text": "Blížíme se dnu, slušnost už nestačí. Babiš přichází o přízeň. Aleš Cibulka k protestům - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6AFBVV95cUxOUlNuenpqMURlYmtVWlc4X2tPMThQYmd5Rnc2Z0h4UFllWDlSUUlFbWxBejZCVTBLRll1bjl4ZHdDVnI1R1lienl2bXJfWlR6eDc2MUZUUElzcHJyOWRwczZEV0xXUEdxSkxRVFdEeWxFS25QbjRDeDFZbjJpZ3RWWFNTd0FkTlJBcmlxbzd1ZENPQ3RtXzd5WlBMaHJmQ29KalNhNFk3Q3NDWkE5UFcteGlEOE01YmxwU0E0dGV5dVdjNDZ1aXJCRXE1V1VsVTZLV3dfNDBEc2VVRDQwbmdzRDQwRktLelpH?oc=5"
+  },
+  {
+   "text": "Motoristé aktuálně soutěží o nejtrapnější výstup na veřejnosti - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxQcFljZ1VDbGkwR05iSERTUWUtbU1yLXNxRS1VRjc4QjQwVFdscDV0T3A3cUtxOWdyR3hMaENnNWdvMTdBeGp3Q0gzdnVJNm9Jd3NXTVduRm5vckMzdzVaYUN5Z3pHeVkyV013dkZLZkJZMk9PQk5qeXlNV3BmUExET014QWN2YmhmOTdIanZkR0Z1QVNrQ2NGNDNPOHBZRlBQSWh2bmJvb2ZGbmxWM0czZjNQVTVUdw?oc=5"
+  },
+  {
+   "text": "Brněnská Masarykova univerzita omluví 3. listopadu absenci ve výuce studentům, kteří se zúčastní shromáždění na podporu České televize a Českého rozhlasu - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiVEFVX3lxTE80cmN6a21jQWpiQm00TFdhaFh1a1JjalZpVXNoY0FzYTBPNldfLXhCYWVDTGFiRW5hNktiZWVFV0E4eFhwZjcxNFVFM3dFSkZSVzBDVg?oc=5"
+  },
+  {
+   "text": "Školení o metodách výuky výtvarné výchovy ve školách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNTzIwS2FSWDVxR3JudjdnbF9IbVNvMTNjUG9SblNWdm9ZRjM5U0o2cTY3OXBVU0o2S0hXOVJXbUNuSk5fS3hMUk9MOUFrWExKYVRpMXh4S05uQmltVUxrdWE5bnFpTFI1amR4UEhFaGtfMjgzLVZ4ZjFXa3N0Z09QMTlvNFMyeWo5VnhMXw?oc=5"
+  },
+  {
+   "text": "Propojení aktivit a vytvoření širšího dopadu pro Vietnamský den kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZlTGVIZ1RwM0xvM1RFbldjckJmcnZZUXFsR2tKMWF1TkIxYXIxWnJlcTRfQW9BMnRuV1ctTFpzUjRQemNNS3VEd0RydWh5ckYtanljb1VOaW9ZSlZnTmQ0amVmV0NiUzRCOHY2a3NpWkVWcFliOEJnODVzNEd4SHlyTnhOMVpwbWowSTZ5NThiNlN5QTJUWlln?oc=5"
+  },
+  {
+   "text": "Hlas Vietnamu 2026: Probuzení kulturní hrdosti v mladší generaci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhCVmJpbnM1bVlXdWdJLVczd1lpVUtFU0pQSnA0TEFmLVJ4cXZhbk1xYUROaU05a2haMEd1a2pFbVJsUTJ4T20tZ1JqVmduOGZjV180cUtzMWc4VUVIVk5hUlJCQlRzR1NmNmE2cmFteF9CLUs4cEItVXRsMjFEVTNldVRvNFNaRVdtQXVyMDNERkxDVTA4?oc=5"
+  },
+  {
+   "text": "Na digitální mapě vietnamské kultury je aktualizováno 467 událostí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1lrb2xoNklkblFHOXZWWkduOFQ4WFk2UWdHV2t0cVpNcDdJUUhOeUh4cmFqckhUbHAwOVA0Q0lXdHRPSXRiWUZwUDQ5Vlh3QkM5bXNpdGtiRk9UNVV1aWttZXZpMmJHNlJIa010emNqek1tSkNnWldXZHBXamdmczZScGhaWXd0bG44?oc=5"
+  },
+  {
+   "text": "Aby se využil potenciál cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFB1cHVRVTk4WE50d3M4MDJSTjlwZy11Tml5YVJ5dU5veUdqYU1UWHZMUHVXWGFBbC1QbW03TWFiSFRCTHBaUTFWYm1fSlFsRk43RWV5RmNFSDl3SXd6amd1c0QtLVRpZ0Jlc191azhqRWVZQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
