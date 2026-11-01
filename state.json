@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T06:21:58+00:00",
+   "last_success_at": "2026-11-01T07:29:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T06:21:58+00:00",
+   "last_success_at": "2026-11-01T07:29:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T06:21:58+00:00",
+   "last_success_at": "2026-11-01T07:29:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,14 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T06:21:58+00:00",
+   "last_success_at": "2026-11-01T07:29:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:84ed71741de2c95b",
     "news:0094f3dadd21e262",
     "news:5e4a20c021f1dca3",
     "news:90cb1f5bab4510bd",
@@ -595,11 +594,12 @@
     "news:50939e0464040949",
     "news:8128a4eb2439bffc",
     "news:f354e6eecd73b22a",
-    "news:8d9a541e7584c877"
+    "news:8d9a541e7584c877",
+    "news:4e6c4b9df556119c"
    ],
-   "last_success_at": "2026-11-01T06:21:58+00:00",
+   "last_success_at": "2026-11-01T07:29:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T06:21:58+00:00"
+   "last_new_item_at": "2026-11-01T07:29:49+00:00"
   }
  },
  "digest_queue": [
@@ -659,6 +659,9 @@
   },
   {
    "text": "ANO zřejmě skončí na radnici Faltýnkova města. Pocítí to i tenisový boss Černošek - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE8tRW0yVHpTOEpBWjNjWDIxNUktcXZDNnJNSXpLSFhwdjR0NWNLRGZMU2tLOElDaWNHVFlBVFh0NDBPTDg1VkJNanp2bEowM2tSaDJHWVFoTTQwOFlK?oc=5"
+  },
+  {
+   "text": "Klempíř a Šťastná mají zákaz vstupu na DAMU. Prý je to zásah do demokracie - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxQVVQ1R1I4bHZncGMtWHpaNEpMXzBLY1dsbXhmV2h0bWNtVUw5elZuMGg2TUo1c3gxTzFMMG1OQ3ZUSHk5Q1VTaVd1VVhxRmEzeVVXMmdyOUtHOXZBejJhU25mNEtWSzRSRVAzRzVSU0pyNVNabmUyQWJVRGQ3eDNJbTRGOG5pMkcxTFdfUXVLTmtCdFg5dHVJWHVpcmlUWEYtT25OMkEtMWxQbFcwMWZxakxsWnJSM0tVNlFIMVZR?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
