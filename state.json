@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T18:16:03+00:00",
+   "last_success_at": "2026-11-01T19:13:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T18:16:03+00:00",
+   "last_success_at": "2026-11-01T19:13:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T18:16:03+00:00",
+   "last_success_at": "2026-11-01T19:13:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,16 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T18:16:03+00:00",
+   "last_success_at": "2026-11-01T19:13:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e3af4e21531044ca",
-    "news:9925eab211e31c6e",
-    "news:b519088fad906e58",
     "news:de14cd89f051e05f",
     "news:61ee440420be881a",
     "news:8b533c0501e13b27",
@@ -595,11 +592,14 @@
     "news:ea0822f2683602dc",
     "news:31aead2232708c5d",
     "news:e9f83e14bed02d1f",
-    "news:bdc1a881d8c30ed3"
+    "news:bdc1a881d8c30ed3",
+    "news:ca10242afe7d6823",
+    "news:19bbb5f5b10e05a0",
+    "news:c9e2589782874445"
    ],
-   "last_success_at": "2026-11-01T18:16:03+00:00",
+   "last_success_at": "2026-11-01T19:13:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T18:16:03+00:00"
+   "last_new_item_at": "2026-11-01T19:13:32+00:00"
   }
  },
  "digest_queue": [
@@ -620,6 +620,15 @@
   },
   {
    "text": "Digitální mapa CMAP byla spuštěna u příležitosti oslav Dne vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPcnhkbk0wdkJoQlRISmhiSWptM2d2TXk2UmtwWG1WMUFXVW1WMDh4NzUzcktYaU5hY1lid3FNYklmMEJ2enFXN2ZTMVFPUkt3VlF2T3BJUVBwYkFRNGxiSHJ6VlZZclhvNEItcVFYeXEydkw5NktIWXM3N2FpMnFKN1ByOGdydw?oc=5"
+  },
+  {
+   "text": "Státní ceny v kultuře odmítli dva laureáti. Klempíř nepřišel - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUl2Nm1vWHUtejBxNUwyVGFwSC1VY1VBcEJndjNiMV9iMlVNdFJNR25EbTFrYzRuQ0xJRWpNZlpua1FCZnBTUWxZNm1UUFZzMnhnY1JBOUxpejVfdjFtYTBfQWhNTDNyeXJTVVBaYnl6SEJBQ19Sbks0S3VYNTZLRUhPbHNaemVzc29QZ1RfSERZWFJoVkNKVnNvZjZxS1M1dWZiTFc4YUZtQQ?oc=5"
+  },
+  {
+   "text": "„Temnotu drží na uzdě malé skutky obyčejných lidí.“ Ministerstvo kultury udělilo státní ceny, bez médií i bez Klempíře - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxNd3BROFRTbUJYaV9VTy1XelRQNm9QZEppaC1sOEZxeW5lM0J4NWpNaXdXSHZ0ZHMtX0JtNVlPa3IxYVNDYTJua0doUVdGc1Uyako4QWVieUhRTDZiT0pZM2pveXB1SElSM1l2TXNaOWgyQkp4QjBMdndwOTdHN3dOZHphWGNXTnBHMHQyMlpXUFlZYjVaVUlkNVNSX2EyRzZneWZqTlctZ3FKQ0I1WWZNTllVc1hCeDV5MzVuZkZyZUp1TkVNLUVrYS1mVmp5Qm1pVkEzY2JvY3o?oc=5"
+  },
+  {
+   "text": "Spor mezi Klempířem a umělci pokračuje: Část laureátů bojkotuje Cenu ministerstva kultury - CNN Prima NEWS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWNUb3NoQnRLNEpuVXBCLUNoOUhjTUNTeGpYSkhZcEt2MU9MZ2lieWI5bVEwdXU4ak1BVHVYV3BJR3RiUV9XR0FXdlZYTTltMEg5MnNvcFZzcDJIU3cwYW1kcW44X2d0NlBhNzE1VWlES0NmdTR5bE85T2l5cm1sSTlQTXVjMVAxU2xRcEJFUlpBMWtNNU14UUlmX01kLWIyUVl0UzVScFp3bzVta1JPWU9YeTVpczli?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
