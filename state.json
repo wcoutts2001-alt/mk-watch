@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T17:13:51+00:00",
+   "last_success_at": "2026-11-01T17:45:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T17:13:51+00:00",
+   "last_success_at": "2026-11-01T17:45:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T17:13:51+00:00",
+   "last_success_at": "2026-11-01T17:45:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,14 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T17:13:51+00:00",
+   "last_success_at": "2026-11-01T17:45:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9c452d3a98a87aa9",
     "news:bf95c38171f682b6",
     "news:9508fee16f852639",
     "news:f752b0479b78a107",
@@ -595,13 +594,18 @@
     "news:27c7fa475da91e34",
     "news:0959daaa9084eefa",
     "news:594d1fe81556b1b3",
-    "news:cb59abc42a3f6dc6"
+    "news:cb59abc42a3f6dc6",
+    "news:1e9be498e4dc7d56"
    ],
-   "last_success_at": "2026-11-01T17:13:51+00:00",
+   "last_success_at": "2026-11-01T17:45:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T17:13:51+00:00"
+   "last_new_item_at": "2026-11-01T17:45:02+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "U Rudolfina se sešli lidé kvůli nezvyklé podobě předávání cen za literaturu - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmxVUXQ0bjU2WW9FbjhTTFhOWlRDVXFDTUZKdm1nSkk0LWZLcnRYNEZneC1YODVnVHcxM3p4X2d5QWpmMTlJMkI4cHpNZFVocmpaTS1UQ0tOUFlCczVrNXRmRzEyQkY4SEhIMjhqb2NLaVBsa2p1bzRXcjd4YTcwYUEzYXB6NGNLQ1RVaFl6dmk1YUcyTEJSbUYtY2hJR2FUa1VNSDJrOWhFRzhqSWI3bHpfTlpGbW5W?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-01"
 }
