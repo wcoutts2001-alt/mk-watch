@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T11:07:17+00:00",
+   "last_success_at": "2026-11-01T11:42:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T11:07:17+00:00",
+   "last_success_at": "2026-11-01T11:42:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T11:07:17+00:00",
+   "last_success_at": "2026-11-01T11:42:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,17 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T11:07:17+00:00",
+   "last_success_at": "2026-11-01T11:42:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cb9d4bf9483517f5",
-    "news:975b0922f845c2a6",
-    "news:a7d356b8ef504445",
-    "news:4cf10225c2c01add",
     "news:933a721b95dd4d5d",
     "news:cbb51848fefaff7a",
     "news:ce1ca691eed0c7f0",
@@ -595,11 +591,15 @@
     "news:f39af50652e5a8d6",
     "news:21501b8ea870e069",
     "news:a1022b12ae017bb2",
-    "news:ebd2121fc90620d3"
+    "news:ebd2121fc90620d3",
+    "news:e96adc07986f64c8",
+    "news:8ee1dcc1625cea59",
+    "news:22d895d41a6140ea",
+    "news:5b11a109270bccc0"
    ],
-   "last_success_at": "2026-11-01T11:07:17+00:00",
+   "last_success_at": "2026-11-01T11:42:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T11:07:17+00:00"
+   "last_new_item_at": "2026-11-01T11:42:23+00:00"
   }
  },
  "digest_queue": [
@@ -704,6 +704,18 @@
   },
   {
    "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEtZMzVWWDlXUm5uY19YQWltWUhHR2ltdmxBVW1rdnJBTFlLYU50MGlqQ2lqY1l4b2lpTEhvUkNUUDVXaFhyS1F4c3FFU3p3dVhuc19oa3M2WDZYMEkzYXBTT1dWcU5CM3VFR2JhajM5YnFEY3Y0cjV3RnpvTFlHN1FucWRsQk4tMnl2LTNSLVRkbE1FSmo4elFUb0p6QzFRN1lUZWdtQWxXS0dUUmFfUXFNdHpHNmhTZ18zUEJhcnBPUTM3M1k0czU0V0l3eFprOXdCWFVR?oc=5"
+  },
+  {
+   "text": "Respekt/despekt - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZEFVX3lxTE9oejUzRDAyNFJOTTZfcktyTWMyU3NTdGhKWDhKUi1Ub0hXZGIxRG1nSWJ4R2YwdnkwUGh4bmpMRGlJTnVzejlLUlJaRjFwcURQamJpT2k1UUJZS3g1b0tsMjNiMzU?oc=5"
+  },
+  {
+   "text": "Uplynulých sedm dní očima Ivana Lampera - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxNVnBvNVRTdU1DNXFHc0NtclM5b0VRZGQyT2pzdERqQkRubnl6RXlHbW1Nall2cXpmOTQwc0l4UmI3XzlKMTR3RlZuZVVaRUZuZWx2bk41dFRzSjhrUmd5VHVBMkxMaGlaUDdIWmpEY050X1VTR290QjMzSDNobm1jOEtQcWc?oc=5"
+  },
+  {
+   "text": "Nedělejte si srandu z Klempíře - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTFBqempoT3FsS0RrYUxlaXVUZWJCbGFpZzhZUGREZmlCMHpBZnBPdTc3SkRoa0hKd2l0c2N6RV9kd3dyVDhMLU95Zm9DZlV2TDNsWFRDYnB1cEs2ZHVfQzRZUUdvUHZpdzZtOXZWN3N0V05MOEQtZmtNdw?oc=5"
+  },
+  {
+   "text": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE5rdEpXcUIwTXkxUmN3TjlZZ251T0ZSNGc5NFVWRWFiVFZFenpjMHFhd1daSEUxOEpYT05SMHphd3lGSkJZOHV1OQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
