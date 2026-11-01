@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-01T12:16:55+00:00",
+   "last_success_at": "2026-11-01T13:20:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -63,7 +63,7 @@
     "facebook:5da99eb485b67b1f",
     "facebook:62d4d7c0e7da64ba"
    ],
-   "last_success_at": "2026-11-01T12:16:55+00:00",
+   "last_success_at": "2026-11-01T13:20:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T03:59:33+00:00"
   },
@@ -81,7 +81,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-01T12:16:55+00:00",
+   "last_success_at": "2026-11-01T13:20:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -89,14 +89,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-01T12:16:55+00:00",
+   "last_success_at": "2026-11-01T13:20:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cbb51848fefaff7a",
     "news:ce1ca691eed0c7f0",
     "news:eb8e461170751976",
     "news:57b0f42098e15df0",
@@ -595,11 +594,12 @@
     "news:8ee1dcc1625cea59",
     "news:22d895d41a6140ea",
     "news:5b11a109270bccc0",
-    "news:f7e2fde38ef46a8c"
+    "news:f7e2fde38ef46a8c",
+    "news:826cdd834b7eea3d"
    ],
-   "last_success_at": "2026-11-01T12:16:55+00:00",
+   "last_success_at": "2026-11-01T13:20:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-01T12:16:55+00:00"
+   "last_new_item_at": "2026-11-01T13:20:08+00:00"
   }
  },
  "digest_queue": [
@@ -719,6 +719,9 @@
   },
   {
    "text": "Klempířův Velký pátek. Kříž, kladivo a hřebíky jsou nachystány! - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPZXVpX3AwYURIVUpGaU1UaldWcmYtQjhaSENOcVdyVmFBMVczd2J2S2tnYWs1VEs0UTZ5RGQ3VmtMRGVCVXlNMHNYaUlLTDRfemFVOXN3RnFHSUpxSnRVUTRKVE9lWXFUNEJQQ2RnMmgyWmtxZzFlbmYzS1pYYUg3bUZwUmVrUFBOZlZGN2g2WUtNOUExa2FLWWxkaGNzS3g4eFFVWWFHUWZWdnhJa3dkNEl3?oc=5"
+  },
+  {
+   "text": "Ministr Štastný (Motoristé) pošle oficiální protest proti návratu Rusů na hokejové šampionáty - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlIzTmE2SE43RFR5cHljTGhFdWd3R2oxNE5oei1ZbWNfM3Z5MlB4NFFyeEhoeWxROG5BYlJqRlJBRkZOU19Xa0xFYVFiWXlGX1lBLURlYUROVDR1eGV6WkhDbzE2ZjNKZlkwVDAtX0NPUjNqUThSMFNpYmVkU24xUGdlb01oVllGVkVWNjJmaV8yRGhuSExUamV6QzExU3Uyd3g5bEY3TlBDNzVPcEhnLWxIS0VRa1poU3lTaTZGbUo2UFdHay1SWE9lUGwzdkxFMERhUjBsM25yeTJpT21CbzJZVQ?oc=5"
   }
  ],
  "last_digest_date": "2026-10-31"
