@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T10:14:56+00:00",
+   "last_success_at": "2026-11-02T11:12:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T10:14:56+00:00",
+   "last_success_at": "2026-11-02T11:12:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T10:14:56+00:00",
+   "last_success_at": "2026-11-02T11:12:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,16 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T10:14:56+00:00",
+   "last_success_at": "2026-11-02T11:12:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:38f0ea853d164d94",
-    "news:4eb5b52a561cfb24",
-    "news:a9014c9d7f3d2849",
     "news:43cdee5ab8af3c50",
     "news:41d1453b575c6d8d",
     "news:a5f94bce815fe2db",
@@ -597,11 +594,14 @@
     "news:630c62adebbe307d",
     "news:8c95e086edcb15fc",
     "news:349b0d5bf34d9e8e",
-    "news:4065180e69808576"
+    "news:4065180e69808576",
+    "news:d90d83064aeb072e",
+    "news:a78105b4fe126400",
+    "news:d4d51d334bf45d6b"
    ],
-   "last_success_at": "2026-11-02T10:14:56+00:00",
+   "last_success_at": "2026-11-02T11:12:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T10:14:56+00:00"
+   "last_new_item_at": "2026-11-02T11:12:53+00:00"
   }
  },
  "digest_queue": [
@@ -697,6 +697,15 @@
   },
   {
    "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! Bez přenosu ČT a s protestní akcí - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxOS1k0ampwQkNVYWVPYVNzdXllYWNjaVJVUkVjdXl0SUxVUjJWMk1HRWphT2k0OXVVNXZqSW5Ca0JXUDJuTzIwV3VPcUpPcldHREliSzcyQklYRmJTSS1oY2t3b0hBZlhLUmxIbWh0MzhhTHc5Y2k4aUdvTVB1eS1tQkY1S1hmeXg0VC1lWjYwbnd4OGE3eVFuUGdzanU3TE0tbTFZVGJsMlJ2WDM2STUxZHEtaWZXVmhXMXN6QjM1d0ZfbVlsN3JzNTBqUl9tQ1pybUh1VnZoQkpFZ1pOZE52Z2FMdw?oc=5"
+  },
+  {
+   "text": "4:36 Oto, odstup! vzkazuje ministrovi poutač pražského Švandova divadla - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQUnpDQmJEUmNoOVFIZ3A2YzdUV2hHZjZ0a3BWU2duSkFvSUkyZkhaMlV1OTdPa0NtVGNhbG95UzhRbW9VWlZfaHVHRHRPWGZsZy1wUk5SN2lvV2FmenpvbGpvSnI3UU5tel9id3NtVGhwVFp5ci01SHNXNjhHX0JTZTdsOWRucXhLTTV0Vzd1U3hNSzRyb2ZWTEV3?oc=5"
+  },
+  {
+   "text": "Ubohé a nedůstojné, že by to snad nikdo jiný nesve... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjZ2ZndXTFF0ODJMX1R6OHRZSHVlUUVRRmJuSlRaaHBwamFhWkdXNkRyQ3ZOc0FxRzlZVXZlMmtMbk1MUkZWckUwNzJ4ZEVkTFJWMzhrbFo3djFuSDZmNEhfdm9vcWZUcVphdkJDY2ZKZXZzcVBpWkE2RDNDeW54X2JhSVdKMHBsVUg5eFJWN3d6RGF0QXAwOTA1Tmxudnl4QmowNWl4bGROQjhwcUtZSjRkc2ZKUmxBT3JR?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE12VVhkMUFSbUZ6VlQxaXBpTmxxQlBFNkVLcjFUUl9OVW16cHlDTlJUWGpVTERMTjU3ZjNmc0xRNkVVdV9qQlFabzlrcnhZb3kwVmwtVmVaRFdSX0lQQWZVRXhBOGFkVHJMUEZNeXN3?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
