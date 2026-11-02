@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T13:14:13+00:00",
+   "last_success_at": "2026-11-02T14:28:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T13:14:13+00:00",
+   "last_success_at": "2026-11-02T14:28:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T13:14:13+00:00",
+   "last_success_at": "2026-11-02T14:28:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,20 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T13:14:13+00:00",
+   "last_success_at": "2026-11-02T14:28:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:dbc21f2e7dae7750",
-    "news:7981b7c1f4281459",
-    "news:566dbc2f25276b4b",
-    "news:0713a49b788c9910",
-    "news:ea092ad7754210c7",
-    "news:4b63d78c8c4ffe22",
-    "news:12544cfa2b8c5219",
     "news:9de95fcfb1a06e5f",
     "news:86417793791325a3",
     "news:8d68b9c53a08554f",
@@ -597,11 +590,18 @@
     "news:d4d51d334bf45d6b",
     "news:6f475a2f96f0a92e",
     "news:4874b9edb2a51ad5",
-    "news:993bd72abfc92785"
+    "news:993bd72abfc92785",
+    "news:fabb8459e54974a2",
+    "news:f94f96ab215ed70e",
+    "news:a41c75f2e544be22",
+    "news:57dd250b78e94765",
+    "news:c636986b16502665",
+    "news:d7b716068e28ca3b",
+    "news:9e852874a8637ddb"
    ],
-   "last_success_at": "2026-11-02T13:14:13+00:00",
+   "last_success_at": "2026-11-02T14:28:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T13:14:13+00:00"
+   "last_new_item_at": "2026-11-02T14:28:24+00:00"
   }
  },
  "digest_queue": [
@@ -715,6 +715,27 @@
   },
   {
    "text": "Na předávání cen za přínos kultuře část laureátů nepřišla, ministr Klempíř nedorazil - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmpsc2c3TzJ4cHZrcHdlQU5lRUtiTXd5dGlIcFQwYVR2akxxWkxTM1hJeTd0NzBLclB3ZG9oY3F5V2NKeTUyV1NGcFEwSFhVbHhpY1FPMjRlejJnSGdwN2p4d205T0FVUHdfeHB4RUtxOFFjY1Z6aDN4UFZ1YmZTbFc5eTZGNExnWkJsZml2RTNKS18zUHJVVkV0NWdNYXJFaWRneGE0c0VHUzQ5R2sxZk1xdzlYb0h0bThvNUpQM0x0VUk?oc=5"
+  },
+  {
+   "text": "Stuchlíková: Chystané demonstrace si vláda vyrobila sama. Klempíř je pro Babiše fackovací panák, svede protesty na něj - mujRozhlas\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOQm1qSjN2ZndQZVU5YkltZHRKNVhpclZ1YzVEVHBUdTJ1NGpvRkY1SVpmdUpybVNjZ0ZSemVtSkNBR3RabVVsd2pkeFVKME5LSXdfenlWdktaYnJPWmQwa2xsc0VRUng0TjBMV1lTUUtmSHZxWV9KNmRybnd5dFRZNVVzdzBJVnNIMVAweUJPWExPRUhEYlBRMmw1WG5WSGNLdTU3NmxLLXhGeWVNM0tYQVpuZ2wtWDZK?oc=5"
+  },
+  {
+   "text": "Stuchlíková: Chystané protesty si tato vláda vyrobila sama | Plus - Portál Českého rozhlasu\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxQSWU1WkJSUkxfdkU5YjY1TmZuaEdrbm9ZSTVzNExQVExYUkI4bEcyUGhkYnZ5UHV0bkNMWUFDTzJrbTRYVDk2cktHcGpLV0gzSm9zbmFmZ0FSdHlpTFA0Wl9XNkVCeVNoVkRDY3E3VnY3T1dTTmltNWhlbUNMSlM0cWNfaVBDWFdVRFc5eThPLVlWM1hEOEVnMll0Ri1BTWlfeXRZbmI5ZmRWSXlVY0trTQ?oc=5"
+  },
+  {
+   "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! „Minimálně zvláštní,“ vzkázal Pavel - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4gFBVV95cUxPM0U1cGpCd2RFVkZ3dDYyMXBIVTkyb3RjNFl0dms5bVJFLUVGNU5nRDhQWWk4WjRfeWt6MDBacmIyX2lxRWQtUmxIWXRKRXdzSGJlbElfTHdsRHNhZzBXNFN0TGNyMXJ1OVZOd1Nzc3EwTW1JdW04NVpLa0JpTUIwUFdEdVVIOHdIMkVacW1IQnBuY21xb1JCRks2Vm5GR3BWVmRoLUVTRGlmbnBscGhROUJuMEtOUUFwMF93MDlmejUybVcwRGdLZkctNlVfQW9KMnhMbFh4Yy1JZ0xaRm9nMzVB?oc=5"
+  },
+  {
+   "text": "Galerie: Fiasko ministra Klempíře: Umělci odmítli státní ceny, sám na předávání ani nedorazil - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkNDeFhiWGVNdmdFZlZDOHNUemtUTmlHcUFnaVlfMnpWcW9WZ194azdSTzlQYzN6eGVyYllNSW5Fc3NUNFc2aHE4SE9OMmszTmZzdTh0TlVIbWpoYm10WS13WWVaWWYxekc5UWNjaU5tMUxZcUNyYnNSdWlJcnZpTDQyT0hBYkhlNmNjaTFFY2JzZ3FSX0RYQjRlQ1UwVndETG1iQXVuN3RmeXg1UlVLWUFpZG1DMVRoanc3b01Jd0tTQQ?oc=5"
+  },
+  {
+   "text": "Ceny za kulturu se udělovaly bez Klempíře a části laureátů, zato s protestem - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQOGhMUEZqaGNEa2s1NEVFTjZZREN6R1lxamhKN3F5S3FzX0VWR2d5ekplZzJGWktmUzE3X2kyODNpWWdGazRIamF4X2JrRkFkWnRZYkpWM194QXZUd29aeHFBWjBISktjVkFTakQ5OXVIdlpaa29Rb0pEVTREN3RUdzFDZFlmQjczdVc3TDd0V01JVmRDdThRUEdnNkt0akRXNWMxME03bHNEM3VadF9ZRzFsSWRlY1JpcEt1MnZFUGREUjQz?oc=5"
+  },
+  {
+   "text": "Klempířův chaos audiovizi škodí, vadí opozici. „Stabilita je důležitá, zachovejme to,“ zní z ANO - Portál Českého rozhlasu\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPQml5cmpfUzIzaWRGdl9KVkpIWHNfUDl2Y3dNZFBnS002a28zV0tzZjg2Rmw4aXZCXzNtYTFRbFg4VnpsSDUxRjVVbEVHaVVJOE1jYjl5MDhta3pESURJMGRTUGtDbS1vSFlmZnRwQzQ4Zm5YNC1WeXJ5dXYzandzRjZIeHctQ2tKSE5vaXhrYlJwRG5VQXk5X0dvQjJDNlNucWxnSGJnYnM4RVU?oc=5"
+  },
+  {
+   "text": "Galerie | Skandál? Dva laureáti odmítli státní cenu, Klempíř ani nepřišel! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXdFNkhRdXNZZk9KdGNvM3h5Qzc5WEF4N1hOWmQ4bnNTZG5KRHBUcDRaOGpHejNCc2dRTGFMQlY4akRleV9GZXM4Tlk4d29RX090Mnl5S0lENk9NdDdxRUVCejVWOVNVajliNTZWX2tqNXV4TjlyNWxfY2tqd1NDQmd0RVdRa0Uwc1IwQnVHa2dENE5ZRHFZZlVVSUY0OXVYTS1sQjNQY3RaQjg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
