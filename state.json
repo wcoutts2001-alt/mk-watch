@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T04:39:44+00:00",
+   "last_success_at": "2026-11-02T05:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T04:39:44+00:00",
+   "last_success_at": "2026-11-02T05:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T04:39:44+00:00",
+   "last_success_at": "2026-11-02T05:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,18 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T04:39:44+00:00",
+   "last_success_at": "2026-11-02T05:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cb50827cfc54b0f4",
-    "news:9f8acb315659825a",
-    "news:b47b4aca85a22e25",
-    "news:776cd3bf6ad08d7c",
-    "news:fffe8798d68d9f2f",
     "news:c02eca959e594db8",
     "news:a36b3d47a7bf4cda",
     "news:9e2dc70f63aba031",
@@ -597,11 +592,16 @@
     "news:ba76552e44e56602",
     "news:458e6f93bf18f4bf",
     "news:13d7dc058ffb8206",
-    "news:28d222e4965dfdd3"
+    "news:28d222e4965dfdd3",
+    "news:ff74a243d33774b5",
+    "news:0aa54ab051ccb01e",
+    "news:eb4abc28d5f1cc26",
+    "news:fb489b3fee3bb4db",
+    "news:e75133dda0449498"
    ],
-   "last_success_at": "2026-11-02T04:39:44+00:00",
+   "last_success_at": "2026-11-02T05:38:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T04:39:44+00:00"
+   "last_new_item_at": "2026-11-02T05:38:59+00:00"
   }
  },
  "digest_queue": [
@@ -652,6 +652,21 @@
   },
   {
    "text": "Objevování sexuálních identit za 5 milionů. Co musí řešit Oto Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxOam1fTWplSUFPT0hqb2E0Q0VNN0ZCVVc5U1JYRFdTZW43V0I0WWg4Smg1R3ZyVk9sTDJfb3ZCVkZScFV3MW5xUnVjMGpSbjl5Z3FMODlkeGxGc0xpZXYxUXpZWGxLVjFJZ2lIa1I5OVprcThKMGlvaVd6aUVrV1B1UlpEaEROVmhTaWttVm02ZDJpOTVNZEFNSlNRblIyQ3JTOTNsbm91VDdMcTNKLVFDNjVxRmpVNzBQZmFXRHNn?oc=5"
+  },
+  {
+   "text": "Na digitální mapě vietnamské kultury bylo oznámeno 391 akcí - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxNOExLS3h6NEhpQS1HYzdIT0dyMnEwZGk2U2p3VVBRcGV1a0I1VDV0RmJjY0d5d3RaZHZBakN5OUlBV25hd3RlS3RtaXdCT0szcnJNTEFpeDJ5VURTbWY2TjFncnBZYTczRDU2ek5ORmU2dHJ4NHFfQmw2UHBhYjRDREEzYw?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh zve vietnamskou mládež k přístupu k Digitální kulturní mapě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxPdGgyOVhGZnBVaXBBMmxKUmxfZTZyTjY1UDN0a3FfZkRWNWVVSXM3NmlpMG1ldW9pTEZTZzFoZFJTQUh5UnZDN05rNHlFZGhGbXRTa2JNNldnOHVKNDBHQk9EdXQ3aUpGS25sU0pxSjJ6ZmE1dGpxc2ZuX0tLSEkwOWlnLXVpRThEZ212UVhTYko1ZU80T1pHeDE2cmszbGVnLU0w?oc=5"
+  },
+  {
+   "text": "Spuštění platformy digitálních map vietnamské kultury CMAP - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE9kV0tUX2FvR0lhSXV2d0g0YlM0NzJlN2JENTF1azViSkFWaFF1RjBYbmw0NUZIaVdJRE5USUlnZG0tT2NLWWVHXzNUZzVVb0FkUEIzS3lRcVowczROUWVYMnlqVVNOM2lsbmJEU25BVDZVVko2MjNJMEJxOVJvZw?oc=5"
+  },
+  {
+   "text": "Spuštění digitální mapy vietnamské kultury: Podpora efektivního využívání kulturních hodnot v digitálním prostředí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxQeEdYaHliNzBRdnVPcmFzT1c4bnRPRWlvakJPT085ajU4N2ppOC10WjRMOE9BQ2cyTGVsSlZGQ3RuVjlnSTA3cU1NWUdEQXpuNElPTnFrdWpUMWFvTWxZdzQ4NWNNTFRkWWQ0RlhrVE5YM2FfUng4NVJiMWplVnlHNjZnVVlSZ2ZRNDR5TDlBWXp5c1pxU0VFQzU4bVJmMFRkNktMOFF6dzJmTVlieVR1SjJ6VnpPMi1ud0NFc0V0TQ?oc=5"
+  },
+  {
+   "text": "🔴 Živě: Národní shromáždění pokračuje v diskusi o socioekonomických otázkách - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWI0cWRGUWY1UUh3N3ZRMVczUjZQZmFzRnFUdmk5czNGWTRENGxfdEEyc0FmODR0dmdGTDNfOTN4a1dRRkV5WUszaEwwTThZUG00SExnSnZLQ3hMNnFwZ05Ud19BZTVzNkVMelVqYXRwYzBab0owTHoxU212d0ljTEhSZmVxcjRw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
