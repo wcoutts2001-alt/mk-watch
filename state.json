@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T06:40:30+00:00",
+   "last_success_at": "2026-11-02T08:02:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T06:40:30+00:00",
+   "last_success_at": "2026-11-02T08:02:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T06:40:30+00:00",
+   "last_success_at": "2026-11-02T08:02:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,16 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T06:40:30+00:00",
+   "last_success_at": "2026-11-02T08:02:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a36b3d47a7bf4cda",
-    "news:9e2dc70f63aba031",
-    "news:0be2a1cd6e88458f",
     "news:b3a99e72e0a2373e",
     "news:873478cd79f32fb5",
     "news:323a1dbfb2044901",
@@ -597,11 +594,14 @@
     "news:eb4abc28d5f1cc26",
     "news:fb489b3fee3bb4db",
     "news:e75133dda0449498",
-    "news:c3ef096940c73ae6"
+    "news:c3ef096940c73ae6",
+    "news:1f87df70baada614",
+    "news:c24ce4308a0f9e01",
+    "news:a5018652ae992cb3"
    ],
-   "last_success_at": "2026-11-02T06:40:30+00:00",
+   "last_success_at": "2026-11-02T08:02:08+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T06:40:30+00:00"
+   "last_new_item_at": "2026-11-02T08:02:08+00:00"
   }
  },
  "digest_queue": [
@@ -670,6 +670,15 @@
   },
   {
    "text": "Propojení zdrojů na platformě digitálních map vietnamské kultury - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPNzBiYTFqdXdWSU5vUklZeDJWc1NVQ3VHMDRNUVplODB0cUNIcXc5ekNMOEIyZ1F3NVlSQkhoVkNzTFU2NVI3QzRiX3A4Snd0X3htMk9pZTFJc3Y2LUVZLXpOWVJZMVNnRF9SUU9ndWNZM2dKTW1EQWY3QTIwcGZMbjctWWNRS2hiS0YzcnFVa1R5dw?oc=5"
+  },
+  {
+   "text": "Nedorazil Klempíř ani část laureátů. Ministerstvo kultury rozdávalo ceny za přínos s omezeným počtem hostů a bez přímého přenosu - Hospodářské noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3lHbl9nRkpFTW9Hbm9mR0gzZXdrNWlHd1BNRGRBVFFyLWtsdnlISk8xV0w4dHNsekVVLVlpZThVbzJjZTN3VWtqNFZHcXlwd3RmNXRtRm9iUkZ3SWRqUUF0RGZ3RmJhb3ozcTI2TXduQy10NkY2UG1tRDQwNDZqblBHelB1emJrb2VqYjFKZGQxblZHUUF2Slc5TF9TZzhzcTdEby1MWnE2MkR1WlBOckhvSmN4NTRaSWVRMnBXV1hMRW1KMnBMenM5cTlITGlXZ0Y3ZTRNNmRid0xYOXEyWDhRdnpzTzl2ODh3NmhLSEhCdw?oc=5"
+  },
+  {
+   "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! Bez přenosu ČT a s protestní akcí - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxNZWw0cjJVSlhwVUUxV1FXZnJkRm9MeFJNd2gtSXA2STJXbFRmalVJV1oyUEtyV3J5cHZXV0FIeFhWbGJzdXBTYWtpN3RXV1RxMjJjSDZwb3VjbDZrUHZyVU5KZTVOQkdDSUptLVFuYXk2UHR6YWQ2RGtSSkhyZmpxRXhqREtmSGZVYTNjZ1Q3RjVPR3FOZy1penRlUzlZWXlmZGEyMmVsal9rZ0tGNmduN0pNU243Y1hUX2VZUEZ0VHVSck82cmhTTHRSRFBuX3U2S0psMFdNaFdxRzBCcEY1TFhiUHZqUQ?oc=5"
+  },
+  {
+   "text": "Fotbalový turnaj veřejných zaměstnanců města Can Tho byl přesunut na rok 2027. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxQWjlsNVJRS2dtSXpBWnBKOEZ3XzkzenV1b25TYTN6WFhCZHdUME1tVEw3bkVNc2x3U2ZlSWpLdkJHTG5lend4SzNKTmZKQmtwRUY1WlM2UjBWcmJTUEJybnEyTzYzSi1IRFJlaElzSEVnLW1SaEcxemxVQ3hpSzVjWFY4bk8xM3psM0tGNUNMWkhrODNjUUFGUjV5N2RxdmZibXkwbEtJTFpDVDZ5elgxNVNR?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
