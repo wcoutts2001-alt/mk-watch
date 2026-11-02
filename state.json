@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T12:02:46+00:00",
+   "last_success_at": "2026-11-02T13:14:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T12:02:46+00:00",
+   "last_success_at": "2026-11-02T13:14:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T12:02:46+00:00",
+   "last_success_at": "2026-11-02T13:14:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,15 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T12:02:46+00:00",
+   "last_success_at": "2026-11-02T13:14:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:41d1453b575c6d8d",
-    "news:a5f94bce815fe2db",
     "news:dbc21f2e7dae7750",
     "news:7981b7c1f4281459",
     "news:566dbc2f25276b4b",
@@ -597,11 +595,13 @@
     "news:d90d83064aeb072e",
     "news:a78105b4fe126400",
     "news:d4d51d334bf45d6b",
-    "news:6f475a2f96f0a92e"
+    "news:6f475a2f96f0a92e",
+    "news:4874b9edb2a51ad5",
+    "news:993bd72abfc92785"
    ],
-   "last_success_at": "2026-11-02T12:02:46+00:00",
+   "last_success_at": "2026-11-02T13:14:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T12:02:46+00:00"
+   "last_new_item_at": "2026-11-02T13:14:13+00:00"
   }
  },
  "digest_queue": [
@@ -709,6 +709,12 @@
   },
   {
    "text": "Nedorazil Klempíř ani část laureátů. Ministerstvo kultury rozdávalo ceny za přínos s omezeným počtem hostů a bez přímého přenosu - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_gFBVV95cUxNQjlDanE3cHF6eXd4RnpOMUQxZk01VnVremV2MG5QVEZDTlNycndJaUV0MEJyZW1rbHY5ekp2cENEUUxaUXd6b3NYS2NGRWxUaDJ2dTItMVByZ2tGVk85RkNQR1VVXzhyaVZaWWt6VHd6X0R2X2sxZ1AwT1RlTk41a3M0YXotNEtCZ0NjbVRYdUdTUmt4QWR0d1FZNldGQm9nT0pwSk9vbkhUS2VkdlVTeENteEFoenhLSWtCM01JWl94Z1ZEM3VxUjBHQXJCZVFJRzZBd2dYMDdWTXB2UF82SDA3T2ZJWXo2VWNPQzZfcnZUeWFtVW1PTTFTTGFQdw?oc=5"
+  },
+  {
+   "text": "Fiasko ministra Klempíře: Umělci odmítli státní ceny, sám na předávání ani nedorazil - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxOWDVTRWtRb1dNdkJGcDM1WHdSa2tkLW44STd0SHdZSlUtMEFaeTVLdmFVV0F3NW1KTGh5N09UVmEzdV9RUG9IVzJjb0tYOTc0anQwZGVNNU42RkZ1X1V4ZUc4Ykc4VjVlUklGN0t1dU9HeXNjc2FRME5OajlUUGtiQ2xEUzZBTjd3TG5lOGE4Tk96VGw1SzB3RFhvTnFMcjl6d0xOT0xJeVMyOGdqNFpDelBMLTZ0SlU?oc=5"
+  },
+  {
+   "text": "Na předávání cen za přínos kultuře část laureátů nepřišla, ministr Klempíř nedorazil - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmpsc2c3TzJ4cHZrcHdlQU5lRUtiTXd5dGlIcFQwYVR2akxxWkxTM1hJeTd0NzBLclB3ZG9oY3F5V2NKeTUyV1NGcFEwSFhVbHhpY1FPMjRlejJnSGdwN2p4d205T0FVUHdfeHB4RUtxOFFjY1Z6aDN4UFZ1YmZTbFc5eTZGNExnWkJsZml2RTNKS18zUHJVVkV0NWdNYXJFaWRneGE0c0VHUzQ5R2sxZk1xdzlYb0h0bThvNUpQM0x0VUk?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
