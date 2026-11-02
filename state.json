@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T09:11:21+00:00",
+   "last_success_at": "2026-11-02T10:14:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T09:11:21+00:00",
+   "last_success_at": "2026-11-02T10:14:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T09:11:21+00:00",
+   "last_success_at": "2026-11-02T10:14:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,15 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T09:11:21+00:00",
+   "last_success_at": "2026-11-02T10:14:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:1ec1bc7d71c26f0a",
-    "news:8c8613ab9cf9090f",
     "news:38f0ea853d164d94",
     "news:4eb5b52a561cfb24",
     "news:a9014c9d7f3d2849",
@@ -597,11 +595,13 @@
     "news:617d888e3faa344a",
     "news:fa02bbc0fa1627b3",
     "news:630c62adebbe307d",
-    "news:8c95e086edcb15fc"
+    "news:8c95e086edcb15fc",
+    "news:349b0d5bf34d9e8e",
+    "news:4065180e69808576"
    ],
-   "last_success_at": "2026-11-02T09:11:21+00:00",
+   "last_success_at": "2026-11-02T10:14:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T09:11:21+00:00"
+   "last_new_item_at": "2026-11-02T10:14:56+00:00"
   }
  },
  "digest_queue": [
@@ -694,6 +694,9 @@
   },
   {
    "text": "Skandál? Dva laureáti odmítli státní cenu, Klempíř ani nepřišel! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPTWNoc3V2WFU1Tm5TZER3Z0hyTEtGLUFlcWI1ektaX01Lb0lYWFBIM0JOYnZBM3VRQUxRQzdnRjRiZHpBZmZ1S0Rlc3A0eC1OMzh1RXJkVmx2MHdpbVdUYzBaNFVWNGpjNkpWWmtvWUpvWDZzWTI0MUphX0NUanVzZ0dDa2tDZTFBU3ZCdWV6SlJJSmdBX2ZveEpfU2pPbTY3?oc=5"
+  },
+  {
+   "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! Bez přenosu ČT a s protestní akcí - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxOS1k0ampwQkNVYWVPYVNzdXllYWNjaVJVUkVjdXl0SUxVUjJWMk1HRWphT2k0OXVVNXZqSW5Ca0JXUDJuTzIwV3VPcUpPcldHREliSzcyQklYRmJTSS1oY2t3b0hBZlhLUmxIbWh0MzhhTHc5Y2k4aUdvTVB1eS1tQkY1S1hmeXg0VC1lWjYwbnd4OGE3eVFuUGdzanU3TE0tbTFZVGJsMlJ2WDM2STUxZHEtaWZXVmhXMXN6QjM1d0ZfbVlsN3JzNTBqUl9tQ1pybUh1VnZoQkpFZ1pOZE52Z2FMdw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
