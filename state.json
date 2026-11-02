@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-02T21:33:30+00:00",
+   "last_success_at": "2026-11-02T22:22:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -67,7 +67,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-02T21:33:30+00:00",
+   "last_success_at": "2026-11-02T22:22:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -85,7 +85,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T21:33:30+00:00",
+   "last_success_at": "2026-11-02T22:22:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -93,15 +93,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T21:33:30+00:00",
+   "last_success_at": "2026-11-02T22:22:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8298487b0b5a5b7b",
-    "news:4521ef553e207dfc",
     "news:9d37bdd48ee3ab33",
     "news:e6c9278acfb8adde",
     "news:d9407f9927c3744d",
@@ -599,16 +597,24 @@
     "news:04434d58a8c97066",
     "news:d532fc9241c7fc8b",
     "news:d270ec03315e5091",
-    "news:bb28457fe8e0053b"
+    "news:bb28457fe8e0053b",
+    "news:f36595717c63c6b7",
+    "news:de45226125962c32"
    ],
-   "last_success_at": "2026-11-02T21:33:30+00:00",
+   "last_success_at": "2026-11-02T22:22:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T20:12:10+00:00"
+   "last_new_item_at": "2026-11-02T22:22:43+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Klempíř předvádí mozaiku nekompetence, vadí Baxovi. Jeho kroky české kultuře škodí - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxOUlpDYTJ1a0VNRmhqQzJzT0JWeWo1TWk5emlNc1dDOGJDY1M3NldrUWpkakRsWGhOSkc5RnV3NDVDdU9ieWFHQ29mLWVVV2R1VWJLUDg1NC1lU0JUU0RWU1FCVHVxZWZ0czZNbnZRRExNX1pST3ppZmw4MkVHSFhHRElmNXJ0eXlnNjdXME9JdTFhUG91WW9pV3Z4Q1VvSlFBR0Nhd1FMU2VXVXF4RTFOTWxiY2ZNdm4tcEVSNy1Mcw?oc=5"
+  },
+  {
+   "text": "Oto Klempíř | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNHNxdVAzaDZGMHpIM2JmM0J5NVJBVDBOdUs4OWdMbFdOY2tvQkRNNHBXdzVBTEZpTHVJWkl3U1BaYlZyMWpsX0JGbnc3Uld4RzdRYkJ3SVZJNi1XVjJTajFYMnh4TVk?oc=5"
+  },
+  {
+   "text": "Zelení: Žádáme vládu, aby dodržovala demokratická pravidla - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxPVVF1MWlza1NHbW5ZYVN1LXQ2eG13QjJwMlZiSkFXZ0IybVZ0eUJCTi0tb3g4UlZkaGVtaEFpYTd1dzJaV0JtOE1TVVpQQnM4NWo0LXJ6blhyakVMVUhwY0lzS215Y0hXZGhpSTc3bDZ1cnBWZ3BMbFpQeFd2N0JSZ1BteUgwajhQekVHcjBoeW1QaEk5Q0M0LTlBblFDVDYyMmR3SmhIbUxxYWlYZHhFYmd6MFJOVEFOM2ZDVndn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-02"
