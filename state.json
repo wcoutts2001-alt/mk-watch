@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-02T15:23:00+00:00",
+   "last_success_at": "2026-11-02T16:27:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -66,7 +66,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T15:23:00+00:00",
+   "last_success_at": "2026-11-02T16:27:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -84,7 +84,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T15:23:00+00:00",
+   "last_success_at": "2026-11-02T16:27:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -92,18 +92,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T15:23:00+00:00",
+   "last_success_at": "2026-11-02T16:27:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e368d875bdeaccef",
-    "news:9920000a08d4bb46",
-    "news:20dab2cb89a7baa0",
-    "news:859139e4578b961c",
-    "news:b38a4f5f286ddda9",
     "news:62275103bed700fa",
     "news:9086d25e5fd9ed88",
     "news:074cd520b0d014ac",
@@ -598,11 +593,16 @@
     "news:9e852874a8637ddb",
     "news:1bc8c4e34c05ecc7",
     "news:fcc9d4e67e6270c2",
-    "news:9ff9571e82f3fd05"
+    "news:9ff9571e82f3fd05",
+    "news:30affd31b4b51be6",
+    "news:2de72fc652962687",
+    "news:d1531f70ae14f49f",
+    "news:d54686cbc071989f",
+    "news:04434d58a8c97066"
    ],
-   "last_success_at": "2026-11-02T15:23:00+00:00",
+   "last_success_at": "2026-11-02T16:27:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T15:23:00+00:00"
+   "last_new_item_at": "2026-11-02T16:27:01+00:00"
   }
  },
  "digest_queue": [
@@ -746,6 +746,18 @@
   },
   {
    "text": "Místo oslav protesty. Dva umělci odmítli státní ceny, Klempíř na předávání nedorazil - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOX2RITXg3UmlPdl9OaUxySnNVTmxNODNtVkZFQ3hyMGIxbDlkbDdNTVpiTlVVY0MyUC0tdG1IYjhnT1h2b2RsQldhN0tHNHlBRjlOUnczbE1XMXgtLWMtblZ2bnJPbzFSa1JYeE85X0cxdURKOWVzRm02MmloTC0yQTlJQUNhSmxjUEh5N3g2Sk1HQ2c5T2N0MXhTMXZRV1lkcXk1Wm9MenNZdHZia1ZZWWU1VVNXU1ZXcXFkcm5BbVFaaWZYZGFlQWRHUFM0QkNHYW5LZHo4OA?oc=5"
+  },
+  {
+   "text": "Klempíř předvádí mozaiku nekompetence, vadí Baxovi. Jeho kroky české kultuře škodí - TN.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxOZTgzU0x6Vlk0Rms0WDQ3WVNpbnc0Zm9RbmxIeUtjQ0NQU3NXdHNFZTJ3SHpOekl4VU42SEVvSzNsOUI2Q0ZRYmJOVE5XaFRiTHdidjFOV1dCZS02eWV2UVAtdGFkbWs1VURmaWJtckFBOUFVZGFNaWdfbUxrXy1tNXJKTjZTakkzX0w0SmhsX2d1M2RqeS0yWDlNM0RqUW9uU3FwVFRFOXgwaXZEZzhyNVNUZHZkSW9RTTR0NnYyZnZJZmRfRVE?oc=5"
+  },
+  {
+   "text": "Téměř 2,4 miliardy korun. Vláda schválila peníze pro audiovizi podle původního plánu - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxNdXphWVhFMnJnYW5zQWxWT3NyeEszNnVXSmZkYldLZkdHVE02ZkVrWEt0aG1XcDFFaTNmNVJ6dTNDWDRiR0l1bmRNclJWRDlxazN0YUFBbGRuNnhoRFB4RFh2OEJ6dlpRanpnLVB4WUNqQVoyOFFGdjFyNGhremx4bWZrUjJ6eFZER2FORzVKNEdDRUl1aENGM0tlSkxiRVBFWF9vN3l4NGotZmtMamlPQmZmN0xjczFWbkdRQjNXcHhacW5ieDdIbFkxSU9EUzA?oc=5"
+  },
+  {
+   "text": "Oto Klempíř | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd0JJbWpIY3Q0ZEt1RUFaUGtJYXZzR0cyQWJkaWxaX1lLNVQ4ZkhlYlJ1RksyMkxJQVNzYllEYk9SaTMta01QVXBpLXZSVFpUWVBkR1UxWEh1VUFMOFBQZFRvQTM1T28?oc=5"
+  },
+  {
+   "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! „Minimálně zvláštní,“ vzkázal Pavel - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6wFBVV95cUxPMWtkdjdnM1JLYVI5QTN0dUc5ZTFxVl9TcmxQVEZnWTA3Sy1JQlhMcTJ5a2I2ZnpMVVpia0NYT0N4TUE3UVVIQ3h1TzFkRDRTS3hjMzhtMERENW5kMmdha25OTDRBUG1JMmRMb0hxbTVtd09VOTk0M2RaZzBYVGxKMUlWWm0tWENDdHdMVF9PZFhrQmcxeHlzSkNRemtTWXlNbWlvcG5tcXdnLTRCWWJvZnk3c1M1Y3p3d2lVUEwtaktEZThHZkY5MlFsaExzUy1DLUM0dmg5bnpvaHotZXczNV9LeVV6OUVFQ2dF?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
