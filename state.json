@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-02T19:22:22+00:00",
+   "last_success_at": "2026-11-02T20:12:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -66,7 +66,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T19:22:22+00:00",
+   "last_success_at": "2026-11-02T20:12:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -84,7 +84,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T19:22:22+00:00",
+   "last_success_at": "2026-11-02T20:12:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -92,15 +92,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T19:22:22+00:00",
+   "last_success_at": "2026-11-02T20:12:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9086d25e5fd9ed88",
-    "news:074cd520b0d014ac",
     "news:8298487b0b5a5b7b",
     "news:4521ef553e207dfc",
     "news:9d37bdd48ee3ab33",
@@ -598,13 +596,19 @@
     "news:d1531f70ae14f49f",
     "news:d54686cbc071989f",
     "news:04434d58a8c97066",
-    "news:d532fc9241c7fc8b"
+    "news:d532fc9241c7fc8b",
+    "news:d270ec03315e5091",
+    "news:bb28457fe8e0053b"
    ],
-   "last_success_at": "2026-11-02T19:22:22+00:00",
+   "last_success_at": "2026-11-02T20:12:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T19:22:22+00:00"
+   "last_new_item_at": "2026-11-02T20:12:10+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř předvádí mozaiku nekompetence, vadí Baxovi. Jeho kroky české kultuře škodí - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxOUlpDYTJ1a0VNRmhqQzJzT0JWeWo1TWk5emlNc1dDOGJDY1M3NldrUWpkakRsWGhOSkc5RnV3NDVDdU9ieWFHQ29mLWVVV2R1VWJLUDg1NC1lU0JUU0RWU1FCVHVxZWZ0czZNbnZRRExNX1pST3ppZmw4MkVHSFhHRElmNXJ0eXlnNjdXME9JdTFhUG91WW9pV3Z4Q1VvSlFBR0Nhd1FMU2VXVXF4RTFOTWxiY2ZNdm4tcEVSNy1Mcw?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-02"
 }
