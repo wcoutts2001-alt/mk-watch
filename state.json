@@ -27,11 +27,12 @@
     "website:fa03155d05cfeb40",
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9",
-    "website:6ae044e5ba3ac851"
+    "website:6ae044e5ba3ac851",
+    "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-02T14:28:24+00:00",
+   "last_success_at": "2026-11-02T15:23:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-30T10:21:36+00:00"
+   "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
   "facebook": {
    "seen": [
@@ -65,7 +66,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T14:28:24+00:00",
+   "last_success_at": "2026-11-02T15:23:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +84,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T14:28:24+00:00",
+   "last_success_at": "2026-11-02T15:23:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,16 +92,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T14:28:24+00:00",
+   "last_success_at": "2026-11-02T15:23:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9de95fcfb1a06e5f",
-    "news:86417793791325a3",
-    "news:8d68b9c53a08554f",
     "news:e368d875bdeaccef",
     "news:9920000a08d4bb46",
     "news:20dab2cb89a7baa0",
@@ -597,11 +595,14 @@
     "news:57dd250b78e94765",
     "news:c636986b16502665",
     "news:d7b716068e28ca3b",
-    "news:9e852874a8637ddb"
+    "news:9e852874a8637ddb",
+    "news:1bc8c4e34c05ecc7",
+    "news:fcc9d4e67e6270c2",
+    "news:9ff9571e82f3fd05"
    ],
-   "last_success_at": "2026-11-02T14:28:24+00:00",
+   "last_success_at": "2026-11-02T15:23:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T14:28:24+00:00"
+   "last_new_item_at": "2026-11-02T15:23:00+00:00"
   }
  },
  "digest_queue": [
@@ -736,6 +737,15 @@
   },
   {
    "text": "Galerie | Skandál? Dva laureáti odmítli státní cenu, Klempíř ani nepřišel! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXdFNkhRdXNZZk9KdGNvM3h5Qzc5WEF4N1hOWmQ4bnNTZG5KRHBUcDRaOGpHejNCc2dRTGFMQlY4akRleV9GZXM4Tlk4d29RX090Mnl5S0lENk9NdDdxRUVCejVWOVNVajliNTZWX2tqNXV4TjlyNWxfY2tqd1NDQmd0RVdRa0Uwc1IwQnVHa2dENE5ZRHFZZlVVSUY0OXVYTS1sQjNQY3RaQjg?oc=5"
+  },
+  {
+   "text": "Státní ceny a Ceny Ministerstva kultury pro rok 2026\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6619cs-statni-ceny-a-ceny-ministerstva-kultury-pro-rok-2026"
+  },
+  {
+   "text": "Šlajer: Snažíme se přesvědčit vládu, že úspora ve Státním fondu audiovize vůbec nedává smysl - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlpHZnh2UUxlSWdqMTBCMlo0Rnc2UUJBOEZUUDhtU1M4OURWa2tMc1NkcmZJY1c2MlpLYjVsVU1WTkQtQ2dsZWxUMC1YMERCWnVTVFhDVS0zcDdDMXJwS3B4WXpvQzlYM3h2OWtKc2hPZlV4LWh3ZEpXMm55YWhCRWc1X1RJOVdSTGI2X21pX0o4ZHdKMDdhNHRreFFoVFREeklPTnJFby1sRWhXOVFGNFE1WlRycWdNazduWlpxSjlGcG5pNkVGVg?oc=5"
+  },
+  {
+   "text": "Místo oslav protesty. Dva umělci odmítli státní ceny, Klempíř na předávání nedorazil - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOX2RITXg3UmlPdl9OaUxySnNVTmxNODNtVkZFQ3hyMGIxbDlkbDdNTVpiTlVVY0MyUC0tdG1IYjhnT1h2b2RsQldhN0tHNHlBRjlOUnczbE1XMXgtLWMtblZ2bnJPbzFSa1JYeE85X0cxdURKOWVzRm02MmloTC0yQTlJQUNhSmxjUEh5N3g2Sk1HQ2c5T2N0MXhTMXZRV1lkcXk1Wm9MenNZdHZia1ZZWWU1VVNXU1ZXcXFkcm5BbVFaaWZYZGFlQWRHUFM0QkNHYW5LZHo4OA?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
