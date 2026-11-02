@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T03:31:56+00:00",
+   "last_success_at": "2026-11-02T04:39:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T03:31:56+00:00",
+   "last_success_at": "2026-11-02T04:39:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T03:31:56+00:00",
+   "last_success_at": "2026-11-02T04:39:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,14 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T03:31:56+00:00",
+   "last_success_at": "2026-11-02T04:39:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:b4531d348820cd71",
     "news:cb50827cfc54b0f4",
     "news:9f8acb315659825a",
     "news:b47b4aca85a22e25",
@@ -597,11 +596,12 @@
     "news:ec08794f8491fb10",
     "news:ba76552e44e56602",
     "news:458e6f93bf18f4bf",
-    "news:13d7dc058ffb8206"
+    "news:13d7dc058ffb8206",
+    "news:28d222e4965dfdd3"
    ],
-   "last_success_at": "2026-11-02T03:31:56+00:00",
+   "last_success_at": "2026-11-02T04:39:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T01:48:14+00:00"
+   "last_new_item_at": "2026-11-02T04:39:44+00:00"
   }
  },
  "digest_queue": [
@@ -649,6 +649,9 @@
   },
   {
    "text": "Ministerstvo kultury zve občany k přístupu k Digitální mapě vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQNmlCN2tacktCN0c1TmdXZEVVc0ppLUJKWXR0NFlJSnpsM2cyWlRNRGNDODlLaEI4dVlPaWdEanBFUWMxaWpKX0hkWmplWjlGbTdoMnNvNElZMnB5NWgwN3hRWkZKS0RkVVNoVFV5dHJ1ZXF5YmQzWnp0bkJTN0RaUVRldElSSW4zaWl1ZVQ3dw?oc=5"
+  },
+  {
+   "text": "Objevování sexuálních identit za 5 milionů. Co musí řešit Oto Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxOam1fTWplSUFPT0hqb2E0Q0VNN0ZCVVc5U1JYRFdTZW43V0I0WWg4Smg1R3ZyVk9sTDJfb3ZCVkZScFV3MW5xUnVjMGpSbjl5Z3FMODlkeGxGc0xpZXYxUXpZWGxLVjFJZ2lIa1I5OVprcThKMGlvaVd6aUVrV1B1UlpEaEROVmhTaWttVm02ZDJpOTVNZEFNSlNRblIyQ3JTOTNsbm91VDdMcTNKLVFDNjVxRmpVNzBQZmFXRHNn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
