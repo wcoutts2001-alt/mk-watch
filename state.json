@@ -29,7 +29,7 @@
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851"
    ],
-   "last_success_at": "2026-11-02T08:02:08+00:00",
+   "last_success_at": "2026-11-02T09:11:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-30T10:21:36+00:00"
   },
@@ -65,7 +65,7 @@
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb"
    ],
-   "last_success_at": "2026-11-02T08:02:08+00:00",
+   "last_success_at": "2026-11-02T09:11:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-01T21:34:26+00:00"
   },
@@ -83,7 +83,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-02T08:02:08+00:00",
+   "last_success_at": "2026-11-02T09:11:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -91,20 +91,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-02T08:02:08+00:00",
+   "last_success_at": "2026-11-02T09:11:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:b3a99e72e0a2373e",
-    "news:873478cd79f32fb5",
-    "news:323a1dbfb2044901",
-    "news:fb248760bcce252b",
-    "news:8f346056a4a8e9c7",
-    "news:b5694e1ef1b56250",
-    "news:bccedb6b73525005",
     "news:1ec1bc7d71c26f0a",
     "news:8c8613ab9cf9090f",
     "news:38f0ea853d164d94",
@@ -597,11 +590,18 @@
     "news:c3ef096940c73ae6",
     "news:1f87df70baada614",
     "news:c24ce4308a0f9e01",
-    "news:a5018652ae992cb3"
+    "news:a5018652ae992cb3",
+    "news:b3f01c00f1a3498c",
+    "news:4417739deae16139",
+    "news:38e8c10e53852690",
+    "news:617d888e3faa344a",
+    "news:fa02bbc0fa1627b3",
+    "news:630c62adebbe307d",
+    "news:8c95e086edcb15fc"
    ],
-   "last_success_at": "2026-11-02T08:02:08+00:00",
+   "last_success_at": "2026-11-02T09:11:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T08:02:08+00:00"
+   "last_new_item_at": "2026-11-02T09:11:21+00:00"
   }
  },
  "digest_queue": [
@@ -679,6 +679,21 @@
   },
   {
    "text": "Fotbalový turnaj veřejných zaměstnanců města Can Tho byl přesunut na rok 2027. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxQWjlsNVJRS2dtSXpBWnBKOEZ3XzkzenV1b25TYTN6WFhCZHdUME1tVEw3bkVNc2x3U2ZlSWpLdkJHTG5lend4SzNKTmZKQmtwRUY1WlM2UjBWcmJTUEJybnEyTzYzSi1IRFJlaElzSEVnLW1SaEcxemxVQ3hpSzVjWFY4bk8xM3psM0tGNUNMWkhrODNjUUFGUjV5N2RxdmZibXkwbEtJTFpDVDZ5elgxNVNR?oc=5"
+  },
+  {
+   "text": "Místo oslav protesty. Dva umělci odmítli státní ceny, Klempíř na předávání nedorazil - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5lSmtpTExabm5PT3MwRU5leVdpZk1zRzRaMTgyakNwRWtCXzFoWDZxQXNlYXphS05yOUF1cDZCUVZyWlVJMnlUY3lRT3JhYkVvRzhKZmk3OEJFSk9MM0xWZUloTGFtODJlYUg4Yl8xZVlWOHN5WjFPenU3MENidGd0NFJVb0hYNjZkcDhJNnR5Z3I5am9zWVBRNDVEemJFVXduVmlWTWJRNzRJYnZxcVhZV0k2Zw?oc=5"
+  },
+  {
+   "text": "Podivné předávání cen za kulturu: Klempíř nepřišel kvůli viróze! Bez přenosu ČT a s protestní akcí - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2ozX3lydGJ3aHdOY2ZiRk1aSkJGWlJPWWVKNXZhWnctZHNRTlRMaE02TEVUc0FzUm5JTnBpdlJPNmVpX2taRGR4X3JxdHM3bHE0ZlRla3VMQjlkSTc4T2gyQzN2Y1owUWMzUV9IOWd3QUtVZTc5VWZoWmN5UFMtNE1wWk5ON3BWcHFhaFJFNThoekZPTzZGWmlSbm9TQXlISjVVNWV6cWJmWFZDZ29GV0RjcVdlVDlZRXVreVBTUmoyb3lNSlJUakN0N01IYTNmd3NqVlQzNnlhalJrOEZMNFNEN3NHOUpGdnRSNg?oc=5"
+  },
+  {
+   "text": "Klempíř: Ať Korzo Národní poděkuje, mají peněz dost. Díky patří lidem a dárcům, říká Stárek - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWNHbGN4OFRCZmFtemxHS1l1bmNXbFJOYXR3amFQX1FqaTlhVUJDbkdKVG84WTFnUUZEaW9GY0twZnZyZUlJQ05LdHd2ZEEwSUs3MUcybWZnWWx5cDNXcFk1YzRISjZkRnFjeFdIQzJtWUs0N2tGdURkNjFmVXdSYlNxdS0zTzRRMnNMZk9XckdBb29zQlpua3NjSTdRX2xuZFlKSV9Ea0dHZFBPZ3hmNmZXV2pIT0M2RVhkOUM4ZXV3Uk43WmxocA?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu spustilo 1. listopadu v 19:00 platformu digitálních map vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOZG9ES0J0ZnhXaHNUN0VScVNqZkFNZjRlLW9XVGk1OFpKVWFKREhjVmVySVJDWGRNMEhJZ3pOTFoyT1VfbFBPbkZvYUg2dlJPZU13VWdoUFpmd1ZDSzVTS2d4VFVqNWdlNEdpaENtUThuczhqN0R2YzdsU1hpeFVmZUJUNVp2Q0QyZV9Kb1NEaFNhOExzdWJOb1ByUkE0UQ?oc=5"
+  },
+  {
+   "text": "Skandál? Dva laureáti odmítli státní cenu, Klempíř ani nepřišel! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPTWNoc3V2WFU1Tm5TZER3Z0hyTEtGLUFlcWI1ektaX01Lb0lYWFBIM0JOYnZBM3VRQUxRQzdnRjRiZHpBZmZ1S0Rlc3A0eC1OMzh1RXJkVmx2MHdpbVdUYzBaNFVWNGpjNkpWWmtvWUpvWDZzWTI0MUphX0NUanVzZ0dDa2tDZTFBU3ZCdWV6SlJJSmdBX2ZveEpfU2pPbTY3?oc=5"
   }
  ],
  "last_digest_date": "2026-11-01"
