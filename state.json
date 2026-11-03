@@ -28,11 +28,13 @@
     "website:a5216319de994436",
     "website:572b866c8a7ec4a9",
     "website:6ae044e5ba3ac851",
-    "website:2799a0a91c96385f"
+    "website:2799a0a91c96385f",
+    "website:cbf07ac1da1f67c8",
+    "website:14968d33a94e28f3"
    ],
-   "last_success_at": "2026-11-03T13:50:03+00:00",
+   "last_success_at": "2026-11-03T14:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T15:23:00+00:00"
+   "last_new_item_at": "2026-11-03T14:44:27+00:00"
   },
   "facebook": {
    "seen": [
@@ -67,7 +69,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-03T13:50:03+00:00",
+   "last_success_at": "2026-11-03T14:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -85,7 +87,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T13:50:03+00:00",
+   "last_success_at": "2026-11-03T14:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -93,7 +95,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T13:50:03+00:00",
+   "last_success_at": "2026-11-03T14:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -601,7 +603,7 @@
     "news:5d85db4e2fb0e86b",
     "news:24a82ca8b0a78897"
    ],
-   "last_success_at": "2026-11-03T13:50:03+00:00",
+   "last_success_at": "2026-11-03T14:44:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T13:50:03+00:00"
   }
@@ -633,6 +635,12 @@
   },
   {
    "text": "Státní ceny bez státu. Klempíř kamsi zalezl - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQdTFnU3RoOUpORjd0NVpvS3B6UFFiZHF0cjdPQXVKWl9uaVdUV3ZLRzJ5V3I3UkgyN0Y1b1oxZ3FwT1pneks1VHVlYkhCZ2szTFkzVnJnRzdJMzdnRlROaFRMZkM5Tk0yZU1ZVzEzR1JNV1ViVEtQRUZCaU1mci1kbzNSUXZ3NmMwVG56Zw?oc=5"
+  },
+  {
+   "text": "Jak se lidová tradice proměňuje na jevišti? Jihlava hostí 12. celostátní přehlídku choreografií folklorních souborů\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6621cs-jak-se-lidova-tradice-promenuje-na-jevisti-jihlava-hosti-12-celostatni-prehlidku-choreografii-folklornich-souboru"
+  },
+  {
+   "text": "Dětský sborový zpěv spojuje generace i regiony. Liberec hostí 15. ročník soutěže Porta musicae\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6620cs-detsky-sborovy-zpev-spojuje-generace-i-regiony-liberec-hosti-15-rocnik-souteze-porta-musicae"
   }
  ],
  "last_digest_date": "2026-11-02"
