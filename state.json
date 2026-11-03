@@ -32,7 +32,7 @@
     "website:cbf07ac1da1f67c8",
     "website:14968d33a94e28f3"
    ],
-   "last_success_at": "2026-11-03T19:58:18+00:00",
+   "last_success_at": "2026-11-03T20:41:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T14:44:27+00:00"
   },
@@ -67,11 +67,12 @@
     "facebook:62d4d7c0e7da64ba",
     "facebook:1a88f8e7c3b67faa",
     "facebook:a1ece972ebdfa7cb",
-    "facebook:52afe3b6e81ddb4f"
+    "facebook:52afe3b6e81ddb4f",
+    "facebook:b05421bb6f4fe994"
    ],
-   "last_success_at": "2026-11-03T19:58:18+00:00",
+   "last_success_at": "2026-11-03T20:41:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-02T20:52:56+00:00"
+   "last_new_item_at": "2026-11-03T20:41:19+00:00"
   },
   "instagram": {
    "seen": [
@@ -87,7 +88,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T19:58:18+00:00",
+   "last_success_at": "2026-11-03T20:41:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -95,14 +96,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T19:58:18+00:00",
+   "last_success_at": "2026-11-03T20:41:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:69f2ef4f168d0151",
     "news:2c42e1209644be1b",
     "news:4093020ec92ba7e7",
     "news:8523458c2273b4ad",
@@ -601,11 +601,12 @@
     "news:273a163989863dcd",
     "news:317bba1e400dfb40",
     "news:13c9c005ea8adbda",
-    "news:2cfbeff3210b93d9"
+    "news:2cfbeff3210b93d9",
+    "news:fcc5bd0a9d360f50"
    ],
-   "last_success_at": "2026-11-03T19:58:18+00:00",
+   "last_success_at": "2026-11-03T20:41:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T19:58:18+00:00"
+   "last_new_item_at": "2026-11-03T20:41:19+00:00"
   }
  },
  "digest_queue": [
@@ -614,6 +615,9 @@
   },
   {
    "text": "Herci Národního divadla vyzvali Klempíře k demisi. O svou miliardu nepřijdou, řekl - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxNYWIwcmlVS29HNS1ISlhJeWNqSTVZbm1Sc3JLVmZ5OUR2ekl3ekRhWVlDMkczZzJ6a3R5YWpDT1BqcThtNXlJb1d4YmdjdFNIQXN6ZWd3S0VuQktSRUxoYkI1bDhYYWpad1dvRXVldHNaTm1yNC1YWlZlbEVlektZbHdSQjJpUzVpMVZER0hWWG1iRHBEbXRZTEJjN2p1c21aTEFfNWlBcDdMOTBMSmNxZw?oc=5"
+  },
+  {
+   "text": "Na předávání cen za přínos kultuře část laureátů nepřišla, ministr Klempíř nedorazil - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6wFBVV95cUxNRjJrZnFlQzA4Z0l3ZnhZWFF1N3FSWEFWT19DT3VVMTU5QllKRl8xRUo1MlJ5bUJfYXZjcUJDWjhuaGZXOHdmeUVJcGF2bFgzbFFfVVlsemE4ZjJTeWszUXhoLWFXemowcUtHUDVyRWJCN2xDX1VvNDFrVWFsSldZdGhKQ1VjSTdPNzZ1T1RmcjV4ZkZSckRXUUF2S0RvTTVSTkJydFJ6cmV4RHNnT2J2Y3ZVWlJRZkx6WFl0SjRJV1dsTmNOVnk2dXp1b3pyR202Y3VtYnpQaWE3NVdjOHlrNXJManVpODFHYjlz?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
