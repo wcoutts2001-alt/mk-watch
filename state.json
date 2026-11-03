@@ -32,7 +32,7 @@
     "website:cbf07ac1da1f67c8",
     "website:14968d33a94e28f3"
    ],
-   "last_success_at": "2026-11-03T20:41:19+00:00",
+   "last_success_at": "2026-11-03T21:24:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T14:44:27+00:00"
   },
@@ -70,7 +70,7 @@
     "facebook:52afe3b6e81ddb4f",
     "facebook:b05421bb6f4fe994"
    ],
-   "last_success_at": "2026-11-03T20:41:19+00:00",
+   "last_success_at": "2026-11-03T21:24:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T20:41:19+00:00"
   },
@@ -88,7 +88,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T20:41:19+00:00",
+   "last_success_at": "2026-11-03T21:24:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -96,14 +96,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T20:41:19+00:00",
+   "last_success_at": "2026-11-03T21:24:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:2c42e1209644be1b",
     "news:4093020ec92ba7e7",
     "news:8523458c2273b4ad",
     "news:c1664fabb16b6db1",
@@ -602,11 +601,12 @@
     "news:317bba1e400dfb40",
     "news:13c9c005ea8adbda",
     "news:2cfbeff3210b93d9",
-    "news:fcc5bd0a9d360f50"
+    "news:fcc5bd0a9d360f50",
+    "news:08e93c388e91d1e2"
    ],
-   "last_success_at": "2026-11-03T20:41:19+00:00",
+   "last_success_at": "2026-11-03T21:24:27+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T20:41:19+00:00"
+   "last_new_item_at": "2026-11-03T21:24:27+00:00"
   }
  },
  "digest_queue": [
@@ -618,6 +618,9 @@
   },
   {
    "text": "Na předávání cen za přínos kultuře část laureátů nepřišla, ministr Klempíř nedorazil - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6wFBVV95cUxNRjJrZnFlQzA4Z0l3ZnhZWFF1N3FSWEFWT19DT3VVMTU5QllKRl8xRUo1MlJ5bUJfYXZjcUJDWjhuaGZXOHdmeUVJcGF2bFgzbFFfVVlsemE4ZjJTeWszUXhoLWFXemowcUtHUDVyRWJCN2xDX1VvNDFrVWFsSldZdGhKQ1VjSTdPNzZ1T1RmcjV4ZkZSckRXUUF2S0RvTTVSTkJydFJ6cmV4RHNnT2J2Y3ZVWlJRZkx6WFl0SjRJV1dsTmNOVnk2dXp1b3pyR202Y3VtYnpQaWE3NVdjOHlrNXJManVpODFHYjlz?oc=5"
+  },
+  {
+   "text": "Místo oslav protesty. Dva umělci odmítli státní ceny, Klempíř na předávání nedorazil - Refresher.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXlxSi1SZzRVVlFvQmdQOE9ZSGctc3pMd1lfLTBZZFFDbERhYlhNaWpxS2FPVFFKZFZLU2FtMmlCUUhrZWxRbzhUNXpCcl9PZzhrbm1Sb3AydUVFQ0lJRnZKeVBZc3RuZWlxaFBvaElKSlhRbVFOUC00dGh1RGUtbnZJR082U2RwdEhUaXlReFI1RmlNUldkZnJPSU9aUXZqU1k0QUtMZThCVTdzMW5YVXJKTVh0UGhGdVhPNG5mZ3hKems?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
