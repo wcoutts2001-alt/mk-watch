@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-03T11:31:59+00:00",
+   "last_success_at": "2026-11-03T12:33:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -67,7 +67,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-03T11:31:59+00:00",
+   "last_success_at": "2026-11-03T12:33:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -85,7 +85,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T11:31:59+00:00",
+   "last_success_at": "2026-11-03T12:33:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -93,14 +93,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T11:31:59+00:00",
+   "last_success_at": "2026-11-03T12:33:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:556b2473c44b4916",
     "news:e9e4fcc31bd88aa9",
     "news:7ccd2c262c463ad8",
     "news:616d4da2d289d074",
@@ -599,11 +598,12 @@
     "news:e861d49f0c144db3",
     "news:111c2b4bb96950bb",
     "news:09a47ed8048a95e7",
-    "news:ea35b49e5135bda5"
+    "news:ea35b49e5135bda5",
+    "news:e494c3be82607b85"
    ],
-   "last_success_at": "2026-11-03T11:31:59+00:00",
+   "last_success_at": "2026-11-03T12:33:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T10:35:19+00:00"
+   "last_new_item_at": "2026-11-03T12:33:09+00:00"
   }
  },
  "digest_queue": [
@@ -627,6 +627,9 @@
   },
   {
    "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQdjI3bS1xM1l4VmRITkVNVHdLNkJvSVpwQVBTUHNmMTRHbmczYjN3WFVFREpkU0xRY3hjaDVxQURTanNMUmpfak1UQ0lIZWJFZFFkMjgwcXBORnhNYWx3UVN5UEY5UWM4NEE5dWFVcnRzRGdTc3gzXzVpS2lLdExOYzJSWTBQYURtbjJodFNYVmxLUHZvVHV1VzBPaEhIWk1xcTNyU0dvR29laXBhb3I2ZUVVWQ?oc=5"
+  },
+  {
+   "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE85UVVFUUVQMVA1TDBnWmFWWGh6MEE2a1NvenhrbFo4ZVphb1g3QWtjcXRZV19rdWVSNU1qSEd6V3RkSkVRLThUNFh1RDZnejhRc3Zr?oc=5"
   }
  ],
  "last_digest_date": "2026-11-02"
