@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-03T12:33:09+00:00",
+   "last_success_at": "2026-11-03T13:50:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -67,7 +67,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-03T12:33:09+00:00",
+   "last_success_at": "2026-11-03T13:50:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -85,7 +85,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T12:33:09+00:00",
+   "last_success_at": "2026-11-03T13:50:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -93,15 +93,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T12:33:09+00:00",
+   "last_success_at": "2026-11-03T13:50:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e9e4fcc31bd88aa9",
-    "news:7ccd2c262c463ad8",
     "news:616d4da2d289d074",
     "news:cc4f7a2771a390d4",
     "news:d370f76c571dfea9",
@@ -599,11 +597,13 @@
     "news:111c2b4bb96950bb",
     "news:09a47ed8048a95e7",
     "news:ea35b49e5135bda5",
-    "news:e494c3be82607b85"
+    "news:e494c3be82607b85",
+    "news:5d85db4e2fb0e86b",
+    "news:24a82ca8b0a78897"
    ],
-   "last_success_at": "2026-11-03T12:33:09+00:00",
+   "last_success_at": "2026-11-03T13:50:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T12:33:09+00:00"
+   "last_new_item_at": "2026-11-03T13:50:03+00:00"
   }
  },
  "digest_queue": [
@@ -630,6 +630,9 @@
   },
   {
    "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE85UVVFUUVQMVA1TDBnWmFWWGh6MEE2a1NvenhrbFo4ZVphb1g3QWtjcXRZV19rdWVSNU1qSEd6V3RkSkVRLThUNFh1RDZnejhRc3Zr?oc=5"
+  },
+  {
+   "text": "Státní ceny bez státu. Klempíř kamsi zalezl - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQdTFnU3RoOUpORjd0NVpvS3B6UFFiZHF0cjdPQXVKWl9uaVdUV3ZLRzJ5V3I3UkgyN0Y1b1oxZ3FwT1pneks1VHVlYkhCZ2szTFkzVnJnRzdJMzdnRlROaFRMZkM5Tk0yZU1ZVzEzR1JNV1ViVEtQRUZCaU1mci1kbzNSUXZ3NmMwVG56Zw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-02"
