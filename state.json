@@ -30,7 +30,7 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f"
    ],
-   "last_success_at": "2026-11-03T08:38:46+00:00",
+   "last_success_at": "2026-11-03T09:32:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T15:23:00+00:00"
   },
@@ -67,7 +67,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-03T08:38:46+00:00",
+   "last_success_at": "2026-11-03T09:32:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -85,7 +85,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T08:38:46+00:00",
+   "last_success_at": "2026-11-03T09:32:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -93,14 +93,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T08:38:46+00:00",
+   "last_success_at": "2026-11-03T09:32:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d9407f9927c3744d",
     "news:7201024e3c1373f4",
     "news:556b2473c44b4916",
     "news:e9e4fcc31bd88aa9",
@@ -599,11 +598,12 @@
     "news:f36595717c63c6b7",
     "news:de45226125962c32",
     "news:e861d49f0c144db3",
-    "news:111c2b4bb96950bb"
+    "news:111c2b4bb96950bb",
+    "news:09a47ed8048a95e7"
    ],
-   "last_success_at": "2026-11-03T08:38:46+00:00",
+   "last_success_at": "2026-11-03T09:32:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T07:41:40+00:00"
+   "last_new_item_at": "2026-11-03T09:32:01+00:00"
   }
  },
  "digest_queue": [
@@ -621,6 +621,9 @@
   },
   {
    "text": "„Jiní“ Motoristé. Klempíř aktivně odpovídal, Sedláčková se ohradila proti Velkému pátku - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2RQYW5zT1owSnUyOF9tZDNIYlhVSmJ4dzJBSEd0OEc2SFYzSUpqM2ZBN183T1RIcDE0eGhpSmJEV0g1b3hvQUdRNm9HaE85VXB5RDZQSEtTdXp3aGF5MmFxbmoxc3ZWVkpnUkJBbnhfQWlmc1oyOE1RSFlHWGhmNnFpMkVCLTdQaE1xRU8yMUhJWlFsZkFHYUFza1dpd1NiR2ZPV2s0cTlpSk5UWW8zdjlEal80QVM1aWtNSDZwbS1fczQ?oc=5"
+  },
+  {
+   "text": "Státní ceny bez státu. Klempíř kamsi zalezl - Deník Alarm\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE45V1QwNWlJVUplQkxlbUw3ZFc5LWhLdnVmT0gwSEZmbi1Va294WGRJcTNuc3hwbjhNNklpdmsyQkk4VnJkSnJfcUhlT0tyQjlJYVFoVTZlR0t4RDBCNVNjYm9xR3gzRWVDcUNiTWQwUkNZbzRQWGFMV0liNVVoZw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-02"
