@@ -32,7 +32,7 @@
     "website:cbf07ac1da1f67c8",
     "website:14968d33a94e28f3"
    ],
-   "last_success_at": "2026-11-03T16:24:28+00:00",
+   "last_success_at": "2026-11-03T17:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T14:44:27+00:00"
   },
@@ -69,7 +69,7 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f"
    ],
-   "last_success_at": "2026-11-03T16:24:28+00:00",
+   "last_success_at": "2026-11-03T17:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-02T20:52:56+00:00"
   },
@@ -87,7 +87,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-03T16:24:28+00:00",
+   "last_success_at": "2026-11-03T17:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -95,14 +95,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-03T16:24:28+00:00",
+   "last_success_at": "2026-11-03T17:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:616d4da2d289d074",
     "news:cc4f7a2771a390d4",
     "news:d370f76c571dfea9",
     "news:1c5595bc8e884898",
@@ -601,47 +600,14 @@
     "news:ea35b49e5135bda5",
     "news:e494c3be82607b85",
     "news:5d85db4e2fb0e86b",
-    "news:24a82ca8b0a78897"
+    "news:24a82ca8b0a78897",
+    "news:273a163989863dcd"
    ],
-   "last_success_at": "2026-11-03T16:24:28+00:00",
+   "last_success_at": "2026-11-03T17:22:53+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T13:50:03+00:00"
+   "last_new_item_at": "2026-11-03T17:22:53+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř předvádí mozaiku nekompetence, vadí Baxovi. Jeho kroky české kultuře škodí - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxOUlpDYTJ1a0VNRmhqQzJzT0JWeWo1TWk5emlNc1dDOGJDY1M3NldrUWpkakRsWGhOSkc5RnV3NDVDdU9ieWFHQ29mLWVVV2R1VWJLUDg1NC1lU0JUU0RWU1FCVHVxZWZ0czZNbnZRRExNX1pST3ppZmw4MkVHSFhHRElmNXJ0eXlnNjdXME9JdTFhUG91WW9pV3Z4Q1VvSlFBR0Nhd1FMU2VXVXF4RTFOTWxiY2ZNdm4tcEVSNy1Mcw?oc=5"
-  },
-  {
-   "text": "Oto Klempíř | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNHNxdVAzaDZGMHpIM2JmM0J5NVJBVDBOdUs4OWdMbFdOY2tvQkRNNHBXdzVBTEZpTHVJWkl3U1BaYlZyMWpsX0JGbnc3Uld4RzdRYkJ3SVZJNi1XVjJTajFYMnh4TVk?oc=5"
-  },
-  {
-   "text": "Zelení: Žádáme vládu, aby dodržovala demokratická pravidla - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxPVVF1MWlza1NHbW5ZYVN1LXQ2eG13QjJwMlZiSkFXZ0IybVZ0eUJCTi0tb3g4UlZkaGVtaEFpYTd1dzJaV0JtOE1TVVpQQnM4NWo0LXJ6blhyakVMVUhwY0lzS215Y0hXZGhpSTc3bDZ1cnBWZ3BMbFpQeFd2N0JSZ1BteUgwajhQekVHcjBoeW1QaEk5Q0M0LTlBblFDVDYyMmR3SmhIbUxxYWlYZHhFYmd6MFJOVEFOM2ZDVndn?oc=5"
-  },
-  {
-   "text": "Oto Klempíř pod ostrou palbou Matouše Rajmonta: „Jste to nejhorší, co mohlo dostat na starost naší kulturu“ - In-lifestyle.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE54UHA2MXZURzRHc0lkbnc0VGJKTW1VNnFZeGJyT1dWa29oZjdUWmlfbm1LbVg2YTZLRFJ1VzVyNzJ2Q2pydzRCZ0hXMWtXdjdWaXphVmNXeWtQMkIzLUxMMEs0WUF1ZllYczl3OUE5N1RldF9LVFhmdw?oc=5"
-  },
-  {
-   "text": "„Jiní“ Motoristé. Klempíř aktivně odpovídal, Sedláčková se ohradila proti Velkému pátku - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2RQYW5zT1owSnUyOF9tZDNIYlhVSmJ4dzJBSEd0OEc2SFYzSUpqM2ZBN183T1RIcDE0eGhpSmJEV0g1b3hvQUdRNm9HaE85VXB5RDZQSEtTdXp3aGF5MmFxbmoxc3ZWVkpnUkJBbnhfQWlmc1oyOE1RSFlHWGhmNnFpMkVCLTdQaE1xRU8yMUhJWlFsZkFHYUFza1dpd1NiR2ZPV2s0cTlpSk5UWW8zdjlEal80QVM1aWtNSDZwbS1fczQ?oc=5"
-  },
-  {
-   "text": "Státní ceny bez státu. Klempíř kamsi zalezl - Deník Alarm\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE45V1QwNWlJVUplQkxlbUw3ZFc5LWhLdnVmT0gwSEZmbi1Va294WGRJcTNuc3hwbjhNNklpdmsyQkk4VnJkSnJfcUhlT0tyQjlJYVFoVTZlR0t4RDBCNVNjYm9xR3gzRWVDcUNiTWQwUkNZbzRQWGFMV0liNVVoZw?oc=5"
-  },
-  {
-   "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxQdjI3bS1xM1l4VmRITkVNVHdLNkJvSVpwQVBTUHNmMTRHbmczYjN3WFVFREpkU0xRY3hjaDVxQURTanNMUmpfak1UQ0lIZWJFZFFkMjgwcXBORnhNYWx3UVN5UEY5UWM4NEE5dWFVcnRzRGdTc3gzXzVpS2lLdExOYzJSWTBQYURtbjJodFNYVmxLUHZvVHV1VzBPaEhIWk1xcTNyU0dvR29laXBhb3I2ZUVVWQ?oc=5"
-  },
-  {
-   "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE85UVVFUUVQMVA1TDBnWmFWWGh6MEE2a1NvenhrbFo4ZVphb1g3QWtjcXRZV19rdWVSNU1qSEd6V3RkSkVRLThUNFh1RDZnejhRc3Zr?oc=5"
-  },
-  {
-   "text": "Státní ceny bez státu. Klempíř kamsi zalezl - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQdTFnU3RoOUpORjd0NVpvS3B6UFFiZHF0cjdPQXVKWl9uaVdUV3ZLRzJ5V3I3UkgyN0Y1b1oxZ3FwT1pneks1VHVlYkhCZ2szTFkzVnJnRzdJMzdnRlROaFRMZkM5Tk0yZU1ZVzEzR1JNV1ViVEtQRUZCaU1mci1kbzNSUXZ3NmMwVG56Zw?oc=5"
-  },
-  {
-   "text": "Jak se lidová tradice proměňuje na jevišti? Jihlava hostí 12. celostátní přehlídku choreografií folklorních souborů\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6621cs-jak-se-lidova-tradice-promenuje-na-jevisti-jihlava-hosti-12-celostatni-prehlidku-choreografii-folklornich-souboru"
-  },
-  {
-   "text": "Dětský sborový zpěv spojuje generace i regiony. Liberec hostí 15. ročník soutěže Porta musicae\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6620cs-detsky-sborovy-zpev-spojuje-generace-i-regiony-liberec-hosti-15-rocnik-souteze-porta-musicae"
-  }
- ],
- "last_digest_date": "2026-11-02"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-03"
 }
