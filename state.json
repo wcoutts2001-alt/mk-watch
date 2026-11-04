@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T17:36:43+00:00",
+   "last_success_at": "2026-11-04T18:32:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -73,7 +73,7 @@
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-04T17:36:43+00:00",
+   "last_success_at": "2026-11-04T18:32:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
@@ -92,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-04T17:36:43+00:00",
+   "last_success_at": "2026-11-04T18:32:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,14 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T17:36:43+00:00",
+   "last_success_at": "2026-11-04T18:32:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a4afe072c621e5e6",
     "news:ea3e56aeaf1fa302",
     "news:f7bb2a17993026c4",
     "news:281d4731d904e660",
@@ -606,13 +605,18 @@
     "news:f576e310468f841d",
     "news:0985337c03fffe10",
     "news:d4b71bf02438fcdf",
-    "news:3991684d4c2c9465"
+    "news:3991684d4c2c9465",
+    "news:d441a3f75612c19f"
    ],
-   "last_success_at": "2026-11-04T17:36:43+00:00",
+   "last_success_at": "2026-11-04T18:32:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T17:36:43+00:00"
+   "last_new_item_at": "2026-11-04T18:32:42+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu se dohodlo na předpisech pro řízení aktivit v oblasti zahraničních věcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlVHMTVxVTZ1aE9nSUpZdV9mN3h6OHppbkl6WU1ZdTM1VF9aV1g4eEJaU3B2WW5YdlR6cmk1T09xOE56aEhGZDZvU0NYcld4UXlSUVZhWXd6Nm15bGlGSUw5ZHk3VW9BUUhCajhVQkUwLWsxazBKdDJobExXNERLRWI1Tm02cnlGRVlJ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-04"
 }
