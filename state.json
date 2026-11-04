@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T14:49:13+00:00",
+   "last_success_at": "2026-11-04T15:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -72,7 +72,7 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d"
    ],
-   "last_success_at": "2026-11-04T14:49:13+00:00",
+   "last_success_at": "2026-11-04T15:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T22:55:51+00:00"
   },
@@ -88,24 +88,24 @@
     "instagram:221389554b3817a2",
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de",
-    "instagram:ec08d46a9b9f7d58"
+    "instagram:ec08d46a9b9f7d58",
+    "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-04T14:49:13+00:00",
+   "last_success_at": "2026-11-04T15:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-10-29T15:59:46+00:00"
+   "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T14:49:13+00:00",
+   "last_success_at": "2026-11-04T15:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:dc321cfbb39a21cb",
     "news:edb2d09c9995ba38",
     "news:22bcd34717f4b9e4",
     "news:ffd254614c344d47",
@@ -604,11 +604,12 @@
     "news:6907fb65145f4588",
     "news:3fe789c5d88d2835",
     "news:914370bc08184740",
-    "news:6092555169c9a579"
+    "news:6092555169c9a579",
+    "news:f576e310468f841d"
    ],
-   "last_success_at": "2026-11-04T14:49:13+00:00",
+   "last_success_at": "2026-11-04T15:45:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T14:49:13+00:00"
+   "last_new_item_at": "2026-11-04T15:45:40+00:00"
   }
  },
  "digest_queue": [
@@ -665,6 +666,12 @@
   },
   {
    "text": "Němcová poslala ministrovi kultury vzkaz, který nemá v české politice obdoby. Označila ho za zbabělce bez úrovně - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFhNOXZYVXI5MENKUnROSUtKZFFDdmRVa19Fdkg2OExNQ253N0ZNaUpWY1ZrekZNRlRFTHcxX0t5eFpjcnN3Z2FvNUI1T3RYeG9yUmEwTjFIWXlPMUF5cEhjalFUN2MxYU1aVmJuTlpoNWRKZEtfUVNRdy1LU3IxRmhyS1RrN1hKaTZHdTJza2hfNTZ0cnBwbGlZZmo0bF94M2xQWl9aOUk2Y1JHYW5xS0s3dHc5b3RuUG1sY2V3M1QtZVFXVUJac2doNzk0RmU2eHBLTlRUWQ?oc=5"
+  },
+  {
+   "text": "Annelie Herz převzala ocenění Ministerstva kultury udělené in memoriam jejímu otci Juraji Herzovi....\n(Instagram)\nhttps://www.instagram.com/p/DfUvUZmo7CX/"
+  },
+  {
+   "text": "Klempíř je parchant a Babiš chce jediné! Hřebejk si s politiky nebral servítky - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOYkZRRXNIZWZBaWl0Uk1paDdwSThVVEM1MmhXNnN4MGpZYkRRX2hEbUVMbnBrUjVzYklQeHNCbllwZE5CRzJyZUtza1dBejlQakRqN0NoRmU5emE4d2lVWEhJNXF6LTg0V2dwbkNpaVdpZFZnX1VXSThFRTFYcE96YXFHSk5CQVYxbWc2Z3pHVkcxcXpoQjJDNzlEMTVINVJWLWY3Mi1PUnY3YlRFZWdTaW8zdjBGUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
