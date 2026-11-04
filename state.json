@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T18:32:42+00:00",
+   "last_success_at": "2026-11-04T19:40:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -73,7 +73,7 @@
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-04T18:32:42+00:00",
+   "last_success_at": "2026-11-04T19:40:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
@@ -92,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-04T18:32:42+00:00",
+   "last_success_at": "2026-11-04T19:40:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,18 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T18:32:42+00:00",
+   "last_success_at": "2026-11-04T19:40:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ea3e56aeaf1fa302",
-    "news:f7bb2a17993026c4",
-    "news:281d4731d904e660",
-    "news:7f6066ad62cf248b",
-    "news:32a73a60474fee19",
     "news:2e6aafd8b5f74a79",
     "news:12e51fbcdb277837",
     "news:afff26a1ae4434ab",
@@ -606,16 +601,36 @@
     "news:0985337c03fffe10",
     "news:d4b71bf02438fcdf",
     "news:3991684d4c2c9465",
-    "news:d441a3f75612c19f"
+    "news:d441a3f75612c19f",
+    "news:de95e9921a1f9c3b",
+    "news:0dda84be0725128d",
+    "news:44ba826f1fee3a82",
+    "news:355d486cfa6996b5",
+    "news:d6ba821746e5d1fc"
    ],
-   "last_success_at": "2026-11-04T18:32:42+00:00",
+   "last_success_at": "2026-11-04T19:40:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T18:32:42+00:00"
+   "last_new_item_at": "2026-11-04T19:40:19+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu se dohodlo na předpisech pro řízení aktivit v oblasti zahraničních věcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlVHMTVxVTZ1aE9nSUpZdV9mN3h6OHppbkl6WU1ZdTM1VF9aV1g4eEJaU3B2WW5YdlR6cmk1T09xOE56aEhGZDZvU0NYcld4UXlSUVZhWXd6Nm15bGlGSUw5ZHk3VW9BUUhCajhVQkUwLWsxazBKdDJobExXNERLRWI1Tm02cnlGRVlJ?oc=5"
+  },
+  {
+   "text": "Herzova dcera si cenu od Klempíře nakonec vzala, další příbuzní režiséra ji ale odmítají - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_AFBVV95cUxQbmVneHVOZlRlZG9BNl9RXzJfV3JudS1HQmxZOXZTenJVMFF6blRpeHZnUmZSMUxCN0lnaS1zQnE0Z19ya2VyeGZWMDY1aVFJUDgwMzQ4RjljeTJ1TmxkSk41SHJDZ2NMMXNiVVJBeWZjYWZsUlNZYVR6eUFPOTI5VDJHVDQzU3BMQVU1M3pUdDAtOXZHdWtWM2JsWWVHS1Bkdzc4TnJhTnpZbG1vNFcyWE9aeFFzVzNSX1F4enduRDJSMW1mZm5KV2dYbDF2OUQwd1dodk96ckVhQjI2QUxNODQ0NnRIRHpaZEg4RUN3Q3QtMVNHY0d3eHg5cWM?oc=5"
+  },
+  {
+   "text": "Pavel ocenil, že manifestace kvůli ČT a ČRo jsou kultivované - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE5KMWYwWnc2UXQxaFVUNU9oUkkwVkR4M3JCbnBSTTJvOGVfbUN2dkNidDREZ3djNGRKRzlhMmgwVzA5UTc4dGVQUGxqR2xMUHp4VEw0?oc=5"
+  },
+  {
+   "text": "ČS: Oto Klempíř: Uráželi mou ženu, já se nas*al, slovník Motoristů jsou jen nadsázky a vtipy – Krátká videa Seznam.cz - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxNSzg0RGp3M1R0WVlvUm8wcnZwTmZLV25OZ2dPU3VpUW5ycWRpVGZqXy1NRmMzS2ZGVF9yY3VVTExXX2l0M3BOdnNHU0JMYWE1X1FVMnFHa181MXNVTzlpWFo5SmNpQ2pyT3BPZ2JaYWJDTFc4YzZEcVVQdnVSYzJBWGdoT1p1UTJpSG5oZ3lTaWJNN0t2Zm9IZnVqamw2eHVYMmV3RlNWeEZUeDBwLUl3?oc=5"
+  },
+  {
+   "text": "GALERIE: Pavel k protestům za ČT a ČRo: Kritika Klempíře je legitimní. Ocenil kultivovanost | FOTO 1 - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1JNmlMVkpwQlBWRklFSkFIQkY5MEcyWUNxazJNV2lHYURMSGFfaWtFMDNYX21hTHpqTVl0LVdYS1ZrMGp6RkRoS01qWjU?oc=5"
+  },
+  {
+   "text": "Lao Cai zintenzivňuje propagandistické úsilí u příležitosti 80. výročí První národní kulturní konference a Dne vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUt2WVplNnd0cmh5ckpKaXMxdnctLURWS0xhSHdrbE1xdXNZQW5lNTVMZW5fRV8yZDM1WThkZDNfZkxUa0lSYTFsaVFjLXNqYXZWMHBuU1poU0pjcHgwdTlWZWxrVlhqWVRjbGs2TmNjLXZnQzVjVTFxSGp0VkJoblZRT1lYX3BzcUhib1A4TDgzRGRfeHZueE1HeTVpQ2VvYUxZMjE2MjYwckFXaFg3WmN4Qmt4UEhVN25xd3lyeUhMQWljRmtQTnFjNm9pbjd6?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
