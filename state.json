@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T15:45:40+00:00",
+   "last_success_at": "2026-11-04T16:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -70,11 +70,12 @@
     "facebook:a1ece972ebdfa7cb",
     "facebook:52afe3b6e81ddb4f",
     "facebook:b05421bb6f4fe994",
-    "facebook:aa5ad5a524af303d"
+    "facebook:aa5ad5a524af303d",
+    "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-04T15:45:40+00:00",
+   "last_success_at": "2026-11-04T16:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T22:55:51+00:00"
+   "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
   "instagram": {
    "seen": [
@@ -91,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-04T15:45:40+00:00",
+   "last_success_at": "2026-11-04T16:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -99,15 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T15:45:40+00:00",
+   "last_success_at": "2026-11-04T16:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:edb2d09c9995ba38",
-    "news:22bcd34717f4b9e4",
     "news:ffd254614c344d47",
     "news:a4afe072c621e5e6",
     "news:ea3e56aeaf1fa302",
@@ -605,11 +604,13 @@
     "news:3fe789c5d88d2835",
     "news:914370bc08184740",
     "news:6092555169c9a579",
-    "news:f576e310468f841d"
+    "news:f576e310468f841d",
+    "news:0985337c03fffe10",
+    "news:d4b71bf02438fcdf"
    ],
-   "last_success_at": "2026-11-04T15:45:40+00:00",
+   "last_success_at": "2026-11-04T16:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T15:45:40+00:00"
+   "last_new_item_at": "2026-11-04T16:44:49+00:00"
   }
  },
  "digest_queue": [
@@ -672,6 +673,15 @@
   },
   {
    "text": "Klempíř je parchant a Babiš chce jediné! Hřebejk si s politiky nebral servítky - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxOYkZRRXNIZWZBaWl0Uk1paDdwSThVVEM1MmhXNnN4MGpZYkRRX2hEbUVMbnBrUjVzYklQeHNCbllwZE5CRzJyZUtza1dBejlQakRqN0NoRmU5emE4d2lVWEhJNXF6LTg0V2dwbkNpaVdpZFZnX1VXSThFRTFYcE96YXFHSk5CQVYxbWc2Z3pHVkcxcXpoQjJDNzlEMTVINVJWLWY3Mi1PUnY3YlRFZWdTaW8zdjBGUQ?oc=5"
+  },
+  {
+   "text": "Annelie Herz převzala ocenění Ministerstva kultury udělené in memoriam jejímu otci Juraji Herzovi. M...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid0XqxmkCG2aV1Zr5C6vRgAJsMwuqfG6ufNRC4rzTgLD5MvgCVSki2NZSa6RCrVGXqkl"
+  },
+  {
+   "text": "Pracovníci ČT a ČRo stávkují, opozice vyzvala Babiše k jednání - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPWUZvTnl6R2xLT3JXMWRJRTRNOC1PVDd6VHE1OFh4XzF3aTZOak9xd3cxZG1iNWx5SFpOLVlsSDNUWkxaSFJRdXkxSnJvVHdHUllzQXR2bk84N29QZGZKQklvWWppUUp0YS1sYzVCTDZIemtRc0txLUlCdWI2d1lBOVI0MWNQUnF2SUM4eEUtM2xMSV85dkVhc2NUSmctaGl1ZmJMdk93?oc=5"
+  },
+  {
+   "text": "Galerie | Klempíř je parchant a Babiš chce jediné! Hřebejk si s politiky nebral servítky - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxPczZ3S0F3dS16aVlCeFNFeGpxdHFRZE1rVHBDc2FXMWlNdDRXYkdBWFdFazZiWU5GUWdEcDhFNThTNEMwV0N3RGgxY0ZQUi1Td0wxY1VWZnV5ZHdRdjVubXdwRk1LLWlWdWh1cGc3a1FkUHd3VGNHTmRSSmlWZ2pyR2RTTHlFMXRET25aemdVa3Q4S3R2VjFqQm5rVkNnNHBvUkxhWEdaWW43WlhtcS1QVkRweHZfRUx1WWVFY1c4TzY?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
