@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T11:51:56+00:00",
+   "last_success_at": "2026-11-04T12:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -72,7 +72,7 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d"
    ],
-   "last_success_at": "2026-11-04T11:51:56+00:00",
+   "last_success_at": "2026-11-04T12:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T22:55:51+00:00"
   },
@@ -90,7 +90,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-04T11:51:56+00:00",
+   "last_success_at": "2026-11-04T12:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -98,14 +98,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T11:51:56+00:00",
+   "last_success_at": "2026-11-04T12:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:fa47d09fd35a6780",
     "news:04fbd4f79ce4667a",
     "news:73d4237c036c352b",
     "news:26c49d7af451b7c1",
@@ -604,11 +603,12 @@
     "news:58cd6bdddd34e859",
     "news:574784bd1e40cc0d",
     "news:20f8ab30202cad64",
-    "news:f36ab8112fbff65a"
+    "news:f36ab8112fbff65a",
+    "news:fadc19dcee59fda7"
    ],
-   "last_success_at": "2026-11-04T11:51:56+00:00",
+   "last_success_at": "2026-11-04T12:44:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T10:58:15+00:00"
+   "last_new_item_at": "2026-11-04T12:44:49+00:00"
   }
  },
  "digest_queue": [
@@ -650,6 +650,9 @@
   },
   {
    "text": "Divadlo jako cesta k aktivnímu stáří. Národní přehlídka seniorského divadla se uskuteční v České Třebové\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6622cs-divadlo-jako-cesta-k-aktivnimu-stari-narodni-prehlidka-seniorskeho-divadla-se-uskutecni-v-ceske-trebove"
+  },
+  {
+   "text": "Galerie | Klempíř chyběl na předávání státních cen. Nepřišli ani dva laureáti - EuroZprávy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNVGprT0JsNGhfRjVaZ2YtR21mQ3Vfb29aNExiNmFhQUpuOU1SM3Mwd2t5cVp4Tm92Y2QyYVFFeUxTYkZTbW1NVVBiWkoyNGlrRnpMcXFpaXF6ZzlPVlFIbzZseWJNV0swOEZMVkFWWDBuVmFWRGIzMkxaSU5ILVphZXdNbWZFNFpOR3JGbjZ6T1BPc0l6dTUzTGxfZ3RWU0tHazhBVDdwMnVJR05YaWdhNVJ3?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
