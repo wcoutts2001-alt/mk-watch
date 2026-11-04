@@ -32,7 +32,7 @@
     "website:cbf07ac1da1f67c8",
     "website:14968d33a94e28f3"
    ],
-   "last_success_at": "2026-11-04T07:56:31+00:00",
+   "last_success_at": "2026-11-04T08:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T14:44:27+00:00"
   },
@@ -71,7 +71,7 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d"
    ],
-   "last_success_at": "2026-11-04T07:56:31+00:00",
+   "last_success_at": "2026-11-04T08:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T22:55:51+00:00"
   },
@@ -89,7 +89,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-04T07:56:31+00:00",
+   "last_success_at": "2026-11-04T08:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -97,17 +97,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T07:56:31+00:00",
+   "last_success_at": "2026-11-04T08:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6e7263420361afe4",
-    "news:5c94f79346a01026",
-    "news:6e844a7655ab0a4d",
-    "news:c8aba36648a9c826",
     "news:a9fe9588a8830dc7",
     "news:fa47d09fd35a6780",
     "news:04fbd4f79ce4667a",
@@ -603,11 +599,15 @@
     "news:8bc5ed963f10fbb7",
     "news:5f5c21f762db374f",
     "news:5840f5db8877ae56",
-    "news:0789ad9234f800a0"
+    "news:0789ad9234f800a0",
+    "news:53f59f410b46a8f2",
+    "news:58cd6bdddd34e859",
+    "news:574784bd1e40cc0d",
+    "news:20f8ab30202cad64"
    ],
-   "last_success_at": "2026-11-04T07:56:31+00:00",
+   "last_success_at": "2026-11-04T08:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T04:36:37+00:00"
+   "last_new_item_at": "2026-11-04T08:48:36+00:00"
   }
  },
  "digest_queue": [
@@ -637,6 +637,12 @@
   },
   {
    "text": "Igor Orozovič: Nahota, Monyová i politika. Turek a Klempíř nejsou jen blbí. Vědí, co dělají - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6wFBVV95cUxQbkZQMnJ4Q3VDOGltQmUxVFFyM05Pa3FhTDA4dmVzNmJPYk93YUpBcGVLNnJfUFVFbzZaR1NuLU80Yi1VeFVzdjRDcHhRWlhpdE5rdll1VlhzMVQ2ZVdwb1FWejVmWlNxU2VZLVIzTnBDQnM4Wm1OX1p2eUp6bVlveG9ZLW51ZlJ2TEJiZ1RuV0luamVBVURYZnpub0oxNVYtYXM2LXZKZTk5TWpWQjI4dDdGM0I4NVRVRXVlRXRVT3RLZWZYLTJEb1FkY1hDUG51WnIwRm11TlRjSm56UTlOdWlvRkQteTFQWi1r?oc=5"
+  },
+  {
+   "text": "Klempíř chyběl na předávání státních cen. Nepřišli ani dva laureáti - EuroZprávy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1ZQWV9jZXZVeTl4UWNxakJIN0NfdVB6Ymx2eFluMFpHRzlkSk0wZTkwM0ZhTFROVUNKT1JGS29wN0ZNOGtlT3NnWWdOWmRSVU1sSWRVN1BacUZIR1B4OEF5QlN5RnYtNnlfTklwVnNKV2dmZDBRMkhxdmp4elprZnF4WW80Ny1BOWVHSjJWMTRzWTNzUFczRkgybXpReEhYc3hjLWo5dw?oc=5"
+  },
+  {
+   "text": "Galerie | Od Klempíře ji nechceme. Dva laureáti odmítli státní cenu za kulturu - Globe24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNTjNqeHU2WERybEx6b0hONlBReWNqTnB0bXVOUTRWNkFoeTFsZm5KM1dBUXIwVkdoVUgycURmRFVuRVh1eDA3VlMxYmViSkFMbUdWLXh2OEE3ek1lWVI5OUlHQXpYQlYwZi12QkNzbm9wN2NJeDV5OU1Od0Ntek1xdnZQQkRiUDFnSHZ2LXc0RWFmTzJNOUJhLW9hRzEtNVdvR2FiNmhn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
