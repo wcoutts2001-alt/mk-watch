@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T13:53:24+00:00",
+   "last_success_at": "2026-11-04T14:49:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -72,7 +72,7 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d"
    ],
-   "last_success_at": "2026-11-04T13:53:24+00:00",
+   "last_success_at": "2026-11-04T14:49:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T22:55:51+00:00"
   },
@@ -90,7 +90,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-04T13:53:24+00:00",
+   "last_success_at": "2026-11-04T14:49:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -98,16 +98,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T13:53:24+00:00",
+   "last_success_at": "2026-11-04T14:49:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:73d4237c036c352b",
-    "news:26c49d7af451b7c1",
-    "news:8a640b7887aeba20",
     "news:dc321cfbb39a21cb",
     "news:edb2d09c9995ba38",
     "news:22bcd34717f4b9e4",
@@ -604,11 +601,14 @@
     "news:20f8ab30202cad64",
     "news:f36ab8112fbff65a",
     "news:fadc19dcee59fda7",
-    "news:6907fb65145f4588"
+    "news:6907fb65145f4588",
+    "news:3fe789c5d88d2835",
+    "news:914370bc08184740",
+    "news:6092555169c9a579"
    ],
-   "last_success_at": "2026-11-04T13:53:24+00:00",
+   "last_success_at": "2026-11-04T14:49:13+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T13:53:24+00:00"
+   "last_new_item_at": "2026-11-04T14:49:13+00:00"
   }
  },
  "digest_queue": [
@@ -656,6 +656,15 @@
   },
   {
    "text": "„Jiní“ Motoristé. Klempíř aktivně odpovídal, Sedláčková se ohradila proti Velkému pátku - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6AFBVV95cUxObUc3NlN4clNHbHM4YldtVFQ2S3g1Zm9IX2YwdGxGTE1ENE5pYVo4bjN3V3BlRmJUb3pwM3k4RGU0elV0NnJsczlqMjBveWZHMHoxTWJQeTVMQkRhMk9KX2xDV2NGbmd1Ul9pTEN4OG4xU2tSMTJzM2VWZGstNGlVa0hINFR0YUgyVWhub1g3ZnVKbzN1VEM5VHpLQjNrQUtldi04QTlpOU5XV0s0alIwYUxhSXFaTWRwa2VwMjhISGplLS1nNHFqc0h5Ull6N0Z6MXRrbjBQTmJaQ251YlRwR1ZWU0xaTkRS?oc=5"
+  },
+  {
+   "text": "ZVĚŘINA: Až zlikvidujeme Otu Klempíře, nastane v české kultuře a médiích ráj. Anebo ne? - Lidovky.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQeWtGZDBQZ0xOT0dneFRhTGc1T0tNTEMyNDJVeU1kWlBzY2haQ0NQTjFRVEJLYmpKdEdsekdPeUpEWkJvTnV4RzJQZGYyTUFxT0FBZE5WcGg5TDNNbzZ1OFdsM3VlTFZTVkpnSzJRQVJfZzd0X3Vrd20xY3NmbUtmRjQtS3JMX0ticHdoM3AzUDNhNFpIaC1DVDRxQUdlVFJpazlqYmVTSFYyNjk4eWFjd1AwN25RR25fSE1XUWNXN3VLdURzbjdHRndBQm5EYlducWREWVVZQQ?oc=5"
+  },
+  {
+   "text": "Herci Národního divadla vyzvali k odstoupení ministra kultury Klempíře - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQei1wNTc2Nm51YnNySWoya1FlcmNkaVB5c3VaWnpGd3IwR05pOG9NQ2s0QmROLWFsdXZlc09CcUQyRTUxb1dnM1IxelMzblFuMXJrdHNEakVHbU9rckxSTjJtWFFHZFpwT29IOW1qRlJIYVUydGUtQl9xSFZMSGx6YXdjbWdpOUJ1ZEp1SjBvb19JUV8xSXFhRw?oc=5"
+  },
+  {
+   "text": "Němcová poslala ministrovi kultury vzkaz, který nemá v české politice obdoby. Označila ho za zbabělce bez úrovně - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFhNOXZYVXI5MENKUnROSUtKZFFDdmRVa19Fdkg2OExNQ253N0ZNaUpWY1ZrekZNRlRFTHcxX0t5eFpjcnN3Z2FvNUI1T3RYeG9yUmEwTjFIWXlPMUF5cEhjalFUN2MxYU1aVmJuTlpoNWRKZEtfUVNRdy1LU3IxRmhyS1RrN1hKaTZHdTJza2hfNTZ0cnBwbGlZZmo0bF94M2xQWl9aOUk2Y1JHYW5xS0s3dHc5b3RuUG1sY2V3M1QtZVFXVUJac2doNzk0RmU2eHBLTlRUWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-03"
