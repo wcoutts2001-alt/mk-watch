@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T22:57:04+00:00",
+   "last_success_at": "2026-11-04T23:36:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -73,7 +73,7 @@
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-04T22:57:04+00:00",
+   "last_success_at": "2026-11-04T23:36:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
@@ -92,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-04T22:57:04+00:00",
+   "last_success_at": "2026-11-04T23:36:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,14 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T22:57:04+00:00",
+   "last_success_at": "2026-11-04T23:36:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:afff26a1ae4434ab",
     "news:3ff5cab8091571af",
     "news:908da5f1e1a6765d",
     "news:7cc08eed7de69c9c",
@@ -606,11 +605,12 @@
     "news:355d486cfa6996b5",
     "news:d6ba821746e5d1fc",
     "news:217d429073214e54",
-    "news:7abf4986c4bc803a"
+    "news:7abf4986c4bc803a",
+    "news:120d6074b812db0b"
    ],
-   "last_success_at": "2026-11-04T22:57:04+00:00",
+   "last_success_at": "2026-11-04T23:36:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T22:57:04+00:00"
+   "last_new_item_at": "2026-11-04T23:36:11+00:00"
   }
  },
  "digest_queue": [
@@ -634,6 +634,9 @@
   },
   {
    "text": "Babiš lže? ANO! - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTE1aTDdKZ2syekFlN1QtZ1VtbmZyaUNlRnJHVV9vNkk4Vlk3Z2JTVFEzeXhWSnZsc3pReHJodnVVNjlRZExCVS1ZOVc2Y1I5LTdLcGhKa1lYcmRnaUlBX1VXWWk2NnB6aXd1OWhIOGd3RU9FVEV0?oc=5"
+  },
+  {
+   "text": "Provincie Thanh Hòa reviduje svůj plán na zachování kultury etnických menšin na období 2026–2035. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUZ2TDRlM2NjUnNHWHJ3SE1DUklRZnJhbGo0QUg4eTExZ3Y0dVg3VV94c04tMzZzVjdUbC0xRlBhOGlPNHhPUnpKeUxQMDlQZElobmxUVmlPNGtvMmZha3FHQTY1SU5WWW8zYWlwUEZTanc4LW56MDJwNktWdm9mdEp1NnF5c0ZkeEl3NVlsMXJicEdJSkhDNkZaS2RNZ3c3c2RuV0VPNmY?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
