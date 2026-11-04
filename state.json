@@ -30,11 +30,12 @@
     "website:6ae044e5ba3ac851",
     "website:2799a0a91c96385f",
     "website:cbf07ac1da1f67c8",
-    "website:14968d33a94e28f3"
+    "website:14968d33a94e28f3",
+    "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-04T10:58:15+00:00",
+   "last_success_at": "2026-11-04T11:51:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-03T14:44:27+00:00"
+   "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
   "facebook": {
    "seen": [
@@ -71,7 +72,7 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d"
    ],
-   "last_success_at": "2026-11-04T10:58:15+00:00",
+   "last_success_at": "2026-11-04T11:51:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-03T22:55:51+00:00"
   },
@@ -89,7 +90,7 @@
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58"
    ],
-   "last_success_at": "2026-11-04T10:58:15+00:00",
+   "last_success_at": "2026-11-04T11:51:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-29T15:59:46+00:00"
   },
@@ -97,7 +98,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-04T10:58:15+00:00",
+   "last_success_at": "2026-11-04T11:51:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -605,7 +606,7 @@
     "news:20f8ab30202cad64",
     "news:f36ab8112fbff65a"
    ],
-   "last_success_at": "2026-11-04T10:58:15+00:00",
+   "last_success_at": "2026-11-04T11:51:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T10:58:15+00:00"
   }
@@ -646,6 +647,9 @@
   },
   {
    "text": "Strach z vlastních slov. Klempíř Fridrichové opět prchl - Epeníze\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPQjJrVW5JQ0gtYXdiNWJJRFZFLXQyLThVajBjemtKNkRqcWlXTEdUQlVZSWdsTmNRR1pWdnlYZk9mbE9iaG9zLXlIYkFKbi00ajFmUXZyMDVrMW9KdDVxaGZkWUdTWVpUZk14YVBKaHpGTkE4SkluWWZoRi0wWWVqeldYYnY?oc=5"
+  },
+  {
+   "text": "Divadlo jako cesta k aktivnímu stáří. Národní přehlídka seniorského divadla se uskuteční v České Třebové\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6622cs-divadlo-jako-cesta-k-aktivnimu-stari-narodni-prehlidka-seniorskeho-divadla-se-uskutecni-v-ceske-trebove"
   }
  ],
  "last_digest_date": "2026-11-03"
