@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T04:38:53+00:00",
+   "last_success_at": "2026-11-05T05:40:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -73,7 +73,7 @@
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-05T04:38:53+00:00",
+   "last_success_at": "2026-11-05T05:40:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
@@ -92,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T04:38:53+00:00",
+   "last_success_at": "2026-11-05T05:40:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,14 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T04:38:53+00:00",
+   "last_success_at": "2026-11-05T05:40:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:908da5f1e1a6765d",
     "news:7cc08eed7de69c9c",
     "news:35d769c931bf5616",
     "news:7747b780def5e5bd",
@@ -606,11 +605,12 @@
     "news:217d429073214e54",
     "news:7abf4986c4bc803a",
     "news:120d6074b812db0b",
-    "news:25248721ef9a5a7f"
+    "news:25248721ef9a5a7f",
+    "news:4d52ff0db265a47d"
    ],
-   "last_success_at": "2026-11-05T04:38:53+00:00",
+   "last_success_at": "2026-11-05T05:40:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T01:40:35+00:00"
+   "last_new_item_at": "2026-11-05T05:40:03+00:00"
   }
  },
  "digest_queue": [
@@ -640,6 +640,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu vydalo předpisy o řízení aktivit v oblasti zahraničních věcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxOemdEYVJPSFF0Wk9sWlRHQXlXcERnUlRoTHk4YUIyaUY4LW1ieHM1RFNsVTVDOUFJRFFHeUFCZnhYTmZLc2gzeFQ2aE54YlctaDRoc083cDVJR0lMT1hWXzFOWFRNSkNtX1lUWGZaamM3UGZjbkszQVRfTzNDRTQ4dDllOUpycEk?oc=5"
+  },
+  {
+   "text": "Umělci mají právo Klempíře kritizovat, řekl Pavel. Jeho setrvání ve vládě je na Babišovi - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxNN0pDX3BWSnRXTGFRUVQ5SmZZQXFXdmM0LUh2dzBQSExMZW9OdFlaR2JBRThScDZEdS1ha0xDOVZvQ0I5S2Rsd1NTY1lqWENJbUR4a1JKenpxbXFVNG8zVU8wUjQyMUVFcWRZd2ZRNkVTZTdnY1hZbnphazZpVEx4V2RxZ0ZNNXBzWkVIZFotalkzZWE2b2NsYWw1Tm1OZDU1elJYXy1wbWlTTWp0R2c?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
