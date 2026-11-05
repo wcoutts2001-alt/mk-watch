@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T07:56:49+00:00",
+   "last_success_at": "2026-11-05T08:51:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -73,7 +73,7 @@
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e"
    ],
-   "last_success_at": "2026-11-05T07:56:49+00:00",
+   "last_success_at": "2026-11-05T08:51:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T16:44:49+00:00"
   },
@@ -92,7 +92,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T07:56:49+00:00",
+   "last_success_at": "2026-11-05T08:51:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,15 +100,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T07:56:49+00:00",
+   "last_success_at": "2026-11-05T08:51:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:35d769c931bf5616",
-    "news:7747b780def5e5bd",
     "news:e125be7a1d6425cc",
     "news:4ade2c2a64f70272",
     "news:f0121459cfeb0835",
@@ -606,11 +604,13 @@
     "news:120d6074b812db0b",
     "news:25248721ef9a5a7f",
     "news:4d52ff0db265a47d",
-    "news:6225f02454a8c865"
+    "news:6225f02454a8c865",
+    "news:b814d6aa0dc18981",
+    "news:1f15125d5e4e5f5a"
    ],
-   "last_success_at": "2026-11-05T07:56:49+00:00",
+   "last_success_at": "2026-11-05T08:51:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T06:40:47+00:00"
+   "last_new_item_at": "2026-11-05T08:51:01+00:00"
   }
  },
  "digest_queue": [
@@ -646,6 +646,12 @@
   },
   {
    "text": "Matouš Rajmont se rozhodl promluvit o vedení české kultury: Jeho hodnocení ministra Klempíře bylo mimořádně kritické - Tiscali.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxOamVlQ2JUSXRHY2F0bEZwM3VoQjZaUDRCRXZxX2N4SHlyWUtXcWg5RVhpbnkxaUFlY0UxRkxUb1gwUTUzRDh2ek1Md1JsU0xJUk1EX3MzVU1XWU1fcFJ1UTJhelF4RVdxNGRNZjdqQjNPVVlSWjVqcFpIWWh6NlhzSkdvQmVvdmxCa0xVVHpVdUFJM3k1V3FvNUhScW9Cb3VwTzZobUg0bjFma3IzQ2p2bTcyZktpanZRNjVMajRxRWNQQjJ4TWppaVZxdkptdWpYdGdCOUUtZGE4OHpLMUE?oc=5"
+  },
+  {
+   "text": "Národní knihovna otevřela v Praze nový depozitář, pojme tři miliony knih - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6gFBVV95cUxQOW10d01rai15cFlGX0JMMllSaUd5eVkyTDlSWVpJY29YZ2JsXzlCX1lTSmpmVWRsbkVjcHNCWDFldVVGemZGUFVCQ2JvWS1mVWlKV0lzcjdqNEJXN0pUbVlqMVNtSnRFNEF4Y1lTUXMxaGx5U1pHYnp2QjB6Tm9hamZHVzBicFRTMVlKRmJ6MUpVQ2xPbkdPT0RSTUg2ZzZSbDI1MFNJSEVLV2lOampwOXphYnN6SEpIUWYxT1RPMkJQbW1XVndPQkxNaXdOX215cEprWEg3dkQyaVRvd1gwSkMtN1RYS2JCdXc?oc=5"
+  },
+  {
+   "text": "Da Nang plánuje investovat 186 miliard dongů do kulturního parku Slunce a Měsíční zahrady. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPRjdVQW1RLWI4c2FqaFhoUXlaZjhZRXlBR2JKc1pRRVE1SnNUWHc5NEZFdFV4cVFhZDVmVGlSRElZTG8xQ0pDZTRvZ2ltVkJsRV9JbzZJWHJvc0JqcDdrOTFDLVhEU25BVWVfbEdqXzQyMU41YkNYNXZuUzZFaE9Wd254dW1BMGljNUllUy1FVnFtcVdZZHc?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
