@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T08:51:01+00:00",
+   "last_success_at": "2026-11-05T09:49:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -71,11 +71,12 @@
     "facebook:52afe3b6e81ddb4f",
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d",
-    "facebook:5701ee95a0f5435e"
+    "facebook:5701ee95a0f5435e",
+    "facebook:4a76788b113947ea"
    ],
-   "last_success_at": "2026-11-05T08:51:01+00:00",
+   "last_success_at": "2026-11-05T09:49:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T16:44:49+00:00"
+   "last_new_item_at": "2026-11-05T09:49:25+00:00"
   },
   "instagram": {
    "seen": [
@@ -92,7 +93,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T08:51:01+00:00",
+   "last_success_at": "2026-11-05T09:49:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -100,15 +101,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T08:51:01+00:00",
+   "last_success_at": "2026-11-05T09:49:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e125be7a1d6425cc",
-    "news:4ade2c2a64f70272",
     "news:f0121459cfeb0835",
     "news:4e5148a966251f89",
     "news:82f323b1ac61dac5",
@@ -606,11 +605,13 @@
     "news:4d52ff0db265a47d",
     "news:6225f02454a8c865",
     "news:b814d6aa0dc18981",
-    "news:1f15125d5e4e5f5a"
+    "news:1f15125d5e4e5f5a",
+    "news:4cf48e82161d743d",
+    "news:66776ad66714cdb4"
    ],
-   "last_success_at": "2026-11-05T08:51:01+00:00",
+   "last_success_at": "2026-11-05T09:49:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T08:51:01+00:00"
+   "last_new_item_at": "2026-11-05T09:49:25+00:00"
   }
  },
  "digest_queue": [
@@ -652,6 +653,15 @@
   },
   {
    "text": "Da Nang plánuje investovat 186 miliard dongů do kulturního parku Slunce a Měsíční zahrady. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPRjdVQW1RLWI4c2FqaFhoUXlaZjhZRXlBR2JKc1pRRVE1SnNUWHc5NEZFdFV4cVFhZDVmVGlSRElZTG8xQ0pDZTRvZ2ltVkJsRV9JbzZJWHJvc0JqcDdrOTFDLVhEU25BVWVfbEdqXzQyMU41YkNYNXZuUzZFaE9Wd254dW1BMGljNUllUy1FVnFtcVdZZHc?oc=5"
+  },
+  {
+   "text": "Annelie Herz převzala ocenění Ministerstva kultury udělené in memoriam jejímu otci Juraji Herzovi. M...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid02bDSxNDcecDWzAAaAKVHYsyvjJBemt8T6xbcsvU5Dkq6pym6n6iy2SFZdvxLdxZxLl"
+  },
+  {
+   "text": "Hřebejk: Babiš neví, o čem mluví, ČT chce zlikvidovat. Je to pomsta parchantů, jako je Klempíř - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE9MY0lTUnQ5MHR0djg0RVZpZFpHdG9rcXRYcXZNeUZ4RlRFVS1IUlZqeVB2RGozaDctajJPU1ROU2Y3Rm9Bay1oTFd2R1M4eU91?oc=5"
+  },
+  {
+   "text": "V reakci na Den vietnamské kultury se konalo 406 programů a aktivit a slavnostní atmosféra se rozšířila po celé zemi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxNNkVGWHpyZ3B5bThzZkM1QUI2RFlDbmUtYlBBVkExSDR6RmxFMGJVd01TRFZ3UlF1UEZKSVl2RmhVdGZfSDJya3MyNXFuX3BiUW0tZm5ndmQxekcxS1JuYlBsM19oQ1c4cFlReUVsR2xES0JYRE9VaU5jdWtCei1ENXpOeU5STERXNlRIMkJocmtaTFIxVDB0eFR0WWJzUi14MFdSR1hwdGVYTzVGNVlWLWlJS01EcHYtbnhrd09ZTQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
