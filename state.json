@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T09:49:25+00:00",
+   "last_success_at": "2026-11-05T10:51:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -74,7 +74,7 @@
     "facebook:5701ee95a0f5435e",
     "facebook:4a76788b113947ea"
    ],
-   "last_success_at": "2026-11-05T09:49:25+00:00",
+   "last_success_at": "2026-11-05T10:51:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-05T09:49:25+00:00"
   },
@@ -93,7 +93,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T09:49:25+00:00",
+   "last_success_at": "2026-11-05T10:51:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -101,14 +101,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T09:49:25+00:00",
+   "last_success_at": "2026-11-05T10:51:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f0121459cfeb0835",
     "news:4e5148a966251f89",
     "news:82f323b1ac61dac5",
     "news:5bd4664a409659c6",
@@ -607,11 +606,12 @@
     "news:b814d6aa0dc18981",
     "news:1f15125d5e4e5f5a",
     "news:4cf48e82161d743d",
-    "news:66776ad66714cdb4"
+    "news:66776ad66714cdb4",
+    "news:5fd0e7c8076ce7e0"
    ],
-   "last_success_at": "2026-11-05T09:49:25+00:00",
+   "last_success_at": "2026-11-05T10:51:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T09:49:25+00:00"
+   "last_new_item_at": "2026-11-05T10:51:34+00:00"
   }
  },
  "digest_queue": [
@@ -662,6 +662,9 @@
   },
   {
    "text": "V reakci na Den vietnamské kultury se konalo 406 programů a aktivit a slavnostní atmosféra se rozšířila po celé zemi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxNNkVGWHpyZ3B5bThzZkM1QUI2RFlDbmUtYlBBVkExSDR6RmxFMGJVd01TRFZ3UlF1UEZKSVl2RmhVdGZfSDJya3MyNXFuX3BiUW0tZm5ndmQxekcxS1JuYlBsM19oQ1c4cFlReUVsR2xES0JYRE9VaU5jdWtCei1ENXpOeU5STERXNlRIMkJocmtaTFIxVDB0eFR0WWJzUi14MFdSR1hwdGVYTzVGNVlWLWlJS01EcHYtbnhrd09ZTQ?oc=5"
+  },
+  {
+   "text": "Pacov chce zmenšit památkovou zónu. ‚Albert ani poliklinika s ní nemají nic společného,‘ říká starosta - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzQzaUVlbFl3MzAyVmVYWkxMcFhBSXNOT1ZnRXJ1eXg0eUFyT2hqY05mc2RwMktvd2tSOXpwZ1FCajVQemdnRnB0QnNWa2RMY013bnBISGZqRFJuWWNoMkRwcVhvSk04eVpyaXR0azdoSXc4MzhBeFl5eFd4MHFiaFFvTFRuay0ydHNiZnQ4cUpNcVNJeWJMWWduS29LYmtHWFdhZXQ4NTlFdUJlSm04ZWFMR0VaZmFpZzIyak1qM0lETEU?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
