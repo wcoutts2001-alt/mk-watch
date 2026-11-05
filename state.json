@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T20:44:00+00:00",
+   "last_success_at": "2026-11-05T21:26:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -75,7 +75,7 @@
     "facebook:4a76788b113947ea",
     "facebook:cf1726ef2d2bdd61"
    ],
-   "last_success_at": "2026-11-05T20:44:00+00:00",
+   "last_success_at": "2026-11-05T21:26:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-05T12:50:32+00:00"
   },
@@ -94,7 +94,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T20:44:00+00:00",
+   "last_success_at": "2026-11-05T21:26:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -102,14 +102,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T20:44:00+00:00",
+   "last_success_at": "2026-11-05T21:26:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cd4d44024f6ac744",
     "news:9ec240b836aa988c",
     "news:f401d2192b45be85",
     "news:6467c864eebca965",
@@ -608,11 +607,12 @@
     "news:eb57c438892e9d24",
     "news:2b5e3ab835bb7fca",
     "news:62f5867dfbbcd35f",
-    "news:839c934a02784a01"
+    "news:839c934a02784a01",
+    "news:73710f63c804f943"
    ],
-   "last_success_at": "2026-11-05T20:44:00+00:00",
+   "last_success_at": "2026-11-05T21:26:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T19:58:35+00:00"
+   "last_new_item_at": "2026-11-05T21:26:23+00:00"
   }
  },
  "digest_queue": [
@@ -627,6 +627,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu: 100 dní akce, digitální transformace ve službách lidí a podniků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxPdGtjaEhIektVTUlwSDlWTUc1ZTVvNGMxblhZV3VITC1iVzU2WVNMNWdiel9rcm44NUE1ck4zdFVNcE10TG1XNHdYang3cTFRQ2U5SG12ajRBT3dROWNMWkhPSy1ZOFRNTzVpZ2pZZXpjcnNEM3R5NmZGbkgzS0NZRWJya3dOelQ3TGRnRzIxVFBTZmR2RVJvem9WNS0ySHFySFNfOA?oc=5"
+  },
+  {
+   "text": "Praha finančně podpoří akce konané 17. listopadu, ministerstvo kultury totiž udělalo pravý opak - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0AFBVV95cUxNSE5YRWVFbHhYeFRUV3ZjdkpLZVRMcmJIVGhDcXY2Sm1abHBuVmtSc0xmbGpmcHVWVHNHLTFhRE9xODNQbkQ0ZUxETWpZU0MtSklzUnVVVkU1dENlZ09IeXNldHZCdXhVcGQ1anJPWmpCakdTb2FuN1ZqWEhQUTU2ZTFQWWpUQThTYVZYdnNFNkZ6Y2txc24wRm1reXRIelgxN0lTd2RKUlBBcXh0Zm9mOVBEV2dzWDRFM3MyYzR4OGNiUU5zMnFGMjlJend1RXZB?oc=5"
   }
  ],
  "last_digest_date": "2026-11-05"
