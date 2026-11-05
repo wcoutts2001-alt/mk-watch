@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T15:03:52+00:00",
+   "last_success_at": "2026-11-05T16:08:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -75,7 +75,7 @@
     "facebook:4a76788b113947ea",
     "facebook:cf1726ef2d2bdd61"
    ],
-   "last_success_at": "2026-11-05T15:03:52+00:00",
+   "last_success_at": "2026-11-05T16:08:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-05T12:50:32+00:00"
   },
@@ -94,7 +94,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T15:03:52+00:00",
+   "last_success_at": "2026-11-05T16:08:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -102,16 +102,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T15:03:52+00:00",
+   "last_success_at": "2026-11-05T16:08:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f810419b45369e9b",
-    "news:33f65feefd165272",
-    "news:d55aa9b268b48a92",
     "news:ec08528717fcc9e5",
     "news:7dc2faee639796cc",
     "news:aff7f4fd91308a00",
@@ -608,11 +605,14 @@
     "news:fe5631bf705dfc93",
     "news:486145b4cf852755",
     "news:0ef6e7377010ca1b",
-    "news:4577ae02b176a567"
+    "news:4577ae02b176a567",
+    "news:a6d1d66d6f47a7a3",
+    "news:fc5f1d691e80b0fa",
+    "news:e5fa36496d0c304d"
    ],
-   "last_success_at": "2026-11-05T15:03:52+00:00",
+   "last_success_at": "2026-11-05T16:08:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T14:07:55+00:00"
+   "last_new_item_at": "2026-11-05T16:08:21+00:00"
   }
  },
  "digest_queue": [
@@ -684,6 +684,12 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu uspořádalo tiskovou konferenci k Dni vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxNY2VhMDN2eDVVaTVheVNMVE1rSHFFZnd2U0ZSdXdNbEVmek1WU2l3M3lhZXpILVRQNU5ZSWk5bGlxYUs2UEo2S0NPZlVVMXpwZFgwU0NXc0tjTzAwNVdMeGhKQko5d180SHJxdGF1LUVNeHhvekltby1rLXFTZFBkZmc2aWdMakVOdG1sTTk1Y21IdmllWGhwUzFIZS1xQQ?oc=5"
+  },
+  {
+   "text": "Praha finančně podpoří akce konané 17. listopadu, ministerstvo kultury totiž udělalo pravý opak - Pražský patriot\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnhwNHI0VHk3dHZlbTZGemxidEN2V3VUaDMwZVVmZHdfcVVreTdvLTA2eWZYeVJBUloxSlZUQ2M3UWRBNG1uRS1PVXJzT3R0SFpsNGVvb1BXUFNCTnB6X0lQTUNQQndkY0pYczc3S192SGJMSkxDZ2RzM1NDTm5YeFZHcmdPa3VkYUpRTkhGTEwtOU1hSzUzLW1nV1FFQUtTMVRSZDNQeF9fYjFPUTJabDJqUjdWQTBLMkhBU0sySHo3UQ?oc=5"
+  },
+  {
+   "text": "Klempířova náměstkyně za ANO končí. Přesouvá se na radnici Zlína, kde Babišovo hnutí pomohla odstavit od moci - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxPUG1MOEZfQ2d4bk1oS2dja1B2VFJGVUxUMllqaWRiOFZITEFFZ0JPUjBRWlNQRXVWQ2owa0ZFaUFibjVUZDJydlEySGZ4UXl0b01PbGthLTBHZWg0Z0JnalhoSmxVTXFsZXNkOGUwNzBBYWFoZFdkSGdlTFFybTlfT0N2ZzNFQU4yR0dyeVBacUItUHVNWjdWSFlXYkFIcHVkYmp3b1BHQU5NMWdlZmI1RklZa3I3OERmZEdkTHV6WERMbEJCYnhB?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
