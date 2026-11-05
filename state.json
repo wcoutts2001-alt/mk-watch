@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T11:45:49+00:00",
+   "last_success_at": "2026-11-05T12:50:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -72,11 +72,12 @@
     "facebook:b05421bb6f4fe994",
     "facebook:aa5ad5a524af303d",
     "facebook:5701ee95a0f5435e",
-    "facebook:4a76788b113947ea"
+    "facebook:4a76788b113947ea",
+    "facebook:cf1726ef2d2bdd61"
    ],
-   "last_success_at": "2026-11-05T11:45:49+00:00",
+   "last_success_at": "2026-11-05T12:50:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T09:49:25+00:00"
+   "last_new_item_at": "2026-11-05T12:50:32+00:00"
   },
   "instagram": {
    "seen": [
@@ -93,7 +94,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T11:45:49+00:00",
+   "last_success_at": "2026-11-05T12:50:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -101,14 +102,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T11:45:49+00:00",
+   "last_success_at": "2026-11-05T12:50:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:20d8a8463c601c39",
     "news:469db8bccb72db35",
     "news:f810419b45369e9b",
     "news:33f65feefd165272",
@@ -607,11 +607,12 @@
     "news:5fd0e7c8076ce7e0",
     "news:d7d48cd2af91308f",
     "news:fe5631bf705dfc93",
-    "news:486145b4cf852755"
+    "news:486145b4cf852755",
+    "news:0ef6e7377010ca1b"
    ],
-   "last_success_at": "2026-11-05T11:45:49+00:00",
+   "last_success_at": "2026-11-05T12:50:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T11:45:49+00:00"
+   "last_new_item_at": "2026-11-05T12:50:32+00:00"
   }
  },
  "digest_queue": [
@@ -674,6 +675,12 @@
   },
   {
    "text": "Klempíř se pochlubil: Ministerská cena pro Herze se dostala k rodině! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVFMejAtcU1EODBfV3NEd3RWSm9vb0F3aDRnZ0lWdnUweUxwVXVuU3RUMFZXRUoybmU0QzJ1b2lzTGVUamhIS0NKa0NrTzVFZlJVaFdlbk5DU0htdnBiN0tKTWVQRlJEcTNFNGRPU3lROTZCTFdqV3NvZV9SbnlIRC01d2d2YlNKMU8wbjFtdmJzN3BOenpaM0ZnNWQ1Y3BpNjRMTEtIdjI?oc=5"
+  },
+  {
+   "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid034vh9feQjaebq3j9wftGoacHKUWAY2x5U8m5Cywx8qcWq8gSYmwm1qdfSAEZs4AHJl"
+  },
+  {
+   "text": "Praha dá 700 tisíc na připomínku Sametové revoluce. Ministerstvo kultury ani haléř - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmRsUUVxMm9CY2RoWHRpQUdRSFJJeUtwSkZwX3hzR2xlaWx4cnBfNEV3cWR5aGFlTHNUd0hVZl9IZmwyaUdfczVRajJXdDItOVhGSkZKei1udDc0ZXR0cWhMRl9qTGMyX0tYRzZrZjlCczNxM3dGbFl3bEM3SFlnNTZCSHQ3dVpTdjlTTERmcTN0cWN5WDVTMU8wSG4yMkY2N2lyN25OamRPX2NxblJoOThuZnZIWXlTWVZxR2FnMzlRZmZHUjF2bVZudVBvQ1E3eUROWFc3amE1Ym9zR3lGaFd0bmNUWlNr?oc=5"
   }
  ],
  "last_digest_date": "2026-11-04"
