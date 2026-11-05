@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-05T17:20:55+00:00",
+   "last_success_at": "2026-11-05T18:05:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -75,7 +75,7 @@
     "facebook:4a76788b113947ea",
     "facebook:cf1726ef2d2bdd61"
    ],
-   "last_success_at": "2026-11-05T17:20:55+00:00",
+   "last_success_at": "2026-11-05T18:05:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-05T12:50:32+00:00"
   },
@@ -94,7 +94,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-05T17:20:55+00:00",
+   "last_success_at": "2026-11-05T18:05:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -102,14 +102,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-05T17:20:55+00:00",
+   "last_success_at": "2026-11-05T18:05:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:aff7f4fd91308a00",
     "news:335ced3e3d685cad",
     "news:df55bd918913abde",
     "news:06a7727c2d1c1636",
@@ -608,13 +607,18 @@
     "news:fc5f1d691e80b0fa",
     "news:e5fa36496d0c304d",
     "news:a8a95377eaa2c9f6",
-    "news:6692e4f8cc305e6b"
+    "news:6692e4f8cc305e6b",
+    "news:80b65b6fa8f36459"
    ],
-   "last_success_at": "2026-11-05T17:20:55+00:00",
+   "last_success_at": "2026-11-05T18:05:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T17:20:55+00:00"
+   "last_new_item_at": "2026-11-05T18:05:33+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Zrádcovství i mimo Křivoklát? Annelie převzala od Klempíře cenu pro otce, rodina byla zásadně proti - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNLTl4cUNxN1hPYjJ4Y0dnallLNlZTcEZHdTF2VzdOanJDdXl2UUdDQTk4RmFHSFJNbUg1cklPZzlMYmgtVFQ1VzZ0ajlKc0tnNXhVRjczczRSeXk1Mno2MXV3c0hIZzFmWllDSVBYUnJLdHowYjJjcGU2cUc1MmlYLXV1VzRBY1VHNDJhZG5DWUVMYW1qaS1hT2RNNkFaaXlxWURnaFdkZi1zbUdOSDFIQ0tuOE1WWHpPeFlCbElvQTJZdw?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-05"
 }
