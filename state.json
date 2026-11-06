@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T15:29:35+00:00",
+   "last_success_at": "2026-11-06T16:21:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T15:29:35+00:00",
+   "last_success_at": "2026-11-06T16:21:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T15:29:35+00:00",
+   "last_success_at": "2026-11-06T16:21:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,16 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T15:29:35+00:00",
+   "last_success_at": "2026-11-06T16:21:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cf5b270b7238a74e",
-    "news:be9fba8b1e62934f",
-    "news:d2b05d2a61bc1f1a",
     "news:e7e0b949a57fa28e",
     "news:cdcb11af121292b1",
     "news:e94bef74ccf790f2",
@@ -609,11 +606,14 @@
     "news:889602757e6470ca",
     "news:daf623d20d7a25b1",
     "news:968a0e9100260d78",
-    "news:2817117811b50e19"
+    "news:2817117811b50e19",
+    "news:0455f0ef50ce4424",
+    "news:59f2d726af3771f2",
+    "news:e7a5a67848432b82"
    ],
-   "last_success_at": "2026-11-06T15:29:35+00:00",
+   "last_success_at": "2026-11-06T16:21:43+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T15:29:35+00:00"
+   "last_new_item_at": "2026-11-06T16:21:43+00:00"
   }
  },
  "digest_queue": [
@@ -652,6 +652,15 @@
   },
   {
    "text": "Praha finančně podpoří akce k 17. listopadu, dvěma pořadatelům dá 700 tisíc - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxObTBuNUZzcEM3VHFnXzMxYmdlQ041Tl9lQXZLZi1SbGpaeC1mb2pFSXh6MklQbHVXWWV6RXNYQVlyakFMVzROVVBJaW1WNU4xLWFLVndZVFhoRUJpTEJMT21BTlNyZWVSektoSVVEU09MSkZLenI3SjJzdVVZRG9SVUVYcGJWaXpNbUxOeGg5RmNSNHhpWGxHbmVpRWxvZ1cyR0p4aHYwV1ZkMlo4X0ZQOTVXYjhTVE1rSVFYeGIzYWZJTWlFeS1meTFUY285d1hhRkxFcTRB?oc=5"
+  },
+  {
+   "text": "Na post šéfa Národní galerie se Klempířovi hlásí stejní zájemci - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOUUNKU0RqUHBaVUhybWhCQjA5REpmT0t6ZnVOWU55U3pMUTZxbkh3UnQ1ZXlHYW1GdzV4eU1xaTFlUjRJZjZ1OTJzTVg0dXNsenFPZl94ZXJ0aFhDODVIc0c1dEtsa3MyN3EzMG4wOWhndldfVmxPOUo0LWhtemo5UGRGTkFvUEtpNk9HZkM4Y21FVFVOa3VQOVJ5UjdFU1N5dmszS3diSnJqUF9GYTA4?oc=5"
+  },
+  {
+   "text": "Klasické vietnamské filmy se vracejí na televizní obrazovky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxQcFNYMW9fODNQbUNLM2R0T2VnTnBMSmwxSng4WW9uNFcyd0Y3anlzZllRcU93bzEzdVNtR2tkN01BREdkTTJScjZocFNhUURSVWM2Z2FNRzUyeVVzd2pvZTI3TWwwaGYzazl3dnR3dHB1cDYzcnpreEh1ZS1qRmg3bndKMVozV1hWQnBVR3R3SGlwbU5pcUdUay1aSQ?oc=5"
+  },
+  {
+   "text": "Ha Tinh reaguje na Den kultury Vietnamu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTE1DdzRaSXJOYURRZG0yOHBlMkkyMlpTRjk5czQ1VEVvdEd1R3lyQi1WejhXZExhX19LWncxbDJSR251dGZhQ2R2NUpfVDdqLVFTX2RZRjlaN2tVdnA2N1RaeGctYnpFdjRMTWRubklnOS1mX0VnRVZ1czZn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-05"
