@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T19:49:48+00:00",
+   "last_success_at": "2026-11-06T20:37:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T19:49:48+00:00",
+   "last_success_at": "2026-11-06T20:37:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T19:49:48+00:00",
+   "last_success_at": "2026-11-06T20:37:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,15 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T19:49:48+00:00",
+   "last_success_at": "2026-11-06T20:37:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cdcb11af121292b1",
-    "news:e94bef74ccf790f2",
     "news:532cf064ea373af2",
     "news:cd9b35d358dc0607",
     "news:0570ef03631f3f9a",
@@ -609,16 +607,24 @@
     "news:0455f0ef50ce4424",
     "news:59f2d726af3771f2",
     "news:e7a5a67848432b82",
-    "news:e4a28b41be0a5b9d"
+    "news:e4a28b41be0a5b9d",
+    "news:af7b975de52a1f70",
+    "news:fd883869908158b8"
    ],
-   "last_success_at": "2026-11-06T19:49:48+00:00",
+   "last_success_at": "2026-11-06T20:37:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T18:10:57+00:00"
+   "last_new_item_at": "2026-11-06T20:37:03+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "HANIFF VIII: Posilování vazeb, propagace a rozvoj vietnamské kinematografie. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOcHVocGt0SW5SN0I0WDBIbjdxZUNtbEU4MzktM2w0allNSlVGQ19HX0VROXhPdkUzTWdzN1hDYm01WjhrNEt0cmEzSUgxX19sdkZZWmMtaXlweDdWYV9GSjBDdm5OTzktUkJraTczT29mdTgtSTNBaDdJWTBwdnR2bzRHa2pjTmJUMlVMUEQteUlMUGtuSTRYOVhGc3RGdw?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu: Posílení dialogu a rozšíření možností spolupráce s evropskými podniky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxNSTNWUVk0eUZNdFdJQ0xXMjVhS2hqa0xqZjhKVE1hZTloQkg3TG1xZ3FNS1JsTngtWFZlQlVjN1NoazFqRGhPNWZRU2F2RXpSM3RtZ1dKYTA4a3NEd1JyRTI0MWZ3RmlpYTF1LVpUUGc4MVNWUi15Z0FHVmVzNjZNSlYwbm02eC1Ya19JMV90bVhoTHd2X09lUGs3OTBZejlVcDdnM3dudw?oc=5"
+  },
+  {
+   "text": "Zpravodajství z hraničních přechodů, 6. listopadu: Počet vozidel přepravujících zboží pro vývoz se zvyšuje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0RhVkdaU0lRc0hSN1JPN1lnQXItNl96SzFXOExRdU5Kazc1cEppNmloSkpVRWFJRW51QkxGbEU1aE56VzU4d0txTUtHd0hENTRjUjFHNnRRUl9HWXpEZWRyVm8zc2xORVpHU19jdDBWc3BDdmd6MWFJSDJBVEM3cDVFbzl5Si05NXJ1TEo4bG1aNW9ReE94WnZqRlVtSFlLd1Nv?oc=5"
   }
  ],
  "last_digest_date": "2026-11-06"
