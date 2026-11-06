@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T17:17:29+00:00",
+   "last_success_at": "2026-11-06T18:10:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T17:17:29+00:00",
+   "last_success_at": "2026-11-06T18:10:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T17:17:29+00:00",
+   "last_success_at": "2026-11-06T18:10:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,14 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T17:17:29+00:00",
+   "last_success_at": "2026-11-06T18:10:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e7e0b949a57fa28e",
     "news:cdcb11af121292b1",
     "news:e94bef74ccf790f2",
     "news:532cf064ea373af2",
@@ -609,13 +608,18 @@
     "news:2817117811b50e19",
     "news:0455f0ef50ce4424",
     "news:59f2d726af3771f2",
-    "news:e7a5a67848432b82"
+    "news:e7a5a67848432b82",
+    "news:e4a28b41be0a5b9d"
    ],
-   "last_success_at": "2026-11-06T17:17:29+00:00",
+   "last_success_at": "2026-11-06T18:10:57+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T16:21:43+00:00"
+   "last_new_item_at": "2026-11-06T18:10:57+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "HANIFF VIII: Posilování vazeb, propagace a rozvoj vietnamské kinematografie. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOcHVocGt0SW5SN0I0WDBIbjdxZUNtbEU4MzktM2w0allNSlVGQ19HX0VROXhPdkUzTWdzN1hDYm01WjhrNEt0cmEzSUgxX19sdkZZWmMtaXlweDdWYV9GSjBDdm5OTzktUkJraTczT29mdTgtSTNBaDdJWTBwdnR2bzRHa2pjTmJUMlVMUEQteUlMUGtuSTRYOVhGc3RGdw?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-06"
 }
