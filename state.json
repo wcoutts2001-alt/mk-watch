@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T06:41:09+00:00",
+   "last_success_at": "2026-11-06T07:55:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T06:41:09+00:00",
+   "last_success_at": "2026-11-06T07:55:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T06:41:09+00:00",
+   "last_success_at": "2026-11-06T07:55:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,14 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T06:41:09+00:00",
+   "last_success_at": "2026-11-06T07:55:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6467c864eebca965",
     "news:57db2e50a487e425",
     "news:8d6998851dc975b1",
     "news:406ff33de5d20ca4",
@@ -609,11 +608,12 @@
     "news:839c934a02784a01",
     "news:73710f63c804f943",
     "news:f6a1a41009005f73",
-    "news:ca1adc091386f977"
+    "news:ca1adc091386f977",
+    "news:f22ba99def676d86"
    ],
-   "last_success_at": "2026-11-06T06:41:09+00:00",
+   "last_success_at": "2026-11-06T07:55:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T05:38:47+00:00"
+   "last_new_item_at": "2026-11-06T07:55:01+00:00"
   }
  },
  "digest_queue": [
@@ -640,6 +640,9 @@
   },
   {
    "text": "Lam Dong: Zintenzivnění vzdělávání v oblasti zvládání dopadů sociálních médií. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxQRG90UjRsM0xWZUUxMlhYOEx3SVpETmVWbVBZRlFESlBaWkdRSVA3Y1oweDVBWGFIbHo4aWFpeVgwZUtDS0l6T2pWd1RMTVRHcGpOWU9tWFBHS1hkUWJHOHRsTWhld0VEalFTaVdNS2c1NWt2Wl9hNWVMc3ZaUnhITkhjX2JxQzJqN09jQlNaU0VldUsyT0otSk5uR0lIdw?oc=5"
+  },
+  {
+   "text": "Obří rozkol v rodině Annelie ze Zrádců: Za tátu Herze převzala cenu od Klempíře. Sourozenci ostře proti - Expres.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi-AFBVV95cUxQX3o1Z0taSFk0RDVoQkJ2Q3NOaUJUbGtjRl83Tk5uS3FLYkZseU9NVjllMmpGUU9qVTBqcWgyUWFkWm9KdDE1ck5FeWM4TFBzN3FuNUFqY3M5UFM3ZUs5STZSSG9XenZseDFDVWZ2dkpSWldTRU9VcUQ0bWNEeDFKUkE5NDRub0Y4Rk1jaEVSbEdFdC0yM3I2MHRoQ3ZEaWhGdDNwdUZRb2M2MXJ4NU5XV0NHSkJmaFFSWE82b1RnQmZQV3kyT2oyU1AxSVA1LXZKTU1HZHVOdzdQTnBYeFNXZWUtX012UlNQRGRJaDZ6di1uaW5iTm1TRA?oc=5"
   }
  ],
  "last_digest_date": "2026-11-05"
