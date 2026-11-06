@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T13:51:18+00:00",
+   "last_success_at": "2026-11-06T14:45:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T13:51:18+00:00",
+   "last_success_at": "2026-11-06T14:45:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T13:51:18+00:00",
+   "last_success_at": "2026-11-06T14:45:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,14 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T13:51:18+00:00",
+   "last_success_at": "2026-11-06T14:45:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:1a798f76c8b874bf",
     "news:b940fa107e94856e",
     "news:c42255c543cd57ea",
     "news:f3ce9076d7465b07",
@@ -609,11 +608,12 @@
     "news:f22ba99def676d86",
     "news:49e93a10485be6e9",
     "news:805b58c29d3130c7",
-    "news:c08888769ec3baea"
+    "news:c08888769ec3baea",
+    "news:889602757e6470ca"
    ],
-   "last_success_at": "2026-11-06T13:51:18+00:00",
+   "last_success_at": "2026-11-06T14:45:18+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T12:37:21+00:00"
+   "last_new_item_at": "2026-11-06T14:45:18+00:00"
   }
  },
  "digest_queue": [
@@ -646,6 +646,9 @@
   },
   {
    "text": "Více než 400 unikátních aktivit oslavuje Den vietnamské kultury po celé zemi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQLTE3UTVRUGUxTTB5djVUVWZLYlA1azlWY1hvbmJzQmstc2N4cGM1amU5bjEtcGRqdTU4NTZnajYxNXM5dTRqTzZFdTRhZkNlVUdYU0Z5UFZtSTRpdTJOTzkxUkF0NzRERktPY2xxTzJsUjZmQ2RhOVcwNTBueTMzRlptWXNxLU1odFlQTWJVeU1zLUF5bEZnX0RQbzA?oc=5"
+  },
+  {
+   "text": "Oto Klempíř (Motoristé) před jednáním vlády | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiYEFVX3lxTFB4TnFrbWpoYm5tOFIyMWctVFo4bVFMVFRIYkl0dXg0Q1h6UV85Mmlrb21vRDZWWmYycGtJMEJ4SnpYblc0TWl0eUwwS09uWGJzNmtYWEZjcXFvSGNDWVYzNw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-05"
