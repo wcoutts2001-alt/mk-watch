@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-06T04:38:44+00:00",
+   "last_success_at": "2026-11-06T05:38:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,7 +76,7 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b"
    ],
-   "last_success_at": "2026-11-06T04:38:44+00:00",
+   "last_success_at": "2026-11-06T05:38:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-06T00:22:37+00:00"
   },
@@ -95,7 +95,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-06T04:38:44+00:00",
+   "last_success_at": "2026-11-06T05:38:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,14 +103,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-06T04:38:44+00:00",
+   "last_success_at": "2026-11-06T05:38:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f401d2192b45be85",
     "news:6467c864eebca965",
     "news:57db2e50a487e425",
     "news:8d6998851dc975b1",
@@ -609,11 +608,12 @@
     "news:62f5867dfbbcd35f",
     "news:839c934a02784a01",
     "news:73710f63c804f943",
-    "news:f6a1a41009005f73"
+    "news:f6a1a41009005f73",
+    "news:ca1adc091386f977"
    ],
-   "last_success_at": "2026-11-06T04:38:44+00:00",
+   "last_success_at": "2026-11-06T05:38:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-05T22:15:29+00:00"
+   "last_new_item_at": "2026-11-06T05:38:47+00:00"
   }
  },
  "digest_queue": [
@@ -637,6 +637,9 @@
   },
   {
    "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid0zu6SBqDAunesm79RTnM8uybnjTo2szhLUgwUD8CjYx3cuVKMH7Sb2N7zUpRkx4QGl"
+  },
+  {
+   "text": "Lam Dong: Zintenzivnění vzdělávání v oblasti zvládání dopadů sociálních médií. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxQRG90UjRsM0xWZUUxMlhYOEx3SVpETmVWbVBZRlFESlBaWkdRSVA3Y1oweDVBWGFIbHo4aWFpeVgwZUtDS0l6T2pWd1RMTVRHcGpOWU9tWFBHS1hkUWJHOHRsTWhld0VEalFTaVdNS2c1NWt2Wl9hNWVMc3ZaUnhITkhjX2JxQzJqN09jQlNaU0VldUsyT0otSk5uR0lIdw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-05"
