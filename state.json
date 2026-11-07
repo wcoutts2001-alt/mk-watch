@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T07:30:30+00:00",
+   "last_success_at": "2026-11-07T08:28:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T07:30:30+00:00",
+   "last_success_at": "2026-11-07T08:28:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T07:30:30+00:00",
+   "last_success_at": "2026-11-07T08:28:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,14 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T07:30:30+00:00",
+   "last_success_at": "2026-11-07T08:28:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:3dc2651790cb0fe7",
     "news:f89ff1665fadc106",
     "news:412c176743b57ca5",
     "news:ee63dd6f2b897f08",
@@ -610,11 +609,12 @@
     "news:3fb53a5cdf84cb3d",
     "news:450dfbe00bf9e20f",
     "news:329597101ce86561",
-    "news:3efdac9e88ba56cd"
+    "news:3efdac9e88ba56cd",
+    "news:c8246ae8377c31b9"
    ],
-   "last_success_at": "2026-11-07T07:30:30+00:00",
+   "last_success_at": "2026-11-07T08:28:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T07:30:30+00:00"
+   "last_new_item_at": "2026-11-07T08:28:01+00:00"
   }
  },
  "digest_queue": [
@@ -647,6 +647,9 @@
   },
   {
    "text": "Slavnostní předávání cen v soutěži Ambasadoři čtenářské kultury Da Nangu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFlXzRIYld5VkJjaTJhS1FtYUdaLTFZMUw0V2ZsaVFGR2RaMjJLTnZYTEtYUE9MYjBKbU4xZ0NfcGF0NlVBaFRmVzFWa05MbG5iZGpZMnpaVFFfMnp3REpWWF83TlJWUkZqZGxpcTRQYlloY0FSV2U4ZFJWczIyV2FBVW9WMk0?oc=5"
+  },
+  {
+   "text": "Hřebejk: Turek a Rajchl jsou rakovina společnosti. Klempíř je „zoufalej“ - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxQa3AwdXRGdVlzNWFyUmFSS3F4dTU2LS1wOXVBX0hJVHZUcXVYX3JIakpnNUpMQmJXdVBUb1lOenZUalVIUFJ4TFk2QkwwZHo2d0JJRFFtTmhBSUVqcDViT1dSeGU1LUJPaENacHpmT3BLU1JVa2lSUXpFcDdySlg5Rkp5VzBqb2pBd3NuMDFTUnEyb2ZYdnh4QTN6NkZjQkZRQmV4T1VHcm9BeklXUzN1WHRTRmhQMU82WTNWS2pn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-06"
