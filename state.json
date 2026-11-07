@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T22:18:03+00:00",
+   "last_success_at": "2026-11-07T22:59:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T22:18:03+00:00",
+   "last_success_at": "2026-11-07T22:59:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T22:18:03+00:00",
+   "last_success_at": "2026-11-07T22:59:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,15 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T22:18:03+00:00",
+   "last_success_at": "2026-11-07T22:59:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:60444aae57ab013a",
-    "news:f1230d50ef1adaf0",
     "news:486a8893d3bb5355",
     "news:9d4aa3359cecaa5f",
     "news:5264e8025f303fbf",
@@ -610,11 +608,13 @@
     "news:57b8c95c35307778",
     "news:2e0e963d20222352",
     "news:65808be3ff2e9844",
-    "news:45230e426cdab610"
+    "news:45230e426cdab610",
+    "news:50442f08448f70fb",
+    "news:1833a20aae16a12b"
    ],
-   "last_success_at": "2026-11-07T22:18:03+00:00",
+   "last_success_at": "2026-11-07T22:59:54+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T21:43:36+00:00"
+   "last_new_item_at": "2026-11-07T22:59:54+00:00"
   }
  },
  "digest_queue": [
@@ -638,6 +638,9 @@
   },
   {
    "text": "Ho Či Minovo Město: Organizace série aktivit na počest tradičních kulturních hodnot. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNNXQyTW55QUNZR0liVW1uc25WOXJIQXlhVWk5VkZ5akVNRXFWWDE0ci05cDEyekRQLVZYeVc1X2dXUmhvYXQ1VGpUdFM1TEpUWF8xTG1xdy1pY2ZtTm1UY01rTWpVVmRpTEZPNUY5a3pPMGM4Nm5Ba1VlcDNSM045MlVkNlYtVk54Z2FUQmFlTi14WE16eFpHWVVR?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh představil Národnímu shromáždění konkrétní mechanismy a politiky pro rozvoj cestovního ruchu ve Vietnamu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOUVljQnNoRHlHUEpPcWVRMEo4Sm9mZktWX1dKcWJRbEk2SkZmVDJmN2RmWXpaY2ZFU1RWR2Y0ZFIyMkZwbDNmTVlfcGRTWU1Lc0RLZjlmNVd0UlJjdGtwUGZZMzJqWi11MnNSbHRpSkVZNk1MR2VqMmFnWE1jbUVwNWlYUlNtZWlxTGhVU2VTek5LWkx3QVVkVW5Cc2x6RUsyYnJCUnU4ekYwaTBvMmNfWWwzY054dWxFd0kzX2tpZ3BhRXc?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
