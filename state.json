@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T19:53:39+00:00",
+   "last_success_at": "2026-11-07T20:25:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T19:53:39+00:00",
+   "last_success_at": "2026-11-07T20:25:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T19:53:39+00:00",
+   "last_success_at": "2026-11-07T20:25:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,14 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T19:53:39+00:00",
+   "last_success_at": "2026-11-07T20:25:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:370bc755a435afe3",
     "news:d81081802a616d48",
     "news:116add28d9c391ee",
     "news:e6e914d3db85612c",
@@ -610,11 +609,12 @@
     "news:2ab939d74c5f890a",
     "news:e2da2ee96708b2f8",
     "news:73864b885426e7e8",
-    "news:ac68240d07af6fe1"
+    "news:ac68240d07af6fe1",
+    "news:57b8c95c35307778"
    ],
-   "last_success_at": "2026-11-07T19:53:39+00:00",
+   "last_success_at": "2026-11-07T20:25:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T19:53:39+00:00"
+   "last_new_item_at": "2026-11-07T20:25:37+00:00"
   }
  },
  "digest_queue": [
@@ -626,6 +626,9 @@
   },
   {
    "text": "Předložení Národnímu shromáždění řady konkrétních mechanismů a politik pro rozvoj cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxPb2s4ZVpiZUg5NlM1SzFyX3AtNnNFR0pvSE1FTGFaeUplWFA4Q3N1cmR6Sy1BNnlVeWtzUnpHcUI1TFBXZkZtcEl0NElMaEZrS0NuUzFIczBCZ2dJREZYZ0l5YmdZb0ZtUnpmOWhydFVEcEZma3AzLVJQa2lQV1VraDlDV1hRSkd3VGJscWRHdWxyUzZ3?oc=5"
+  },
+  {
+   "text": "Komplexní pobídky se zaměřením na klíčové turistické destinace. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxPX2hldUJVZ3k5MWhfQzQtZU8xLU5zb2RrNXFadWkzSzhaM1k2RldnYVd6S3pLZ0JmdHM1RkR6M21xRnBYTUl0Rm5oRDZhVnN2elFxVFBCemtqM3VKMHEteXVRUjhOaFpOS1dZMFZZU1VuM3d4dHV1eV9LLVZtUGw1X3NLRUh1VHJWZXhDb0FXdWg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
