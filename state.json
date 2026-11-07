@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T02:01:44+00:00",
+   "last_success_at": "2026-11-07T02:55:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T02:01:44+00:00",
+   "last_success_at": "2026-11-07T02:55:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T02:01:44+00:00",
+   "last_success_at": "2026-11-07T02:55:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,14 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T02:01:44+00:00",
+   "last_success_at": "2026-11-07T02:55:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cd9b35d358dc0607",
     "news:0570ef03631f3f9a",
     "news:49455b2d8325bed7",
     "news:9b394592151f47ed",
@@ -610,11 +609,12 @@
     "news:e4a28b41be0a5b9d",
     "news:af7b975de52a1f70",
     "news:fd883869908158b8",
-    "news:150ca0f35499fed1"
+    "news:150ca0f35499fed1",
+    "news:ce49dc6300d347d7"
    ],
-   "last_success_at": "2026-11-07T02:01:44+00:00",
+   "last_success_at": "2026-11-07T02:55:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T00:02:42+00:00"
+   "last_new_item_at": "2026-11-07T02:55:35+00:00"
   }
  },
  "digest_queue": [
@@ -632,6 +632,9 @@
   },
   {
    "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid034kY9NW8zmEjVLATtwo5pxW2HFCGgz7zwnjjAiLDvFAfXQFBEVWVpCJmetMfE4QPjl"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu uspořádalo pracovní setkání s delegací Ruského centra pro vědu a kulturu v Hanoji. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxPdDhUTzJFMXJ3Q3d1S1JLQWVrTHI5N3RkOEVoZk9Ca1ZrbTRwNHNLdTI2QnZXWktzNVhPbEhqeHNRakxaVktxYXpKbl8taWNTZ3Y1TE9oMHBSNDNpMHFpYzlKOE1BWG1ncnpmcEtyUVZmaVlHZmVrb3ZBbE1PUFIta1hVcEI1c1ZoQWVNaHdqNDJsOVZlRjRyYmZlWXpmRXR3WktnMkRpSDVOZlRFdEY0QnN2eWJnSEpGOXBZVmEzcU40UDhhck1udG93cHM?oc=5"
   }
  ],
  "last_digest_date": "2026-11-06"
