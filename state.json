@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T19:14:33+00:00",
+   "last_success_at": "2026-11-07T19:53:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T19:14:33+00:00",
+   "last_success_at": "2026-11-07T19:53:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T19:14:33+00:00",
+   "last_success_at": "2026-11-07T19:53:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,15 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T19:14:33+00:00",
+   "last_success_at": "2026-11-07T19:53:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:5cb9d2f15bbba72a",
-    "news:7ffa6c7ba31355ec",
     "news:370bc755a435afe3",
     "news:d81081802a616d48",
     "news:116add28d9c391ee",
@@ -610,16 +608,24 @@
     "news:45938296019aac88",
     "news:31b87fd8477087a6",
     "news:2ab939d74c5f890a",
-    "news:e2da2ee96708b2f8"
+    "news:e2da2ee96708b2f8",
+    "news:73864b885426e7e8",
+    "news:ac68240d07af6fe1"
    ],
-   "last_success_at": "2026-11-07T19:14:33+00:00",
+   "last_success_at": "2026-11-07T19:53:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T19:14:33+00:00"
+   "last_new_item_at": "2026-11-07T19:53:39+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Can Tho zahajuje výstavbu historického místa povstání Vam Bi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOZWM4N1RDZFNyb21jUFQ0Rk5Ua1dSbVJ5R0k5M1p3c051S1dPbi1lXzNsenhpbG9QX0VZUUVjVk1VakxoNXlucG5lTkdaWFRjVkoyRURObW5jZTFPWTZqUVVNTUxMblM1YU9FbEhLUHVWTDNNR0t6UzdMSko2dmZTTVlENmE0OUdpQUdwX3BqemE?oc=5"
+  },
+  {
+   "text": "Dva důležité digitální produkty pro Den vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxOWm51S1NhOTYycl9NU253ZjJPQXdFRkw3UG53VE1yaEJDOW1TaDVkR2pzMTBJbFpPQWlfb3VlZW1qS055aVk4Yy1Ec1QzOUdtLTBST2o5bkJMMlZ4MzhhYkJvckQyc2xmUW0yV05ybU41WGg0Q0RZR0ZnX3QtZDYyeG14WnRDUQ?oc=5"
+  },
+  {
+   "text": "Předložení Národnímu shromáždění řady konkrétních mechanismů a politik pro rozvoj cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxPb2s4ZVpiZUg5NlM1SzFyX3AtNnNFR0pvSE1FTGFaeUplWFA4Q3N1cmR6Sy1BNnlVeWtzUnpHcUI1TFBXZkZtcEl0NElMaEZrS0NuUzFIczBCZ2dJREZYZ0l5YmdZb0ZtUnpmOWhydFVEcEZma3AzLVJQa2lQV1VraDlDV1hRSkd3VGJscWRHdWxyUzZ3?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
