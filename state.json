@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T00:02:42+00:00",
+   "last_success_at": "2026-11-07T01:04:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -74,11 +74,12 @@
     "facebook:5701ee95a0f5435e",
     "facebook:4a76788b113947ea",
     "facebook:cf1726ef2d2bdd61",
-    "facebook:86f2d564ded3d62b"
+    "facebook:86f2d564ded3d62b",
+    "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T00:02:42+00:00",
+   "last_success_at": "2026-11-07T01:04:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-06T00:22:37+00:00"
+   "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
   "instagram": {
    "seen": [
@@ -95,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T00:02:42+00:00",
+   "last_success_at": "2026-11-07T01:04:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -103,7 +104,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T00:02:42+00:00",
+   "last_success_at": "2026-11-07T01:04:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -611,7 +612,7 @@
     "news:fd883869908158b8",
     "news:150ca0f35499fed1"
    ],
-   "last_success_at": "2026-11-07T00:02:42+00:00",
+   "last_success_at": "2026-11-07T01:04:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T00:02:42+00:00"
   }
@@ -628,6 +629,9 @@
   },
   {
    "text": "Chuyên mục Khuyến nông Lạng Sơn ngày 05/11/2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE52RW9ramVBUUpGMnhweVEweVpJbDVra1hrY21oNmVlbU9GSjdteUUyT2NpUVJMS3RVSWVWUjBZRXFJdzJiYUowS2t0Rk5DU1ExcmFjV2NEQ0tyMnVYS29ObGhBU3ZmX2hZcFNIVXljUmhuWEcxdjQ5M0NwQ1c5dw?oc=5"
+  },
+  {
+   "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid034kY9NW8zmEjVLATtwo5pxW2HFCGgz7zwnjjAiLDvFAfXQFBEVWVpCJmetMfE4QPjl"
   }
  ],
  "last_digest_date": "2026-11-06"
