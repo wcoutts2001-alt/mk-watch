@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T11:25:34+00:00",
+   "last_success_at": "2026-11-07T12:03:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T11:25:34+00:00",
+   "last_success_at": "2026-11-07T12:03:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T11:25:34+00:00",
+   "last_success_at": "2026-11-07T12:03:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,15 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T11:25:34+00:00",
+   "last_success_at": "2026-11-07T12:03:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:aa2cae091c0900c0",
-    "news:c632b508d7f56a37",
     "news:2034aab3097a2e2d",
     "news:48dca69b8635635b",
     "news:9f5fabe104343125",
@@ -610,11 +608,13 @@
     "news:0b9f7d69fb5a0051",
     "news:bc919b43efbda87e",
     "news:bc51192b759cda6b",
-    "news:45be4b6bd4304e1e"
+    "news:45be4b6bd4304e1e",
+    "news:2bb25337bc594b57",
+    "news:45938296019aac88"
    ],
-   "last_success_at": "2026-11-07T11:25:34+00:00",
+   "last_success_at": "2026-11-07T12:03:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T11:25:34+00:00"
+   "last_new_item_at": "2026-11-07T12:03:49+00:00"
   }
  },
  "digest_queue": [
@@ -662,6 +662,12 @@
   },
   {
    "text": "Quang Ngai: Gongy, karneval, brokátové látky a kuchyně se sbíhají v Kulturním týdnu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQTU5wRlg5TlNMYXpHSjFrU01FSGVSM2tRZWc0LWRSVlpDaElNZmNvQlN3ZTVsV0JBeUpMOWJucTVvRDYtZmNRSk0xMlNoZzJ1TkpobHFWU1lfdGRyTERaMnRMRHhjMTR6dnltZ21zVDlmdTJtYWZvcHRJbVlidTlwSjBXZUZld09BdkduaU5wb3ZUZjZaczgyb3U1ZXJCODlCQTFpYS1ydzhTU2s?oc=5"
+  },
+  {
+   "text": "Klempíř zasluhuje velkou pochvalu. I když ho asi nepotěší - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxPUnhFTEpmbGRlTVdsa0ZiSXJJNW5xTmZYZ09helA1X0p5ckdoN3lWOXd2dXpidDdSWWgybzREeF9SY3ZuX0FMbTdRdVVoRlZnRWFQWHBiQjBqRE4zZHpZemRmNzV1QmNCalVSclZRa19NMHYyczFUeGZ6RGtHZ0gxRE5IM21NbmM2VVhleGZoUEVVTXB1T3RhYTFYSFdWOEk?oc=5"
+  },
+  {
+   "text": "600 let stará starobylá loď, která se vynořila u pobřeží Hoi An, bude vystavena v muzeu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxOYWdLdm9SLVdzbmd5NnZhWmUySzZTeFNxamplYkMzeHJmOXdYMWVwcVp0Zjk0c0JYMkd5c0hlOE83bkdmNFlDVnVzWUllNTBBU01adFd3QWxDYlBPWWpkUDdvcnpNdUt4bjJYazhHZ3JZNk1QX2FnZndQR3pXcjFwQ2dybFV0MzFGQzFrTHltM0xqeUJNVHBXbzJsQWpsbms?oc=5"
   }
  ],
  "last_digest_date": "2026-11-06"
