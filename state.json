@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-07T10:51:59+00:00",
+   "last_success_at": "2026-11-07T11:25:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -77,7 +77,7 @@
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff"
    ],
-   "last_success_at": "2026-11-07T10:51:59+00:00",
+   "last_success_at": "2026-11-07T11:25:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T01:04:31+00:00"
   },
@@ -96,7 +96,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-07T10:51:59+00:00",
+   "last_success_at": "2026-11-07T11:25:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,14 +104,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-07T10:51:59+00:00",
+   "last_success_at": "2026-11-07T11:25:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:783d3d2a8f8693c3",
     "news:aa2cae091c0900c0",
     "news:c632b508d7f56a37",
     "news:2034aab3097a2e2d",
@@ -610,11 +609,12 @@
     "news:c8246ae8377c31b9",
     "news:0b9f7d69fb5a0051",
     "news:bc919b43efbda87e",
-    "news:bc51192b759cda6b"
+    "news:bc51192b759cda6b",
+    "news:45be4b6bd4304e1e"
    ],
-   "last_success_at": "2026-11-07T10:51:59+00:00",
+   "last_success_at": "2026-11-07T11:25:34+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T10:51:59+00:00"
+   "last_new_item_at": "2026-11-07T11:25:34+00:00"
   }
  },
  "digest_queue": [
@@ -659,6 +659,9 @@
   },
   {
    "text": "Starověká loď v Hoi An, o které se předpokládá, že je stará 600 let: Plán vykopávek bude stát přes 10 miliard VND. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2Q0SzNzT2xNREktVEotMVFoaFlCQXVwZnlpeGFkQ1lCZlhNWkxRUU1iOUI1MlZyMW11cEV0V01ob2lMWjFPVHQtMjlJUkNmeHRMUFRUREgyZUpfSFRpOUpJQi1qZGlGMDhpNnhNTnNnVWVsM1FScGFoSVFLN1dVdHc1cFRDbFFqTTZIN3hNeWt5b3FoUkVucFZR?oc=5"
+  },
+  {
+   "text": "Quang Ngai: Gongy, karneval, brokátové látky a kuchyně se sbíhají v Kulturním týdnu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQTU5wRlg5TlNMYXpHSjFrU01FSGVSM2tRZWc0LWRSVlpDaElNZmNvQlN3ZTVsV0JBeUpMOWJucTVvRDYtZmNRSk0xMlNoZzJ1TkpobHFWU1lfdGRyTERaMnRMRHhjMTR6dnltZ21zVDlmdTJtYWZvcHRJbVlidTlwSjBXZUZld09BdkduaU5wb3ZUZjZaczgyb3U1ZXJCODlCQTFpYS1ydzhTU2s?oc=5"
   }
  ],
  "last_digest_date": "2026-11-06"
