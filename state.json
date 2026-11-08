@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T15:43:39+00:00",
+   "last_success_at": "2026-11-08T16:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T15:43:39+00:00",
+   "last_success_at": "2026-11-08T16:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T15:43:39+00:00",
+   "last_success_at": "2026-11-08T16:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,15 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T15:43:39+00:00",
+   "last_success_at": "2026-11-08T16:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:eb445a2620e380b8",
-    "news:02ebc173cdc84dcd",
     "news:54a1a8e1c6b1619d",
     "news:64a47a963145d2b7",
     "news:c4285c5602f94943",
@@ -611,11 +609,13 @@
     "news:5ce0103370c8a99e",
     "news:99150cf28405d692",
     "news:bae6954487c59760",
-    "news:c711ecdd63da5f05"
+    "news:c711ecdd63da5f05",
+    "news:9459a9e10340da58",
+    "news:a84b14358bfb5dba"
    ],
-   "last_success_at": "2026-11-08T15:43:39+00:00",
+   "last_success_at": "2026-11-08T16:19:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T15:43:39+00:00"
+   "last_new_item_at": "2026-11-08T16:19:03+00:00"
   }
  },
  "digest_queue": [
@@ -702,6 +702,12 @@
   },
   {
    "text": "Vláda předkládá Národnímu shromáždění konkrétní mechanismy a politiky pro rozvoj cestovního ruchu ve Vietnamu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnZwOFNDbEt0ZUxnb2tTbjlMX2dNeVJHQmpLZEFPWGhPeldnM1lfcWltVV91MHJna3VpU1k0YlBUS08yNlIzN3NXTHZTN3RLYk5DSmZrNFU0Q3FYQVpLNHhwODJQTF9Jdm1UcjIyYkZZREtBeGJnYUNYWmJHc2t0aWpxV3BLdlliUEVxeVUzRmFXZEtzNDM3b3VkeWFJakxubHhqVlBJaWRSY1E?oc=5"
+  },
+  {
+   "text": "FOTO: Danuše Nerudová poslal drsný vzkaz Otu Klempíře. – stránka 4 - Extra.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTFAtXzU0eWZWX21lYzRsNkNrNnF0NUthUXFzaVkteWRuTEYwTFdSV0cyX0JlOVpUSi1HVnFQcTNZXzB1aXp2eXdBSUs5NlJpNEdJV3VmajJjWWRJdTFLNEVj?oc=5"
+  },
+  {
+   "text": "Jediný kulturní a kreativní prostor Muongů v Hanoji. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxORFpRN1hvLU5jdkMxTG85bzBZcFJmMGsyZDZjajZnME5jajUtM19rMXBDVmJGeG1PR2tlczcwUldOMVo2cFozMUtMUnlOSDRDM29QelpSMHlfR0wwT09nUE9KVjZwMFA3bWd5UkxjdGtGNHpjVFdFbXdteGE2eFBUY0JZWndPUQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
