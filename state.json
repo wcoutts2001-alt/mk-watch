@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T15:03:49+00:00",
+   "last_success_at": "2026-11-08T15:43:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T15:03:49+00:00",
+   "last_success_at": "2026-11-08T15:43:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T15:03:49+00:00",
+   "last_success_at": "2026-11-08T15:43:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,15 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T15:03:49+00:00",
+   "last_success_at": "2026-11-08T15:43:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:2eef019a0acf39bc",
-    "news:be137c51c643a99b",
     "news:eb445a2620e380b8",
     "news:02ebc173cdc84dcd",
     "news:54a1a8e1c6b1619d",
@@ -611,11 +609,13 @@
     "news:0f1a073e59ae47a5",
     "news:efc665c41e8c194c",
     "news:5ce0103370c8a99e",
-    "news:99150cf28405d692"
+    "news:99150cf28405d692",
+    "news:bae6954487c59760",
+    "news:c711ecdd63da5f05"
    ],
-   "last_success_at": "2026-11-08T15:03:49+00:00",
+   "last_success_at": "2026-11-08T15:43:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T13:43:02+00:00"
+   "last_new_item_at": "2026-11-08T15:43:39+00:00"
   }
  },
  "digest_queue": [
@@ -696,6 +696,12 @@
   },
   {
    "text": "Vláda pověřila Ministerstvo kultury, sportu a cestovního ruchu mnoha důležitými úkoly. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOWE1oOFoyMW02ZXQ0WmY4WGlqWUFKX3REdzhadUx1RjE2UlhzOHdHTWpPay0xVlhXQzN5WGtOOENoZndJYUUxSEtEM2k3aDdYYk9qYUxENUgtSkNoQkJVOUpDWVhhVl9LSUpManZPS01NUmxGa09SOGZDazhoTjgwdVNENXdFRmdMSUVQQkxHX3dNbU90WGtoekIwcy1VUQ?oc=5"
+  },
+  {
+   "text": "Udělat z obchodní kultury hnací sílu rozvoje podnikání. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxNdWV0b1l2Sk1qVE8yZHAtb1VGM3dvMlMxak85dm1NaUNoWUZMTEtnWW9ENUpwZjF2akYzaEhsTy1FNFpMUWwwLTJBY0I2SlV6Zm9YMmNEZVR5U254WWFBLW5HMFdhOF9QV0hOdFRvUy1oV0NXSWJDUFhZV1lUbXRuQWtIM2lqTnZLWDB2d3BtYnAwazY3OE9EWFN4MA?oc=5"
+  },
+  {
+   "text": "Vláda předkládá Národnímu shromáždění konkrétní mechanismy a politiky pro rozvoj cestovního ruchu ve Vietnamu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnZwOFNDbEt0ZUxnb2tTbjlMX2dNeVJHQmpLZEFPWGhPeldnM1lfcWltVV91MHJna3VpU1k0YlBUS08yNlIzN3NXTHZTN3RLYk5DSmZrNFU0Q3FYQVpLNHhwODJQTF9Jdm1UcjIyYkZZREtBeGJnYUNYWmJHc2t0aWpxV3BLdlliUEVxeVUzRmFXZEtzNDM3b3VkeWFJakxubHhqVlBJaWRSY1E?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
