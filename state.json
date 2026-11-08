@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T12:04:42+00:00",
+   "last_success_at": "2026-11-08T12:57:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T12:04:42+00:00",
+   "last_success_at": "2026-11-08T12:57:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T12:04:42+00:00",
+   "last_success_at": "2026-11-08T12:57:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,14 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T12:04:42+00:00",
+   "last_success_at": "2026-11-08T12:57:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:7d50d81b34e98759",
     "news:3de63d3445edab6a",
     "news:2eef019a0acf39bc",
     "news:be137c51c643a99b",
@@ -611,11 +610,12 @@
     "news:e84bfbdc7ba9ccf4",
     "news:c72ff50033cb6f0a",
     "news:0f1a073e59ae47a5",
-    "news:efc665c41e8c194c"
+    "news:efc665c41e8c194c",
+    "news:5ce0103370c8a99e"
    ],
-   "last_success_at": "2026-11-08T12:04:42+00:00",
+   "last_success_at": "2026-11-08T12:57:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T12:04:42+00:00"
+   "last_new_item_at": "2026-11-08T12:57:29+00:00"
   }
  },
  "digest_queue": [
@@ -690,6 +690,9 @@
   },
   {
    "text": "Hanoj: Byla představena rozhodnutí o uznání 46 hanojských kreativních kulturních prostorů pro rok 2026 a byl slavnostně otevřen kulturní prostor Lung Trang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGVoWjdkNmM2eTROdEJVVExRbDRGNURDS08zNGY5aS1qWlNPR2FmZGQ4cHJacnRmTjA1a3VGZ0VjcTJweFBaczFVNHJtcWR0akp0MlZabTBITzgtTG1hdm9ENHNDT3FYQ2xqVVY2Y2JVdUVhLVpESXVNOHZNeVFhN2JaTzdRelhGTDdTVWp3Y3QyMjJmWGlyb1FoNDZjTDVyVVZqVEhjWmdEV0lkbUpKc3dQS0NZZ2k5QWxnelAzaUdwcEFQWGRyV1AzQVo1WFgxUno3czV2SXNmV25oLVhnWkxQY0c?oc=5"
+  },
+  {
+   "text": "Potřebujeme více podniků, které jsou kulturně a humánně oddané komunitě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxQRG5NVEZTMTBKal9yOFNDT28yNTJ6UkdwSHlYb1dzYUxkWjA1QTQxVWtUSzVNN3Z3N29FS0dncXlOa19DVWd0Y1MtVzQwQ0Y1a1NlZlBvS3o2Y3pkdHJKX1UtVzBaVnlSZVcxT2ItQmpYcWQtYkFYa1NyeEtLQkc4ZG5zZWw4R2d6bG5iLTVIRDVmVy1mdDY2M2F3RkpIR3Vn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
