@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T08:18:14+00:00",
+   "last_success_at": "2026-11-08T09:15:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T08:18:14+00:00",
+   "last_success_at": "2026-11-08T09:15:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T08:18:14+00:00",
+   "last_success_at": "2026-11-08T09:15:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,15 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T08:18:14+00:00",
+   "last_success_at": "2026-11-08T09:15:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:65d3c2ea5fd9d555",
-    "news:bb886e90783151a7",
     "news:3c1e30bd351e0632",
     "news:8f182b10a76309f1",
     "news:c8fb6e972651a91f",
@@ -611,11 +609,13 @@
     "news:1f9609950b73cf38",
     "news:77ab40ceaee96f16",
     "news:c8bbba74745ada1f",
-    "news:887b3adc367ab4c0"
+    "news:887b3adc367ab4c0",
+    "news:99a1036de9ad671c",
+    "news:4e307127209b4234"
    ],
-   "last_success_at": "2026-11-08T08:18:14+00:00",
+   "last_success_at": "2026-11-08T09:15:24+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T08:18:14+00:00"
+   "last_new_item_at": "2026-11-08T09:15:24+00:00"
   }
  },
  "digest_queue": [
@@ -672,6 +672,12 @@
   },
   {
    "text": "Festival kreativního designu v Hanoji 2026: Využití kulturních zdrojů pro rozvoj měst - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9iWEk0bWNjdHRJSmczUDJsNkJhcjhSMTZFYVlRaEgyOFhyOTh0S1RwdFJDUW1KeXpXVDRqNlFWbDk5YWpNSzZzNmx5Y0lYMHNsMkIyWDdrSExBOEwwSGhlcmRYVkVTZ1dmaE8yQUFtUndTNlNLSlRfUGZDeDZIUHlxQlk0MzMxTFhuWnd4TTEtN2swU0tSUmRSc2xNSzFKNzBNcHRfV3FFNmp6YzNoTg?oc=5"
+  },
+  {
+   "text": "Propagace lidového písňového dědictví Quan Ho z Bac Ninh v Evropě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxOOWVfOFJYVnZYa09pNi1xTU8tLUFhNldzMGhOVnBmd1J0V2RRcGJiRWY2X1UtczMtYUdxNWZKdTB5TndOTGQ4Z2lrSHRmVFNfZWJxYW81MFo4Y29rNHNicl9vb0dCSWs4aFFqTlI2S3Y3NUhlMU9NM0cwUmxJN1JyUjNHaw?oc=5"
+  },
+  {
+   "text": "„Asijsko-evropský dialog“ v památkovém prostoru Hoi An - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE5YdC1OV05VbW85cHJtei1RVEJyWm84NTdGWjR6LWx4WHctbXprc3MzUzd1NGYtVUxPU2NrT0pYN19xUkNFVDU5UXZPQzZ3ZnltOE9WUklCdDQ5UC1FeTJmNVg2dzd0RzJyQjU4MnFLcmtJWXNHYmhtYmdZSQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
