@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T02:20:21+00:00",
+   "last_success_at": "2026-11-08T03:16:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T02:20:21+00:00",
+   "last_success_at": "2026-11-08T03:16:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T02:20:21+00:00",
+   "last_success_at": "2026-11-08T03:16:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,14 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T02:20:21+00:00",
+   "last_success_at": "2026-11-08T03:16:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9d4aa3359cecaa5f",
     "news:5264e8025f303fbf",
     "news:989e65813474efee",
     "news:e4985e45625daba5",
@@ -611,11 +610,12 @@
     "news:45230e426cdab610",
     "news:50442f08448f70fb",
     "news:1833a20aae16a12b",
-    "news:2f51e005215c63fd"
+    "news:2f51e005215c63fd",
+    "news:eab514ff05e1e255"
    ],
-   "last_success_at": "2026-11-08T02:20:21+00:00",
+   "last_success_at": "2026-11-08T03:16:11+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T23:33:14+00:00"
+   "last_new_item_at": "2026-11-08T03:16:11+00:00"
   }
  },
  "digest_queue": [
@@ -648,6 +648,9 @@
   },
   {
    "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid021CtxTLWduxvSvdpExRPHtpgYSCKNwfPQUgKZPWCFyYpSjYu5zajXkFdYAC4AUmSVl"
+  },
+  {
+   "text": "Na podobu pražského orloje po rekonstrukci přišla stížnost. Bude ji řešit ministerstvo kultury – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigANBVV95cUxQREdyNFRZZV9kTmZyajluZkJ3Wm9RQ2g0OWpWeW9qTFRaMUk3amRmZXBHeWg2MUxKbDcxcFNtWHB5X2w5Mk12UmNCNzhNTnZqaXZtR1pCVWh1T0RYZmVUb1VvNlhyN3B0WVJXMEtkYWFNMXN4UkFWRzloUXVoZlRSdEp3MjkwNFJISzlfLXM3WmY0eDZMbDZXcHVpdllYMERWRHV2dGR3V29GYzR3ZHczbXdBTXFjRTZaYkE5OU1sb192RllqaDJTaEhaS1FPVU9xa3lSZ084dnRfNzhfUDd1anlUbGxQTk5DQ0lCdmEtWUpyc1dLbmJ6WWNvMGxFUHo1LTRPSjd5X0VuMExQZzdOTnBkenF0ZENzWU4yU3h3aG5SOEwyV1NWV21NbVhLRFdMMnpnS0tGcEJmbFpZVXBpSVpwRUE2V0xsNlFLOUNlV3RvT1Vodkk0TldPbHdidWRTTm42UFlESXZydkZrb2F3eW8zWVZLdFhSM05iSFI2VmU?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
