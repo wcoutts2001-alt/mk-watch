@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T00:13:48+00:00",
+   "last_success_at": "2026-11-08T01:21:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -75,11 +75,12 @@
     "facebook:4a76788b113947ea",
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b",
-    "facebook:3e7c2afeb8f753ff"
+    "facebook:3e7c2afeb8f753ff",
+    "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T00:13:48+00:00",
+   "last_success_at": "2026-11-08T01:21:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-07T01:04:31+00:00"
+   "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
   "instagram": {
    "seen": [
@@ -96,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T00:13:48+00:00",
+   "last_success_at": "2026-11-08T01:21:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -104,7 +105,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T00:13:48+00:00",
+   "last_success_at": "2026-11-08T01:21:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -612,7 +613,7 @@
     "news:1833a20aae16a12b",
     "news:2f51e005215c63fd"
    ],
-   "last_success_at": "2026-11-08T00:13:48+00:00",
+   "last_success_at": "2026-11-08T01:21:58+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-07T23:33:14+00:00"
   }
@@ -644,6 +645,9 @@
   },
   {
    "text": "Ministr Lam Thi Phuong Thanh předkládá návrh týkající se zvláštních víz. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPYjNZTlRnVG42UjZDR2FRbTE2SUg2bXZabmxlcGhHNjcyaUlrdUwyM285MW5rTERuT1RrSXhyRHJPdm5WUGdGRkNUMU1pbThEeXdxT2ZPeWdXeHhVaHdLaXpxWF9TcjE5Y0hxaW1CVjUwUUdIMWhGU1BrclIxM2JldlgtdmR5Q2pQVmhnd0w3X3h3N1BhcFE?oc=5"
+  },
+  {
+   "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid021CtxTLWduxvSvdpExRPHtpgYSCKNwfPQUgKZPWCFyYpSjYu5zajXkFdYAC4AUmSVl"
   }
  ],
  "last_digest_date": "2026-11-07"
