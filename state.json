@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T07:15:43+00:00",
+   "last_success_at": "2026-11-08T08:18:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T07:15:43+00:00",
+   "last_success_at": "2026-11-08T08:18:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T07:15:43+00:00",
+   "last_success_at": "2026-11-08T08:18:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,15 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T07:15:43+00:00",
+   "last_success_at": "2026-11-08T08:18:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:57b1a7757fd04e6d",
-    "news:b3cc4e75dd5daa3c",
     "news:65d3c2ea5fd9d555",
     "news:bb886e90783151a7",
     "news:3c1e30bd351e0632",
@@ -611,11 +609,13 @@
     "news:ce72c4335e9e1a1d",
     "news:a4cb00405018fb0c",
     "news:1f9609950b73cf38",
-    "news:77ab40ceaee96f16"
+    "news:77ab40ceaee96f16",
+    "news:c8bbba74745ada1f",
+    "news:887b3adc367ab4c0"
    ],
-   "last_success_at": "2026-11-08T07:15:43+00:00",
+   "last_success_at": "2026-11-08T08:18:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T07:15:43+00:00"
+   "last_new_item_at": "2026-11-08T08:18:14+00:00"
   }
  },
  "digest_queue": [
@@ -666,6 +666,12 @@
   },
   {
    "text": "Národnímu shromáždění bylo předloženo sedm skupin specifických politik pro rozvoj cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxPWjZ3bHU5TGlNWE9TMU1aYjNmTFF4bm9BUVBwN283TGdOXzlwRlIyejFpYWtfb2NUYmJOcGdaRGtWRVQ1S09uZnQ3Wm9yMTVFWXRZUVB3OGJmQmJpdWRYTWxMV00xRTNpejFGQWxNYmdOWTllUEszR1JyUHhKTFdqYUJJdHp4a01LM28wTHBB?oc=5"
+  },
+  {
+   "text": "Navrhování bezprecedentních pobídkových mechanismů pro klíčové oblasti cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpZOGl4Z21ZMVljWkwxTVV3YW9pRXFnTjAzbU5YU3VwSHV3VV9RTGRJZ0FmdUhsaHZsa1FQMnpKVlFoTFJ0Yk9BQlZKQ3g0UXgtUUpBVE84RlpZMWRzZDJFakRPTDFXQWZZM094dTFxTFVHdGt4MXJIamVyUC01cEpMc1JtU0hjTjIyR2xfbEt0S09nNVE?oc=5"
+  },
+  {
+   "text": "Festival kreativního designu v Hanoji 2026: Využití kulturních zdrojů pro rozvoj měst - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9iWEk0bWNjdHRJSmczUDJsNkJhcjhSMTZFYVlRaEgyOFhyOTh0S1RwdFJDUW1KeXpXVDRqNlFWbDk5YWpNSzZzNmx5Y0lYMHNsMkIyWDdrSExBOEwwSGhlcmRYVkVTZ1dmaE8yQUFtUndTNlNLSlRfUGZDeDZIUHlxQlk0MzMxTFhuWnd4TTEtN2swU0tSUmRSc2xNSzFKNzBNcHRfV3FFNmp6YzNoTg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
