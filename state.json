@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T05:17:57+00:00",
+   "last_success_at": "2026-11-08T06:13:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T05:17:57+00:00",
+   "last_success_at": "2026-11-08T06:13:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T05:17:57+00:00",
+   "last_success_at": "2026-11-08T06:13:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,15 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T05:17:57+00:00",
+   "last_success_at": "2026-11-08T06:13:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e4985e45625daba5",
-    "news:d5f06e027a0e6ec7",
     "news:b90c0926e96c45cd",
     "news:fcb1f28c25aa16b4",
     "news:57b1a7757fd04e6d",
@@ -611,11 +609,13 @@
     "news:2f51e005215c63fd",
     "news:eab514ff05e1e255",
     "news:21b330b3df59ed0d",
-    "news:048733df0e1cb80b"
+    "news:048733df0e1cb80b",
+    "news:ce72c4335e9e1a1d",
+    "news:a4cb00405018fb0c"
    ],
-   "last_success_at": "2026-11-08T05:17:57+00:00",
+   "last_success_at": "2026-11-08T06:13:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T05:17:57+00:00"
+   "last_new_item_at": "2026-11-08T06:13:00+00:00"
   }
  },
  "digest_queue": [
@@ -657,6 +657,9 @@
   },
   {
    "text": "Provincie Daklak bude v roce 2026 hostit vůbec první pěveckou soutěž - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPVENZS0xSaGdLaV9hNFhFa0FIS0hITmN4OEx2TXU1VHBPUjRoQWhGUlo3LTllN0pWWklZQ2daZHR6UlVEcVJhN3dBc3h0MWdsSzVYTm9rOHlxRjRGU3lrWDhaNXpzSWlsU1NnQ2dpMGRoYWN6U2ZZT1oycU9MbW55THhjeEk0eUxvX0FJ?oc=5"
+  },
+  {
+   "text": "Návrh na pilotní zavedení modelu cestovního ruchu 24 hodin denně, 7 dní v týdnu s cílem oživit noční ekonomiku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRPZ1UtQXVyMEdFckZtay1oWEdDeHBfV0hWcU00b1pyaVFjc0F0MVh1QThQczY1NDFiUW9TVXFSNWE2cy1nMExHamRVcTJCdXB1NC1NTTl1bHI2azBrX1pid2taSXBCUnEwRXd1emJLYnQ1UkcyMlVkSnJCZ2V4T0MzR3VSaTVYY2xSajVOSms2TEtjcXN2NHZoVV9sdnRQekQ0bw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-07"
