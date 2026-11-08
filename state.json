@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T17:43:01+00:00",
+   "last_success_at": "2026-11-08T18:15:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,7 +78,7 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb"
    ],
-   "last_success_at": "2026-11-08T17:43:01+00:00",
+   "last_success_at": "2026-11-08T18:15:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T01:21:58+00:00"
   },
@@ -97,7 +97,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T17:43:01+00:00",
+   "last_success_at": "2026-11-08T18:15:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,14 +105,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T17:43:01+00:00",
+   "last_success_at": "2026-11-08T18:15:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:c4285c5602f94943",
     "news:8304bc5167c172e0",
     "news:5d7304c911f0409b",
     "news:97d076c41f911a83",
@@ -611,16 +610,20 @@
     "news:9459a9e10340da58",
     "news:a84b14358bfb5dba",
     "news:394a8bbffa57b241",
-    "news:8792880a4975fe47"
+    "news:8792880a4975fe47",
+    "news:542e09d73d2ae039"
    ],
-   "last_success_at": "2026-11-08T17:43:01+00:00",
+   "last_success_at": "2026-11-08T18:15:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T17:43:01+00:00"
+   "last_new_item_at": "2026-11-08T18:15:48+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Hanoj ​​usnadňuje uplatňování cen elektřiny podle nových předpisů pro ubytovací zařízení turistického ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlN2ejV4VjE0a1gwT2E1V3BnclhxUk5FYWZmdlNaZmJacDdLUFFlU2NNcVNyZFRUTXl3M2tOel9GcTA0Ry0xeThzLWFUUnFGVWx2WnNhUDFmLW5fcVlBRXktZEJYYk5pU01JMlFjR3hBQURHT3lOb2ItUlRXTFVIQjVzVkwyTVJGMzVLb3ZFcWpvdHB5TVBFMjhtTnMxdVJiOV9nSWZXZjdJU3M?oc=5"
+  },
+  {
+   "text": "Ročník národního fóra „Kultura a podnikání“ 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxNV1pDMDNYMnJMMFdXaFBRWmkwR0VCemV5WWdQTExBalpZaGgteFlDblV0NnloM1lKeVBOMzJRQTJhZks3R09WcE11aUR1ZURZZ05PTkhYQUpYVV9Ga2hkd3pfRVRka1BmRm9hOWU3bmhmZUI4emRRSDJkYl9JWDRqdmg4SFJWNkw4emppeXNJMzBGY1E?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
