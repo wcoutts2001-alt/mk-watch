@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T10:29:31+00:00",
+   "last_success_at": "2026-11-09T11:24:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T10:29:31+00:00",
+   "last_success_at": "2026-11-09T11:24:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T10:29:31+00:00",
+   "last_success_at": "2026-11-09T11:24:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,17 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T10:29:31+00:00",
+   "last_success_at": "2026-11-09T11:24:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a3424701938be5c5",
-    "news:85f1b50cb46381e3",
-    "news:26dc7e5e68d15780",
-    "news:62fe3188d2040d56",
     "news:923bdee382e658c9",
     "news:8766eb6044ebf231",
     "news:28714c3de64b71fa",
@@ -612,11 +608,15 @@
     "news:32c4dcc5bb9a2c8e",
     "news:f0c66f7062359d39",
     "news:77b84bb9f078e686",
-    "news:761b9bb0587c3bc2"
+    "news:761b9bb0587c3bc2",
+    "news:40d84b632bf3c2f4",
+    "news:9ba3b34cdec04c44",
+    "news:54c4b403ab00374b",
+    "news:6ee802d81c87563c"
    ],
-   "last_success_at": "2026-11-09T10:29:31+00:00",
+   "last_success_at": "2026-11-09T11:24:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T10:29:31+00:00"
+   "last_new_item_at": "2026-11-09T11:24:59+00:00"
   }
  },
  "digest_queue": [
@@ -673,6 +673,18 @@
   },
   {
    "text": "Výbor strany Lidového výboru provincie Dong Thap udělil 7. listopadu 2026 stranické odznaky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxOdUZyZU05aVU1V0pTbFFQek5yRHM4d2tfbkkxOGJWTnZfb3VjSjM5UHc3Q2VWTDRfVzZ4N3RPWHJINlNUdTlxb1pLV0VjUS1JZlY0MXBLN2dTLUd4Sm5kbWU3UEhORnZaRzFMODRYaVFTRUNtamN4M1RLZnlVcnA5UUh0TDdFcTdyWEpQVWVhTHFIVjhOcFE?oc=5"
+  },
+  {
+   "text": "Šíření lásky k hanojské kultuře prostřednictvím víkendových melodií. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxPSnFFUFZ0LXFyeGQzRnc3M2ZaWGhZSGh5bXB1ZFQ4YkNOSExaWEYyeC1yOXVyOUtwSGFqU1JtMzF0aEI1aWhYSGFpZTBvc3pCSzFKTjA4ZWlxLXlzRG5LN1lmTWFVTlp2VHJ1YTdGSGpzTUJTaVVJbndVaUZ6bmdwM1hNc1ZDOHc0VnFNS1lVZm0?oc=5"
+  },
+  {
+   "text": "Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech - Brněnská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxNaUhBQ3ZlVmtOTW1Yb3FyR2txeXhSemtpa1o4T251d3NnQkkwMGhjbm9haHJhd2FSQTVIdURHaWVSUW5uMUQxdzA2Rlo2SThGbUllaHFyLUVNcGdNS3J4UUY0ODJhdlNtc0o0Q2Rib3ozLU1waGE1cERQYTN1OXMwVXM0VnU0dDIwYjFST25pWV9qbWROOUJ3SmpyandidU1FenROOTk3N2twRE4xS1Jsdk45M24wVFpuMGF3SkRxbw?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh: Jak učinit z obchodní kultury manažerskou schopnost podniků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0I0YkEyTEVTSmNBbW9KZXpiSS1aaHY1WXRNWktLV29PQTJVU0NueVJyWHQ2UGs3NzNlMFZneV9ubG4yS3FTNUE5LUNBXzJldE11YTZvLV9UX3h3bzRYZ3Atbi1UdWlwNTZfQnJWYnZjYXRNRVF1UVZJTzNjZ3J2ak41c3lRTHhTMUUwbXNRUEgzQ3RvbGlsQk1ZeF9pVDlsVnc2MFo5UlhYSGtaN3pkbWNCWFl1Sy1KR2lSMFZBd3FkUQ?oc=5"
+  },
+  {
+   "text": "Přibližování uměleckých forem Tuonga, Cheoa a Cai Luonga veřejnosti. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPMjVUN3piY3E0aFk1V1NXTEtQNHVJV1YtX1g2akNhaG15ZUh6SUQ4MEY3STZVa21YeU80ZTVIUjNGdWxuTm5lemRwZXBydDJmSTR1c05UejYtazJ5UW12ZVFYS3doY0gxci1VaFFXdENlZTBWZ3Bfc3FDM3N0Z0JjQmtkUVoxWE5IRWgzZHlFS2w1UQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
