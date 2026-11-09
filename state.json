@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T08:15:21+00:00",
+   "last_success_at": "2026-11-09T09:36:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T08:15:21+00:00",
+   "last_success_at": "2026-11-09T09:36:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T08:15:21+00:00",
+   "last_success_at": "2026-11-09T09:36:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,14 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T08:15:21+00:00",
+   "last_success_at": "2026-11-09T09:36:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8ebeae0ce4cabbd3",
     "news:e3022c23d9e8b72f",
     "news:d6558271143d4f01",
     "news:1f665d31712b65ab",
@@ -612,11 +611,12 @@
     "news:10b2a5c0336bda31",
     "news:918e7753484aa8d8",
     "news:a0a0b94eb72d0d7c",
-    "news:842a701e5cf346e3"
+    "news:842a701e5cf346e3",
+    "news:32c4dcc5bb9a2c8e"
    ],
-   "last_success_at": "2026-11-09T08:15:21+00:00",
+   "last_success_at": "2026-11-09T09:36:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T08:15:21+00:00"
+   "last_new_item_at": "2026-11-09T09:36:12+00:00"
   }
  },
  "digest_queue": [
@@ -661,6 +661,9 @@
   },
   {
    "text": "Pozvednutí chovu krevet Ca Mau na novou úroveň a propagace kulturní identity nejjižnějšího regionu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxQSlVVQTdzalVIQ0J0M0ZwLXlpMUVuRENuYk5odGVrd25VektWUURfaW41ZXp0ZHdhUDJkWGRmVmJDeDB4WmdTVl9US0hnZ0V0TloxVl9RTmxVUjZBS25faWNZZ3pfTUtVbW5VbkJsTDZqMFRtdHBldW5ORy11R05kNzBoalRHeEhHSDQ5V3ZnQXMxdFE?oc=5"
+  },
+  {
+   "text": "Do soutěže Ambasador čtenářské kultury v Da Nangu bylo zasláno přes 10 800 příspěvků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxObGgtbldVdm1WMEVVUUMtTGVLZUZLUmcwczhKZzl2TzY2MnlYNHU2bkphWFZieVY4NlQzTU40UklsYUY1VmN1RmFDbUdiYWhTeTlUVVVOMmpXakJwdGVXY0pkd0NaZ3FKeDE5cnBPY2tITE9IQUlYZGZ1eEczYy1RRHBUaVo?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
