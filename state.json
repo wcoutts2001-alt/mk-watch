@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T09:36:12+00:00",
+   "last_success_at": "2026-11-09T10:29:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T09:36:12+00:00",
+   "last_success_at": "2026-11-09T10:29:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T09:36:12+00:00",
+   "last_success_at": "2026-11-09T10:29:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,16 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T09:36:12+00:00",
+   "last_success_at": "2026-11-09T10:29:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e3022c23d9e8b72f",
-    "news:d6558271143d4f01",
-    "news:1f665d31712b65ab",
     "news:a3424701938be5c5",
     "news:85f1b50cb46381e3",
     "news:26dc7e5e68d15780",
@@ -612,11 +609,14 @@
     "news:918e7753484aa8d8",
     "news:a0a0b94eb72d0d7c",
     "news:842a701e5cf346e3",
-    "news:32c4dcc5bb9a2c8e"
+    "news:32c4dcc5bb9a2c8e",
+    "news:f0c66f7062359d39",
+    "news:77b84bb9f078e686",
+    "news:761b9bb0587c3bc2"
    ],
-   "last_success_at": "2026-11-09T09:36:12+00:00",
+   "last_success_at": "2026-11-09T10:29:31+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T09:36:12+00:00"
+   "last_new_item_at": "2026-11-09T10:29:31+00:00"
   }
  },
  "digest_queue": [
@@ -664,6 +664,15 @@
   },
   {
    "text": "Do soutěže Ambasador čtenářské kultury v Da Nangu bylo zasláno přes 10 800 příspěvků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxObGgtbldVdm1WMEVVUUMtTGVLZUZLUmcwczhKZzl2TzY2MnlYNHU2bkphWFZieVY4NlQzTU40UklsYUY1VmN1RmFDbUdiYWhTeTlUVVVOMmpXakJwdGVXY0pkd0NaZ3FKeDE5cnBPY2tITE9IQUlYZGZ1eEczYy1RRHBUaVo?oc=5"
+  },
+  {
+   "text": "Umělkyně, která odmítla cenu od Klempíře: Jsme svědky fašizace, není čas váhat - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE82eGdZd21CVlJlYUdMbmhVZmtyUTFRUVY5NEs2dDhPN3RoT1NXZWRZZ0xRWUo2MGUwekhwa0k2Wm1ucUx2M3ZfVQ?oc=5"
+  },
+  {
+   "text": "Hoang Nguyen Thanh vyhrál Standard Chartered Hanoi Heritage Marathon 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPMmFEQzl6emFZOTNqbVJYN2VYWHF1a2ZEVDNiV0hIZnRzWm5PbWxQRkI3UUFHUHk2V3M0SUpHUDV1Z1ZaV0JscjV5NUdCMEhUUEc4Q29hRDFXeWp0MG8zcDh0RnVXb0JuVGtmazRyMFJrWEdkNEFHRW1YaEw4SXBka1dpRUlKUll0WUtMSlVwQXV4cGRqeEJLc3ZrRjhWSHBxanVzSTZBaw?oc=5"
+  },
+  {
+   "text": "Výbor strany Lidového výboru provincie Dong Thap udělil 7. listopadu 2026 stranické odznaky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxOdUZyZU05aVU1V0pTbFFQek5yRHM4d2tfbkkxOGJWTnZfb3VjSjM5UHc3Q2VWTDRfVzZ4N3RPWHJINlNUdTlxb1pLV0VjUS1JZlY0MXBLN2dTLUd4Sm5kbWU3UEhORnZaRzFMODRYaVFTRUNtamN4M1RLZnlVcnA5UUh0TDdFcTdyWEpQVWVhTHFIVjhOcFE?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
