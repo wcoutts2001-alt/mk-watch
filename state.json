@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T13:43:18+00:00",
+   "last_success_at": "2026-11-09T14:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T13:43:18+00:00",
+   "last_success_at": "2026-11-09T14:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T13:43:18+00:00",
+   "last_success_at": "2026-11-09T14:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,14 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T13:43:18+00:00",
+   "last_success_at": "2026-11-09T14:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9bfb927322bbe1bf",
     "news:92911475b9d977b5",
     "news:c418ca33e8e97726",
     "news:6fc7d53b00868a93",
@@ -612,11 +611,12 @@
     "news:6ee802d81c87563c",
     "news:679a6a35d7bce5dd",
     "news:bcfa4d16d6367832",
-    "news:7cd834f078c87606"
+    "news:7cd834f078c87606",
+    "news:31d0a02a4e56173d"
    ],
-   "last_success_at": "2026-11-09T13:43:18+00:00",
+   "last_success_at": "2026-11-09T14:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T13:43:18+00:00"
+   "last_new_item_at": "2026-11-09T14:39:02+00:00"
   }
  },
  "digest_queue": [
@@ -688,6 +688,9 @@
   },
   {
    "text": "Ho Či Minovo Město chce propagovat roli tvůrců digitálního obsahu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWZhd1dkc2FmVG9NcllVZl9ZMmFjSVA2VUd4OG9HMkc4V3dkTkVMRU43bVZoazNPZmVuaFhWT0xjVFo5U212ZkM3QzcwTk1kaDhGUVZuMW1nWWdyd2lPYXBPc0pzZGQ0Q0ZjQVZibjVZeW51RzZpQmU3WXdLcXNOMUFwOVlYalJHUW1F?oc=5"
+  },
+  {
+   "text": "Vláda podniká těžký útok na kulturu: Českou televizi, filmaře i festivaly čeká jen obrovská nejistota - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxQdURmdVB1bFdFZTlEb3M5Zy1IR28xc0UwYTZBT180YUpzMGQyaXFFNzlROW1Fb2hscXVPTFNwczZSbkpndzY0SEVONExSc1c4ZUFuREdJekQ2XzR5bm5fczBKbHNyb2R6RUFZWXRjc3Z6ZGhBQ0RxS0plRVhFeUw5TE9pbG9Ca1pvcFNGUzJiNjR4TUM5MEsxdmc3NnlVV2tQZGlFNXpRYVJsMHd0TGpWaFBjZWlSUFBwcWs2RHY3VE9VNklZSFlSSngzNFFwaVE0UVBfaW5NYmI5RVJXM3VWMVpBUFE?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
