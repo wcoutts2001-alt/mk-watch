@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T02:36:24+00:00",
+   "last_success_at": "2026-11-09T03:33:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T02:36:24+00:00",
+   "last_success_at": "2026-11-09T03:33:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T02:36:24+00:00",
+   "last_success_at": "2026-11-09T03:33:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,14 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T02:36:24+00:00",
+   "last_success_at": "2026-11-09T03:33:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8304bc5167c172e0",
     "news:5d7304c911f0409b",
     "news:97d076c41f911a83",
     "news:47294867fe2970cd",
@@ -612,11 +611,12 @@
     "news:a84b14358bfb5dba",
     "news:394a8bbffa57b241",
     "news:8792880a4975fe47",
-    "news:542e09d73d2ae039"
+    "news:542e09d73d2ae039",
+    "news:1a1eb1c8998845e9"
    ],
-   "last_success_at": "2026-11-09T02:36:24+00:00",
+   "last_success_at": "2026-11-09T03:33:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T18:15:48+00:00"
+   "last_new_item_at": "2026-11-09T03:33:42+00:00"
   }
  },
  "digest_queue": [
@@ -628,6 +628,9 @@
   },
   {
    "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid034aP95MsFwdfvDDQwmo1rrfWrxUYkhXFt8QQhj2iNnXPccWe9sf2M5qoBxu81NnxYl"
+  },
+  {
+   "text": "Vinh Long bude v roce 2027 hostit tenisový turnaj v sektoru zdravotnictví delty Mekongu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNWlNad1ZFcFRsVXVwMXBrWmVyaWJUTHB1cENtdTVUYXhzQ1VSY1FFSGxoV1M4anlDSTRWQ3dxR2YtazBKTy1tcFpDOTNyZWJTa0ZsMFBPSC1ZeFJlcUhjejFRWk1uRGZJdFN6Q1NDOG5fTmZOVEh4Qnc4Y1FaMjM0eGxVWXRQUndvQzBxMg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
