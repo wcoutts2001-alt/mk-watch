@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T17:40:19+00:00",
+   "last_success_at": "2026-11-09T19:28:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T17:40:19+00:00",
+   "last_success_at": "2026-11-09T19:28:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T17:40:19+00:00",
+   "last_success_at": "2026-11-09T19:28:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,15 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T17:40:19+00:00",
+   "last_success_at": "2026-11-09T19:28:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:71cca8b2386a9400",
-    "news:2b1a4d5f06f39441",
     "news:fff9d361e8cd07e5",
     "news:9705aa371f5b601b",
     "news:055401bbff051102",
@@ -612,13 +610,22 @@
     "news:0b51eb15a5bfcd43",
     "news:b8e0572a679357d6",
     "news:165bf6bb51620396",
-    "news:2f9c21b8040b7892"
+    "news:2f9c21b8040b7892",
+    "news:9baa7d31d47e980f",
+    "news:29ca00853466eb5f"
    ],
-   "last_success_at": "2026-11-09T17:40:19+00:00",
+   "last_success_at": "2026-11-09T19:28:35+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T16:45:03+00:00"
+   "last_new_item_at": "2026-11-09T19:28:35+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Téměř 200 sportovců se zúčastnilo volejbalového turnaje seniorů města Hai Phong. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPc0Q3RktFZUhXSlhEM0dzeHpuTDRPMEx3SDc4dVNJc051cmNlYWNoYVo0Z1phNHdyZ3RHNXhMVExLVUNjZllLd2VwZGlfT2dOVklHQkZMWHB4a0RrdTllMVlPVW9MRGdOdl9WLTVaYU5BMkZtNGlsRUZHYkt2TlhTZ0lralhETVdKN0FwWW13dkY5NERjSVN2SngtMmtUcV9lR0xxMVN6TzNDb19MbHBiMURn?oc=5"
+  },
+  {
+   "text": "Téměř 100 soutěžících se zúčastní „Národní soutěže studentských tanečních talentů 2026 – 2. kolo“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmNVRk96RzhmbFVCbS14WUh3azFyVEZmUWJFdlg3UzNubDdReFJMajJsY3ZHa3BTdjdvNWNhT2h2THIyeTUxamtPeXF1eDhRLS16d1NkT09vel9XdWpyUG9rVGdQOVdnN3VoS2hJMlVRNXJzcV8zZmpLR2VPRVRoLVM4MzhMTG9NNkV6VlZVdmdJMmtzRmV0Q1l5d2dPdmJwQ3BCNUZEcmhUelE5QlFRV2JjUFdsWFNlYlcxSFZNU2U4V3c?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-09"
 }
