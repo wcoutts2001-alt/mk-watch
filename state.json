@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T21:17:36+00:00",
+   "last_success_at": "2026-11-09T22:12:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T21:17:36+00:00",
+   "last_success_at": "2026-11-09T22:12:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T21:17:36+00:00",
+   "last_success_at": "2026-11-09T22:12:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,14 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T21:17:36+00:00",
+   "last_success_at": "2026-11-09T22:12:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:055401bbff051102",
     "news:62a739d72e457c11",
     "news:dc479ee78519eba7",
     "news:a74dc57a8129110a",
@@ -612,11 +611,12 @@
     "news:9baa7d31d47e980f",
     "news:29ca00853466eb5f",
     "news:d30f53291fcbec17",
-    "news:5067ba2eee1b42c1"
+    "news:5067ba2eee1b42c1",
+    "news:d108209d92bdedce"
    ],
-   "last_success_at": "2026-11-09T21:17:36+00:00",
+   "last_success_at": "2026-11-09T22:12:44+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T21:17:36+00:00"
+   "last_new_item_at": "2026-11-09T22:12:44+00:00"
   }
  },
  "digest_queue": [
@@ -628,6 +628,9 @@
   },
   {
    "text": "Macinka se omluvil za výroky o hokejistkách - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE54VVBfdThxbGozbWs1ZjJhYnZGTnF1Q0RqNTdPRmcxRjZ0XzdVV2U5UWxlWmdTdVZPRlRHUmJyWjgySTBTSXBST2tRemdBQUN2RTdr?oc=5"
+  },
+  {
+   "text": "Zahájení Týdne tvorby digitálního obsahu a soutěže Proud HCMC. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxQeFl3enEzdm9Wb3BfaGJINDZaLUNlejczWjJIZ3dOWEtXWVhjcFBoOEdVVzVtVGlZdkExMExXNW9BOGgwNGNVT2xzMXVod3NOU2xST0R6bmxIZmlQem9DeVU4T0Y5OWpwQTJwYnVZdVVKOFh1VEhpREdkWk1GVEZTTkJpT3RVcF9SRzFxOHpOU2JQZw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
