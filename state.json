@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T05:42:45+00:00",
+   "last_success_at": "2026-11-09T06:46:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T05:42:45+00:00",
+   "last_success_at": "2026-11-09T06:46:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T05:42:45+00:00",
+   "last_success_at": "2026-11-09T06:46:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,15 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T05:42:45+00:00",
+   "last_success_at": "2026-11-09T06:46:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:47294867fe2970cd",
-    "news:ed86ad28bddd5b2b",
     "news:af718d92929fdc27",
     "news:bc1d106c18eb5115",
     "news:7c3cfedb34e8bf6c",
@@ -612,11 +610,13 @@
     "news:542e09d73d2ae039",
     "news:1a1eb1c8998845e9",
     "news:49be5cf98b39339a",
-    "news:17661caf4e7331bb"
+    "news:17661caf4e7331bb",
+    "news:dc924a3adce77db6",
+    "news:c5d7514a0a847215"
    ],
-   "last_success_at": "2026-11-09T05:42:45+00:00",
+   "last_success_at": "2026-11-09T06:46:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T05:42:45+00:00"
+   "last_new_item_at": "2026-11-09T06:46:19+00:00"
   }
  },
  "digest_queue": [
@@ -634,6 +634,12 @@
   },
   {
    "text": "Organizace festivalu „Barevná kultura Lao Cai“ v roce 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNTERJdmhELTlfYmVzNTYwRE03WVZsTC1STFFNT0M3S0N4WFdidlRMM21IWFlLVmNreUJpTFdFXzM4SG11d25XUzR1S21nbGtOX1gzVzlENW1XYjMtNmVLXzFPVEU4Ml9hZG90a3dUeU1zdjdZUmdJX0g2VlczUnViMg?oc=5"
+  },
+  {
+   "text": "Oznámení o akčním rámci pro rozvoj vietnamské obchodní kultury na období 2026–2035 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxOU2ZvT0Q3OHdCYXpoSkxlVFpidVVqUzdJZm1iOUdXVVBlS0JIbjZyYVNVVW9lbVd2dWFoUlpHTTRGbjhPX3dhSTRTNTFVWWprVE94S01PbEI2bUNYSERBWjY1LXY4emJaejdrU2RaODNiMUpVenBxZXNQLUMwazVKNnVJUE5qUWVXOURhTjlLOXZWSUs0SGN2YzJoYk1mdEdwWWxGNkN4MVQyaHFm?oc=5"
+  },
+  {
+   "text": "Quang Ninh pořádá tematickou výstavu „Hrdinský hornický region – 90 let disciplíny a jednoty“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxNdHI0TllCVTE3V2dkTks0MzNyUGpBSGE2akRpVTdSZ1p1ZExOT3dpamNwSThUeGZDcDBvT2RqLThjbE5QVF82elhlMEV5b1FZVEprSWRmODRzbFRwczhuUFdrMzFkSzZJUDV3LVRFQzNNandkTjdZM2JsdnFrVnpZczktNk1XUGlQdHRpdlFibmtJTzFDaWZjRl8tYkw5QXlpaFZOYnhzd0RpOUJo?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
