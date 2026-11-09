@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T06:46:19+00:00",
+   "last_success_at": "2026-11-09T08:15:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T06:46:19+00:00",
+   "last_success_at": "2026-11-09T08:15:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T06:46:19+00:00",
+   "last_success_at": "2026-11-09T08:15:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,20 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T06:46:19+00:00",
+   "last_success_at": "2026-11-09T08:15:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:af718d92929fdc27",
-    "news:bc1d106c18eb5115",
-    "news:7c3cfedb34e8bf6c",
-    "news:0f087507f8c5aedb",
-    "news:8a7ad4206f4e6879",
-    "news:1383da3b95819d07",
-    "news:c9788a9f15d8b93c",
     "news:8ebeae0ce4cabbd3",
     "news:e3022c23d9e8b72f",
     "news:d6558271143d4f01",
@@ -612,11 +605,18 @@
     "news:49be5cf98b39339a",
     "news:17661caf4e7331bb",
     "news:dc924a3adce77db6",
-    "news:c5d7514a0a847215"
+    "news:c5d7514a0a847215",
+    "news:72a7de6444fb7d12",
+    "news:a46d3292120d0302",
+    "news:512a3b999ab47cb6",
+    "news:10b2a5c0336bda31",
+    "news:918e7753484aa8d8",
+    "news:a0a0b94eb72d0d7c",
+    "news:842a701e5cf346e3"
    ],
-   "last_success_at": "2026-11-09T06:46:19+00:00",
+   "last_success_at": "2026-11-09T08:15:21+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T06:46:19+00:00"
+   "last_new_item_at": "2026-11-09T08:15:21+00:00"
   }
  },
  "digest_queue": [
@@ -640,6 +640,27 @@
   },
   {
    "text": "Quang Ninh pořádá tematickou výstavu „Hrdinský hornický region – 90 let disciplíny a jednoty“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxNdHI0TllCVTE3V2dkTks0MzNyUGpBSGE2akRpVTdSZ1p1ZExOT3dpamNwSThUeGZDcDBvT2RqLThjbE5QVF82elhlMEV5b1FZVEprSWRmODRzbFRwczhuUFdrMzFkSzZJUDV3LVRFQzNNandkTjdZM2JsdnFrVnpZczktNk1XUGlQdHRpdlFibmtJTzFDaWZjRl8tYkw5QXlpaFZOYnhzd0RpOUJo?oc=5"
+  },
+  {
+   "text": "„Doufejme, že se nestane to, co na Slovensku.“ Babiš před 17. listopadem promluvil o svých obavách - TVGURU.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBNZF82QTdhWmpMRlpLakpRVmlVUkZUNW1YbXZkajB4dU5CdDU5MEhLdThkX09qY1gyQ2F5ZHNyMXQtaTVHc2xQYlJIT2FiS0ZWZXRNa0hVSFczQ0ZnRkkweXNTYnRsLW1yMFE?oc=5"
+  },
+  {
+   "text": "Česká kultura se bo(u)ří! - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE51N3NsZzlVWFB5MlZITmdxVEtHYV9MY1daaWc3QUE2dFhubl9SMTRPV21oM1RZd180N2hDalE3Q1JXc2ZwWlZyYVlzbFJrRUJFMlZWS0RUakZuTk9hQmJxSFN1eWFzX2hqb0sxb1R5R0I?oc=5"
+  },
+  {
+   "text": "Je načase, aby se obchodní kultura říkala „říkej jednu věc, udělej deset a buď měřitelná“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxNOHdHcDFXcTVmZERTdk1xTUpua0NmM3BDQ2NQZmlsMm9XQTBEbUFMTy1ncld5TjBWU3dsdXd5bm1JaFEyaVBzZ2FHazBxWFZIUzhXNV9ybEZmVm5wdFpiR1ExaUVYWmNYazROdEtxVWxOcmtneTBWcF95M3VoamZ4bFFlMkZVVmt0LUVwbHZ2R2cwQQ?oc=5"
+  },
+  {
+   "text": "Marek Eben si ve StarDance vystřelil z astronomických honorářů ČT: Kostková se neudržela smíchy - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi4wFBVV95cUxOczNNdklmS1RXUHpvVGZLMTVTNkVxeFFWS1JKRW9TZ0NnZmZfNXUxeU1ROWUwVV9BT1BtOTNwSFVxS2psQUlYekFjZGp3ZDJfMmxsM3lCdzBfeGZMT01FTUxJd3ItNktPQnhZemxia2hYd0ZneFBCZk9TU0N2cXpGSHN4OG9vMExPRm1uazdUdERZalVNam1TZGUyVXY3Z0VGa3R2YnhIY3pfeEUxR19VeVgtVEZ2ZEhZNGNQQ3BsWXZxRkE0WG5kaFhHcG5EbmJrYVpzNmlNSnZ1QkhmM0lXQWlwQQ?oc=5"
+  },
+  {
+   "text": "Navrhování zvláštní vízové ​​politiky pro přilákání zahraničních turistů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxNeU5aRzJfNDhPcG1JbU8yZEVxbWU2WGhSeWVKMmZXS1VYY0hneXplc1FZSlZYMUd2ajhFZ2RBdlJ3Z1dPZDYyeEhGNUFqOEZVMzA3R1dLT3VKMXRSOXAwbjhxM0RwdVBHQXhwR2hiS1RNclVCaWJ2NXZzN2JCRlU0eWhzRVhsZGlfNFlhZE5nR2c?oc=5"
+  },
+  {
+   "text": "Řada soudních a státních budov v Can Tho je pronajímána. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxOYi1OeXNDSERpTVNkWlpxM2NjVk56MDhEQXNwd21BZmlwRmdrWlRpUHZpZUx5NjlSWk56VHVJSEFXNjFldnhnbjI5OGFwR01tUW5xWlVnT2UtRzZ1M21jdDU4NGt4UEdTT2w0a2p2bXhEM05QNk9hVUMyQWRhQlpLbUpwcm0zU0xSUkZ6MFhyYmE?oc=5"
+  },
+  {
+   "text": "Pozvednutí chovu krevet Ca Mau na novou úroveň a propagace kulturní identity nejjižnějšího regionu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxQSlVVQTdzalVIQ0J0M0ZwLXlpMUVuRENuYk5odGVrd25VektWUURfaW41ZXp0ZHdhUDJkWGRmVmJDeDB4WmdTVl9US0hnZ0V0TloxVl9RTmxVUjZBS25faWNZZ3pfTUtVbW5VbkJsTDZqMFRtdHBldW5ORy11R05kNzBoalRHeEhHSDQ5V3ZnQXMxdFE?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
