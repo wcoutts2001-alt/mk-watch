@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-08T23:42:59+00:00",
+   "last_success_at": "2026-11-09T00:17:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -76,11 +76,12 @@
     "facebook:cf1726ef2d2bdd61",
     "facebook:86f2d564ded3d62b",
     "facebook:3e7c2afeb8f753ff",
-    "facebook:3657181d293a2afb"
+    "facebook:3657181d293a2afb",
+    "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-08T23:42:59+00:00",
+   "last_success_at": "2026-11-09T00:17:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-08T01:21:58+00:00"
+   "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
   "instagram": {
    "seen": [
@@ -97,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-08T23:42:59+00:00",
+   "last_success_at": "2026-11-09T00:17:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -105,7 +106,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-08T23:42:59+00:00",
+   "last_success_at": "2026-11-09T00:17:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -613,7 +614,7 @@
     "news:8792880a4975fe47",
     "news:542e09d73d2ae039"
    ],
-   "last_success_at": "2026-11-08T23:42:59+00:00",
+   "last_success_at": "2026-11-09T00:17:29+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-08T18:15:48+00:00"
   }
@@ -624,6 +625,9 @@
   },
   {
    "text": "Ročník národního fóra „Kultura a podnikání“ 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxNV1pDMDNYMnJMMFdXaFBRWmkwR0VCemV5WWdQTExBalpZaGgteFlDblV0NnloM1lKeVBOMzJRQTJhZks3R09WcE11aUR1ZURZZ05PTkhYQUpYVV9Ga2hkd3pfRVRka1BmRm9hOWU3bmhmZUI4emRRSDJkYl9JWDRqdmg4SFJWNkw4emppeXNJMzBGY1E?oc=5"
+  },
+  {
+   "text": "Vážený pane Borovane, uveřejnil jste článek obsahující nepravdivé informace bez předchozí konzultace...\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid034aP95MsFwdfvDDQwmo1rrfWrxUYkhXFt8QQhj2iNnXPccWe9sf2M5qoBxu81NnxYl"
   }
  ],
  "last_digest_date": "2026-11-08"
