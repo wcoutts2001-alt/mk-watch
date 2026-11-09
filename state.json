@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-09T14:39:02+00:00",
+   "last_success_at": "2026-11-09T15:37:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -79,7 +79,7 @@
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1"
    ],
-   "last_success_at": "2026-11-09T14:39:02+00:00",
+   "last_success_at": "2026-11-09T15:37:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-09T00:17:29+00:00"
   },
@@ -98,7 +98,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-09T14:39:02+00:00",
+   "last_success_at": "2026-11-09T15:37:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -106,15 +106,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-09T14:39:02+00:00",
+   "last_success_at": "2026-11-09T15:37:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:92911475b9d977b5",
-    "news:c418ca33e8e97726",
     "news:6fc7d53b00868a93",
     "news:297373c8170ba277",
     "news:71cca8b2386a9400",
@@ -612,11 +610,13 @@
     "news:679a6a35d7bce5dd",
     "news:bcfa4d16d6367832",
     "news:7cd834f078c87606",
-    "news:31d0a02a4e56173d"
+    "news:31d0a02a4e56173d",
+    "news:0b51eb15a5bfcd43",
+    "news:b8e0572a679357d6"
    ],
-   "last_success_at": "2026-11-09T14:39:02+00:00",
+   "last_success_at": "2026-11-09T15:37:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-09T14:39:02+00:00"
+   "last_new_item_at": "2026-11-09T15:37:09+00:00"
   }
  },
  "digest_queue": [
@@ -691,6 +691,12 @@
   },
   {
    "text": "Vláda podniká těžký útok na kulturu: Českou televizi, filmaře i festivaly čeká jen obrovská nejistota - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxQdURmdVB1bFdFZTlEb3M5Zy1IR28xc0UwYTZBT180YUpzMGQyaXFFNzlROW1Fb2hscXVPTFNwczZSbkpndzY0SEVONExSc1c4ZUFuREdJekQ2XzR5bm5fczBKbHNyb2R6RUFZWXRjc3Z6ZGhBQ0RxS0plRVhFeUw5TE9pbG9Ca1pvcFNGUzJiNjR4TUM5MEsxdmc3NnlVV2tQZGlFNXpRYVJsMHd0TGpWaFBjZWlSUFBwcWs2RHY3VE9VNklZSFlSSngzNFFwaVE0UVBfaW5NYmI5RVJXM3VWMVpBUFE?oc=5"
+  },
+  {
+   "text": "Dohoda o návrhu na vytvoření projektu na obnovu a rehabilitaci pagody Quang An. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxNdnZPdGVTaWZBcmVyOUhvOVFrZHI3QVRNOURpODNKNVpGX2p1RV9LYlIzMExTaEZQZUdKMUZHMmdDLUdGZUxKT0hWYWxzamJQcVFEeEZxeUxETkFaS2ZLZGZvbDQxWmJxM1cxUWliRFZJM2F1Y0hXVUppMVhRU0h4WlVyNEZTQnZBYVZBNEFVMFMxTjk2WkE?oc=5"
+  },
+  {
+   "text": "Akciová společnost Lam Thao Superphosphate and Chemical Joint Stock Company byla oceněna jako „přední podnik“ v oblasti standardů vietnamské obchodní kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi6wFBVV95cUxOOXg4ZEc5WFBmdlM5T1UxdEYxMmlXVlRZSXEtcnV4Mi0tNHF5cHR5cXBWOHF3c20wTGlyZjhoN3dhcGstV01sNDFBOWlsYnIyd1hvWUl3MHNOR2VSS2Q2MTlIMFBzVWQ0RkRLSms2WU5BeERibEdXcTF5QVhUMUJrT29UNnZNZnROSlBYcThQSFhqNWxpV29JOEdGbFFnSldnTEp6Qnh6aHcxMGxsMnZnYnFGek5WelF5ZWhHanBNelNDN1Ytem9KejJ0U0l5eEsxRXdRUHN6cmZGSXppOUd5bm9DN2hVaWltWWg0?oc=5"
   }
  ],
  "last_digest_date": "2026-11-08"
