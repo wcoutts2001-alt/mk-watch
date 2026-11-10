@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T22:50:55+00:00",
+   "last_success_at": "2026-11-10T23:25:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-10T22:50:55+00:00",
+   "last_success_at": "2026-11-10T23:25:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T22:50:55+00:00",
+   "last_success_at": "2026-11-10T23:25:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,15 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T22:50:55+00:00",
+   "last_success_at": "2026-11-10T23:25:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:67d48cf8a5e983a1",
-    "news:0757ced29d9e1bee",
     "news:7a3ddc9170eceea0",
     "news:c2e12fc28e3259ba",
     "news:c74199ac28692037",
@@ -616,16 +614,21 @@
     "news:91e453cddbf36b82",
     "news:49b783661ed1678f",
     "news:c79e5ca9154a2432",
-    "news:bb55a0c83427e5ee"
+    "news:bb55a0c83427e5ee",
+    "news:af6a3a5de567fb85",
+    "news:24166a41d78759ec"
    ],
-   "last_success_at": "2026-11-10T22:50:55+00:00",
+   "last_success_at": "2026-11-10T23:25:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T22:50:55+00:00"
+   "last_new_item_at": "2026-11-10T23:25:30+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "19 klíčových aktivit před Dnem vietnamské kultury v Quang Ninh. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPSjczOTBsMzhhQVdJVFN4RV9Ra0F2T0E5VldGNjVmMXdSRGZkX1JZdmVOX21mbU5JaV9Zb3VSTzZubzZNV0REMDAtWjFhUDZ6U1lpQktLVFhTMzdScUxaUXpyNzgwY2NKUjVZNF9wVmlaaHE4amdhOHFmeDBMNjRrZ2lZSkJzTW5Xamg1Q2FQaHJBdHJTUDJ3Y05qTQ?oc=5"
+  },
+  {
+   "text": "Na podobu pražského orloje po rekonstrukci přišla stížnost. Bude ji řešit ministerstvo kultury – fotogalerie - Pražská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxQU1dfendZRDQtWVo2bUFGamRIZ3pVQktEMHo5aUxXaDluc0pyVkhFSWlJQmZKMExKRHlvSUlVS2J3RWVqZE9ERWZyZmJjU3FELVZ6R21sa1Rrc2xnamIwdEtJWkRJaDROTXRybk9PY0phVmxHaUk1enB0U3BZNTdCZWczQXBHa0ZIZjJtUW03ZVZNQmhSRjh3UFlfWGdIQUczN0pyV1otNFFTS3dObnRTdU1ZcWh3YWtVdl9hbFJ1N3BZSW13eHhUQmxQRWgzYThyZlh3ZFZSWDkxcUE1Z1E?oc=5"
   }
  ],
  "last_digest_date": "2026-11-10"
