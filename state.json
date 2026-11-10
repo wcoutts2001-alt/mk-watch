@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T09:46:39+00:00",
+   "last_success_at": "2026-11-10T10:45:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T09:46:39+00:00",
+   "last_success_at": "2026-11-10T10:45:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -98,24 +98,24 @@
     "instagram:2b88006c42d3dd61",
     "instagram:8907e61c9a4438de",
     "instagram:ec08d46a9b9f7d58",
-    "instagram:8b2abe124015f068"
+    "instagram:8b2abe124015f068",
+    "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T09:46:39+00:00",
+   "last_success_at": "2026-11-10T10:45:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T15:45:40+00:00"
+   "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T09:46:39+00:00",
+   "last_success_at": "2026-11-10T10:45:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:05311b5be5da8b0e",
     "news:7c4def78b9cb72c7",
     "news:a1ca25d9f5e34ddb",
     "news:1172e0cb80242c27",
@@ -614,11 +614,12 @@
     "news:4480f4e7d30f00c5",
     "news:52220ca6b57527a7",
     "news:f30e360b5b9e87f9",
-    "news:37b269cf41e79b41"
+    "news:37b269cf41e79b41",
+    "news:c5e2a2023f4abd97"
    ],
-   "last_success_at": "2026-11-10T09:46:39+00:00",
+   "last_success_at": "2026-11-10T10:45:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T09:46:39+00:00"
+   "last_new_item_at": "2026-11-10T10:45:30+00:00"
   }
  },
  "digest_queue": [
@@ -651,6 +652,9 @@
   },
   {
    "text": "Uvolnění kreativity v digitálním prostoru. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTFBOU0UwRmdOLUdBVXlnYjBZUHpHZzQ2U1RsYXdZYjQ3NlFNVDhOVU91bDdONFpnQ0IwNWNlbXNCVkpKaERUUXl4WDRFcGtPd1hEMmktWGRVYUl5bll1SUNqX3k0RDgzb01XSy1COHA0Szd0MEp5?oc=5"
+  },
+  {
+   "text": "Uctít památku 17. listopadu přijde Schillerová i Havlíček. Zastoupí nepřítomného premiéra - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUowdVpfWnJRS0ZSOFlqbTNIVUtZaXBwYXZCNUlCUlNsWmhFQVByWUtqS1lrc1JoRWNLYmw3d1h6Q0pVMHc2Y2ktVDFxbUpYSVZwTVNuVkNXTlFFUlFUYjFEQTdHTHJKbGd6d1RJLVJJaTZadEQxVC05cFgyQ0p6bGxrbDc3QXl3bTl3Q3UwNlh6VlcyeDg1aUNxZkRvRndnSWdvVVhBal9rSlVOZllHckJVQ2pzTDFPbTRLTW53MThEQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
