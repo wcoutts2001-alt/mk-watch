@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T06:39:19+00:00",
+   "last_success_at": "2026-11-10T07:54:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -80,7 +80,7 @@
     "facebook:b13b227de42612f1",
     "facebook:6975a724c099a3b8"
    ],
-   "last_success_at": "2026-11-10T06:39:19+00:00",
+   "last_success_at": "2026-11-10T07:54:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T01:20:32+00:00"
   },
@@ -99,7 +99,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-10T06:39:19+00:00",
+   "last_success_at": "2026-11-10T07:54:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -107,14 +107,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T06:39:19+00:00",
+   "last_success_at": "2026-11-10T07:54:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:fa5126e52c163e9e",
     "news:fb938fa18566c02b",
     "news:beca461a4965dc8a",
     "news:05311b5be5da8b0e",
@@ -613,11 +612,12 @@
     "news:951dcea620fe36cc",
     "news:53c8245af0921343",
     "news:88d5a9ec4e20504c",
-    "news:4480f4e7d30f00c5"
+    "news:4480f4e7d30f00c5",
+    "news:52220ca6b57527a7"
    ],
-   "last_success_at": "2026-11-10T06:39:19+00:00",
+   "last_success_at": "2026-11-10T07:54:01+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T06:39:19+00:00"
+   "last_new_item_at": "2026-11-10T07:54:01+00:00"
   }
  },
  "digest_queue": [
@@ -644,6 +644,9 @@
   },
   {
    "text": "Oto Klempíř přichází podepsat koaliční smlouvu hnutí... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSG9mQktRSjhfbnJoZ1BsVFRzUWVCZS1rVVVBYS1HVjNxaS1yOXpCRE1VT3RzZlN6OGhLWmNiV2FPaFVxQnRyLWZ6R3NTNU9QZXNHZURuQzlSVUVJX2Z0Sw?oc=5"
+  },
+  {
+   "text": "Babišova a Ficova vláda se dnes symbolicky setkají ve slovenské národní galerii. Co se Klempíř na Slovensku naučil? - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlp6YVpCcmtROXJ1UHNlYnFya2lmaUJwTzJZM2VoZEx1Y2s4X0xYUnpWSDlJYVdDZndCVGUzWXFQRC03Vm51MEpQZmFJeXo4eTU0eFlGMExfRkd1bzBNaTRXc1o3a1E5MGRLYW93U3Z0RXhINjFYaFJBMHUzX0tKa2F1ejFFUGU4YUNuYXlveVZSclVlWFR5Yy1DUl9MS3ZTdVhvQkZUZVoxT2w2amRMdlhrQVdBU0FhVXMxX0x4alJ1LVRMclZ3UjVaU3kwS3JSUFlHTHowZw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
