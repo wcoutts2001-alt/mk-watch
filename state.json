@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T15:28:14+00:00",
+   "last_success_at": "2026-11-10T16:21:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T15:28:14+00:00",
+   "last_success_at": "2026-11-10T16:21:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -101,7 +101,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T15:28:14+00:00",
+   "last_success_at": "2026-11-10T16:21:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -109,16 +109,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T15:28:14+00:00",
+   "last_success_at": "2026-11-10T16:21:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d431fcbe569b8422",
-    "news:663d9486cfabe47c",
-    "news:6796891cec071c2d",
     "news:5a51ad1199ab6040",
     "news:e863d9a5f96bdef9",
     "news:67d48cf8a5e983a1",
@@ -615,11 +612,14 @@
     "news:86508fc1cb583d10",
     "news:d51b9175588cdfdc",
     "news:8c13765f873cf84c",
-    "news:1d6b44694a98d32c"
+    "news:1d6b44694a98d32c",
+    "news:708e17ae456f8187",
+    "news:91e453cddbf36b82",
+    "news:49b783661ed1678f"
    ],
-   "last_success_at": "2026-11-10T15:28:14+00:00",
+   "last_success_at": "2026-11-10T16:21:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T15:28:14+00:00"
+   "last_new_item_at": "2026-11-10T16:21:50+00:00"
   }
  },
  "digest_queue": [
@@ -679,6 +679,12 @@
   },
   {
    "text": "Barbora Kůtová: Ministerstvo kultury nehájí zájmy vlastního sektoru - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0x0eVpiTXpiYkhlQ3dwQVhtYXNPZTZNSTE3NHpoSUNBdkxTNkI2ODY1dEpNYXRaRXdIanl0cHZreTdnWll1NHZaT3FTUHFwYzlUSGcwM1RWVHY4VTRJR1pMbjYyUHJMM0JfOXA5NUZGckprbFdLUlJWMnI4MzdCWUtWUXFHVlV0NVd3Qkp1TnVxak56dkVfMmJQcEloa0NQRXY1RjdSdXhfWFRNZVlKRC1naldnNUhsSVdGYkdEY2U?oc=5"
+  },
+  {
+   "text": "Čepice Večerníčka a dopisy poslancům. Studenti protestují na podporu ČT a rozhlasu - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxNT1NST25PWXp4c0l5MWlKZVpaZ2xscks2ME8ybHQydHEtNHdsVHJjOFdwTGNlZlp3dGZJT0pDZGk2TzZuc0R5cFpNVGFIWXZWX2I2ZEwxR2FwOGdiMzdVZHV4Rl9zbEl3Nkp6aWZFV0JMSlpTTGhXTjJybzJCNlhvc1pMejNMeW1SMUZtOXpuN2V3bnU1M0Q1QW5CWmo4MTVqX1JDN2dzTDN1TVZ1U1R2WEFXZ3ZPQQ?oc=5"
+  },
+  {
+   "text": "vytvořit právní rámec a uvolnit zdroje pro rozvoj kultury, sportu a cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxQZFFwYzJScU9xS19UNmZ5NmRsVHZ3M1N3Z0dPN0poM1N2U3E4Y3pQOFNsVnNVU0JzY1FfVXdVLUhKV2NxdGNmM1E2blJCVEI5S0o5OWIxVEUzY18zZldEeDJIS2VqM1k2Vmd4ZWNIUHJ4WV9fdkZYRWtvNDZfU0IxY2dST21fa09qSmNtRlY0TjAzM3dhYXVJT3FJYmtEcUNaS1pueTVUXzV1OE1DcV9mVHFZM0U?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
