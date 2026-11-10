@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T07:54:01+00:00",
+   "last_success_at": "2026-11-10T08:48:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -80,7 +80,7 @@
     "facebook:b13b227de42612f1",
     "facebook:6975a724c099a3b8"
    ],
-   "last_success_at": "2026-11-10T07:54:01+00:00",
+   "last_success_at": "2026-11-10T08:48:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T01:20:32+00:00"
   },
@@ -99,7 +99,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-10T07:54:01+00:00",
+   "last_success_at": "2026-11-10T08:48:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -107,14 +107,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T07:54:01+00:00",
+   "last_success_at": "2026-11-10T08:48:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:fb938fa18566c02b",
     "news:beca461a4965dc8a",
     "news:05311b5be5da8b0e",
     "news:7c4def78b9cb72c7",
@@ -613,11 +612,12 @@
     "news:53c8245af0921343",
     "news:88d5a9ec4e20504c",
     "news:4480f4e7d30f00c5",
-    "news:52220ca6b57527a7"
+    "news:52220ca6b57527a7",
+    "news:f30e360b5b9e87f9"
    ],
-   "last_success_at": "2026-11-10T07:54:01+00:00",
+   "last_success_at": "2026-11-10T08:48:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T07:54:01+00:00"
+   "last_new_item_at": "2026-11-10T08:48:42+00:00"
   }
  },
  "digest_queue": [
@@ -647,6 +647,9 @@
   },
   {
    "text": "Babišova a Ficova vláda se dnes symbolicky setkají ve slovenské národní galerii. Co se Klempíř na Slovensku naučil? - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlp6YVpCcmtROXJ1UHNlYnFya2lmaUJwTzJZM2VoZEx1Y2s4X0xYUnpWSDlJYVdDZndCVGUzWXFQRC03Vm51MEpQZmFJeXo4eTU0eFlGMExfRkd1bzBNaTRXc1o3a1E5MGRLYW93U3Z0RXhINjFYaFJBMHUzX0tKa2F1ejFFUGU4YUNuYXlveVZSclVlWFR5Yy1DUl9MS3ZTdVhvQkZUZVoxT2w2amRMdlhrQVdBU0FhVXMxX0x4alJ1LVRMclZ3UjVaU3kwS3JSUFlHTHowZw?oc=5"
+  },
+  {
+   "text": "Uvolnění kreativity v digitálním prostoru. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTFBOU0UwRmdOLUdBVXlnYjBZUHpHZzQ2U1RsYXdZYjQ3NlFNVDhOVU91bDdONFpnQ0IwNWNlbXNCVkpKaERUUXl4WDRFcGtPd1hEMmktWGRVYUl5bll1SUNqX3k0RDgzb01XSy1COHA0Szd0MEp5?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
