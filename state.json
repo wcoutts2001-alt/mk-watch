@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T05:43:20+00:00",
+   "last_success_at": "2026-11-10T06:39:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -80,7 +80,7 @@
     "facebook:b13b227de42612f1",
     "facebook:6975a724c099a3b8"
    ],
-   "last_success_at": "2026-11-10T05:43:20+00:00",
+   "last_success_at": "2026-11-10T06:39:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T01:20:32+00:00"
   },
@@ -99,7 +99,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-10T05:43:20+00:00",
+   "last_success_at": "2026-11-10T06:39:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -107,14 +107,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T05:43:20+00:00",
+   "last_success_at": "2026-11-10T06:39:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:1ad18bcdab8e5d32",
     "news:fa5126e52c163e9e",
     "news:fb938fa18566c02b",
     "news:beca461a4965dc8a",
@@ -613,11 +612,12 @@
     "news:05fc777852ab7570",
     "news:951dcea620fe36cc",
     "news:53c8245af0921343",
-    "news:88d5a9ec4e20504c"
+    "news:88d5a9ec4e20504c",
+    "news:4480f4e7d30f00c5"
    ],
-   "last_success_at": "2026-11-10T05:43:20+00:00",
+   "last_success_at": "2026-11-10T06:39:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T05:43:20+00:00"
+   "last_new_item_at": "2026-11-10T06:39:19+00:00"
   }
  },
  "digest_queue": [
@@ -641,6 +641,9 @@
   },
   {
    "text": "Oto Klempíř: Nerušíme podporu kultury. Nejde vůbec o politiku, ale snahu nastavit férová pravidla - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjdLZDRiTEZsLTA2aEFUYXpwN2M3NE4xaUxYeDY2b0FVUE9OUllqYUl3TEtSZXdfQTZsbV9sRTRBS3g2UjJSbzd5TVpudDdGczdUVjNiOVp3UURPUUdkLWlZNHpDMGd1RGtEV1pFUVk1WmdXU3E1akFocnlLMEdjdGJWTGNPeXJIdmU5cGdGdlRVZHJ2Ulo4X1dEQ2hEa1F2YVhQOXlwdXAxS0tNREE5WHFtMldrdGlVSEhKcmppZ3dheFF6Mm1hT0lDRjMwZzkxVmJqa0hfekJ1MUtndEE?oc=5"
+  },
+  {
+   "text": "Oto Klempíř přichází podepsat koaliční smlouvu hnutí... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSG9mQktRSjhfbnJoZ1BsVFRzUWVCZS1rVVVBYS1HVjNxaS1yOXpCRE1VT3RzZlN6OGhLWmNiV2FPaFVxQnRyLWZ6R3NTNU9QZXNHZURuQzlSVUVJX2Z0Sw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
