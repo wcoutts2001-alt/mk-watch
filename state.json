@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T08:48:42+00:00",
+   "last_success_at": "2026-11-10T09:46:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -78,11 +78,12 @@
     "facebook:3e7c2afeb8f753ff",
     "facebook:3657181d293a2afb",
     "facebook:b13b227de42612f1",
-    "facebook:6975a724c099a3b8"
+    "facebook:6975a724c099a3b8",
+    "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T08:48:42+00:00",
+   "last_success_at": "2026-11-10T09:46:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T01:20:32+00:00"
+   "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
   "instagram": {
    "seen": [
@@ -99,7 +100,7 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068"
    ],
-   "last_success_at": "2026-11-10T08:48:42+00:00",
+   "last_success_at": "2026-11-10T09:46:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T15:45:40+00:00"
   },
@@ -107,14 +108,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T08:48:42+00:00",
+   "last_success_at": "2026-11-10T09:46:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:beca461a4965dc8a",
     "news:05311b5be5da8b0e",
     "news:7c4def78b9cb72c7",
     "news:a1ca25d9f5e34ddb",
@@ -613,11 +613,12 @@
     "news:88d5a9ec4e20504c",
     "news:4480f4e7d30f00c5",
     "news:52220ca6b57527a7",
-    "news:f30e360b5b9e87f9"
+    "news:f30e360b5b9e87f9",
+    "news:37b269cf41e79b41"
    ],
-   "last_success_at": "2026-11-10T08:48:42+00:00",
+   "last_success_at": "2026-11-10T09:46:39+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T08:48:42+00:00"
+   "last_new_item_at": "2026-11-10T09:46:39+00:00"
   }
  },
  "digest_queue": [
