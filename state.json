@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T20:35:32+00:00",
+   "last_success_at": "2026-11-10T21:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-10T20:35:32+00:00",
+   "last_success_at": "2026-11-10T21:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T20:35:32+00:00",
+   "last_success_at": "2026-11-10T21:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,14 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T20:35:32+00:00",
+   "last_success_at": "2026-11-10T21:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:5a51ad1199ab6040",
     "news:e863d9a5f96bdef9",
     "news:67d48cf8a5e983a1",
     "news:0757ced29d9e1bee",
@@ -616,13 +615,18 @@
     "news:1d6b44694a98d32c",
     "news:708e17ae456f8187",
     "news:91e453cddbf36b82",
-    "news:49b783661ed1678f"
+    "news:49b783661ed1678f",
+    "news:c79e5ca9154a2432"
    ],
-   "last_success_at": "2026-11-10T20:35:32+00:00",
+   "last_success_at": "2026-11-10T21:22:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T16:21:50+00:00"
+   "last_new_item_at": "2026-11-10T21:22:37+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "19 klíčových aktivit před Dnem vietnamské kultury v Quang Ninh. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPSjczOTBsMzhhQVdJVFN4RV9Ra0F2T0E5VldGNjVmMXdSRGZkX1JZdmVOX21mbU5JaV9Zb3VSTzZubzZNV0REMDAtWjFhUDZ6U1lpQktLVFhTMzdScUxaUXpyNzgwY2NKUjVZNF9wVmlaaHE4amdhOHFmeDBMNjRrZ2lZSkJzTW5Xamg1Q2FQaHJBdHJTUDJ3Y05qTQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-10"
 }
