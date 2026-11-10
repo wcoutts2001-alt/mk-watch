@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T14:43:03+00:00",
+   "last_success_at": "2026-11-10T15:28:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T14:43:03+00:00",
+   "last_success_at": "2026-11-10T15:28:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -101,7 +101,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T14:43:03+00:00",
+   "last_success_at": "2026-11-10T15:28:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -109,14 +109,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T14:43:03+00:00",
+   "last_success_at": "2026-11-10T15:28:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:44154a0d33f555ab",
     "news:d431fcbe569b8422",
     "news:663d9486cfabe47c",
     "news:6796891cec071c2d",
@@ -615,11 +614,12 @@
     "news:58007f0fb7a80841",
     "news:86508fc1cb583d10",
     "news:d51b9175588cdfdc",
-    "news:8c13765f873cf84c"
+    "news:8c13765f873cf84c",
+    "news:1d6b44694a98d32c"
    ],
-   "last_success_at": "2026-11-10T14:43:03+00:00",
+   "last_success_at": "2026-11-10T15:28:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T14:43:03+00:00"
+   "last_new_item_at": "2026-11-10T15:28:14+00:00"
   }
  },
  "digest_queue": [
@@ -676,6 +676,9 @@
   },
   {
    "text": "Za odchodem z čela Muzea romské kultury je únava i spory, řekla Horváthová MfD - Metro.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTRLMzZQc05JVzRnUzhTQUZjdkVsbklyVm1xR25iZmp1MGhNQWJqY1h0enliVkRTRWpCOEJGOGlTS19ySk9GRnhVbTFrZzRUVVNtOXhoalM0RldqVTNwbkx1TVRNeTFqeW5INXRSN25mYXdYWVEzV2tuYmRDX3ZJZTBJdFVrbXhxbjFtc1ZyVzNPamY2MDdJeXVrX05WQUxSZVVyQXp4UkRocjJjQ2NzZjRfb3dEdFgtQkRBNEpoOTA4ODNyTkxkOVd2QmNPN1Uya0JFLXhxUktISlllUUhQa1dMbWJ4Zk8yeTVqc0ZKS1Y?oc=5"
+  },
+  {
+   "text": "Barbora Kůtová: Ministerstvo kultury nehájí zájmy vlastního sektoru - Frekvence 1\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0x0eVpiTXpiYkhlQ3dwQVhtYXNPZTZNSTE3NHpoSUNBdkxTNkI2ODY1dEpNYXRaRXdIanl0cHZreTdnWll1NHZaT3FTUHFwYzlUSGcwM1RWVHY4VTRJR1pMbjYyUHJMM0JfOXA5NUZGckprbFdLUlJWMnI4MzdCWUtWUXFHVlV0NVd3Qkp1TnVxak56dkVfMmJQcEloa0NQRXY1RjdSdXhfWFRNZVlKRC1naldnNUhsSVdGYkdEY2U?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
