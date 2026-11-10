@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T12:36:07+00:00",
+   "last_success_at": "2026-11-10T13:49:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T12:36:07+00:00",
+   "last_success_at": "2026-11-10T13:49:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -101,7 +101,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T12:36:07+00:00",
+   "last_success_at": "2026-11-10T13:49:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -109,16 +109,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T12:36:07+00:00",
+   "last_success_at": "2026-11-10T13:49:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f86f870c88a2ea97",
-    "news:6919245b099dac2e",
-    "news:0853f05c1d4826da",
     "news:fa6cd25f7859be04",
     "news:5bd4be939ddb06db",
     "news:44154a0d33f555ab",
@@ -615,11 +612,14 @@
     "news:af476b32ea717e6b",
     "news:2763108bd606423d",
     "news:1222e5bc3453f061",
-    "news:7d1a34ad5e289677"
+    "news:7d1a34ad5e289677",
+    "news:cbb8b97f93efb4b2",
+    "news:58007f0fb7a80841",
+    "news:86508fc1cb583d10"
    ],
-   "last_success_at": "2026-11-10T12:36:07+00:00",
+   "last_success_at": "2026-11-10T13:49:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T11:42:42+00:00"
+   "last_new_item_at": "2026-11-10T13:49:45+00:00"
   }
  },
  "digest_queue": [
@@ -664,6 +664,15 @@
   },
   {
    "text": "Hanoj ​​poskytuje turistickým ubytovacím zařízením poradenství ohledně zvýhodněných cen elektřiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxNU0FhTXhjVkYxbWJkQnFOZG51QzVyLUJEQ3FONzJlRThYdnJ3WFhHeWc2WDA0M2pOTnQxaXJsZ0VuaUxmX0QyRUVWcTBYaHVhRGtrVFpLN093MWJmOXAxcTZoZHBUU3dlU1hfLUJKNFdrTGF4SVc3eUpTZi1WRHhCUHlJcFRnQ2tEUTdjN2w3MA?oc=5"
+  },
+  {
+   "text": "Na šéfa Národní galerie se hlásí pět lidí včetně manažera přes koření - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxOOENTLWtoTjlrbVZXSk02OTVnaWdmRzNlQXRTT08tMzBjNHNZdWRIRzh5QkxFaGNBN2N4MTJEbXBUUVMyRVlMUTVhR0RrNXloODFZcnFocUw3NHlNNVdWME9keC1WSmN6aFNQQXZNdXM4eGFhVERXQ19XM0UxZHRsYmo2c3BEaklTSy1QVzFUN3I2NFRvVmpjb1VYeEY3Tkp5QTRIempQN0NfUHhqcFcxRklvblRMdTA?oc=5"
+  },
+  {
+   "text": "Co se Klempíř naučil na Slovensku? Babišova a Ficova vláda se dnes symbolicky setkají ve Slovenské národní galerii - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE82bUpOeEt1Q2lMSUVYd2pNX0xWdllUOFY4ZjNLTEtwalotbVdqd2lQa2J6bFM0V29UMXVHMV9rTkJEbHpNU2dxWA?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh: Autorská práva jsou „klíčem“ k rozvoji kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPVS1VbTRGWlBOdzZqamV0ZDlINVM3Ny1mY0VsQkhCakcwUEZQTUJudXNaSUhKVW1kWl83bVlWZ1JwOWM5bGFMcHdGUVQ3MllxcUI0bW54bFpEOGhFbUJ2b0VHZS1SNTBfay1YZDdIQ3JpdXVjNk5ScHNPSTdMb2FjQkp1ZWp3b1g0RmJzeDZ6VkNBRkgtMTUtbnc2cWFRNE9Cd1h2b0xqeElOMG5FY0JIVzB3bzlEQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
