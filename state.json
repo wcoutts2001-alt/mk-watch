@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T10:45:30+00:00",
+   "last_success_at": "2026-11-10T11:42:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T10:45:30+00:00",
+   "last_success_at": "2026-11-10T11:42:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -101,7 +101,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T10:45:30+00:00",
+   "last_success_at": "2026-11-10T11:42:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -109,18 +109,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T10:45:30+00:00",
+   "last_success_at": "2026-11-10T11:42:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:7c4def78b9cb72c7",
-    "news:a1ca25d9f5e34ddb",
-    "news:1172e0cb80242c27",
-    "news:421c8f550f922a7b",
-    "news:aea03d35ded43a43",
     "news:f86f870c88a2ea97",
     "news:6919245b099dac2e",
     "news:0853f05c1d4826da",
@@ -615,11 +610,16 @@
     "news:52220ca6b57527a7",
     "news:f30e360b5b9e87f9",
     "news:37b269cf41e79b41",
-    "news:c5e2a2023f4abd97"
+    "news:c5e2a2023f4abd97",
+    "news:02fd0cdfd2159551",
+    "news:af476b32ea717e6b",
+    "news:2763108bd606423d",
+    "news:1222e5bc3453f061",
+    "news:7d1a34ad5e289677"
    ],
-   "last_success_at": "2026-11-10T10:45:30+00:00",
+   "last_success_at": "2026-11-10T11:42:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T10:45:30+00:00"
+   "last_new_item_at": "2026-11-10T11:42:42+00:00"
   }
  },
  "digest_queue": [
@@ -655,6 +655,15 @@
   },
   {
    "text": "Uctít památku 17. listopadu přijde Schillerová i Havlíček. Zastoupí nepřítomného premiéra - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUowdVpfWnJRS0ZSOFlqbTNIVUtZaXBwYXZCNUlCUlNsWmhFQVByWUtqS1lrc1JoRWNLYmw3d1h6Q0pVMHc2Y2ktVDFxbUpYSVZwTVNuVkNXTlFFUlFUYjFEQTdHTHJKbGd6d1RJLVJJaTZadEQxVC05cFgyQ0p6bGxrbDc3QXl3bTl3Q3UwNlh6VlcyeDg1aUNxZkRvRndnSWdvVVhBal9rSlVOZllHckJVQ2pzTDFPbTRLTW53MThEQQ?oc=5"
+  },
+  {
+   "text": "Klempířovi se o vedení Národní galerie hlásí i manažer firmy vyrábějící koření - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixwFBVV95cUxOdU1rOUxEX2ktMWRQMUFXZVY1NElUODM2ZHZleWYyT0d0VEphX3o5SHJHY3NhUVlyM1ptY1QtaGhuMFhOTUZwOEVDcTV4UVNIZGF4OU1SV0JlRURRMHJwMDRsY0JYWkVGdlNqeUdEbmpXUUU1T2kzdU4xZE5uY3R2NU44VDdVblc3am9KM0VjZ0RYRXNGYTFOSWdtTHdZdjFMdE9pNUxPTEpOVzlkMEJrYmIyVTZDYWdOR1dmajctYUlsOVIxTnpZ?oc=5"
+  },
+  {
+   "text": "Oto Klempíř: Nerušíme podporu kultury. Nejde vůbec o politiku, ale snahu nastavit férová pravidla - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE1UdUQ5elBKZXdSYW91aEJ1RzdzdG52MDlvY0lMMTduZG80QlNnOTRORmxVMlpSeFV5SEJNQkVXeGFmcFRlWWctQ1JScU91OHlD?oc=5"
+  },
+  {
+   "text": "Hanoj ​​poskytuje turistickým ubytovacím zařízením poradenství ohledně zvýhodněných cen elektřiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxNU0FhTXhjVkYxbWJkQnFOZG51QzVyLUJEQ3FONzJlRThYdnJ3WFhHeWc2WDA0M2pOTnQxaXJsZ0VuaUxmX0QyRUVWcTBYaHVhRGtrVFpLN093MWJmOXAxcTZoZHBUU3dlU1hfLUJKNFdrTGF4SVc3eUpTZi1WRHhCUHlJcFRnQ2tEUTdjN2w3MA?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
