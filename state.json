@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-10T13:49:45+00:00",
+   "last_success_at": "2026-11-10T14:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -81,7 +81,7 @@
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771"
    ],
-   "last_success_at": "2026-11-10T13:49:45+00:00",
+   "last_success_at": "2026-11-10T14:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T09:46:39+00:00"
   },
@@ -101,7 +101,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-10T13:49:45+00:00",
+   "last_success_at": "2026-11-10T14:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -109,15 +109,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-10T13:49:45+00:00",
+   "last_success_at": "2026-11-10T14:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:fa6cd25f7859be04",
-    "news:5bd4be939ddb06db",
     "news:44154a0d33f555ab",
     "news:d431fcbe569b8422",
     "news:663d9486cfabe47c",
@@ -615,11 +613,13 @@
     "news:7d1a34ad5e289677",
     "news:cbb8b97f93efb4b2",
     "news:58007f0fb7a80841",
-    "news:86508fc1cb583d10"
+    "news:86508fc1cb583d10",
+    "news:d51b9175588cdfdc",
+    "news:8c13765f873cf84c"
    ],
-   "last_success_at": "2026-11-10T13:49:45+00:00",
+   "last_success_at": "2026-11-10T14:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T13:49:45+00:00"
+   "last_new_item_at": "2026-11-10T14:43:03+00:00"
   }
  },
  "digest_queue": [
@@ -673,6 +673,9 @@
   },
   {
    "text": "Ministr Lam Thi Phuong Thanh: Autorská práva jsou „klíčem“ k rozvoji kulturního průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPVS1VbTRGWlBOdzZqamV0ZDlINVM3Ny1mY0VsQkhCakcwUEZQTUJudXNaSUhKVW1kWl83bVlWZ1JwOWM5bGFMcHdGUVQ3MllxcUI0bW54bFpEOGhFbUJ2b0VHZS1SNTBfay1YZDdIQ3JpdXVjNk5ScHNPSTdMb2FjQkp1ZWp3b1g0RmJzeDZ6VkNBRkgtMTUtbnc2cWFRNE9Cd1h2b0xqeElOMG5FY0JIVzB3bzlEQQ?oc=5"
+  },
+  {
+   "text": "Za odchodem z čela Muzea romské kultury je únava i spory, řekla Horváthová MfD - Metro.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTRLMzZQc05JVzRnUzhTQUZjdkVsbklyVm1xR25iZmp1MGhNQWJqY1h0enliVkRTRWpCOEJGOGlTS19ySk9GRnhVbTFrZzRUVVNtOXhoalM0RldqVTNwbkx1TVRNeTFqeW5INXRSN25mYXdYWVEzV2tuYmRDX3ZJZTBJdFVrbXhxbjFtc1ZyVzNPamY2MDdJeXVrX05WQUxSZVVyQXp4UkRocjJjQ2NzZjRfb3dEdFgtQkRBNEpoOTA4ODNyTkxkOVd2QmNPN1Uya0JFLXhxUktISlllUUhQa1dMbWJ4Zk8yeTVqc0ZKS1Y?oc=5"
   }
  ],
  "last_digest_date": "2026-11-09"
