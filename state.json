@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T18:30:23+00:00",
+   "last_success_at": "2026-11-11T19:41:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -80,11 +80,12 @@
     "facebook:b13b227de42612f1",
     "facebook:6975a724c099a3b8",
     "facebook:b906c9182e9b9771",
-    "facebook:17c920aae56ddda4"
+    "facebook:17c920aae56ddda4",
+    "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-11T18:30:23+00:00",
+   "last_success_at": "2026-11-11T19:41:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-10T19:50:39+00:00"
+   "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
   "instagram": {
    "seen": [
@@ -102,7 +103,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T18:30:23+00:00",
+   "last_success_at": "2026-11-11T19:41:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,15 +111,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T18:30:23+00:00",
+   "last_success_at": "2026-11-11T19:41:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a8017e9a38799f35",
-    "news:386ebbbe66e1e0a5",
     "news:ff28824a75809847",
     "news:7c04b4e516cf2b37",
     "news:2e5d3cb37519ece5",
@@ -616,13 +615,22 @@
     "news:4296a12d4cb017b3",
     "news:7ce49365535c19db",
     "news:79fe98554843086c",
-    "news:0b9ec56783d9a7ab"
+    "news:0b9ec56783d9a7ab",
+    "news:0fedcd0f1ba2fa70",
+    "news:92a7994f499b6e89"
    ],
-   "last_success_at": "2026-11-11T18:30:23+00:00",
+   "last_success_at": "2026-11-11T19:41:26+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T16:39:02+00:00"
+   "last_new_item_at": "2026-11-11T19:41:26+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř s Doksanským vyrazili lustrovat miliony Milionu chvilek. V Lize užitečných Babišových obsadili shodně první místo - Centrum.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGFOa1ZXeVlzUnRwXzllX185WkhNbXp6N09RdGtKRGJEY0tvcE9tTzBiV3VJME9CbDJ2cmtXQkRPOE1xVDNraUgtQmZPVkNfMTdxQnIzRHEtdlkzbjVvcG5EOGhWekhhMHM0bWlsSGRkaGV6S1hDZG5uVGlLYl9RM0l4VUhTdXl3V0o2NDIyV0xSbFBfWjVPRF9ST2Z4a2w4SGU2ZG5reEZqbTNxZjNQTnpodl9HbDZfRGJZMC13X0RScUxxLVoyS3A3Vm1NWFI1QVNPMzNrTnA5NUd3RVpjT3o5VWpBUjBpczRwTF9R?oc=5"
+  },
+  {
+   "text": "Město Dong Nai bude hostit mistrovství národního šampionátu elitních sportovců v džiu-džicu v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjFtSzZwbmQ0OWFhNkxKcmswVmFPczFJQ1A1clE3QlNOQjNJSHFfR3pacGZEOGc5MUZxSVpIMWE1aHdvVjZjZXNFZ2R3blRMV2ZXUWw3OW10U2tYTkthTVctV2ttbWRUZlVabnZ3Q09RRENWXzZsMUFTX09pQklacjA0clU1eVkxX1ZPbWk0d3JvTTIyTkVmQVdEbUZmQ2JqSWZjN1FjWXRTM1daVjdOS29UdG5vSHQ0b000QTZWTDk?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-11"
 }
