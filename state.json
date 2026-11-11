@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T15:44:43+00:00",
+   "last_success_at": "2026-11-11T16:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-11T15:44:43+00:00",
+   "last_success_at": "2026-11-11T16:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T15:44:43+00:00",
+   "last_success_at": "2026-11-11T16:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,14 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T15:44:43+00:00",
+   "last_success_at": "2026-11-11T16:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:1dcd3f96d6bdb470",
     "news:a8017e9a38799f35",
     "news:386ebbbe66e1e0a5",
     "news:ff28824a75809847",
@@ -616,11 +615,12 @@
     "news:9e325343e1a6d67e",
     "news:4296a12d4cb017b3",
     "news:7ce49365535c19db",
-    "news:79fe98554843086c"
+    "news:79fe98554843086c",
+    "news:0b9ec56783d9a7ab"
    ],
-   "last_success_at": "2026-11-11T15:44:43+00:00",
+   "last_success_at": "2026-11-11T16:39:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T15:44:43+00:00"
+   "last_new_item_at": "2026-11-11T16:39:02+00:00"
   }
  },
  "digest_queue": [
@@ -659,6 +659,9 @@
   },
   {
    "text": "Milion chvilek si kritiku za drahou čepici zasloužil. Klempíř přesto šířil nepravdu - Médium.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxPR1hOR09odFN2aXFWNnB1cHRSenBhR2dsMFVRR2hraFhTbDlIeEtnN0xTcTVrRmVFSzBTVlpwM0pWRDB6ZWdhaG9IcXAwTi1HQmFHNXJJbnZYazduSTlIS2NQcXdYUFFiRzhLSnoya1N2WFJZbWplQnlneTFvWjlNVjVkaGtCQ0R2aElQMVVRblVvRnI3VC1YZXVlQWFWNTRwUVh1THRSUFVzR2xxOTNfdlRIV0RCbldnU3A3V3pWUks0VEh0QUg5VDVmQ1Q?oc=5"
+  },
+  {
+   "text": "„Promlouvám Klempířovi na Messengeru do duše.“ Mucha, Fuksová a Biler ve Studiu N - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE12UUdzNWF2RmJCSmJCZHVfUzJnMkdYOFRJZmluSUllTWgtWTFqbE53VDNTQ1JQalFmRlBlTTVnZWdMWlYweldKbw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-10"
