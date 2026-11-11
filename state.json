@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T14:04:10+00:00",
+   "last_success_at": "2026-11-11T15:00:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-11T14:04:10+00:00",
+   "last_success_at": "2026-11-11T15:00:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T14:04:10+00:00",
+   "last_success_at": "2026-11-11T15:00:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,14 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T14:04:10+00:00",
+   "last_success_at": "2026-11-11T15:00:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:4e93d5f2d35feeee",
     "news:ac24f01bd54da8ea",
     "news:1dcd3f96d6bdb470",
     "news:a8017e9a38799f35",
@@ -616,11 +615,12 @@
     "news:156756deee4d313d",
     "news:3cfa17fd9da9468d",
     "news:9e325343e1a6d67e",
-    "news:4296a12d4cb017b3"
+    "news:4296a12d4cb017b3",
+    "news:7ce49365535c19db"
    ],
-   "last_success_at": "2026-11-11T14:04:10+00:00",
+   "last_success_at": "2026-11-11T15:00:02+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T14:04:10+00:00"
+   "last_new_item_at": "2026-11-11T15:00:02+00:00"
   }
  },
  "digest_queue": [
@@ -653,6 +653,9 @@
   },
   {
    "text": "Osobní vendeta na kultuře: Klempíř zaútočil na filmový fond, stopku mu vystavil vlastní premiér - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1ZQU203RUR3bzU3SVJNWWROMk92ZmZlZ2tBenRSZ096VlR1TnNQSzctLUNhRkRUU3hfS3U4c0xvTHZSYWxYbkNyYm9SMUZhMF9MTklkbWlMc1o3cTZqaFpfbVFKUUpxZTJCX2xlQ284bG9sNGMwLU9kZDdHdzYxckJUZkFSRE5WYVJzc0F6WnJ6R1ZGNlcwSk9pUjlDdUlVUzZjWXBLMGRueFFjcld5QVBteVJmcjdES0RIXzA4NHg4Wmxpc08xUw?oc=5"
+  },
+  {
+   "text": "Zvyšování mezinárodní turistické atraktivity: Ministerstvo kultury, sportu a cestovního ruchu nařizuje místním samosprávám, aby urychlily pokrok. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxPMG1QOGNYUkxfZV8zWDVZVnRJYldMR2d5VE1pZzJZdFFhQzFnSWZjMG9rdzZ4R3NLUzctNjVHS3F6WXBUaTE3d1ZMMnB3cUpiWEV5Z1lxN0tYc1h4aVljRG5zbmsxdEtkcHBMUE9taGpzMkgtTEcyQ0k5Q2piMVlWTVIxQ0paNGpSUkhwWlM5QTNUR1RUZGc?oc=5"
   }
  ],
  "last_digest_date": "2026-11-10"
