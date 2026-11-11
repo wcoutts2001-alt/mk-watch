@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T21:07:49+00:00",
+   "last_success_at": "2026-11-11T23:00:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -83,7 +83,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-11T21:07:49+00:00",
+   "last_success_at": "2026-11-11T23:00:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -103,7 +103,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T21:07:49+00:00",
+   "last_success_at": "2026-11-11T23:00:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -111,14 +111,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T21:07:49+00:00",
+   "last_success_at": "2026-11-11T23:00:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ff28824a75809847",
     "news:7c04b4e516cf2b37",
     "news:2e5d3cb37519ece5",
     "news:07e6d6b4561fe12a",
@@ -617,11 +616,12 @@
     "news:79fe98554843086c",
     "news:0b9ec56783d9a7ab",
     "news:0fedcd0f1ba2fa70",
-    "news:92a7994f499b6e89"
+    "news:92a7994f499b6e89",
+    "news:1c32eb61f4ec1e84"
    ],
-   "last_success_at": "2026-11-11T21:07:49+00:00",
+   "last_success_at": "2026-11-11T23:00:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T19:41:26+00:00"
+   "last_new_item_at": "2026-11-11T23:00:30+00:00"
   }
  },
  "digest_queue": [
@@ -630,6 +630,9 @@
   },
   {
    "text": "Město Dong Nai bude hostit mistrovství národního šampionátu elitních sportovců v džiu-džicu v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjFtSzZwbmQ0OWFhNkxKcmswVmFPczFJQ1A1clE3QlNOQjNJSHFfR3pacGZEOGc5MUZxSVpIMWE1aHdvVjZjZXNFZ2R3blRMV2ZXUWw3OW10U2tYTkthTVctV2ttbWRUZlVabnZ3Q09RRENWXzZsMUFTX09pQklacjA0clU1eVkxX1ZPbWk0d3JvTTIyTkVmQVdEbUZmQ2JqSWZjN1FjWXRTM1daVjdOS29UdG5vSHQ0b000QTZWTDk?oc=5"
+  },
+  {
+   "text": "Přezkoumat a dokončit návrh usnesení Národního shromáždění o některých specifických mechanismech a politikách pro rozvoj vietnamského cestovního ruchu, které zajistí nejvyšší kvalitu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_AFBVV95cUxPMjNWQllmWHV6U1ZSX0NBSkxFRnYteVQ4cmcxazVQaTZseVNIMWZIU0d3cjJVdUNOT2xmZk1ZbG9TM3N6WjgwZnFpOVBMNFQ0cjZBTi05anBpODhyMTM4UHdVdFBXQUZmNFNHT1RpUkRuNHIwcFUxQktCa04zLUtnaHZmUW5aNmN5bkl6QkpHM1Z2S0owbWc3d0FkSGJfVWVkUGJIMmc5em1JQ01kWVRMdnB3Zk11R29RV3gxNkZWeEp0X2xYYUxhdElla2VXSGx0SGUzbFdqSWF6T0l1YzhoNG9oN2g2XzdTNHI0c1VrYzRmRUJfSVI1eTdLQ20?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
