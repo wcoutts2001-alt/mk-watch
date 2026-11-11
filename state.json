@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T09:47:40+00:00",
+   "last_success_at": "2026-11-11T10:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-11T09:47:40+00:00",
+   "last_success_at": "2026-11-11T10:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T09:47:40+00:00",
+   "last_success_at": "2026-11-11T10:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,16 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T09:47:40+00:00",
+   "last_success_at": "2026-11-11T10:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f3cea8621ba2f587",
-    "news:5047b2eaf5b5d1bf",
-    "news:2699b4568f3e3d41",
     "news:fa9c6a056e363f5b",
     "news:4e93d5f2d35feeee",
     "news:ac24f01bd54da8ea",
@@ -616,11 +613,14 @@
     "news:2e6fd01521123a83",
     "news:145c577a92909596",
     "news:d906ef23be49e0f6",
-    "news:bf58714ca2b3c213"
+    "news:bf58714ca2b3c213",
+    "news:156756deee4d313d",
+    "news:3cfa17fd9da9468d",
+    "news:9e325343e1a6d67e"
    ],
-   "last_success_at": "2026-11-11T09:47:40+00:00",
+   "last_success_at": "2026-11-11T10:49:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T09:47:40+00:00"
+   "last_new_item_at": "2026-11-11T10:49:49+00:00"
   }
  },
  "digest_queue": [
@@ -641,6 +641,15 @@
   },
   {
    "text": "„Rozjela se vám marketérská kolečka.“ Milion chvil... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPNURLbVc2NDM0amZQYjFZUFF1TFk3NDYyVEN2N1BfQ0ozZzBGRm1Zc3RUTU5uc0cxT1RBNEFQaVZScURoNFZibi03Ui1jTEpfVWxuTzBiV0dBSFBJQmpBeFdQLWNKY0MzbThRLWVINTZ3YmQxMXFlY2tSVElTZFkzVzUzZHdReUpSaWhVbkNuaTZqQmFHd3cyT2ZnSTlfV3pWVzdianUwV3JVdVU?oc=5"
+  },
+  {
+   "text": "Zhodnocení postupu příprav na Týden národní jednoty a kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOSUkwaHpYY2lxenpwOXZ4amdMaHdMSjl4Wm0tMWdBOVdrbFF3NGZiSk13dGpCQmJjS0FYQ3ZiSTBCNmdJaWxNLXNYX3Y1NmJSX2pJRF93RUJZdDROZ1c5VFVmSW1ETTVJX0hrZk5qZmNPRmdud2NVN0YxRmswNTZuQVBsNmJKYjRaZ0F0TDZWQzNra2M?oc=5"
+  },
+  {
+   "text": "Do roku 2030 silně rozvíjet tři póly růstu cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxPMVJtZWFRZEFTOS01cXRlRmRjQkNSb0ozWlJRNlhMSEJjc3d4eDRBZGFFYzh5bWpmZ2RqMktMQTh6WERmTDE1X3ZyQi1DaktKRjJ3WnhPSnJWYUd4b1BITzN1cU5mNnJET2RBbGxmYVlXdUQwSFlaV3ZuSG1lR3R5MHc2R2c4Wk0?oc=5"
+  },
+  {
+   "text": "Konsolidovat předpisy o rámci norem pro udělování kulturních titulů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQT2ZfZGV5bzVIeENVbEFoaERpaXlkUkE3STdBc2w4QmZzOXJ3ZmlLcjV5US1vdjBZbmM3UnNmbEg0N3JrT3EzSEZwSE9tU2FjTlMyYWFOUGVJOGJINjFZeFk1S2lxZ2Y2VFNTMGF1MHpJdXRscHdFdnNabEd6Y24tQWg1SFNJZDQ5QUFhb2xpbFh2S2hiSjhnSjNB?oc=5"
   }
  ],
  "last_digest_date": "2026-11-10"
