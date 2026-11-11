@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-11T07:56:03+00:00",
+   "last_success_at": "2026-11-11T08:47:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -82,7 +82,7 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4"
    ],
-   "last_success_at": "2026-11-11T07:56:03+00:00",
+   "last_success_at": "2026-11-11T08:47:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T19:50:39+00:00"
   },
@@ -102,7 +102,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-11T07:56:03+00:00",
+   "last_success_at": "2026-11-11T08:47:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -110,14 +110,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-11T07:56:03+00:00",
+   "last_success_at": "2026-11-11T08:47:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:c74199ac28692037",
     "news:9c7133d46662416b",
     "news:e441112a209d474a",
     "news:f3cea8621ba2f587",
@@ -616,11 +615,12 @@
     "news:af6a3a5de567fb85",
     "news:24166a41d78759ec",
     "news:e0af7cf14f4c089b",
-    "news:2e6fd01521123a83"
+    "news:2e6fd01521123a83",
+    "news:145c577a92909596"
    ],
-   "last_success_at": "2026-11-11T07:56:03+00:00",
+   "last_success_at": "2026-11-11T08:47:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-11T03:32:22+00:00"
+   "last_new_item_at": "2026-11-11T08:47:41+00:00"
   }
  },
  "digest_queue": [
@@ -632,6 +632,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu si klade za cíl dokončit digitální datovou infrastrukturu pro celý sektor do roku 2030. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNX09hUWJKR08xSzVleXdjbnRQWi1vSDJ4aXRsRFFrcERLZjAxSFJpVHZ6YWctNzl4cmh5YWpXZzJwTU5scjE5V1U0dnFibjc1T2dvM3BGRkE1eFI4b3ZDaHBhdUtFUTJCQVRfeDlsTDJQWjJoUjZCT29MZW5rZTJKVG9JN2FFTUZ1RlkwOHBENk9vNFhValV2SjdacUtSQnV1YjFBblZB?oc=5"
+  },
+  {
+   "text": "Klempíř chtěl zesměšnit Milion chvilek, klasicky ztrapnil sám sebe - Epeníze\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOZE9HcjBqRVBNbUVUelF2dFZmWnNSOElUREpEOGNfT2g1MEJYWTBFdFZtdmZPYVlOYkMxVDVzMHIwdGdaMk9GN1lpMHJ3N0w5UEc3ZG1ONE9TNV9Ra2xUYnJDNUFxZks4VEtJcE0ybXh5V3ozTEZnWjhnR0RwOTE2Q3MzMGdHbGxoQ1hGVy1FSjdyaWM?oc=5"
   }
  ],
  "last_digest_date": "2026-11-10"
