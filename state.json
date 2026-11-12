@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T15:37:14+00:00",
+   "last_success_at": "2026-11-12T16:41:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T15:37:14+00:00",
+   "last_success_at": "2026-11-12T16:41:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T15:37:14+00:00",
+   "last_success_at": "2026-11-12T16:41:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,16 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T15:37:14+00:00",
+   "last_success_at": "2026-11-12T16:41:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e6349e3bbc8e7557",
-    "news:d67143d883dd86a3",
-    "news:7cdcef73ae5b8941",
     "news:7b4c850ab6471bad",
     "news:56bd2a022ec79cd1",
     "news:9153f0305443e219",
@@ -618,11 +615,14 @@
     "news:f4023157b1fa85d2",
     "news:b75c22ab396e90e3",
     "news:2b4a04351319ffa0",
-    "news:26556d60f4f866c9"
+    "news:26556d60f4f866c9",
+    "news:174454fc5850504c",
+    "news:78484e56f88b143a",
+    "news:48eebf47eae264c5"
    ],
-   "last_success_at": "2026-11-12T15:37:14+00:00",
+   "last_success_at": "2026-11-12T16:41:48+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T15:37:14+00:00"
+   "last_new_item_at": "2026-11-12T16:41:48+00:00"
   }
  },
  "digest_queue": [
@@ -697,6 +697,15 @@
   },
   {
    "text": "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxQVHE3REg0c1dEb2paekdSMU15Mkt4bWhGRXFsUlFYME9kajlpYXVsZlZLYU5fclNoNWMzV0R5UkRSZmZ1SWIzTFlzanBvRXBmdXk1UXVmRUZqdVkwRS1zc29ON3lDQW5jY0xQQnJZN3ZMNDJzQkhRQVlkbmUycW1xZzBvT182enRXbFA1SE1sdHZxUndVenF5Y0pfcHZFZG5pV1VXb3J1MGs4Qi1xb3N0MnBVcTAyOFdwYjhoQQ?oc=5"
+  },
+  {
+   "text": "Kulturní průmysl: Vyhněte se rozptýleným investicím, zaměřte se na oblasti s konkurenčními výhodami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxPRFNvdGFxX1lUNU9SYUJFdVpNcXhVZUlpcWxnUjV1ZHBnWnB1SkxOY1VEcFU3V1R5czV0a29MUnFtNTBrRWdlWFRyZmVqS3FnWnZxOVZCaUxzb0ZELWd4TEFhX3A1TzZuMGFMOTNuaXFuYzhtWjRHblpDa2Z5ZDY1ZUE2ME1RZ1lRSnNYUWlqLXNXbjRjNDFveGl3OXh1NzdtaldkZnB1dnl2cGVC?oc=5"
+  },
+  {
+   "text": "Město Ninh Binh pořádá akce u příležitosti 10. výročí zapsání „Zvyklostí uctívání bohyně matky Tam Phu vietnamským lidem“ na seznam kulturního dědictví UNESCO. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5wFBVV95cUxNX0hsMEk3TUtmTzdRelQxWjNIR1JjdjRVZjhmX0Y3blFQVDg2TF9kdk90enhLQkEwYkNkWi02ZXI4NlRRX2RDWS0xTnhka2RyS3p0c2FVMjJIWEJVemt2VE1DSjBuUmNQWU15dnNwdVR0aGJBTEdVRDJCWDdTbGtNcWJSMk1DNzQ3d3ItR1BLYnRHQUlCZXFuRTJIejYzTzRERXVrX3VvdWFJT3BxT1IteF9ERUFNeW1nM0dRUDcybHFqX1hRZjhON3JreFJPVjVtNVRUTi0tbmt1SHBXcWlTODY1SmQzMDQ?oc=5"
+  },
+  {
+   "text": "Sportovní delegace z Vinh Longu uspořádala slavnostní rozloučení s účastí na 10. národních sportovních hrách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxQS0dfNGkxRGswRHVPLW4tVmxBSHE1bkpreVZudktpRlZGczhGSG1VektaeDVldHFUN01xdXdBSmxBeE9zS0lQeXJjYkdlY2IxVjVMWjIzTU0td196Z2NfSU9hclVEdGx6a09PMl9vX2xST3RzQ1ZacVNvLWtJbWJkY0t2WkFjNkE3Y3doYkQxRUdlWlpZNWpId3ZiU2k1bUxOVFEtM0pzV0FfZDFsM0Fzeg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
