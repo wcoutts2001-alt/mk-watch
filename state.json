@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T16:41:48+00:00",
+   "last_success_at": "2026-11-12T17:33:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T16:41:48+00:00",
+   "last_success_at": "2026-11-12T17:33:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T16:41:48+00:00",
+   "last_success_at": "2026-11-12T17:33:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,15 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T16:41:48+00:00",
+   "last_success_at": "2026-11-12T17:33:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:7b4c850ab6471bad",
-    "news:56bd2a022ec79cd1",
     "news:9153f0305443e219",
     "news:29c0338c444d2baf",
     "news:de74bd5ab26eb7fc",
@@ -618,95 +616,15 @@
     "news:26556d60f4f866c9",
     "news:174454fc5850504c",
     "news:78484e56f88b143a",
-    "news:48eebf47eae264c5"
+    "news:48eebf47eae264c5",
+    "news:6568b69ca1b17221",
+    "news:997b867c2a8e00c5"
    ],
-   "last_success_at": "2026-11-12T16:41:48+00:00",
+   "last_success_at": "2026-11-12T17:33:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T16:41:48+00:00"
+   "last_new_item_at": "2026-11-12T17:33:56+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř s Doksanským vyrazili lustrovat miliony Milionu chvilek. V Lize užitečných Babišových obsadili shodně první místo - Centrum.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGFOa1ZXeVlzUnRwXzllX185WkhNbXp6N09RdGtKRGJEY0tvcE9tTzBiV3VJME9CbDJ2cmtXQkRPOE1xVDNraUgtQmZPVkNfMTdxQnIzRHEtdlkzbjVvcG5EOGhWekhhMHM0bWlsSGRkaGV6S1hDZG5uVGlLYl9RM0l4VUhTdXl3V0o2NDIyV0xSbFBfWjVPRF9ST2Z4a2w4SGU2ZG5reEZqbTNxZjNQTnpodl9HbDZfRGJZMC13X0RScUxxLVoyS3A3Vm1NWFI1QVNPMzNrTnA5NUd3RVpjT3o5VWpBUjBpczRwTF9R?oc=5"
-  },
-  {
-   "text": "Město Dong Nai bude hostit mistrovství národního šampionátu elitních sportovců v džiu-džicu v roce 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjFtSzZwbmQ0OWFhNkxKcmswVmFPczFJQ1A1clE3QlNOQjNJSHFfR3pacGZEOGc5MUZxSVpIMWE1aHdvVjZjZXNFZ2R3blRMV2ZXUWw3OW10U2tYTkthTVctV2ttbWRUZlVabnZ3Q09RRENWXzZsMUFTX09pQklacjA0clU1eVkxX1ZPbWk0d3JvTTIyTkVmQVdEbUZmQ2JqSWZjN1FjWXRTM1daVjdOS29UdG5vSHQ0b000QTZWTDk?oc=5"
-  },
-  {
-   "text": "Přezkoumat a dokončit návrh usnesení Národního shromáždění o některých specifických mechanismech a politikách pro rozvoj vietnamského cestovního ruchu, které zajistí nejvyšší kvalitu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi_AFBVV95cUxPMjNWQllmWHV6U1ZSX0NBSkxFRnYteVQ4cmcxazVQaTZseVNIMWZIU0d3cjJVdUNOT2xmZk1ZbG9TM3N6WjgwZnFpOVBMNFQ0cjZBTi05anBpODhyMTM4UHdVdFBXQUZmNFNHT1RpUkRuNHIwcFUxQktCa04zLUtnaHZmUW5aNmN5bkl6QkpHM1Z2S0owbWc3d0FkSGJfVWVkUGJIMmc5em1JQ01kWVRMdnB3Zk11R29RV3gxNkZWeEp0X2xYYUxhdElla2VXSGx0SGUzbFdqSWF6T0l1YzhoNG9oN2g2XzdTNHI0c1VrYzRmRUJfSVI1eTdLQ20?oc=5"
-  },
-  {
-   "text": "Diskuze: Osobní vendeta, nebo úspory? Klempíř narazil s plánem na osekání filmového fondu - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE9ONklIQ3hFUGdsRjZJLXRJWFQzS3FwRC1lMzUxR0Yta1dHMGhCZlM4XzZHR3RyaVlReG1OMlNfVkR1Z1h1bWgxeWQyQk9ESEloSUhJeUxKQ2g0VzQ?oc=5"
-  },
-  {
-   "text": "Oznámení programu „Vietnam – více než jen zážitek“ a zahájení 41. ročníku udílení cen Zlatý disk. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxPSTFZTTZQUzVfMlppRnJLM3BBSng1RTV3aUEwYmpoeTg5aVVMM3laNEpDX0FKWE1RaWVoY1BLRWw5UEdCX0FLUmo3RmxXMmJLNkN0NlFLYmhXUHRNejFfc0JvV2gydGllb085bVJneVdLekk5aW5BcXEwQjZvclVwYWZTeXdEcHdCblFvdXFrMHY3UjMyMDZXU2ZDU3ZnTFp3Y3ctWUpJdjkwMHJ4UHlDYlZ5SnozSUpBeF9UUWFBY3cwQlVXbWNQSWdpZXFtbWc?oc=5"
-  },
-  {
-   "text": "Diskuze: Osobní vendeta, nebo úspory? Klempíř narazil s plánem na osekání filmového fondu - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5ySXlOcXduVm1Fb1NWb0E2M3ZpWEFIUUpBQllxb2NfUmtSZXpBSHJhcEIzUjk2NTlRWGxxVWlYdGJuV3laZlVRQ1RwOEkwT3E0?oc=5"
-  },
-  {
-   "text": "MB vytváří další impuls pro zážitkovou ekonomiku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTFA1eDNpcWszT21DbF9oaWhwX0ptbDFtb1k3VG9mZTVmVVNQc1N1b2JKMGdFMEl3WWhLV2ZRMm5ZakxoVHV2Uk9PaEtFOFVTTFhWdUhVVmtxb3NBdjE0R3ZlOHNMR1NrZ0NiZzRkbUpyTEY0cm9RVUlUWjJR?oc=5"
-  },
-  {
-   "text": "Klempíř s Doksanským vyrazili lustrovat miliony Milionu chvilek. V Lize užitečných Babišových obsadili shodně první místo - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXUzUGtmazFsanExVWlYVm9IeENuTDJrbWpQekxMUTZfLXpodExiYUlOUlFTZGNiUGs2VTNDOFd5Z3ctM1k3UWVTS3BTUTN3UU9jVlFKLVV4TXVGWUdxUjdXQlJnLVlsNjE2OXVXWTRGNVZXX0lmWGhzcDNLdXoxX0pwTG1scFhaVDZNYi1XMTJWMU1YMGw5Z19sNFF3eDl2c0ZDX2NvWXU5MmpjNWdOcEdkTHh0dll4eTR0SDVxNU9VajNMQzdWWXZMS3pRWVNvQVZyaHIydW95UHhvc25CdFJXUTNENzFuck5IaXVCZlg1U3BS?oc=5"
-  },
-  {
-   "text": "„Barvy dědictví“ na festivalu starobylé vesnice Dong Hoa Hiep v Dong Thap - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQalRUYW1HQkJxMm13QVNtdHRkRXhKQ0xJNWZWNkdBSWJtekU5WWVrcjIwalZVZXZmSkJVNmVJYTlRRnpFcGsyYTA2c2hqcmVOREQxLUFGbmpjc0hhMUJsYXczV2dtTUdCazM4bHR5UnNaemFXaHVlWHJkVFVvLVNZLVpZUHNfZENsa3Iw?oc=5"
-  },
-  {
-   "text": "MB Bank podepsala dohodu o spolupráci s Ministerstvem kultury, sportu a cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxQbldqQXp2TzRvYTZZRUJKVkxEMjdUUHlPb2JRczd6T01xM044N3FNMEVTd0dWcU0zeXZYcVlPbTBDSm1HQXR3RkdwRFc0MnNudWJfUHg0aXI4TjFyUzIwOTJtUk41R2JFalIwTTNUbjkyWHgtS2FVdzFYczh4YXY5MnJBdzh5T3E0SVJKb2xhR3NWUQ?oc=5"
-  },
-  {
-   "text": "Výročí 17. listopadu uctí Schillerová i Havlíček. Na Národní třídě zastoupí Babiše - Rádio Impuls\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxOaUhYRnhNOHQxdWpuX21LNEtmZjV2amF1N0FIRWhqb1dFQ0w0ZUJ2UVhyQ2FaZUJCbTF3ZHhwOEdKTXVGMG1NNXZDSTdxcV9HWnZrSzdRZFBJMDRETlZNWTN1Ni1jUVViSnhiQ3NKaXdaZTVmcXBaUlRuVTQ5Q0RKZU1ObmI5YlZpeHA4Q09lY0JZR3RGUEZDam5kaWtaWmNz?oc=5"
-  },
-  {
-   "text": "Přiveďte do Vietnamu více mezinárodních kulturních, uměleckých, sportovních a zábavních akcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPcHpOcjFIT1ZkaW80RzlDTXFMYW1BUXpyT2txUFN5SWlkZXRaZVltaVNFR1ROWkJDY2xzVDJlSVQ3djNFTGxNbWhRa3hUOGJJTV8tSTYwUUFOdGQyemx3WUwwOHc2dEgxd2JVSTlTc0ItVWR5dzlUa1hvdmxWVF9xRVRkOVNPblZjMkNYeFBQR29tb1F6VERwd0g4S3lDbngzb1RKWDM3Z1pXMmFIeVF1R3Zn?oc=5"
-  },
-  {
-   "text": "Světy fantazie Jindry Čapka\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6623cs-svety-fantazie-jindry-capka"
-  },
-  {
-   "text": "Volejte Klempířovi, řekne vám pravdu. Jen ještě ne... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxONG53Ykg3bElKQ3hfa3N0Z04wb0xhNU04RXpJMDJFVlJzVkVqcjBfb3ZqUVoxeTRMY1dMM3RjVWl4YjFQUnFVZ2owbjU2ZE00bjV1UE96elR4dU1xSzcyTGI3T3BBN3BwcFZhVldRWWJ3WnNsZlc2dFl3UDVkQmlScExTTGZwaFM3?oc=5"
-  },
-  {
-   "text": "Místo setkání znalostí na digitálních platformách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE9ESzYycEpwTVhWTU9MQnVKUTZPd2lSeU9sbjlFZ2J4Si1YeWUwMHB4TTJfakJEcFBQa0FyX0JxT0lFbFVxTXg4WG5BbUJCbzNPSmhuNGkwRHlOWWoxNU5lNW11LWk1d2dzc1B6bw?oc=5"
-  },
-  {
-   "text": "Ceny „Golden Disc Music Awards“ přispívají k rozvoji mezinárodní výměny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOS09uTXR1a0ZsTTF2aG1aS3Q4R1F6VmlnRVVpRjBiamF3aG5NRDNtWmg1VW05Y09KdzRSOHZ3ZGlrLXBDRG1ic190aXVLS3hLTzdmRTFuSVg3c092d3g4TExjU19WV2NRemhBaVc0M21GQnpjSS1DN2ptNkhUbmV6clVqckZEcVNlOE1SRGYwbkF6X0NvbWJJ?oc=5"
-  },
-  {
-   "text": "„Promlouvám Klempířovi na Messengeru do duše.“ Mucha, Fuksová a Biler ve Studiu N - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxPZk0yN19RVThQdThFT21ZSjhtSTlrSC1lb1UxNUFYdnFsc1FYQWZkbHBYczMyOVp4cy03VFRXRWp4YzJGdTVTX1BsZU9KbHFHZkMwUVdDNnloSXNOcEhpc3M3LUNYdS05a1gwRWEwTlAwNDdvUkxFbXFwYi1GSFBTZWVmcEdURS1oUXdZSlBWS2JGeVNfdTI2Y2habG82Q1RUbV9XdnRNSTdSVFkzVE1SOS03Zw?oc=5"
-  },
-  {
-   "text": "Festival kulturní, sportovní a turistické výměny v pohraniční oblasti Vietnamu a Laosu 2027 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOY3I3Nm4xa0MxR3daY21hUzg0cVR6djVJTVdMMVZzLTFJbWtnWlRkZTViOHZMNjMtNWwzZVRndDduSGNRSHBzMEdGeVVYbUgtTnpwQzNfZWdQNmdPM2s2b25YZzQzSTFVQW1STERya0FSQlJmal9yWlpkNTNfeDBmam1pMXhaekVIRGl6SHdwSlFtdERrQzVrbjE3eEtGNjB4QTBfQUFlMA?oc=5"
-  },
-  {
-   "text": "Hai Phong dosahuje průlomů v celoročním cestovním ruchu a jeho cílem je stát se předním turistickým centrem v Asii. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNQUJaRi1UdFpTQ2drOGlhMnJHdTRlVGV4aDJVd2t0Q01fa1JPSXBZUnhBeFhSLUF0QlJtTHd0cUlRT0ZNbWhCY0k2RGdKSUp5bW1ScUczWEowcUFPeU9GNDZjR1hiZTFjb0VkaTRvNllhS09aUDdyY0FUR3RFLXZCVVJvY05ZbFNXS2xKbDFONGFDV0tLWWFxTldobXByNW9IaFJhbkRuUzRwOHZlUzJObENhZnM?oc=5"
-  },
-  {
-   "text": "Infografika: Ministerstvo kultury, sportu a cestovního ruchu vydává plán k provedení rozhodnutí předsedy vlády č. 1960/QD-TTg ze dne 9. října 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUJJMFM0OUpraExYNEx0TDRaNnFRUERwT21leUpFSDhLS3A5Q05YTjBGWUg5WlU1YjdDZlFDR0Z1WnBtbzE2bTRIY1Y5YkpfZVoydnpkTllza1paUUxia2laNzkwN1FyaWRsLV8zOW43dmxtUXFWRG5XclUwaTBwa09KQ2h5TTAzV2JtMFVBdlpDSmxQLU0yNWVBbjFVX1pXQ183bUJHM3pJaDVNWU5tUWtPTG9haTk4S1V4aDNzTkZXRmZDNTRlVThLRWd1SnJKMVl4SEJ5d0MwMDl6WkQxM0l1eXVSdw?oc=5"
-  },
-  {
-   "text": "Tropický kras Trang An byl zařazen na seznam 100 vynikajících geologických památek světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQNjZkRk4yVXdEbkUxd3VJcUtnaDZ4cW41N2h5Qm1zN3plcVZYckF5NzVqdVRpVWh6aTUtc2NqdXJ5RWZjbGlzc2hrS1pEaHVHM21tcVlXNlEzUUYtbF9PMVRxbUlSUXY2SHpTVUY3eFdFRDNZQVBSLXNteDhRVTF0RzRlQmZfUlduTE9fempmOUxqQzB1alVGVUxFcDJaUThvMENzeUhR?oc=5"
-  },
-  {
-   "text": "Výzkum instalace tvrzeného skla nad pohřebními jámami mučedníků na hřbitově Le Thi Rieng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQTFl3Q3Exd3hjdFV0aGk2enFfWVd1S21NOS1XcTJEZHNyU2ZQTkJRQzVyeVZ6WjE1ZkJGUlNqNEF5Wk5KVlg3aWRGc3NnNUxpRUtZdEFGUlYweUR1OXp1b0o2R0h3eFdEZzRhSjlDOTByWjZNcmlSSG9BQ0ltcnlJbEw5QTVJT2dmZUZxWHNDc1czMnQxSVNHT3Rn?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu podepsalo s MB dohodu o spolupráci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNzQVVLLVJjMnlRUWVOVXpqTEQxcXBMdjhSaDdqenY5VnZORWkwcXpjejYwMXJLaE9wYnV4amhnd1dFWWpoSnZQR1VaYXoyNTRZbmdfVDBtX1lTMmNiY1ZwUDNiTnNDc3gyTFJhOXlHSlEzbTlxYTdnWS04ZFAzN25JOGI?oc=5"
-  },
-  {
-   "text": "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxQVHE3REg0c1dEb2paekdSMU15Mkt4bWhGRXFsUlFYME9kajlpYXVsZlZLYU5fclNoNWMzV0R5UkRSZmZ1SWIzTFlzanBvRXBmdXk1UXVmRUZqdVkwRS1zc29ON3lDQW5jY0xQQnJZN3ZMNDJzQkhRQVlkbmUycW1xZzBvT182enRXbFA1SE1sdHZxUndVenF5Y0pfcHZFZG5pV1VXb3J1MGs4Qi1xb3N0MnBVcTAyOFdwYjhoQQ?oc=5"
-  },
-  {
-   "text": "Kulturní průmysl: Vyhněte se rozptýleným investicím, zaměřte se na oblasti s konkurenčními výhodami. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxPRFNvdGFxX1lUNU9SYUJFdVpNcXhVZUlpcWxnUjV1ZHBnWnB1SkxOY1VEcFU3V1R5czV0a29MUnFtNTBrRWdlWFRyZmVqS3FnWnZxOVZCaUxzb0ZELWd4TEFhX3A1TzZuMGFMOTNuaXFuYzhtWjRHblpDa2Z5ZDY1ZUE2ME1RZ1lRSnNYUWlqLXNXbjRjNDFveGl3OXh1NzdtaldkZnB1dnl2cGVC?oc=5"
-  },
-  {
-   "text": "Město Ninh Binh pořádá akce u příležitosti 10. výročí zapsání „Zvyklostí uctívání bohyně matky Tam Phu vietnamským lidem“ na seznam kulturního dědictví UNESCO. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5wFBVV95cUxNX0hsMEk3TUtmTzdRelQxWjNIR1JjdjRVZjhmX0Y3blFQVDg2TF9kdk90enhLQkEwYkNkWi02ZXI4NlRRX2RDWS0xTnhka2RyS3p0c2FVMjJIWEJVemt2VE1DSjBuUmNQWU15dnNwdVR0aGJBTEdVRDJCWDdTbGtNcWJSMk1DNzQ3d3ItR1BLYnRHQUlCZXFuRTJIejYzTzRERXVrX3VvdWFJT3BxT1IteF9ERUFNeW1nM0dRUDcybHFqX1hRZjhON3JreFJPVjVtNVRUTi0tbmt1SHBXcWlTODY1SmQzMDQ?oc=5"
-  },
-  {
-   "text": "Sportovní delegace z Vinh Longu uspořádala slavnostní rozloučení s účastí na 10. národních sportovních hrách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisAFBVV95cUxQS0dfNGkxRGswRHVPLW4tVmxBSHE1bkpreVZudktpRlZGczhGSG1VektaeDVldHFUN01xdXdBSmxBeE9zS0lQeXJjYkdlY2IxVjVMWjIzTU0td196Z2NfSU9hclVEdGx6a09PMl9vX2xST3RzQ1ZacVNvLWtJbWJkY0t2WkFjNkE3Y3doYkQxRUdlWlpZNWpId3ZiU2k1bUxOVFEtM0pzV0FfZDFsM0Fzeg?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-11"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-12"
 }
