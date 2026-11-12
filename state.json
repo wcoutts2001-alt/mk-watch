@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-12T04:47:50+00:00",
+   "last_success_at": "2026-11-12T05:50:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -83,7 +83,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T04:47:50+00:00",
+   "last_success_at": "2026-11-12T05:50:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -103,7 +103,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T04:47:50+00:00",
+   "last_success_at": "2026-11-12T05:50:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -111,16 +111,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T04:47:50+00:00",
+   "last_success_at": "2026-11-12T05:50:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:7d5d4d13e10cb631",
-    "news:3de493fc54156d66",
-    "news:381e027d0c49a873",
     "news:eb158197fa721d74",
     "news:10f75e8fe1ce62d4",
     "news:6e1d86aa6c92874c",
@@ -617,11 +614,14 @@
     "news:aedf009345281903",
     "news:3e3a1275d8720638",
     "news:7ab42d66fff56480",
-    "news:a8b747b55247efe3"
+    "news:a8b747b55247efe3",
+    "news:6bb24c8bd2e5db1d",
+    "news:6b69b1649447551e",
+    "news:be5c345fc8263c9b"
    ],
-   "last_success_at": "2026-11-12T04:47:50+00:00",
+   "last_success_at": "2026-11-12T05:50:20+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T02:06:12+00:00"
+   "last_new_item_at": "2026-11-12T05:50:20+00:00"
   }
  },
  "digest_queue": [
@@ -645,6 +645,12 @@
   },
   {
    "text": "MB vytváří další impuls pro zážitkovou ekonomiku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTFA1eDNpcWszT21DbF9oaWhwX0ptbDFtb1k3VG9mZTVmVVNQc1N1b2JKMGdFMEl3WWhLV2ZRMm5ZakxoVHV2Uk9PaEtFOFVTTFhWdUhVVmtxb3NBdjE0R3ZlOHNMR1NrZ0NiZzRkbUpyTEY0cm9RVUlUWjJR?oc=5"
+  },
+  {
+   "text": "Klempíř s Doksanským vyrazili lustrovat miliony Milionu chvilek. V Lize užitečných Babišových obsadili shodně první místo - Seznam – najdu tam, co neznám\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXUzUGtmazFsanExVWlYVm9IeENuTDJrbWpQekxMUTZfLXpodExiYUlOUlFTZGNiUGs2VTNDOFd5Z3ctM1k3UWVTS3BTUTN3UU9jVlFKLVV4TXVGWUdxUjdXQlJnLVlsNjE2OXVXWTRGNVZXX0lmWGhzcDNLdXoxX0pwTG1scFhaVDZNYi1XMTJWMU1YMGw5Z19sNFF3eDl2c0ZDX2NvWXU5MmpjNWdOcEdkTHh0dll4eTR0SDVxNU9VajNMQzdWWXZMS3pRWVNvQVZyaHIydW95UHhvc25CdFJXUTNENzFuck5IaXVCZlg1U3BS?oc=5"
+  },
+  {
+   "text": "„Barvy dědictví“ na festivalu starobylé vesnice Dong Hoa Hiep v Dong Thap - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQalRUYW1HQkJxMm13QVNtdHRkRXhKQ0xJNWZWNkdBSWJtekU5WWVrcjIwalZVZXZmSkJVNmVJYTlRRnpFcGsyYTA2c2hqcmVOREQxLUFGbmpjc0hhMUJsYXczV2dtTUdCazM4bHR5UnNaemFXaHVlWHJkVFVvLVNZLVpZUHNfZENsa3Iw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
