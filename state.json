@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T17:33:56+00:00",
+   "last_success_at": "2026-11-12T18:30:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T17:33:56+00:00",
+   "last_success_at": "2026-11-12T18:30:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T17:33:56+00:00",
+   "last_success_at": "2026-11-12T18:30:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,15 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T17:33:56+00:00",
+   "last_success_at": "2026-11-12T18:30:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9153f0305443e219",
-    "news:29c0338c444d2baf",
     "news:de74bd5ab26eb7fc",
     "news:04865f7f344d3056",
     "news:951a717aa8c7f5e6",
@@ -618,13 +616,19 @@
     "news:78484e56f88b143a",
     "news:48eebf47eae264c5",
     "news:6568b69ca1b17221",
-    "news:997b867c2a8e00c5"
+    "news:997b867c2a8e00c5",
+    "news:602889763c2a1154",
+    "news:42a8ad5352eeaf45"
    ],
-   "last_success_at": "2026-11-12T17:33:56+00:00",
+   "last_success_at": "2026-11-12T18:30:00+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T17:33:56+00:00"
+   "last_new_item_at": "2026-11-12T18:30:00+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř vyzval k účasti v dotační výzvě - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQbTVWcUQ3OVJwa3pNbjM3bUE0bGFvZ2NERVlrc3R0RkRsVENuOTFvVVBSZXpCaWtsRVNJZ0ViemIwWVp0ZExuMFVQY1d4WXl1ZjRNT2M5VjBoYUZTYU1fS3JDLUJTZ1M0TVdTSUNyZEc4UVJlM21iRnlTbTk1NkpzS1cwZ2NmMFBPUlNGNWxuUQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-12"
 }
