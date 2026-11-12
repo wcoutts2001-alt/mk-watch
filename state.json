@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T11:24:55+00:00",
+   "last_success_at": "2026-11-12T12:19:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T11:24:55+00:00",
+   "last_success_at": "2026-11-12T12:19:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T11:24:55+00:00",
+   "last_success_at": "2026-11-12T12:19:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,15 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T11:24:55+00:00",
+   "last_success_at": "2026-11-12T12:19:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:feb5cd269beb3737",
-    "news:2b7c187274bfee58",
     "news:15a195941a57c618",
     "news:5ae36121a9e54f99",
     "news:4686f600b29d504b",
@@ -618,11 +616,13 @@
     "news:9c142019751a4f8c",
     "news:a7d72af8a201d9a6",
     "news:24cec99dd039318f",
-    "news:09e0a71e2d3e0759"
+    "news:09e0a71e2d3e0759",
+    "news:c41309d817372cd2",
+    "news:c1cab0505f488f24"
    ],
-   "last_success_at": "2026-11-12T11:24:55+00:00",
+   "last_success_at": "2026-11-12T12:19:51+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T11:24:55+00:00"
+   "last_new_item_at": "2026-11-12T12:19:51+00:00"
   }
  },
  "digest_queue": [
@@ -676,6 +676,12 @@
   },
   {
    "text": "„Promlouvám Klempířovi na Messengeru do duše.“ Mucha, Fuksová a Biler ve Studiu N - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxPZk0yN19RVThQdThFT21ZSjhtSTlrSC1lb1UxNUFYdnFsc1FYQWZkbHBYczMyOVp4cy03VFRXRWp4YzJGdTVTX1BsZU9KbHFHZkMwUVdDNnloSXNOcEhpc3M3LUNYdS05a1gwRWEwTlAwNDdvUkxFbXFwYi1GSFBTZWVmcEdURS1oUXdZSlBWS2JGeVNfdTI2Y2habG82Q1RUbV9XdnRNSTdSVFkzVE1SOS03Zw?oc=5"
+  },
+  {
+   "text": "Festival kulturní, sportovní a turistické výměny v pohraniční oblasti Vietnamu a Laosu 2027 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOY3I3Nm4xa0MxR3daY21hUzg0cVR6djVJTVdMMVZzLTFJbWtnWlRkZTViOHZMNjMtNWwzZVRndDduSGNRSHBzMEdGeVVYbUgtTnpwQzNfZWdQNmdPM2s2b25YZzQzSTFVQW1STERya0FSQlJmal9yWlpkNTNfeDBmam1pMXhaekVIRGl6SHdwSlFtdERrQzVrbjE3eEtGNjB4QTBfQUFlMA?oc=5"
+  },
+  {
+   "text": "Hai Phong dosahuje průlomů v celoročním cestovním ruchu a jeho cílem je stát se předním turistickým centrem v Asii. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNQUJaRi1UdFpTQ2drOGlhMnJHdTRlVGV4aDJVd2t0Q01fa1JPSXBZUnhBeFhSLUF0QlJtTHd0cUlRT0ZNbWhCY0k2RGdKSUp5bW1ScUczWEowcUFPeU9GNDZjR1hiZTFjb0VkaTRvNllhS09aUDdyY0FUR3RFLXZCVVJvY05ZbFNXS2xKbDFONGFDV0tLWWFxTldobXByNW9IaFJhbkRuUzRwOHZlUzJObENhZnM?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
