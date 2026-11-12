@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T13:43:56+00:00",
+   "last_success_at": "2026-11-12T14:38:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T13:43:56+00:00",
+   "last_success_at": "2026-11-12T14:38:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T13:43:56+00:00",
+   "last_success_at": "2026-11-12T14:38:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,14 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T13:43:56+00:00",
+   "last_success_at": "2026-11-12T14:38:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:92fcf2e68990232f",
     "news:6c86cc7648aec11c",
     "news:e6349e3bbc8e7557",
     "news:d67143d883dd86a3",
@@ -618,11 +617,12 @@
     "news:c1cab0505f488f24",
     "news:feb4d90d4db63d4c",
     "news:f4023157b1fa85d2",
-    "news:b75c22ab396e90e3"
+    "news:b75c22ab396e90e3",
+    "news:2b4a04351319ffa0"
    ],
-   "last_success_at": "2026-11-12T13:43:56+00:00",
+   "last_success_at": "2026-11-12T14:38:05+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T13:43:56+00:00"
+   "last_new_item_at": "2026-11-12T14:38:05+00:00"
   }
  },
  "digest_queue": [
@@ -691,6 +691,9 @@
   },
   {
    "text": "Výzkum instalace tvrzeného skla nad pohřebními jámami mučedníků na hřbitově Le Thi Rieng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQTFl3Q3Exd3hjdFV0aGk2enFfWVd1S21NOS1XcTJEZHNyU2ZQTkJRQzVyeVZ6WjE1ZkJGUlNqNEF5Wk5KVlg3aWRGc3NnNUxpRUtZdEFGUlYweUR1OXp1b0o2R0h3eFdEZzRhSjlDOTByWjZNcmlSSG9BQ0ltcnlJbEw5QTVJT2dmZUZxWHNDc1czMnQxSVNHT3Rn?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu podepsalo s MB dohodu o spolupráci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNzQVVLLVJjMnlRUWVOVXpqTEQxcXBMdjhSaDdqenY5VnZORWkwcXpjejYwMXJLaE9wYnV4amhnd1dFWWpoSnZQR1VaYXoyNTRZbmdfVDBtX1lTMmNiY1ZwUDNiTnNDc3gyTFJhOXlHSlEzbTlxYTdnWS04ZFAzN25JOGI?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
