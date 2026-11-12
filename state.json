@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T22:44:07+00:00",
+   "last_success_at": "2026-11-12T23:24:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-12T22:44:07+00:00",
+   "last_success_at": "2026-11-12T23:24:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T22:44:07+00:00",
+   "last_success_at": "2026-11-12T23:24:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,14 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T22:44:07+00:00",
+   "last_success_at": "2026-11-12T23:24:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:04865f7f344d3056",
     "news:951a717aa8c7f5e6",
     "news:a49f41eb5d6f7594",
     "news:2028f12d47097866",
@@ -619,16 +618,20 @@
     "news:997b867c2a8e00c5",
     "news:602889763c2a1154",
     "news:42a8ad5352eeaf45",
-    "news:0219bcce32334986"
+    "news:0219bcce32334986",
+    "news:f2905f840d05ade1"
    ],
-   "last_success_at": "2026-11-12T22:44:07+00:00",
+   "last_success_at": "2026-11-12T23:24:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T19:28:40+00:00"
+   "last_new_item_at": "2026-11-12T23:24:09+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Klempíř vyzval k účasti v dotační výzvě - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQbTVWcUQ3OVJwa3pNbjM3bUE0bGFvZ2NERVlrc3R0RkRsVENuOTFvVVBSZXpCaWtsRVNJZ0ViemIwWVp0ZExuMFVQY1d4WXl1ZjRNT2M5VjBoYUZTYU1fS3JDLUJTZ1M0TVdTSUNyZEc4UVJlM21iRnlTbTk1NkpzS1cwZ2NmMFBPUlNGNWxuUQ?oc=5"
+  },
+  {
+   "text": "Vojenská univerzita kultury a umění je nejlepší institucí pro taneční výcvik. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPWmMzVXY0VS11cmZMbXdUZUVXdEo0TUFaZkh0U3FjQ05EbUlwcjBfLVVlZzZZak54N1NEeWJGaEhkWVFDTTZuU0RtalcwZFp2bmRiNldLWkwzenVuT2R5Wmp3a0NvTHVnVWxTSVdhV0NmNWI4YkJYTmRrbkthQ3VEZUU1V2FqdnBBQTZDYzdUdHFJT2N6d1dabzVWMmtCNjdtX21WVXV3?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
