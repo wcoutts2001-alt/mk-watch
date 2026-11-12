@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T14:38:05+00:00",
+   "last_success_at": "2026-11-12T15:37:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T14:38:05+00:00",
+   "last_success_at": "2026-11-12T15:37:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T14:38:05+00:00",
+   "last_success_at": "2026-11-12T15:37:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,14 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T14:38:05+00:00",
+   "last_success_at": "2026-11-12T15:37:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6c86cc7648aec11c",
     "news:e6349e3bbc8e7557",
     "news:d67143d883dd86a3",
     "news:7cdcef73ae5b8941",
@@ -618,11 +617,12 @@
     "news:feb4d90d4db63d4c",
     "news:f4023157b1fa85d2",
     "news:b75c22ab396e90e3",
-    "news:2b4a04351319ffa0"
+    "news:2b4a04351319ffa0",
+    "news:26556d60f4f866c9"
    ],
-   "last_success_at": "2026-11-12T14:38:05+00:00",
+   "last_success_at": "2026-11-12T15:37:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T14:38:05+00:00"
+   "last_new_item_at": "2026-11-12T15:37:14+00:00"
   }
  },
  "digest_queue": [
@@ -694,6 +694,9 @@
   },
   {
    "text": "Ministerstvo kultury, sportu a cestovního ruchu podepsalo s MB dohodu o spolupráci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPRFNzQVVLLVJjMnlRUWVOVXpqTEQxcXBMdjhSaDdqenY5VnZORWkwcXpjejYwMXJLaE9wYnV4amhnd1dFWWpoSnZQR1VaYXoyNTRZbmdfVDBtX1lTMmNiY1ZwUDNiTnNDc3gyTFJhOXlHSlEzbTlxYTdnWS04ZFAzN25JOGI?oc=5"
+  },
+  {
+   "text": "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxQVHE3REg0c1dEb2paekdSMU15Mkt4bWhGRXFsUlFYME9kajlpYXVsZlZLYU5fclNoNWMzV0R5UkRSZmZ1SWIzTFlzanBvRXBmdXk1UXVmRUZqdVkwRS1zc29ON3lDQW5jY0xQQnJZN3ZMNDJzQkhRQVlkbmUycW1xZzBvT182enRXbFA1SE1sdHZxUndVenF5Y0pfcHZFZG5pV1VXb3J1MGs4Qi1xb3N0MnBVcTAyOFdwYjhoQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
