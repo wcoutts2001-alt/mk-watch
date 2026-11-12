@@ -31,11 +31,12 @@
     "website:2799a0a91c96385f",
     "website:cbf07ac1da1f67c8",
     "website:14968d33a94e28f3",
-    "website:22ec4678912f5ca0"
+    "website:22ec4678912f5ca0",
+    "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T09:14:39+00:00",
+   "last_success_at": "2026-11-12T10:18:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-04T11:51:56+00:00"
+   "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
   "facebook": {
    "seen": [
@@ -83,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T09:14:39+00:00",
+   "last_success_at": "2026-11-12T10:18:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -103,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T09:14:39+00:00",
+   "last_success_at": "2026-11-12T10:18:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -111,16 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T09:14:39+00:00",
+   "last_success_at": "2026-11-12T10:18:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9cc80fb2ef2a0a60",
-    "news:234ead818e146177",
-    "news:9b4b1653f2914ee4",
     "news:d5b60e26cd4e0f02",
     "news:feb5cd269beb3737",
     "news:2b7c187274bfee58",
@@ -617,11 +615,14 @@
     "news:be5c345fc8263c9b",
     "news:64ea572b97bc5064",
     "news:631faf8d1e382376",
-    "news:ea31d9ab942be165"
+    "news:ea31d9ab942be165",
+    "news:9c142019751a4f8c",
+    "news:a7d72af8a201d9a6",
+    "news:24cec99dd039318f"
    ],
-   "last_success_at": "2026-11-12T09:14:39+00:00",
+   "last_success_at": "2026-11-12T10:18:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T09:14:39+00:00"
+   "last_new_item_at": "2026-11-12T10:18:46+00:00"
   }
  },
  "digest_queue": [
@@ -660,6 +661,18 @@
   },
   {
    "text": "Přiveďte do Vietnamu více mezinárodních kulturních, uměleckých, sportovních a zábavních akcí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxPcHpOcjFIT1ZkaW80RzlDTXFMYW1BUXpyT2txUFN5SWlkZXRaZVltaVNFR1ROWkJDY2xzVDJlSVQ3djNFTGxNbWhRa3hUOGJJTV8tSTYwUUFOdGQyemx3WUwwOHc2dEgxd2JVSTlTc0ItVWR5dzlUa1hvdmxWVF9xRVRkOVNPblZjMkNYeFBQR29tb1F6VERwd0g4S3lDbngzb1RKWDM3Z1pXMmFIeVF1R3Zn?oc=5"
+  },
+  {
+   "text": "Světy fantazie Jindry Čapka\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6623cs-svety-fantazie-jindry-capka"
+  },
+  {
+   "text": "Volejte Klempířovi, řekne vám pravdu. Jen ještě ne... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxONG53Ykg3bElKQ3hfa3N0Z04wb0xhNU04RXpJMDJFVlJzVkVqcjBfb3ZqUVoxeTRMY1dMM3RjVWl4YjFQUnFVZ2owbjU2ZE00bjV1UE96elR4dU1xSzcyTGI3T3BBN3BwcFZhVldRWWJ3WnNsZlc2dFl3UDVkQmlScExTTGZwaFM3?oc=5"
+  },
+  {
+   "text": "Místo setkání znalostí na digitálních platformách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE9ESzYycEpwTVhWTU9MQnVKUTZPd2lSeU9sbjlFZ2J4Si1YeWUwMHB4TTJfakJEcFBQa0FyX0JxT0lFbFVxTXg4WG5BbUJCbzNPSmhuNGkwRHlOWWoxNU5lNW11LWk1d2dzc1B6bw?oc=5"
+  },
+  {
+   "text": "Ceny „Golden Disc Music Awards“ přispívají k rozvoji mezinárodní výměny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOS09uTXR1a0ZsTTF2aG1aS3Q4R1F6VmlnRVVpRjBiamF3aG5NRDNtWmg1VW05Y09KdzRSOHZ3ZGlrLXBDRG1ic190aXVLS3hLTzdmRTFuSVg3c092d3g4TExjU19WV2NRemhBaVc0M21GQnpjSS1DN2ptNkhUbmV6clVqckZEcVNlOE1SRGYwbkF6X0NvbWJJ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
