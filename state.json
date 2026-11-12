@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-12T12:19:51+00:00",
+   "last_success_at": "2026-11-12T13:43:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,7 +84,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T12:19:51+00:00",
+   "last_success_at": "2026-11-12T13:43:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -104,7 +104,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T12:19:51+00:00",
+   "last_success_at": "2026-11-12T13:43:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -112,16 +112,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T12:19:51+00:00",
+   "last_success_at": "2026-11-12T13:43:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:15a195941a57c618",
-    "news:5ae36121a9e54f99",
-    "news:4686f600b29d504b",
     "news:92fcf2e68990232f",
     "news:6c86cc7648aec11c",
     "news:e6349e3bbc8e7557",
@@ -618,11 +615,14 @@
     "news:24cec99dd039318f",
     "news:09e0a71e2d3e0759",
     "news:c41309d817372cd2",
-    "news:c1cab0505f488f24"
+    "news:c1cab0505f488f24",
+    "news:feb4d90d4db63d4c",
+    "news:f4023157b1fa85d2",
+    "news:b75c22ab396e90e3"
    ],
-   "last_success_at": "2026-11-12T12:19:51+00:00",
+   "last_success_at": "2026-11-12T13:43:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T12:19:51+00:00"
+   "last_new_item_at": "2026-11-12T13:43:56+00:00"
   }
  },
  "digest_queue": [
@@ -682,6 +682,15 @@
   },
   {
    "text": "Hai Phong dosahuje průlomů v celoročním cestovním ruchu a jeho cílem je stát se předním turistickým centrem v Asii. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitAFBVV95cUxNQUJaRi1UdFpTQ2drOGlhMnJHdTRlVGV4aDJVd2t0Q01fa1JPSXBZUnhBeFhSLUF0QlJtTHd0cUlRT0ZNbWhCY0k2RGdKSUp5bW1ScUczWEowcUFPeU9GNDZjR1hiZTFjb0VkaTRvNllhS09aUDdyY0FUR3RFLXZCVVJvY05ZbFNXS2xKbDFONGFDV0tLWWFxTldobXByNW9IaFJhbkRuUzRwOHZlUzJObENhZnM?oc=5"
+  },
+  {
+   "text": "Infografika: Ministerstvo kultury, sportu a cestovního ruchu vydává plán k provedení rozhodnutí předsedy vlády č. 1960/QD-TTg ze dne 9. října 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUJJMFM0OUpraExYNEx0TDRaNnFRUERwT21leUpFSDhLS3A5Q05YTjBGWUg5WlU1YjdDZlFDR0Z1WnBtbzE2bTRIY1Y5YkpfZVoydnpkTllza1paUUxia2laNzkwN1FyaWRsLV8zOW43dmxtUXFWRG5XclUwaTBwa09KQ2h5TTAzV2JtMFVBdlpDSmxQLU0yNWVBbjFVX1pXQ183bUJHM3pJaDVNWU5tUWtPTG9haTk4S1V4aDNzTkZXRmZDNTRlVThLRWd1SnJKMVl4SEJ5d0MwMDl6WkQxM0l1eXVSdw?oc=5"
+  },
+  {
+   "text": "Tropický kras Trang An byl zařazen na seznam 100 vynikajících geologických památek světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQNjZkRk4yVXdEbkUxd3VJcUtnaDZ4cW41N2h5Qm1zN3plcVZYckF5NzVqdVRpVWh6aTUtc2NqdXJ5RWZjbGlzc2hrS1pEaHVHM21tcVlXNlEzUUYtbF9PMVRxbUlSUXY2SHpTVUY3eFdFRDNZQVBSLXNteDhRVTF0RzRlQmZfUlduTE9fempmOUxqQzB1alVGVUxFcDJaUThvMENzeUhR?oc=5"
+  },
+  {
+   "text": "Výzkum instalace tvrzeného skla nad pohřebními jámami mučedníků na hřbitově Le Thi Rieng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQTFl3Q3Exd3hjdFV0aGk2enFfWVd1S21NOS1XcTJEZHNyU2ZQTkJRQzVyeVZ6WjE1ZkJGUlNqNEF5Wk5KVlg3aWRGc3NnNUxpRUtZdEFGUlYweUR1OXp1b0o2R0h3eFdEZzRhSjlDOTByWjZNcmlSSG9BQ0ltcnlJbEw5QTVJT2dmZUZxWHNDc1czMnQxSVNHT3Rn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
