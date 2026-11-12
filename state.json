@@ -33,7 +33,7 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0"
    ],
-   "last_success_at": "2026-11-12T00:51:29+00:00",
+   "last_success_at": "2026-11-12T02:06:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-04T11:51:56+00:00"
   },
@@ -83,7 +83,7 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e"
    ],
-   "last_success_at": "2026-11-12T00:51:29+00:00",
+   "last_success_at": "2026-11-12T02:06:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-11T19:41:26+00:00"
   },
@@ -103,7 +103,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-12T00:51:29+00:00",
+   "last_success_at": "2026-11-12T02:06:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -111,15 +111,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-12T00:51:29+00:00",
+   "last_success_at": "2026-11-12T02:06:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:07e6d6b4561fe12a",
-    "news:795a3441fc85b5ce",
     "news:7d5d4d13e10cb631",
     "news:3de493fc54156d66",
     "news:381e027d0c49a873",
@@ -617,11 +615,13 @@
     "news:92a7994f499b6e89",
     "news:1c32eb61f4ec1e84",
     "news:aedf009345281903",
-    "news:3e3a1275d8720638"
+    "news:3e3a1275d8720638",
+    "news:7ab42d66fff56480",
+    "news:a8b747b55247efe3"
    ],
-   "last_success_at": "2026-11-12T00:51:29+00:00",
+   "last_success_at": "2026-11-12T02:06:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T00:51:29+00:00"
+   "last_new_item_at": "2026-11-12T02:06:12+00:00"
   }
  },
  "digest_queue": [
@@ -639,6 +639,12 @@
   },
   {
    "text": "Oznámení programu „Vietnam – více než jen zážitek“ a zahájení 41. ročníku udílení cen Zlatý disk. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxPSTFZTTZQUzVfMlppRnJLM3BBSng1RTV3aUEwYmpoeTg5aVVMM3laNEpDX0FKWE1RaWVoY1BLRWw5UEdCX0FLUmo3RmxXMmJLNkN0NlFLYmhXUHRNejFfc0JvV2gydGllb085bVJneVdLekk5aW5BcXEwQjZvclVwYWZTeXdEcHdCblFvdXFrMHY3UjMyMDZXU2ZDU3ZnTFp3Y3ctWUpJdjkwMHJ4UHlDYlZ5SnozSUpBeF9UUWFBY3cwQlVXbWNQSWdpZXFtbWc?oc=5"
+  },
+  {
+   "text": "Diskuze: Osobní vendeta, nebo úspory? Klempíř narazil s plánem na osekání filmového fondu - Reflex.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5ySXlOcXduVm1Fb1NWb0E2M3ZpWEFIUUpBQllxb2NfUmtSZXpBSHJhcEIzUjk2NTlRWGxxVWlYdGJuV3laZlVRQ1RwOEkwT3E0?oc=5"
+  },
+  {
+   "text": "MB vytváří další impuls pro zážitkovou ekonomiku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTFA1eDNpcWszT21DbF9oaWhwX0ptbDFtb1k3VG9mZTVmVVNQc1N1b2JKMGdFMEl3WWhLV2ZRMm5ZakxoVHV2Uk9PaEtFOFVTTFhWdUhVVmtxb3NBdjE0R3ZlOHNMR1NrZ0NiZzRkbUpyTEY0cm9RVUlUWjJR?oc=5"
   }
  ],
  "last_digest_date": "2026-11-11"
