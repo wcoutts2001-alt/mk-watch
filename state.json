@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T16:24:46+00:00",
+   "last_success_at": "2026-11-13T22:04:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T16:24:46+00:00",
+   "last_success_at": "2026-11-13T22:04:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T16:24:46+00:00",
+   "last_success_at": "2026-11-13T22:04:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,7 +113,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T16:24:46+00:00",
+   "last_success_at": "2026-11-13T22:04:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -623,58 +623,11 @@
    ],
    "last_success_at": "2026-11-13T16:24:46+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T16:24:46+00:00"
+   "last_new_item_at": "2026-11-13T16:24:46+00:00",
+   "first_error_at": "2026-11-13T22:04:19+00:00",
+   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř vyzval k účasti v dotační výzvě - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQbTVWcUQ3OVJwa3pNbjM3bUE0bGFvZ2NERVlrc3R0RkRsVENuOTFvVVBSZXpCaWtsRVNJZ0ViemIwWVp0ZExuMFVQY1d4WXl1ZjRNT2M5VjBoYUZTYU1fS3JDLUJTZ1M0TVdTSUNyZEc4UVJlM21iRnlTbTk1NkpzS1cwZ2NmMFBPUlNGNWxuUQ?oc=5"
-  },
-  {
-   "text": "Vojenská univerzita kultury a umění je nejlepší institucí pro taneční výcvik. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPWmMzVXY0VS11cmZMbXdUZUVXdEo0TUFaZkh0U3FjQ05EbUlwcjBfLVVlZzZZak54N1NEeWJGaEhkWVFDTTZuU0RtalcwZFp2bmRiNldLWkwzenVuT2R5Wmp3a0NvTHVnVWxTSVdhV0NmNWI4YkJYTmRrbkthQ3VEZUU1V2FqdnBBQTZDYzdUdHFJT2N6d1dabzVWMmtCNjdtX21WVXV3?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město studuje zachování oblasti masového hrobu mučedníků v parku Le Thi Rieng. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWpBMUhjSXJObnV3NFR4TzdFMlBFQlhSMHJmREVXMTBMaUwwUzFOMWJ6ZW5qaDlTS2ZnTXlwTEUzcHVjaFU4S1NCQXZZSzBLZXNySVotUDJyZ2FDcUtFallXM0dVcE9abXVNbTJaMEtJdDVCa3hWd3h0OTdyc2Zack5OVG1KOUlXcjBVeVMxWnlnNVkyUkRMeTdzS0hpaFRMVWFucVF3WEZtRjg?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město zahajuje program rozvoje vietnamské kultury v oblasti etnické příslušnosti, víry a náboženství. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1RQMFpYUHRXZU1HdnFPRk5vV2U3WG9aLTdfLUdpbWxPTzZraFFXMTVFNzgwLW9zMm8yejVFek9qdm1ndzlhemE1RnpScWFQV0tnZUdkS19zYlpQMDFuWXI2N0ljdDhPYXpkZVU2ZDZxX190UlgwSHh1bjVrOUdfbDU4elozUnF6WG1CT0RFY2hvanhWNE5FT2FHcFRFRWNISVNZUE5MWW1kT1FZQ3VkM3ZTdGFSV0J0Um5BeFY2TGJtYlNQQXFGLQ?oc=5"
-  },
-  {
-   "text": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNN1Q2Vy1jeXlwa0h6dXV4SGNVNUt1dmFUSDlTWGNYT2psWTcxZURTQWpHaUJhRlkzZldESEd2Y0Ftbk5PYU1Ib2dSckdxbjVlRXI1THp0NGNNMUhOQi1TSUI0Y1hLWkFPNG1PTm1uaHpPZ25LSmdUZURVbmVncVJWazdVVXdPZkE5UFlJS1RnYWgxMWI2Q1NZTlI5SkFneFQxZ0JnOHhhYUNkVGU2SXpzRFZR?oc=5"
-  },
-  {
-   "text": "Aplikace umělé inteligence a digitálních technologií v žurnalistice a televizi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQOHRnUkpFZnRHdUpZQ1J3dkVLVGJFVkJWeENJWUowWUM3aWRZaUxES0ZxeDlQMFVKRVhQN05VWEMxVnVIZnBIVlE0VklXY0g3aFRkSThKbWc3TG11VDFEMWZZMTZGeXdDWm5YaFNBUUhiSjBDTVFNUjRGOU1SX3lTQ3Y1dW1fUjJ2TFdGQk1n?oc=5"
-  },
-  {
-   "text": "Předpisy o ukazatelích týkajících se přínosu kulturních odvětví k ekonomice. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPWVE0RGlmVGNQN3BFT3hhVkRmbVZob2FDWFNIT19MMlZZbUlidjNtTm1JZnV4R3MzM1ZPcUFVZmJobHFzZ1NKcG1KdGtUbURNa1c5c19hX2s3NXJSZTlfSUI4cGhMbS1QTHpRWVEtWGYwOVhOVVZNT2ViTVNDZ0JsRlAwMDV4REdSVWxzVk5zci1tRjFuZ0w3QU5B?oc=5"
-  },
-  {
-   "text": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE5VU1AyWmp3RU04WVNlTElwZE43SDZwSktveF9SY0k5MEg3SlQ1YU9tdE9tOHFBcjN6bG5sUVdTQmVtWlBZTENqYzREWTFkWUpCdGY0?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh: Ministerstvo kultury, sportu a cestovního ruchu rozhodně plní své úkoly a usiluje o dosažení svých cílů do roku 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8gFBVV95cUxOUTlsX1F2OU5OQWdacXJlbUtBWXNYOVE3eENmdEFySHVRNmtnOUJJdlNib1NydlRuM3lFcVdHcEZxWjdOY3AtVE83cEFaUEthWFEzek8ydWZrdS1KU2U1Yms4a1FZTTNTVk5Bd2VaV0JaSXpDbWxTY0xabFRwckt6c2V4Q29zbHpIU1RiSUhCRXJ6TVJfZzdGMFdwMVRpckdZc0x0ZG9zd2l5aEZxa2NVdTJoMzl4c3k3M1dSdnI5Z2FlQVBSbWlnbTRSeGpQYlpjN1EtTE1aOGJLalFLbnpmZ2RFU1N2VGNiQWdEYk9OYmNWZw?oc=5"
-  },
-  {
-   "text": "Bureš s Oldou se lustrovat nebudou. TOP 09 chce napravit absurditu, ale asi narazí - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQSUUtU2dGRlJxV2hRYlZNd21uUDIwTFJoYUNqM0ZZbTlQLTg3cnVMeUNjQU9YWXpVWjB2bHBxY1ZvZlo1dzQ5UDlGUVE3VEZYakM1bXhCNE5hdVp1blNhb2hOM2lQNUZMUHB6eEt3NDliaEVrMTA2Umt4Q0lYX3R4ZFNwZWpuMVJweVFRTndCNVN1Zml5YnEwT1VkM3dvLTc1b2o0THFn?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město digitalizuje kulturní dědictví ve spojení s rozvojem cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxQczBkb01qWkdkbXFPbTNRbFdWa1VJeWxPT2tSeFlndU1UX2RGd2tmUXpwd0x3UjZFS19mSnFJd1dqTnVTa1FXN19ueEgxVUZjMTVReVE3a3M2RldSYVlBNG1MdkxmMjV6eUpsaUhtdzZkeHpETFRmRWNGOGlJQ2h4WXo4ZGRwR29i?oc=5"
-  },
-  {
-   "text": "Phu Tho: Představení kulturního dědictví etnických menšin prostřednictvím výstavy „Dědictví uprostřed tisíce barev Vysočiny“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxORVljcUtwUUZZMEZpalc5OVFCbjdsVTRvOHFZc3dYeXQwWE9GTEtKaE1DMF9PVlVCVGJfMEsyZTJOS1ZFa0VqT05Bc1pwMmlwS05wQzZoMFAzZkZnUmFITklWWHFzRXdZM3ZBMnZmRkxUUWZzV1M1OVFlcHdJcDVESHdaU1RKQ0I4Nl9XMDFSTVRWclh6blVtZzdDQWVtQVJPVWxoYWN6ZHdzdU5aNmJOMC0wbTJmelRxcVMteTJMY3U?oc=5"
-  },
-  {
-   "text": "Do roku 2026: Cílem je dosáhnout tempa růstu kulturního průmyslu 10 % nebo vyššího. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOMmdFWmEwSVlLN0lRX1ZxOTM4Ukw0d3ZDNGZrYUQ5Qm0yclhrV1VIQTJaX2lfS01pX09FM0t2NWtGdVY1SWRSelhaMmxuZnEtTzN4TFpwWGdwUTJxUU5Cb2hqZ1NMMTlKVWRqRVg1cmpIbXdnVVlLQ2xYVEdDLVpwUENpZ1UySHUtckhBZGg2Rmw4Qnc?oc=5"
-  },
-  {
-   "text": "Výstava v klášteře Želiv připomene život církve za normalizace - Církev.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQall0ZWhUMG9HX19ZTlR5elFoZkFnSkVDV0RkWGNjMUFuY2hoUmVJOWh1OV9lOUZVRUU0NkgwWlc1ZmNyUnpHeTVPdXFFbDRkWkotUVJTZWdZYnBXZFZBSzVnc3M2cTAxSjRmR3FFMTV4blNUQzJtUmpnbTBXN2RjVDlNZnZuQ0tYNVpKbUJCUDBwMDRG?oc=5"
-  },
-  {
-   "text": "Lidé pohřbívají nesmyslné nápady a politiku ministerstva kultury. Před budovu přišli na pohřeb - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxONk8zR3dxSEwwS28yUy1tQl9lVkNLbjlvYW5oZTZJbFRGbnRYOHRIX29kWGFhWFNHX1ZLdFRyaUdIeUFQajJoeFF2M01UQllLenBNQmtPZDJ3bEdlNjVObDhlbFBkaDhiZGdkaFRkbXBLeHI1R1phMjdLdndZYVlDQ1BrVEpUXy1Dd3E4bktqU29zLUo5Y1o4Qi1TY083NFFfT3VSa1ZCWU4wenZEa1JjbTVpeVo4Y0JObmlHM3BFRTFVdV9BQ3JINTBxV3JXTTRYTlpjcTRn?oc=5"
-  },
-  {
-   "text": "Lidé pohřbívají nesmyslné nápady a politiku ministerstva kultury. Před budovu přišli na pohřeb - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiT0FVX3lxTE5NRmRWeHpSV3FCaDhKNG5lQU85UEhOT3E2bTJNVGJzWkZYTjM0dUxSZG50YmJQMC1GRlF1LVZDUWVhTURWMzFoaWxKMllhVWM?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-12"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-13"
 }
