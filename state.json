@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T11:34:56+00:00",
+   "last_success_at": "2026-11-13T12:38:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T11:34:56+00:00",
+   "last_success_at": "2026-11-13T12:38:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T11:34:56+00:00",
+   "last_success_at": "2026-11-13T12:38:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,19 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T11:34:56+00:00",
+   "last_success_at": "2026-11-13T12:38:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:8498353aae22fa75",
-    "news:f92925ecc807f938",
-    "news:5b38bcf85d799ae0",
-    "news:b1962cd4ec7243f5",
-    "news:877743924c101693",
-    "news:3fe323cd34593b99",
     "news:920a31144eb33e4a",
     "news:a5375e02a27550fb",
     "news:ddd9905a245064ef",
@@ -619,11 +613,17 @@
     "news:961be2ea6c885093",
     "news:1f41054fef5a5d96",
     "news:929c49c52db8b4db",
-    "news:8dd8ff8b936dbdee"
+    "news:8dd8ff8b936dbdee",
+    "news:b0515d3ee8271a25",
+    "news:672b2d1c6c486547",
+    "news:81ca1a3a5a7b5efb",
+    "news:df8284cd5afc6f97",
+    "news:91aa199e6e2740cd",
+    "news:2ad342eca63bec4b"
    ],
-   "last_success_at": "2026-11-13T11:34:56+00:00",
+   "last_success_at": "2026-11-13T12:38:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T11:34:56+00:00"
+   "last_new_item_at": "2026-11-13T12:38:25+00:00"
   }
  },
  "digest_queue": [
@@ -647,6 +647,21 @@
   },
   {
    "text": "Předpisy o ukazatelích týkajících se přínosu kulturních odvětví k ekonomice. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPWVE0RGlmVGNQN3BFT3hhVkRmbVZob2FDWFNIT19MMlZZbUlidjNtTm1JZnV4R3MzM1ZPcUFVZmJobHFzZ1NKcG1KdGtUbURNa1c5c19hX2s3NXJSZTlfSUI4cGhMbS1QTHpRWVEtWGYwOVhOVVZNT2ViTVNDZ0JsRlAwMDV4REdSVWxzVk5zci1tRjFuZ0w3QU5B?oc=5"
+  },
+  {
+   "text": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE5VU1AyWmp3RU04WVNlTElwZE43SDZwSktveF9SY0k5MEg3SlQ1YU9tdE9tOHFBcjN6bG5sUVdTQmVtWlBZTENqYzREWTFkWUpCdGY0?oc=5"
+  },
+  {
+   "text": "Ministr Lam Thi Phuong Thanh: Ministerstvo kultury, sportu a cestovního ruchu rozhodně plní své úkoly a usiluje o dosažení svých cílů do roku 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi8gFBVV95cUxOUTlsX1F2OU5OQWdacXJlbUtBWXNYOVE3eENmdEFySHVRNmtnOUJJdlNib1NydlRuM3lFcVdHcEZxWjdOY3AtVE83cEFaUEthWFEzek8ydWZrdS1KU2U1Yms4a1FZTTNTVk5Bd2VaV0JaSXpDbWxTY0xabFRwckt6c2V4Q29zbHpIU1RiSUhCRXJ6TVJfZzdGMFdwMVRpckdZc0x0ZG9zd2l5aEZxa2NVdTJoMzl4c3k3M1dSdnI5Z2FlQVBSbWlnbTRSeGpQYlpjN1EtTE1aOGJLalFLbnpmZ2RFU1N2VGNiQWdEYk9OYmNWZw?oc=5"
+  },
+  {
+   "text": "Bureš s Oldou se lustrovat nebudou. TOP 09 chce napravit absurditu, ale asi narazí - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxQSUUtU2dGRlJxV2hRYlZNd21uUDIwTFJoYUNqM0ZZbTlQLTg3cnVMeUNjQU9YWXpVWjB2bHBxY1ZvZlo1dzQ5UDlGUVE3VEZYakM1bXhCNE5hdVp1blNhb2hOM2lQNUZMUHB6eEt3NDliaEVrMTA2Umt4Q0lYX3R4ZFNwZWpuMVJweVFRTndCNVN1Zml5YnEwT1VkM3dvLTc1b2o0THFn?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město digitalizuje kulturní dědictví ve spojení s rozvojem cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxQczBkb01qWkdkbXFPbTNRbFdWa1VJeWxPT2tSeFlndU1UX2RGd2tmUXpwd0x3UjZFS19mSnFJd1dqTnVTa1FXN19ueEgxVUZjMTVReVE3a3M2RldSYVlBNG1MdkxmMjV6eUpsaUhtdzZkeHpETFRmRWNGOGlJQ2h4WXo4ZGRwR29i?oc=5"
+  },
+  {
+   "text": "Phu Tho: Představení kulturního dědictví etnických menšin prostřednictvím výstavy „Dědictví uprostřed tisíce barev Vysočiny“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxORVljcUtwUUZZMEZpalc5OVFCbjdsVTRvOHFZc3dYeXQwWE9GTEtKaE1DMF9PVlVCVGJfMEsyZTJOS1ZFa0VqT05Bc1pwMmlwS05wQzZoMFAzZkZnUmFITklWWHFzRXdZM3ZBMnZmRkxUUWZzV1M1OVFlcHdJcDVESHdaU1RKQ0I4Nl9XMDFSTVRWclh6blVtZzdDQWVtQVJPVWxoYWN6ZHdzdU5aNmJOMC0wbTJmelRxcVMteTJMY3U?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
