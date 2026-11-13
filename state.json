@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T10:39:42+00:00",
+   "last_success_at": "2026-11-13T11:34:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T10:39:42+00:00",
+   "last_success_at": "2026-11-13T11:34:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T10:39:42+00:00",
+   "last_success_at": "2026-11-13T11:34:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,15 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T10:39:42+00:00",
+   "last_success_at": "2026-11-13T11:34:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:cf00ad9e51f039ed",
-    "news:0218b6d4cbb7c422",
     "news:8498353aae22fa75",
     "news:f92925ecc807f938",
     "news:5b38bcf85d799ae0",
@@ -619,11 +617,13 @@
     "news:57a0c546b8cf4357",
     "news:2051472c3600481a",
     "news:961be2ea6c885093",
-    "news:1f41054fef5a5d96"
+    "news:1f41054fef5a5d96",
+    "news:929c49c52db8b4db",
+    "news:8dd8ff8b936dbdee"
    ],
-   "last_success_at": "2026-11-13T10:39:42+00:00",
+   "last_success_at": "2026-11-13T11:34:56+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T10:39:42+00:00"
+   "last_new_item_at": "2026-11-13T11:34:56+00:00"
   }
  },
  "digest_queue": [
@@ -641,6 +641,12 @@
   },
   {
    "text": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNN1Q2Vy1jeXlwa0h6dXV4SGNVNUt1dmFUSDlTWGNYT2psWTcxZURTQWpHaUJhRlkzZldESEd2Y0Ftbk5PYU1Ib2dSckdxbjVlRXI1THp0NGNNMUhOQi1TSUI0Y1hLWkFPNG1PTm1uaHpPZ25LSmdUZURVbmVncVJWazdVVXdPZkE5UFlJS1RnYWgxMWI2Q1NZTlI5SkFneFQxZ0JnOHhhYUNkVGU2SXpzRFZR?oc=5"
+  },
+  {
+   "text": "Aplikace umělé inteligence a digitálních technologií v žurnalistice a televizi. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQOHRnUkpFZnRHdUpZQ1J3dkVLVGJFVkJWeENJWUowWUM3aWRZaUxES0ZxeDlQMFVKRVhQN05VWEMxVnVIZnBIVlE0VklXY0g3aFRkSThKbWc3TG11VDFEMWZZMTZGeXdDWm5YaFNBUUhiSjBDTVFNUjRGOU1SX3lTQ3Y1dW1fUjJ2TFdGQk1n?oc=5"
+  },
+  {
+   "text": "Předpisy o ukazatelích týkajících se přínosu kulturních odvětví k ekonomice. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPWVE0RGlmVGNQN3BFT3hhVkRmbVZob2FDWFNIT19MMlZZbUlidjNtTm1JZnV4R3MzM1ZPcUFVZmJobHFzZ1NKcG1KdGtUbURNa1c5c19hX2s3NXJSZTlfSUI4cGhMbS1QTHpRWVEtWGYwOVhOVVZNT2ViTVNDZ0JsRlAwMDV4REdSVWxzVk5zci1tRjFuZ0w3QU5B?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
