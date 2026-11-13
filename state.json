@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T12:38:25+00:00",
+   "last_success_at": "2026-11-13T13:53:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T12:38:25+00:00",
+   "last_success_at": "2026-11-13T13:53:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T12:38:25+00:00",
+   "last_success_at": "2026-11-13T13:53:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,14 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T12:38:25+00:00",
+   "last_success_at": "2026-11-13T13:53:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:920a31144eb33e4a",
     "news:a5375e02a27550fb",
     "news:ddd9905a245064ef",
     "news:deb8a21def64b688",
@@ -619,11 +618,12 @@
     "news:81ca1a3a5a7b5efb",
     "news:df8284cd5afc6f97",
     "news:91aa199e6e2740cd",
-    "news:2ad342eca63bec4b"
+    "news:2ad342eca63bec4b",
+    "news:d2cda83c29485843"
    ],
-   "last_success_at": "2026-11-13T12:38:25+00:00",
+   "last_success_at": "2026-11-13T13:53:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T12:38:25+00:00"
+   "last_new_item_at": "2026-11-13T13:53:22+00:00"
   }
  },
  "digest_queue": [
@@ -662,6 +662,9 @@
   },
   {
    "text": "Phu Tho: Představení kulturního dědictví etnických menšin prostřednictvím výstavy „Dědictví uprostřed tisíce barev Vysočiny“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxORVljcUtwUUZZMEZpalc5OVFCbjdsVTRvOHFZc3dYeXQwWE9GTEtKaE1DMF9PVlVCVGJfMEsyZTJOS1ZFa0VqT05Bc1pwMmlwS05wQzZoMFAzZkZnUmFITklWWHFzRXdZM3ZBMnZmRkxUUWZzV1M1OVFlcHdJcDVESHdaU1RKQ0I4Nl9XMDFSTVRWclh6blVtZzdDQWVtQVJPVWxoYWN6ZHdzdU5aNmJOMC0wbTJmelRxcVMteTJMY3U?oc=5"
+  },
+  {
+   "text": "Do roku 2026: Cílem je dosáhnout tempa růstu kulturního průmyslu 10 % nebo vyššího. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOMmdFWmEwSVlLN0lRX1ZxOTM4Ukw0d3ZDNGZrYUQ5Qm0yclhrV1VIQTJaX2lfS01pX09FM0t2NWtGdVY1SWRSelhaMmxuZnEtTzN4TFpwWGdwUTJxUU5Cb2hqZ1NMMTlKVWRqRVg1cmpIbXdnVVlLQ2xYVEdDLVpwUENpZ1UySHUtckhBZGg2Rmw4Qnc?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
