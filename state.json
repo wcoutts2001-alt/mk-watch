@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T14:43:33+00:00",
+   "last_success_at": "2026-11-13T15:30:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T14:43:33+00:00",
+   "last_success_at": "2026-11-13T15:30:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T14:43:33+00:00",
+   "last_success_at": "2026-11-13T15:30:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,14 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T14:43:33+00:00",
+   "last_success_at": "2026-11-13T15:30:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ddd9905a245064ef",
     "news:deb8a21def64b688",
     "news:a2157f1cbf151275",
     "news:4572911a5585484f",
@@ -619,11 +618,12 @@
     "news:91aa199e6e2740cd",
     "news:2ad342eca63bec4b",
     "news:d2cda83c29485843",
-    "news:d7fdcb113fe461ec"
+    "news:d7fdcb113fe461ec",
+    "news:5a4359583eb6d501"
    ],
-   "last_success_at": "2026-11-13T14:43:33+00:00",
+   "last_success_at": "2026-11-13T15:30:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T14:43:33+00:00"
+   "last_new_item_at": "2026-11-13T15:30:14+00:00"
   }
  },
  "digest_queue": [
@@ -668,6 +668,9 @@
   },
   {
    "text": "Výstava v klášteře Želiv připomene život církve za normalizace - Církev.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQall0ZWhUMG9HX19ZTlR5elFoZkFnSkVDV0RkWGNjMUFuY2hoUmVJOWh1OV9lOUZVRUU0NkgwWlc1ZmNyUnpHeTVPdXFFbDRkWkotUVJTZWdZYnBXZFZBSzVnc3M2cTAxSjRmR3FFMTV4blNUQzJtUmpnbTBXN2RjVDlNZnZuQ0tYNVpKbUJCUDBwMDRG?oc=5"
+  },
+  {
+   "text": "Lidé pohřbívají nesmyslné nápady a politiku ministerstva kultury. Před budovu přišli na pohřeb - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxONk8zR3dxSEwwS28yUy1tQl9lVkNLbjlvYW5oZTZJbFRGbnRYOHRIX29kWGFhWFNHX1ZLdFRyaUdIeUFQajJoeFF2M01UQllLenBNQmtPZDJ3bEdlNjVObDhlbFBkaDhiZGdkaFRkbXBLeHI1R1phMjdLdndZYVlDQ1BrVEpUXy1Dd3E4bktqU29zLUo5Y1o4Qi1TY083NFFfT3VSa1ZCWU4wenZEa1JjbTVpeVo4Y0JObmlHM3BFRTFVdV9BQ3JINTBxV3JXTTRYTlpjcTRn?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
