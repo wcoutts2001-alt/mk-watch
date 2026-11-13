@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T09:37:29+00:00",
+   "last_success_at": "2026-11-13T10:39:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,7 +85,7 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13"
    ],
-   "last_success_at": "2026-11-13T09:37:29+00:00",
+   "last_success_at": "2026-11-13T10:39:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T19:28:40+00:00"
   },
@@ -105,7 +105,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T09:37:29+00:00",
+   "last_success_at": "2026-11-13T10:39:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,14 +113,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T09:37:29+00:00",
+   "last_success_at": "2026-11-13T10:39:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:25bba7ced224a011",
     "news:cf00ad9e51f039ed",
     "news:0218b6d4cbb7c422",
     "news:8498353aae22fa75",
@@ -619,11 +618,12 @@
     "news:f2905f840d05ade1",
     "news:57a0c546b8cf4357",
     "news:2051472c3600481a",
-    "news:961be2ea6c885093"
+    "news:961be2ea6c885093",
+    "news:1f41054fef5a5d96"
    ],
-   "last_success_at": "2026-11-13T09:37:29+00:00",
+   "last_success_at": "2026-11-13T10:39:42+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T09:37:29+00:00"
+   "last_new_item_at": "2026-11-13T10:39:42+00:00"
   }
  },
  "digest_queue": [
@@ -638,6 +638,9 @@
   },
   {
    "text": "Ho Či Minovo Město zahajuje program rozvoje vietnamské kultury v oblasti etnické příslušnosti, víry a náboženství. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1RQMFpYUHRXZU1HdnFPRk5vV2U3WG9aLTdfLUdpbWxPTzZraFFXMTVFNzgwLW9zMm8yejVFek9qdm1ndzlhemE1RnpScWFQV0tnZUdkS19zYlpQMDFuWXI2N0ljdDhPYXpkZVU2ZDZxX190UlgwSHh1bjVrOUdfbDU4elozUnF6WG1CT0RFY2hvanhWNE5FT2FHcFRFRWNISVNZUE5MWW1kT1FZQ3VkM3ZTdGFSV0J0Um5BeFY2TGJtYlNQQXFGLQ?oc=5"
+  },
+  {
+   "text": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNN1Q2Vy1jeXlwa0h6dXV4SGNVNUt1dmFUSDlTWGNYT2psWTcxZURTQWpHaUJhRlkzZldESEd2Y0Ftbk5PYU1Ib2dSckdxbjVlRXI1THp0NGNNMUhOQi1TSUI0Y1hLWkFPNG1PTm1uaHpPZ25LSmdUZURVbmVncVJWazdVVXdPZkE5UFlJS1RnYWgxMWI2Q1NZTlI5SkFneFQxZ0JnOHhhYUNkVGU2SXpzRFZR?oc=5"
   }
  ],
  "last_digest_date": "2026-11-12"
