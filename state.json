@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-14T02:25:55+00:00",
+   "last_success_at": "2026-11-14T09:14:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -86,7 +86,7 @@
     "facebook:67af6bc2b799fe13",
     "facebook:ff7cfefc94c604af"
    ],
-   "last_success_at": "2026-11-14T02:25:55+00:00",
+   "last_success_at": "2026-11-14T09:14:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-14T02:25:55+00:00"
   },
@@ -106,7 +106,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-14T02:25:55+00:00",
+   "last_success_at": "2026-11-14T09:14:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -114,16 +114,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-14T02:25:55+00:00",
+   "last_success_at": "2026-11-14T09:14:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:bc9714c6c56d29b8",
-    "news:fffa34407450cf26",
-    "news:55859c579aa8cca2",
     "news:3d98790e9b578dd7",
     "news:66f54e52142d35b8",
     "news:b3b23acd9ef83e26",
@@ -620,11 +617,14 @@
     "news:01e7d1f1e5324904",
     "news:1b4f30cfa32d537d",
     "news:a0b0963ae90dddd1",
-    "news:fe490c6dd6072d9a"
+    "news:fe490c6dd6072d9a",
+    "news:517b38aa0aea4f82",
+    "news:3e2699d3b845052c",
+    "news:f8f2a8a8df0d43c5"
    ],
-   "last_success_at": "2026-11-14T02:25:55+00:00",
+   "last_success_at": "2026-11-14T09:14:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-14T02:25:55+00:00"
+   "last_new_item_at": "2026-11-14T09:14:49+00:00"
   }
  },
  "digest_queue": [
@@ -642,6 +642,15 @@
   },
   {
    "text": "Kulečníkového turnaje u příležitosti Dne vietnamské kultury a festivalu Ok Om Bok se zúčastnilo 236 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVdVQWpRQlNWZlRVb0lCOXFSaXZ4SmdiajlEYUQtQk14Ul91b0JjWk44LU9PVUlZZDNUWkJLTDRzQlVYRm9pRUtmbU5Qd1JOOW1PTXdqVnJ4SGxqVWxweHJtUndOZ3pCNmluWmJ4T1ZIb1J5MjRad29jZTd2Y18zUmVQUGxadWR5S21vQjRJRTVRSEY0WEhNTkhwWFE0eDdEMHdWeEpQamg?oc=5"
+  },
+  {
+   "text": "Národ sobě. Ministr Klempíř letošní oslavy 17. listopadu nepodpořil, veřejnost ano - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHBqMGNSYVJuczJSVjJ3dVF1ckUtRTNudWtZcFZLTllHaDZISkY4VVJIaFhBSGQxMDVMaUtXQ1liV20xbThZeUdyRVdaYXE4RUFCZWhmMTJzc3d3SHdVMnJwdER0dXRfUzlLcVRmSUFQTkpHcmQxeXZTTmR3b1pvZ3IxcVpGeFYzT3RXWTVIVFd1VWR2dXRFdWxpWDREM1o1Q09OV3I0Wkh6dw?oc=5"
+  },
+  {
+   "text": "Školení pro posílení manažerských a komunikačních kapacit pro národní cílové programy kulturního rozvoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxOZWxSZ0lYX3pSR3NCazhXYWNibWdfVnBRbEtVQWtlazdsV1IweXV4ZlFMRzFhd1Fzd0hPWEZMWHEzSElZRkkzZ0VDU0QwWXZzSlZCS2hJWjF2QV9ETTEtN3JTdkhqRGJFMFZGV0ZUcE5DdHdYbERVTG01OXJ5Qk9VNnFSVEE1eGRjaHZvTGZaTFc1dTJZMFpWaDhvX3dSQ3BIX3VuQThtWWM1YlNtSWllTGppWVFjb0p5YzdSeEVOSEFQVS1v?oc=5"
+  },
+  {
+   "text": "Dak Lak posiluje odpovědnost při poskytování informací tisku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPYnphWXRPMFpNMGxaRWllZllxYlJzWVVRY2YycGpLRWs4UHprVUN2UDRKSU9uaUVMN0dlcTZoWVRDa2dpNXFRdTF4NldIVGc5TFNfLTZsbnVXUWkyVG9QT3dCRVNfeGh5V3lubVBQN1B0VDBERGJwcWM0ZkRWaWFHczBlN3VYcU5ERW9qTVhqLXdzTDFpNnUyQXBSbw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-13"
