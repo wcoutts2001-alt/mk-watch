@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-13T22:04:19+00:00",
+   "last_success_at": "2026-11-14T02:25:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -83,11 +83,12 @@
     "facebook:b906c9182e9b9771",
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e",
-    "facebook:67af6bc2b799fe13"
+    "facebook:67af6bc2b799fe13",
+    "facebook:ff7cfefc94c604af"
    ],
-   "last_success_at": "2026-11-13T22:04:19+00:00",
+   "last_success_at": "2026-11-14T02:25:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-12T19:28:40+00:00"
+   "last_new_item_at": "2026-11-14T02:25:55+00:00"
   },
   "instagram": {
    "seen": [
@@ -105,7 +106,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-13T22:04:19+00:00",
+   "last_success_at": "2026-11-14T02:25:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -113,18 +114,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-13T22:04:19+00:00",
+   "last_success_at": "2026-11-14T02:25:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:a2157f1cbf151275",
-    "news:4572911a5585484f",
-    "news:3199b77388ff3241",
-    "news:eb810a6f5ac48032",
-    "news:12cce5860c7a9721",
     "news:bc9714c6c56d29b8",
     "news:fffa34407450cf26",
     "news:55859c579aa8cca2",
@@ -619,15 +615,34 @@
     "news:d2cda83c29485843",
     "news:d7fdcb113fe461ec",
     "news:5a4359583eb6d501",
-    "news:00622c02fbfb5d6e"
+    "news:00622c02fbfb5d6e",
+    "news:0f8ea4946fec45b4",
+    "news:01e7d1f1e5324904",
+    "news:1b4f30cfa32d537d",
+    "news:a0b0963ae90dddd1",
+    "news:fe490c6dd6072d9a"
    ],
-   "last_success_at": "2026-11-13T16:24:46+00:00",
+   "last_success_at": "2026-11-14T02:25:55+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-13T16:24:46+00:00",
-   "first_error_at": "2026-11-13T22:04:19+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-11-14T02:25:55+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Necelá stovka lidí, umělců i zástupců veřejnosti se dnes v Plzni účastnila protestní akce - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE05VHFXVGtXb1B1R2sxbmk4ZlFJa0V5WkFBdmxnMEN5VXkxRTJmbklYNDhsVHpNSm1HalEtMUJERVBTM1pPajlyZg?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu - Leningradská oblast (Ruská federace): Posilování vazeb a podpora spolupráce v oblasti kultury, sportu a cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW1vTFNVcjhtcUE4WE5LMWJvYWdubjkwNDZkWUJHM3dnUGtqOW9QenFfWUI4S3hnSHZlWUhpLVNIdl9JX2QyWDZVMElSNnNZOVNnekJPeUJIblp6UEdXdURFT2NYNDlMRE1xV2NaZzdtUjNoQ1JETVNFWGVTdFluZ3RZbnRtUWRLTENIN3dVRDRMRzRLMm5tVHFxdVU4NlpGQkh0V0J6ZlBnV28?oc=5"
+  },
+  {
+   "text": "V Plzni pohřbili „Klempířovy nesmysly“. Lidé protestovali za nezávislost kultury - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxNbFV2YzF5NE90OHE2cTlNYjEzNjFVaHkwTmJSeTJ0NHJ2aF9Ea0JIalkzcEh2YktlSWdXWUVINWY2dUpVMjNsRDJFYjJsMERrSnFwRU9uWUR2NVlVS2s0ZjVXdEJZRlJMaXNlTFdDLWZSV2pwRUg1N2t3VThQUVZfYVBfekhZZFZLckxwM2FPRVpBTFhCT3pic0Z6eGZua3ZTZVhYckVSV1R3OEM5UHQwX3ZucGF4Zw?oc=5"
+  },
+  {
+   "text": "Urychlit rozvoj cestovního ruchu a přilákat zahraniční turisty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPUWJYb1FKLThCTktJYWJtcndBN2JsbWRGY3A1Z3lYYzJ5Y1lZeGdYU1lJZmtQbnplSzBOai15Q0taVldCUm1HZFNXeWg1eUpHdmVsQWdiZkNlMUl0SHJTS0ZNN1BxeGRtdjFEOFJjU1Y0cjlYclBhTl9lc3JPblZpWg?oc=5"
+  },
+  {
+   "text": "Kulečníkového turnaje u příležitosti Dne vietnamské kultury a festivalu Ok Om Bok se zúčastnilo 236 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVdVQWpRQlNWZlRVb0lCOXFSaXZ4SmdiajlEYUQtQk14Ul91b0JjWk44LU9PVUlZZDNUWkJLTDRzQlVYRm9pRUtmbU5Qd1JOOW1PTXdqVnJ4SGxqVWxweHJtUndOZ3pCNmluWmJ4T1ZIb1J5MjRad29jZTd2Y18zUmVQUGxadWR5S21vQjRJRTVRSEY0WEhNTkhwWFE0eDdEMHdWeEpQamg?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-13"
 }
