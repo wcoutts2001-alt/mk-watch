@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-14T15:51:07+00:00",
+   "last_success_at": "2026-11-14T20:20:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -84,11 +84,12 @@
     "facebook:17c920aae56ddda4",
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13",
-    "facebook:ff7cfefc94c604af"
+    "facebook:ff7cfefc94c604af",
+    "facebook:682dc96d2fa37162"
    ],
-   "last_success_at": "2026-11-14T15:51:07+00:00",
+   "last_success_at": "2026-11-14T20:20:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-14T02:25:55+00:00"
+   "last_new_item_at": "2026-11-14T20:20:41+00:00"
   },
   "instagram": {
    "seen": [
@@ -106,7 +107,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-14T15:51:07+00:00",
+   "last_success_at": "2026-11-14T20:20:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -114,19 +115,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-14T15:51:07+00:00",
+   "last_success_at": "2026-11-14T20:20:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f438de3c6ba6a9cc",
-    "news:6d3456cf1540eed3",
-    "news:8a6edc3a00928373",
-    "news:ede8f0aaa676f16a",
-    "news:323414647f589a3a",
-    "news:7e840b2ad4460076",
     "news:f94ce564784f0cc7",
     "news:541bf4bf570d7f7f",
     "news:de176984ecfdb58d",
@@ -620,59 +615,19 @@
     "news:af9b14550e570f72",
     "news:4d550a548be47c03",
     "news:2103e8dbb436fdb8",
-    "news:72484ea413362171"
+    "news:72484ea413362171",
+    "news:22d3083d29fb082e",
+    "news:017d0ee7b59b21b3",
+    "news:72839f8f47c01d3c",
+    "news:515fa955c9a2cb60",
+    "news:fb406bcdaeb0ce1a",
+    "news:01cd595e36f38712"
    ],
-   "last_success_at": "2026-11-14T15:51:07+00:00",
+   "last_success_at": "2026-11-14T20:20:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-14T15:51:07+00:00"
+   "last_new_item_at": "2026-11-14T20:20:41+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Necelá stovka lidí, umělců i zástupců veřejnosti se dnes v Plzni účastnila protestní akce - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE05VHFXVGtXb1B1R2sxbmk4ZlFJa0V5WkFBdmxnMEN5VXkxRTJmbklYNDhsVHpNSm1HalEtMUJERVBTM1pPajlyZg?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu - Leningradská oblast (Ruská federace): Posilování vazeb a podpora spolupráce v oblasti kultury, sportu a cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW1vTFNVcjhtcUE4WE5LMWJvYWdubjkwNDZkWUJHM3dnUGtqOW9QenFfWUI4S3hnSHZlWUhpLVNIdl9JX2QyWDZVMElSNnNZOVNnekJPeUJIblp6UEdXdURFT2NYNDlMRE1xV2NaZzdtUjNoQ1JETVNFWGVTdFluZ3RZbnRtUWRLTENIN3dVRDRMRzRLMm5tVHFxdVU4NlpGQkh0V0J6ZlBnV28?oc=5"
-  },
-  {
-   "text": "V Plzni pohřbili „Klempířovy nesmysly“. Lidé protestovali za nezávislost kultury - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxNbFV2YzF5NE90OHE2cTlNYjEzNjFVaHkwTmJSeTJ0NHJ2aF9Ea0JIalkzcEh2YktlSWdXWUVINWY2dUpVMjNsRDJFYjJsMERrSnFwRU9uWUR2NVlVS2s0ZjVXdEJZRlJMaXNlTFdDLWZSV2pwRUg1N2t3VThQUVZfYVBfekhZZFZLckxwM2FPRVpBTFhCT3pic0Z6eGZua3ZTZVhYckVSV1R3OEM5UHQwX3ZucGF4Zw?oc=5"
-  },
-  {
-   "text": "Urychlit rozvoj cestovního ruchu a přilákat zahraniční turisty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPUWJYb1FKLThCTktJYWJtcndBN2JsbWRGY3A1Z3lYYzJ5Y1lZeGdYU1lJZmtQbnplSzBOai15Q0taVldCUm1HZFNXeWg1eUpHdmVsQWdiZkNlMUl0SHJTS0ZNN1BxeGRtdjFEOFJjU1Y0cjlYclBhTl9lc3JPblZpWg?oc=5"
-  },
-  {
-   "text": "Kulečníkového turnaje u příležitosti Dne vietnamské kultury a festivalu Ok Om Bok se zúčastnilo 236 sportovců. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVdVQWpRQlNWZlRVb0lCOXFSaXZ4SmdiajlEYUQtQk14Ul91b0JjWk44LU9PVUlZZDNUWkJLTDRzQlVYRm9pRUtmbU5Qd1JOOW1PTXdqVnJ4SGxqVWxweHJtUndOZ3pCNmluWmJ4T1ZIb1J5MjRad29jZTd2Y18zUmVQUGxadWR5S21vQjRJRTVRSEY0WEhNTkhwWFE0eDdEMHdWeEpQamg?oc=5"
-  },
-  {
-   "text": "Národ sobě. Ministr Klempíř letošní oslavy 17. listopadu nepodpořil, veřejnost ano - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHBqMGNSYVJuczJSVjJ3dVF1ckUtRTNudWtZcFZLTllHaDZISkY4VVJIaFhBSGQxMDVMaUtXQ1liV20xbThZeUdyRVdaYXE4RUFCZWhmMTJzc3d3SHdVMnJwdER0dXRfUzlLcVRmSUFQTkpHcmQxeXZTTmR3b1pvZ3IxcVpGeFYzT3RXWTVIVFd1VWR2dXRFdWxpWDREM1o1Q09OV3I0Wkh6dw?oc=5"
-  },
-  {
-   "text": "Školení pro posílení manažerských a komunikačních kapacit pro národní cílové programy kulturního rozvoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxOZWxSZ0lYX3pSR3NCazhXYWNibWdfVnBRbEtVQWtlazdsV1IweXV4ZlFMRzFhd1Fzd0hPWEZMWHEzSElZRkkzZ0VDU0QwWXZzSlZCS2hJWjF2QV9ETTEtN3JTdkhqRGJFMFZGV0ZUcE5DdHdYbERVTG01OXJ5Qk9VNnFSVEE1eGRjaHZvTGZaTFc1dTJZMFpWaDhvX3dSQ3BIX3VuQThtWWM1YlNtSWllTGppWVFjb0p5YzdSeEVOSEFQVS1v?oc=5"
-  },
-  {
-   "text": "Dak Lak posiluje odpovědnost při poskytování informací tisku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPYnphWXRPMFpNMGxaRWllZllxYlJzWVVRY2YycGpLRWs4UHprVUN2UDRKSU9uaUVMN0dlcTZoWVRDa2dpNXFRdTF4NldIVGc5TFNfLTZsbnVXUWkyVG9QT3dCRVNfeGh5V3lubVBQN1B0VDBERGJwcWM0ZkRWaWFHczBlN3VYcU5ERW9qTVhqLXdzTDFpNnUyQXBSbw?oc=5"
-  },
-  {
-   "text": "Sektor kultury, sportu a cestovního ruchu zrychluje realizaci klíčových úkolů ve zbývajících měsících roku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxNN2F0dXdaU1VSTklIbGNWbTlBaHBzelZMOTB1bWtIWnp3RjI4b0p1ZGNsa1l6WjNsMU5lT201MzkxUlVIUUY2V3JrcUxwcXQ5OG95ZlEtZWJLNS1MSmd2TThILXlrbHBSb0wyeHJFa1VpMFBJUzFDQmRLeUpZYlBwb2k1VzhQUERpaVZHa1lWM2xoS21aeFJLc043T0lWYmtwcERV?oc=5"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh: Jasný produkt, jasná odpovědnost, rozhodně splňte úkoly pro rok 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGxCNVM4dnYteHAzQ21ma185TVFzenZBeUFTN29IZ2F1RmpxS0ZfenZ6aW1CMUtsRGVLeE5iU0NDTU5BZlNlci1tNDVjUmhlVVlOSWFuUjBpMU93cklGbUxfempMOXBpdzd4ZloyQkEyaGRBcEhxWUhLNjBJbHpYc1llaGRUTGRrNWF6al9nWjBQaTVJMy02Y3FNZXdLVUlrVTA2NlJ1MW9TdnBMQndkVVRrVk9tTVR3enpaZWRaM04?oc=5"
-  },
-  {
-   "text": "Trénink v oblasti veřejného vystupování a poskytování informací tisku. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxPNS1OZlliLXRHLVBwQ1FSaWU2VVpQYjZ4VVBxS1dZVTJOZ0lDX3NwM1M1VEJTNlk3RDRDaDdhS3lfMTJON0RlNF96UzNINUJ1VUVPaG1XVmw2REd1Z3BSQVMxMzQ0RlFMRGdWV1dpZlFha0l2UnA2T3RtQU5ZbjgxLUdnNEpUc0RRa2RN?oc=5"
-  },
-  {
-   "text": "Odvětví kultury, sportu a cestovního ruchu se zaměřuje na dosažení svých cílů do roku 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxOREp5UDMyeUdfZ01qTGFPQk0wUDZjVHhxT1lBV2w2N0xkMmVMdzl6MW91UWY5SWRwcVkzVHRBSW1SRV96ZzZtSno0c3M3NjFxbjhTZ1Y1Smotci1lZzJ5SVNON3lOdEVheUxaRWVtbENDZV80cW9iUHNLNG5GLWZPQkZlbzJHVmNjMVowNU5wYw?oc=5"
-  },
-  {
-   "text": "Provincie Ha Tinh představuje tematickou výstavu o slavných osobnostech a památkách UNESCO. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxNRHRYR3FMRloweThQZXlzcUR3TG1SWDE1bUpDT3BGZVpwOUlYTW5BRFRTUG5ELTE3SGkzX2tZU2RvNEtzZzBEYWVuclNBM0wxOVdXb29ZcmVQYUl4YjNKRHNHYzRNbEJXUjY0Z1ZuVTdhN3BlZjhDY3l5Z1ZnVHM4UmFmelNVYVE?oc=5"
-  },
-  {
-   "text": "Provincie Thanh Hoa se v roce 2026 zúčastní realizace programu „Vietnamské zvuky – melodie života“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxObEV4b0w0a1pfbTZpeXpYVmt5cE1COXlJaHM1S1Rwb0UwSExSODVmMG40aGdWX0ZkM184cU9FNExtb29lUjM3bFZSZFQ2T296OV9JOW16OEV1bWhHRWZBaEN0NnJ2bHF1NmlfemdOUHF2S1MteWYzSTF0YWRMeDlKVXBCUlhBRm1WRkNCbmRpRjVZdzB5VVAyMEFrLVU1UUNMdHlIcUpxbFBROWNGeVYxUkZMV21jUQ?oc=5"
-  },
-  {
-   "text": "Provincie Lam Dong posiluje řízení cen turistických služeb během Festivalu květin a lunárního Nového roku 2027. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxNSEloTmNVN0VjamtibEMtbTVSQ1hnSmFyVzlzVURNNF9hVUR6UVBXc2o5bGZKSEktNzdLZ0NjUzZiUFJ1NnhPNmlOZV9XdXBfUWZnRzl4bF90TUlqSnhfSzFmM2daOWM3Nmx6REVtQXAyOXNJM243MmpqU3pUT09EaXZxemJwbExZbEtKZl9KdVIybXNTU0o0S01Ec2FkLTgtckdhblZOejdMQmFmc3doVGJxTQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-13"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-14"
 }
