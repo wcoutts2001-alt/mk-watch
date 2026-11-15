@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-15T14:12:00+00:00",
+   "last_success_at": "2026-11-15T19:47:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -87,7 +87,7 @@
     "facebook:ff7cfefc94c604af",
     "facebook:682dc96d2fa37162"
    ],
-   "last_success_at": "2026-11-15T14:12:00+00:00",
+   "last_success_at": "2026-11-15T19:47:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-14T20:20:41+00:00"
   },
@@ -107,7 +107,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-15T14:12:00+00:00",
+   "last_success_at": "2026-11-15T19:47:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -115,25 +115,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-15T14:12:00+00:00",
+   "last_success_at": "2026-11-15T19:47:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:3b302a0e47518ea4",
-    "news:a5dfe720aa8abdf3",
-    "news:ab829a41e10c8432",
-    "news:58603ebef75a4eca",
-    "news:ae986f8016c7b5a8",
-    "news:a024d6c564261d2c",
-    "news:112777029b76b746",
-    "news:61f1509ac08d0bd2",
-    "news:0de80a2db85e81ca",
-    "news:3ec98db24949d5c2",
-    "news:69f2283950fe463b",
-    "news:537ce3120af7ac6b",
     "news:f70ecbb019c535e0",
     "news:3e417b81d2dd6f58",
     "news:d13bb1e79bcf8f79",
@@ -621,41 +609,25 @@
     "news:52f5dc7a3a08441d",
     "news:f2bd5e17e3bd0d02",
     "news:55cede5f82addc0b",
-    "news:298f462570802c00"
+    "news:298f462570802c00",
+    "news:36ae7f0558f433bc",
+    "news:de3d4066ba9452ac",
+    "news:f06379744d77eb1e",
+    "news:2d51e7672031d163",
+    "news:406f965fa86cc7a0",
+    "news:2bfa7a201ccc4cbf",
+    "news:0066843018fe9ebb",
+    "news:887a675e25f52a31",
+    "news:8ccae189e6bdaa68",
+    "news:902c065e6c65b9d9",
+    "news:f39871ac189337c3",
+    "news:3de175abe12d08a9"
    ],
-   "last_success_at": "2026-11-15T14:12:00+00:00",
+   "last_success_at": "2026-11-15T19:47:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-15T14:12:00+00:00"
+   "last_new_item_at": "2026-11-15T19:47:19+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Ho Či Minovo Město: Propojení autobusové a metro dopravy na podporu Národních sportovních her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOb0FVV3ZQNkJsV2NTY1FjUWg5cXA4WkxhNm81RFp3ZVZFXzRqdWViaDd5ZmZBUGRlOWlIV3dyRXdQSlljcExiSFFJMVBnQlRfUHktekFVQkwxbDktb2Zza2kyZjc1TGVhSjNwQzdJY0FHdHFKa01fZGhqcWFZRDl6eGR4WFNvQlpfVXlwc0ZmczZHczVfNGQxamhyY19VUQ?oc=5"
-  },
-  {
-   "text": "Mezinárodní výletní přístav Ha Long vítá svého pětimiliontého turistu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxPSFZ1Tkk2WmRjX1RRbVNYRUdTVUphZnFJa3hNSXk3bjVYcHNTWk9JYUZ2dVhjcnVNTVp1NWJiV1NNWjlUM25fYkpqdUtPUEpvOHk5cURKcm8wWFV6SGMwbEZfcWJ6bU8xRF8wTzFQclpYWHJTNXloM1luQ3UzaUxtc1RCNG5UVmhySGNsVU9RZjFLYWc?oc=5"
-  },
-  {
-   "text": "Babiš mění plány s ČT a ČRo. K radosti na Letné ale není důvod - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ245WlU5MmgyaVFQaXkxbmhzc0dQU3YyOVdTNUdBTXdPZU1WazFsVi12dXlYUlJXN3YzUElWcjVLVGtYQXpxRzVscUlNZjkwOVBldXJ4dUs0bkZMdEZsaC1UN01SNkNVZldNS3ZIWGE1aVlLQkhUSVlyUmk3S0pPaFItYmpsSEQwUnVuZmktT1cyN0dTNzZBQWdsVl94WXFvZzFucEtPY2trNUU?oc=5"
-  },
-  {
-   "text": "Vyjasnění pravomoci udělovat povolení pro online výstavy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmFJTDU4ci13RGxtdWlCZjdUZ0U0aWVreFc3bkQwOXZWYjNBcmprb3JzMnhvUzA3T1gzVjVVdGR0enZic3hTc1Rwc1p6MjE5c3B2TlJOSVpVNDZPMjVDdDdyZ3ZJekIzeWdUNUNRUi1sYkhHWWg0RWwtZXgxQXpZQ1hmdlAwX01MRWZv?oc=5"
-  },
-  {
-   "text": "Shrnutí a obsazení Díra u Hanušovic Komedie 2h05 - CANAL+\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxNbDBUZmUwRUxaOERJX0gwR0JJSnlRdm9wY09hRmpkdlNLRmt3RkpraWxzanRFR3B1c1JINnl3RHRqblhVNWFjM1FPVmU2UGpFYnFDWWpObzZxZkVDVmhORlY1Uk1qODF0Z3A1bC1Bd0dKT1pScDJyN2V5TklldWdKS3p1UnlWQktwVHc0YUg2QnM3TU04eFI2a0htTkl3VXJB?oc=5"
-  },
-  {
-   "text": "Kajetáne, pomoz nám od Klempíře! Divadelníci pohřbili nesmysly ministerstva - Plzeňská Drbna\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxOMHROVlRmSkFPNDR3QUtQTS1FY3FhZE9iQTdlZ1A1eHpRU0FPZ3J2RUZDZmlJQmRqVEFqbVBkQU9zb3pYSzlOUzRaVjJaN2Z3VFVBVHUzLWctZHFPVHk0N0JlUjRGQnBWYkJnZG5iYW0yQjFWd2pYTFlXaDBZQ2dyZjh1RjQ1Rjd4U1FTOC1GWXVCTWM3SkZhUjc1TXF1OU9WZWZWNW1fdjJkY1p2c3psY3RDMmgycjFwdGc?oc=5"
-  },
-  {
-   "text": "Vietnamský Ao Dai a jeho cesta k zapsání na seznam památek UNESCO. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxNMUFocndmNUJyVFBQQXRKRzdCczBnMDFBcmRlWC1Qam9WOEdsLTNvZU9nQldBclhST3JfRkR2a0ZwckRZNXBIZ0VlWGdIdlFQcmxQdWZzSld6Z2lxTGxia0JpdmtES3ROOG13Z3F0VHZFbVU0TXdVU0ZQZ0w3dDIxSHFEZTg4eldRN2dlcFFtT05JQQ?oc=5"
-  },
-  {
-   "text": "Rozmanité aktivity v kulturním prostoru na ulici Hung Vuong během 7. týdne. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxQQWJubHhlYUtaTnVKdEZGaVRXeEJNampmWVQ0MldfbUVMcDhRTFR1bzN1S1ZTR2g3UFFINzBob09FaUFJRkV0Q29lMkNIQlJzaXRteEYwUHh6LXEwdzVPcjhIVXJaNDZGNGdzNEU4S3BCc0FxUFBIZElDVDdFUkMwVmxXZ1EzYW5EVWJiUkJwMkVuSXBNNGdVX05n?oc=5"
-  },
-  {
-   "text": "Kulturní barvy na digitální mapě - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LODU3OUNwbDlYRVdUTkE2dlRBRVBFUk9TQ0RUX1RpZks3akhBV0hkbGdpSVo3NF9sckN1OGVNMmV2RlpWQm9lTWVuWms5aGtLSHpvWEZ0MlNRQi1RbXJUT3JHaHZZalU?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-14"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-15"
 }
