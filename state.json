@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-14T20:20:41+00:00",
+   "last_success_at": "2026-11-15T00:02:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -87,7 +87,7 @@
     "facebook:ff7cfefc94c604af",
     "facebook:682dc96d2fa37162"
    ],
-   "last_success_at": "2026-11-14T20:20:41+00:00",
+   "last_success_at": "2026-11-15T00:02:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-14T20:20:41+00:00"
   },
@@ -107,7 +107,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-14T20:20:41+00:00",
+   "last_success_at": "2026-11-15T00:02:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -115,15 +115,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-14T20:20:41+00:00",
+   "last_success_at": "2026-11-15T00:02:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f94ce564784f0cc7",
-    "news:541bf4bf570d7f7f",
     "news:de176984ecfdb58d",
     "news:2488096aee4e606c",
     "news:5cc92c6d20f781db",
@@ -621,13 +619,22 @@
     "news:72839f8f47c01d3c",
     "news:515fa955c9a2cb60",
     "news:fb406bcdaeb0ce1a",
-    "news:01cd595e36f38712"
+    "news:01cd595e36f38712",
+    "news:916fd0e201ecfd06",
+    "news:d466e39e8b643e92"
    ],
-   "last_success_at": "2026-11-14T20:20:41+00:00",
+   "last_success_at": "2026-11-15T00:02:14+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-14T20:20:41+00:00"
+   "last_new_item_at": "2026-11-15T00:02:14+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Ho Či Minovo Město: Propojení autobusové a metro dopravy na podporu Národních sportovních her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxOb0FVV3ZQNkJsV2NTY1FjUWg5cXA4WkxhNm81RFp3ZVZFXzRqdWViaDd5ZmZBUGRlOWlIV3dyRXdQSlljcExiSFFJMVBnQlRfUHktekFVQkwxbDktb2Zza2kyZjc1TGVhSjNwQzdJY0FHdHFKa01fZGhqcWFZRDl6eGR4WFNvQlpfVXlwc0ZmczZHczVfNGQxamhyY19VUQ?oc=5"
+  },
+  {
+   "text": "Mezinárodní výletní přístav Ha Long vítá svého pětimiliontého turistu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxPSFZ1Tkk2WmRjX1RRbVNYRUdTVUphZnFJa3hNSXk3bjVYcHNTWk9JYUZ2dVhjcnVNTVp1NWJiV1NNWjlUM25fYkpqdUtPUEpvOHk5cURKcm8wWFV6SGMwbEZfcWJ6bU8xRF8wTzFQclpYWHJTNXloM1luQ3UzaUxtc1RCNG5UVmhySGNsVU9RZjFLYWc?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-14"
 }
