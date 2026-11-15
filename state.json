@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-15T19:47:19+00:00",
+   "last_success_at": "2026-11-15T23:43:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -85,11 +85,12 @@
     "facebook:581113dd6bde713e",
     "facebook:67af6bc2b799fe13",
     "facebook:ff7cfefc94c604af",
-    "facebook:682dc96d2fa37162"
+    "facebook:682dc96d2fa37162",
+    "facebook:f07d79244e8263ad"
    ],
-   "last_success_at": "2026-11-15T19:47:19+00:00",
+   "last_success_at": "2026-11-15T23:43:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-14T20:20:41+00:00"
+   "last_new_item_at": "2026-11-15T23:43:10+00:00"
   },
   "instagram": {
    "seen": [
@@ -107,7 +108,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-15T19:47:19+00:00",
+   "last_success_at": "2026-11-15T23:43:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -115,15 +116,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-15T19:47:19+00:00",
+   "last_success_at": "2026-11-15T23:43:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:f70ecbb019c535e0",
-    "news:3e417b81d2dd6f58",
     "news:d13bb1e79bcf8f79",
     "news:223e38260d08d672",
     "news:67d286626515beeb",
@@ -621,13 +620,22 @@
     "news:8ccae189e6bdaa68",
     "news:902c065e6c65b9d9",
     "news:f39871ac189337c3",
-    "news:3de175abe12d08a9"
+    "news:3de175abe12d08a9",
+    "news:32ac3597e9aa62da",
+    "news:f3b9a9a4159b80c4"
    ],
-   "last_success_at": "2026-11-15T19:47:19+00:00",
+   "last_success_at": "2026-11-15T23:43:10+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-15T19:47:19+00:00"
+   "last_new_item_at": "2026-11-15T23:43:10+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Pátá kolona Ruska. Zeptali jsme se demonstrantů, co říkají na Minářův požadavek, aby skončil Okamura - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgJBVV95cUxOTm1tRURIZEdpS05RamtmY2VOY29FMXZKR3Z3OTVwa1l1bEdjcjNYNXhOSjctcDFQbDRBbVkwTVEwY1JpeV9wVWM1NWxJQ2N1UlpsdlpEUzBha0JuazFUMXdFdHVHRXhyZy1TS3RDRkY5Z1FRcUZteTJjb09TLTllbEFiU003Y3RqMkFudDNmMUVvc1g0M2pjZjdUUnFHN0RycE45Qk9EOFBsbWV0LVNCaDZDRDhQazhuQmszazV3Y1g1S3NjOUVEUHBkQkJuYjZfV05HQWFCY3dsVFdFSTlBU3g2a1BOamxNQlpSZGExUVlWV1EwbllSN2puZV9feW9nZV9pcWRB?oc=5"
+  },
+  {
+   "text": "Od 31. prosince budou vydávána povolení pro online výstavy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxNemNnSGhWMlRxYlRaUTkyc1pkZF9sZXQwbHJrNDhSdjRiU2dZYzlhQmxpdFU5VE1fRUhLY0ZNdmQxektfd2ZMV2t6LU5jdGd2NXE2akNkd04yRjR3VU9ZTFlRS2pBbUNWVVlwT2ZFdDR0OXRHU1VQaVBiWUkxekFXNTNUTDQ3UnNzWnc?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-15"
 }
