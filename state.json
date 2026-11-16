@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-16T03:11:07+00:00",
+   "last_success_at": "2026-11-16T11:15:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -88,7 +88,7 @@
     "facebook:682dc96d2fa37162",
     "facebook:f07d79244e8263ad"
    ],
-   "last_success_at": "2026-11-16T03:11:07+00:00",
+   "last_success_at": "2026-11-16T11:15:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-15T23:43:10+00:00"
   },
@@ -108,7 +108,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-16T03:11:07+00:00",
+   "last_success_at": "2026-11-16T11:15:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -116,30 +116,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-16T03:11:07+00:00",
+   "last_success_at": "2026-11-16T11:15:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:7c39cd251f14aaca",
-    "news:0ffa1e0f7b9481df",
-    "news:8c1a7a85b9d8b0d8",
-    "news:6abc9fe6de55c1af",
-    "news:dbb80e0077ce86a2",
-    "news:cf91871b06eb9d64",
-    "news:db3557d578fae659",
-    "news:6660fd673f775f63",
-    "news:c7aba5bda876d021",
-    "news:d2f8738fbff3f2ad",
-    "news:4589d6dbe47d2a5b",
-    "news:e726c77a7f9bd7fa",
-    "news:806bd36e288919ad",
-    "news:a90df9497f5faf0b",
-    "news:01258ba8f138f9a8",
-    "news:e3ad1b580d836dda",
-    "news:8ba9bf858f8e5988",
     "news:7cd17b7ac04875a8",
     "news:2cfbc67fe082ed72",
     "news:e58b119502585094",
@@ -622,11 +605,28 @@
     "news:f3b9a9a4159b80c4",
     "news:76bc7081ffa8a334",
     "news:2e8a443fbe0cc7c8",
-    "news:eda80e9593b79ad9"
+    "news:eda80e9593b79ad9",
+    "news:497381b64ce86c0d",
+    "news:141c09841b367b9a",
+    "news:58273428eb535db3",
+    "news:94e43473c477d19f",
+    "news:b727446ab7d0b6ad",
+    "news:65d9fec58a8d6f41",
+    "news:cc13c34cf5bbd71f",
+    "news:26f157dfdb2d8ed4",
+    "news:64a4bc46275e1a7f",
+    "news:b55cdbbfeca11530",
+    "news:5ae25095ce0ba9b4",
+    "news:13cc3491f1f2ebb5",
+    "news:a91718f6279ba258",
+    "news:482cf66c4c9f4087",
+    "news:ada2b01acc9f018d",
+    "news:28461f4aadc29bda",
+    "news:83691f92f8491425"
    ],
-   "last_success_at": "2026-11-16T03:11:07+00:00",
+   "last_success_at": "2026-11-16T11:15:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-16T03:11:07+00:00"
+   "last_new_item_at": "2026-11-16T11:15:03+00:00"
   }
  },
  "digest_queue": [
@@ -644,6 +644,57 @@
   },
   {
    "text": "V Hai Phongu bylo veřejnosti představeno mnoho vietnamských filmů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPMWhTelpnc05ZV0g2N1ppSk0wM2V3enFwVG1uR1lvWEN1Y1UxZXJhSFl2eExIZWtlNHFESmxDdEN4X0p0bWh0UEdDRHVyZDNadC1IYUJURUFSTFd4Z1E1VHV2YjVRTm16bFZOeGhqMkszUVFFTDZMT3F4R2RrMGZ4eWI4TGw5Rll6d056a3FLYUhBd2pFbnFCeGJuOVF0RnNJ?oc=5"
+  },
+  {
+   "text": "[Foto] Ministerstvo kultury, sportu a cestovního ruchu slavnostně pořádá vztyčení vlajky u příležitosti Dne vietnamské kultury 24. listopadu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxPXy1TRWY2MnhfNHQ5OC1OYmF2LWUxYUtxS3JCandidUo2cUxtUzFGY296Y0pXLXJnTk4tYVhlakljbGJGbjFUZ05hRGVoRGFMZVpRNE8zOEEwekt4c0dmeHVGN1MwdUM4S2xGTkQ0TjRqckZRRnNwbW1SMlZ5ZHBjdE1qUUNSMUh6Mk5mLWVkNi1kcDI5b3I1czRtMXV3QktUOEM3SGdRTE1RNUxr?oc=5"
+  },
+  {
+   "text": "Pátá kolona Ruska. Zeptali jsme se demonstrantů, co říkají na Minářův požadavek, aby skončil Okamura - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwJBVV95cUxPc3lIcXlUMUV6N0xsSzBWTlpaTnFhUVo4a0w5blctYmFocXpMcm1mOU1xTU9pNEJQNERVdm1wcEk1WjM5VzVOcnIzbWNPeW42SVdiZV9mU2lEa0VMRkNySURrRjJCTzNOczJnUE54YmJBalFhRjFsdGR5blFXVEpicGRUUk9hVWNQdWhHaDhra29vaFBubEdmM2xTQlFQUWRhUHQ1aEZ4YmpuRXQ3U1RReUpic1ZSZXNONFUwdzhtXzZJMXoxdVdvUjZrNW9pbjlmblg3QVFVYlAxZThNYjJQdU5laXV1SlhhS0tyNUVvek9lZFhOdER5cE9kUzJURUF3Z0VWWVFfa3RTRnJ2bG1z?oc=5"
+  },
+  {
+   "text": "Centrum Prahy čekají 17. listopadu změny v dopravě, nepojedou tramvaje - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDNEN1dHM1dzMlFudGctUVY3OG4wZGtsZ1dfSW9Sblh6YmZrQS1veVkydFFscEN3SUFQRmg2QWNVZkU0OFZhZDFzS0UyQk9sRno3WXlvanhKUEJQVjAydndGbXBtTC1LVWVjVFE3UGlnT0VmZGVQdEpfeU9mM2Z0OGVDUzhoLXJQS1BiVXJtQUt5NXZaYXVCVkd4UXdBUXc2S0pQZmJzd1lCRjVUMExKZW5GcFVOcms1eGtMbXNLcVE2SHkwN1JHNGoyS1l5WThTLW1lS2RHVQ?oc=5"
+  },
+  {
+   "text": "Probuzení síly vietnamské kultury - 1. část: Od celostátních koncertů k snu o vietnamské kulturní značce - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXdZSXRqQm9vR1kzMHk0X0dfT0l4Wi0zbVZpUVMwSVBVeElDZVg4UmF6cV9mbF9QWEg1RlFlWEd0eFY2S0JpMEZwSTZlVGJGMVd1VG5qNTRlSjd6cU42UzRFR21yVHYwN043cUFiNGlQMEw2UkxzYXJ5VDNQcGN0V1ZwU3VmQ2ZIcGlFcEM0TFI1azdYd2VpU1l1eEY4Wmk0YjJoN1BzY3hmZ1BZaGxQeTF2UXQwSElTUUM4WnIzRWdQdw?oc=5"
+  },
+  {
+   "text": "Od Sorose žádné peníze nemáme, reaguje na Rajchlovy útoky Bára Stárek - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXBnOVl2WkRGaWFrMkQzVmRLZG5naV9yRVpNVUpwVEV4dW5KaXZYV2F3eDJ5aWliXy1YZm84LXFva0pZYTMyeWc2NDVZRm9UWjFRMHZveUlzaFA3S20tUjJ2VGZuQUxSRGt0eEtiblExR3BFd21VMG9YcEFiVzBDUUZMWU1sUERqdEFsc1U3UW9kRWFza1c4SW5MME9SSUlTS3BuTzEzMV85a2g5enlBOUdKRnRveVdWRTcxYW9YakwwV3c?oc=5"
+  },
+  {
+   "text": "„Mládež pokračuje v odkazu“ uzavírá působivou sérii akcí oslavujících 950. výročí Císařské akademie. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxOREp5RFc1VkJFckU4bkFQclMtUXBnQ09IaEw4dW5SS2h0aHp1SGliOG5QSGxlT1N1VWhsLXEyblFtM2oySzJoUWxNT2hTeEV6SG5BUFlzVEVEek9TMTNXRDdnOHUwTGtFY3ZQRWRGV0JfVDEwSHE3UDI4U0thbnMzR2lYUGRUOWlhaDhDb1Rmem9BY2xfemM2eXhMSHlEUFh2X0d5Z3htMFRSWEg0bXdXNm03MTBhRDdzRnd0bjdrbw?oc=5"
+  },
+  {
+   "text": "Otevírání příležitostí pro propojení vietnamského kulturního a turistického průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxNS01ReVhZdENVVDhkUFAxTDJGWGx2dExGaXIwVFFYM1g4eXBXYld1b2Rnb3FWLVdSS2c0VTE1TlhSeWtRdWhfQ3hIbF9QX3JXXzJ0Zk92a05ISkdHTEtTRGs0amNLaEUyU1NRWnNFdTd2cjI3UW0yRkJqRjNySjZNOGJ6SVVNRy1lSTdQM2dyQQ?oc=5"
+  },
+  {
+   "text": "Národní filmové centrum pořádá v reakci na Den vietnamské kultury 2026 různé propagační aktivity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixgFBVV95cUxQeE9mUEhnUmFmUjUtaDV5YWNnTWdoNU9RdGRfcFhBaFFrcUFCMk1sWHNQOE9HSEJLcXdabGVLM1ZRZzdFZmZYcEZSOXZOWlN6UFVQYXI3bHYzMTJMeGJRdVZXUFlPczZNVExLaW5scnJMSGpveHdraU8yM3lmSFZQRVFyVU1DMVVHb1lmamNmbGpacmZCcUxMZ1AzaFhRM3JqRHdJelBBLXhJOFkyQUNMV3dtbXFRclhlbE9VVldkaWw4emJzRHc?oc=5"
+  },
+  {
+   "text": "Hue zavádí v období 2026–2030 vzdělávání v oblasti kulturního dědictví ve školách. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPckFLRm1JU2lnb2RkM1cxc0tyRWkwaHJycFFYV1NSXzhtNXl2a2N4Ul9tMkRzOUI2dDRVQnR0blVrdThkeEl4bGJDeXMyWmIyTGFSRVA1UkV6ZF9MU25vSThnOWVPYmotYTdpTldkMUpBSUs4MFp6czlDZS1nTXF2VGg1Rk5qZGtSTmxKaUV2Y21UZkh1RF94bw?oc=5"
+  },
+  {
+   "text": "Phu Tho: Budování zdravého a bezpečného kulturního prostředí v obytných komunitách a na veřejných místech. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOamoyeXBVb19IRWlBcWl6ZTZKSmUycjROYVhSRDJYRlYwTEEtRWRsanM4MjMwbTREY01RdGhJa1N4cllka0IxOURxcUU0WGNXUHpEQlRZWmVfdlB5UzdrbFRBcHNTT1NIVzNtbDM3U29ETWg4eWJkLUlJSDBLYUFtejY2X3FURHBmbmRWTWpPY194RVlOREowY3JrWndnMk9hWGpZcTJrM2dkR0tqTmp0cnpDQzZRYmx0?oc=5"
+  },
+  {
+   "text": "Lao Cai realizuje úkoly na ochranu a propagaci hodnoty kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxOYTg4akdJVloyUXgydDF6enUxNDJlTWtZb0pmWFdjTDBfTkNvR0w1Ulc3S1VpWGoweVBjZTdYN2w4RW83bnZncHlyVWZSYks0TEY4dzVybUdwT0FjNUg3RlF4cWJFY1ZHTWptZmFUNk8yQjBsZmt5cG4ySlppaHpzLTA1MmtIc1Rnb1hjdlNIa2xRaWpla09pMzRxOXpzcVRsVkE?oc=5"
+  },
+  {
+   "text": "Vedoucí představitelé strany a státu navštívili výstavní prostor „Dojmy z Vietnamu ve frankofonním společenství“ v Kambodži. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUJPS2piWkNENkxRdWZucExjLWJfS3VrSzI0S05nbHBCZGJ1eUdPUW9TazRleEVPNnVZRGRhTmEwYVRlTXdIWFl4cWtvSDh6VzNQS0J4b3luOWhpS1Z0eGEtcGtHRXg4ZDJHNVNqSC1vbHA2NDBxVC1Kbk9ob2tBRU1LYTZ2clRhYnR3dFpQU2RlZHRvWDktN1ZEa0o0U05URm05QThzdWduWTVqVnhVaTYtNUpLYy04VFUydlZTYUJiOXBZR1Z1djVodVJPQU1vZkE?oc=5"
+  },
+  {
+   "text": "Koncert „Say Hi“ od Tinh Ha, který se konal 4. večer, zanechal v hlavním městě nezapomenutelný dojem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxOdll5ZktXNWM2THJRdnFDLWYxdDdxZHkycUQ2T1Awc1FDX1EwLUdzRjBSNHU1elQyMVJ1Ym51N3k2bHg5M1Nqa3BReVdXM1FnbTQzMVhBUVIySFdUMWdqQjRJZG9QZl91QjZEdl9jT3kxYkp3YjNmX3FSbGdMeS1zQU5ickNoQWJka2FMRlNB?oc=5"
+  },
+  {
+   "text": "Tradiční vietnamská opera a reformovaná opera opouštějí divadla a dotýkají se srdcí studentů v Ho Či Minově Městě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPaUVmd1d4RURfTlU2QTJyN3JfN2J2SmV0cWRRdmNKeklhOHVudzZSaE53RmE5Sk43YXRvb0dKQXJTT2VocWJNc0g2SHZDUzgyNHQ2QjUtRTl3SHVhUl95TnI5aWhBM2Y4dHMwSXZDVXVraVhuY1RXdjhwMzAwUElpMnFjVkN2M1g3ZHZZX3JEVW5fZw?oc=5"
+  },
+  {
+   "text": "Lam Dong: Výstava 150 propagandistických plakátů na počest vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxNV1JyVzYtalRGcVVkZk01azZ5UnkwTkN3a3pCVEw0S3hWY04tYjlYVEtyYm1RM25qQjVELUhFeXNId3pWVG5WUTRneXZXeG9lSThiNmVfZGw0OXJUdkh1NUl3eTJ0SjJ6RFJfamlObExSMFRWZ2hjdWYwNXJXM2dVeWtIbkZDcG43U2g1SjVmSVUzZw?oc=5"
+  },
+  {
+   "text": "[Fotografie] Generální tajemník a prezident To Lam se setkal s generálním tajemníkem a prezidentem Laosu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQY2hrVGRrNmdzaG5jdm5kVFNkZU5UZ3o1WnRiZVpUV1cxOU0xT2Iya19hRjdSS25tSnNSZVhJN1ltc3pydFhUbnVNXzB1b0JiXzAySjQyeGlZNnNidkNURGtuMnpac2FpNG81OFhmdUtrLUg2SVdiZF9CdDNyd3dkT1FhQkFqNFkzOUxNaTh4dTZBeWl3UnJOLVpLMlQ?oc=5"
+  },
+  {
+   "text": "Lam Dong: 150 velkoformátových propagandistických plakátů vystavených u příležitosti Dne vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPS09FaFFkcTFXYUUwZWNFZHNFdGFUeC1FazEzWUhjQWE3RGVEWVBuRVFCeER1dzZMS0hLUkQwQ3VLUFdfb2dmQktlOXBfcG5jVk1FWjkzMG54Ulg1WWFIbEJhRmRkamhTYmNuU3lCblBIMEJwYUhkMGhoT0FLbkVKNDJzMkd0ejQwUlRvVS1rU1J5LU9teU1RS0pLNEg5QQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-15"
