@@ -34,7 +34,7 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9"
    ],
-   "last_success_at": "2026-11-15T23:43:10+00:00",
+   "last_success_at": "2026-11-16T03:11:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-12T10:18:46+00:00"
   },
@@ -88,7 +88,7 @@
     "facebook:682dc96d2fa37162",
     "facebook:f07d79244e8263ad"
    ],
-   "last_success_at": "2026-11-15T23:43:10+00:00",
+   "last_success_at": "2026-11-16T03:11:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-15T23:43:10+00:00"
   },
@@ -108,7 +108,7 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424"
    ],
-   "last_success_at": "2026-11-15T23:43:10+00:00",
+   "last_success_at": "2026-11-16T03:11:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-10T10:45:30+00:00"
   },
@@ -116,16 +116,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-15T23:43:10+00:00",
+   "last_success_at": "2026-11-16T03:11:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d13bb1e79bcf8f79",
-    "news:223e38260d08d672",
-    "news:67d286626515beeb",
     "news:7c39cd251f14aaca",
     "news:0ffa1e0f7b9481df",
     "news:8c1a7a85b9d8b0d8",
@@ -622,11 +619,14 @@
     "news:f39871ac189337c3",
     "news:3de175abe12d08a9",
     "news:32ac3597e9aa62da",
-    "news:f3b9a9a4159b80c4"
+    "news:f3b9a9a4159b80c4",
+    "news:76bc7081ffa8a334",
+    "news:2e8a443fbe0cc7c8",
+    "news:eda80e9593b79ad9"
    ],
-   "last_success_at": "2026-11-15T23:43:10+00:00",
+   "last_success_at": "2026-11-16T03:11:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-15T23:43:10+00:00"
+   "last_new_item_at": "2026-11-16T03:11:07+00:00"
   }
  },
  "digest_queue": [
@@ -635,6 +635,15 @@
   },
   {
    "text": "Od 31. prosince budou vydávána povolení pro online výstavy. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxNemNnSGhWMlRxYlRaUTkyc1pkZF9sZXQwbHJrNDhSdjRiU2dZYzlhQmxpdFU5VE1fRUhLY0ZNdmQxektfd2ZMV2t6LU5jdGd2NXE2akNkd04yRjR3VU9ZTFlRS2pBbUNWVVlwT2ZFdDR0OXRHU1VQaVBiWUkxekFXNTNUTDQ3UnNzWnc?oc=5"
+  },
+  {
+   "text": "Hanoj: Šíření a zvyšování hodnoty dědictví pho. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE5FeTNPVVpfOTNLekRVbmZjT3FkaFRhZWdfZWtvSGRLVlNRc2FpamZxQ2p3RXdYV0R6X29odUNxUkFIUGdwWkZSeUl1OWExdUdGTnlQWTdacFIzeUc1UXdNWnJ3cmZVWFBjdXk1Mlh2S05DcEVmSjFN?oc=5"
+  },
+  {
+   "text": "Hà Nội: Tổ chức Lễ hội Áo dài 2026 tạo sức hút cho du lịch Thủ đô - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQQk1YSFRKSnh4bldFYjdBWko4alhzdHI0dW5mM2tCckFHRFpXYkZ4R3FzMjVzRmI0VlQ4amh2MjlORmtVdmZlanlLcHU1NzZBRjVwMkJsa3NmbWhEOS1qTVZOd1hmN2tDb2VWWTdaWnZlY0NRU0JkalJvRHBCc0M1TXlmb0oxRkhwVmx6NVoyRlUwVTNV?oc=5"
+  },
+  {
+   "text": "V Hai Phongu bylo veřejnosti představeno mnoho vietnamských filmů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPMWhTelpnc05ZV0g2N1ppSk0wM2V3enFwVG1uR1lvWEN1Y1UxZXJhSFl2eExIZWtlNHFESmxDdEN4X0p0bWh0UEdDRHVyZDNadC1IYUJURUFSTFd4Z1E1VHV2YjVRTm16bFZOeGhqMkszUVFFTDZMT3F4R2RrMGZ4eWI4TGw5Rll6d056a3FLYUhBd2pFbnFCeGJuOVF0RnNJ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-15"
