@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-16T21:04:41+00:00",
+   "last_success_at": "2026-11-17T03:50:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -90,7 +90,7 @@
     "facebook:f07d79244e8263ad",
     "facebook:38998c46e346b7be"
    ],
-   "last_success_at": "2026-11-16T21:04:41+00:00",
+   "last_success_at": "2026-11-17T03:50:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -111,7 +111,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-16T21:04:41+00:00",
+   "last_success_at": "2026-11-17T03:50:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -119,16 +119,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-16T21:04:41+00:00",
+   "last_success_at": "2026-11-17T03:50:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:0f5db22993a736a7",
-    "news:3dc68406681ffa4f",
-    "news:e7bd01cea478723c",
     "news:e5ad2baf2073daee",
     "news:cce8a217d77c6273",
     "news:39c0c1f2e96805bf",
@@ -625,13 +622,23 @@
     "news:9fa6c2dd319948e8",
     "news:a8198176ed560966",
     "news:32314d2e225473b1",
-    "news:df98f3d514867d42"
+    "news:df98f3d514867d42",
+    "news:d40305b6bcb4f694",
+    "news:706734eb0582e909",
+    "news:86893c5f3db9972c"
    ],
-   "last_success_at": "2026-11-16T21:04:41+00:00",
+   "last_success_at": "2026-11-17T03:50:52+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-16T21:04:41+00:00"
+   "last_new_item_at": "2026-11-17T03:50:52+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř chce nejprve otevřít debatu o EMFA, poté řešit financování ČT a ČRo - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxPVTQyd3pFXzVZYzA1Y01oekZyMFBtcTZGNEIycEdIRzBSUldScEVWd3NfWmFDd0pFSEFvRkhKWEh1R1RlTFFvX2plcG82TzVlXzhtT244ZklrLXY3cVlIc1pHbElLMGpqbXNnU01WQUdrMzdNVFVGQ2hpaUY5TnBocUEyTE1IUFRiRDhWTzJJQTdzNTdTUEk3eDkzMFlVOGxYM3lERVY0YVVBWGtCeE5rUmNjTDd5NjBweFh6T1J0LUFaN01RWWFYZVNJMjg?oc=5"
+  },
+  {
+   "text": "Kovářová: Klempíř naskočil zpátky na estébácké praktiky | Napřímo - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQZGs3Y3Ytc2hyWlhxbUJLcjloNDRyeTlhaGkxS2ptR1BxcFF6a2hoTl96ek5NWjlhR2dEY3FFN1pSVXItVkFVLWI0Y3FDZllEeVQ4WnJrZGZHQmFidU5KTGtBWUhxcFB6VjNIMk42OWFyNmVVRC1xcUo3Sld6NFRfclJ1aFdUbDVSUGUwWFhtMnM0MUtKLWNURlVyOHlfdHRndl9VVUN6TQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-16"
 }
