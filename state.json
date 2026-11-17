@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-17T03:50:52+00:00",
+   "last_success_at": "2026-11-17T12:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -90,7 +90,7 @@
     "facebook:f07d79244e8263ad",
     "facebook:38998c46e346b7be"
    ],
-   "last_success_at": "2026-11-17T03:50:52+00:00",
+   "last_success_at": "2026-11-17T12:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -111,7 +111,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-17T03:50:52+00:00",
+   "last_success_at": "2026-11-17T12:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -119,22 +119,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-17T03:50:52+00:00",
+   "last_success_at": "2026-11-17T12:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:e5ad2baf2073daee",
-    "news:cce8a217d77c6273",
-    "news:39c0c1f2e96805bf",
-    "news:704325fe497c3e7d",
-    "news:962ba696eda6ea13",
-    "news:5a9f2c88c4fbc086",
-    "news:ae9f873688fcc843",
-    "news:b8fe7c537ddc663d",
-    "news:a81f3c03dd9fc37f",
     "news:6a39e25687449184",
     "news:21f68b50d2507259",
     "news:fc73e9d7266ef3b0",
@@ -625,11 +616,20 @@
     "news:df98f3d514867d42",
     "news:d40305b6bcb4f694",
     "news:706734eb0582e909",
-    "news:86893c5f3db9972c"
+    "news:86893c5f3db9972c",
+    "news:30f068cb4cf51567",
+    "news:ff29430fc73ef785",
+    "news:ee52456c0bc7f44c",
+    "news:2d408966524a3ffd",
+    "news:3852e657aa3aee13",
+    "news:46eda81c6b181b94",
+    "news:cef14ca665d1b24c",
+    "news:858cc3778e61042d",
+    "news:007e877ab4019cec"
    ],
-   "last_success_at": "2026-11-17T03:50:52+00:00",
+   "last_success_at": "2026-11-17T12:43:03+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-17T03:50:52+00:00"
+   "last_new_item_at": "2026-11-17T12:43:03+00:00"
   }
  },
  "digest_queue": [
@@ -638,6 +638,21 @@
   },
   {
    "text": "Kovářová: Klempíř naskočil zpátky na estébácké praktiky | Napřímo - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQZGs3Y3Ytc2hyWlhxbUJLcjloNDRyeTlhaGkxS2ptR1BxcFF6a2hoTl96ek5NWjlhR2dEY3FFN1pSVXItVkFVLWI0Y3FDZllEeVQ4WnJrZGZHQmFidU5KTGtBWUhxcFB6VjNIMk42OWFyNmVVRC1xcUo3Sld6NFRfclJ1aFdUbDVSUGUwWFhtMnM0MUtKLWNURlVyOHlfdHRndl9VVUN6TQ?oc=5"
+  },
+  {
+   "text": "Klempíř kritizuje pískot na Národní třídě. Původně tvrdil, že na oslavy dorazí - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxNMGtrd1V2Nlh2Zkd0SzlKdV91ZlBQMzExeV83YS1UZWV0QzFrRXNNMXc3ZE5uNmhaczUwQ091X0xpb2s0X2JFcS0tMGNjbUdxalhfRm1vU18zSmFXZVVyTHUtaEpuTDY1NTd2dlNNQ2w1RWJuVkFEd1pTRm9VUmwzNmxlVFRoRTFDanZqT0tGcVY5b05KUjliaHk0QnhPdHdtYXZWRlU4N19SMzEzZWhiRXMzYXBuMnNkdjYwdTBnS0I1SUNDWnVuLVpveG9WVFVFS0ppWQ?oc=5"
+  },
+  {
+   "text": "Klempíř na Národní třídu nepřijde - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE5CanhpZTZqdzdIb1VVZFloZkZ5X1V4eHdieUl0N190MHZ3M1N3dWFqT3o4NnB2MXR4QkJTa0tLOFg3eXpfcFJ4bQ?oc=5"
+  },
+  {
+   "text": "GALERIE: Bartoš na Národce: „Klempíř se trošku podělal.“ Rýpl si i do „unaveného Babiše“ | FOTO 1 - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1GOGV4cUpaVEE3OVNqVW5xUUJWQ2w3cktESEV6WkRBQlhnOHMzQzFIeHVpeDF3YWRKV2pBSXpWV3lNWEpqS3JYaDNzNkQ?oc=5"
+  },
+  {
+   "text": "Fica těší, když trpíme. Slovenští umělci žijící v Praze vysvětlují, v čem je situace v Česku jiná - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxNbDAyTFVsbmJIV3ZsN190RlBoXzNfTXE2dXhLM09uZXpyTGdQLUJaTUcxcEFuQlZqRWcxRjZRVnFKcC1CUllBSkpxVjAzT0NMOElrdGdMNHp3MUlUYTNlWXZuMnp5bzBxODBocUVYNUl2YTA0bUR0Y0tfVXFMY0thYTl5N1dZa0t2Y0E0WUNRT2hSNXFwdWlDcVE2NTJrOGk3bXF2WXpMTGFWY1k1VzlkMVNDb0ZzRlZjbUltamJR?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu plánuje na 20. listopadu mnoho akcí na vyjádření poděkování učitelům. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPcmZDX2hONVpZdGpBSndISE40NHEyMHpRSlROTnRRc3ktbkdiajhLY2RDWWZUVm1SVUtZbWx1TXRsckhsb0Y1Q0NyckJrcTRiM1VCUlA0TXVjRkcxMUI0cjF5aF9jc19DY0tvTkRYQlFoZ0dHRi1GM1I1TThwdE5ITXdIcGpnazhXUWtfVzZBRW5GVFFvMGRxWlBrWQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-16"
