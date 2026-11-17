@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-17T12:43:03+00:00",
+   "last_success_at": "2026-11-17T21:21:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -88,11 +88,12 @@
     "facebook:ff7cfefc94c604af",
     "facebook:682dc96d2fa37162",
     "facebook:f07d79244e8263ad",
-    "facebook:38998c46e346b7be"
+    "facebook:38998c46e346b7be",
+    "facebook:4951e30900bddbef"
    ],
-   "last_success_at": "2026-11-17T12:43:03+00:00",
+   "last_success_at": "2026-11-17T21:21:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-16T21:04:41+00:00"
+   "last_new_item_at": "2026-11-17T21:21:32+00:00"
   },
   "instagram": {
    "seen": [
@@ -111,7 +112,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-17T12:43:03+00:00",
+   "last_success_at": "2026-11-17T21:21:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -119,33 +120,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-17T12:43:03+00:00",
+   "last_success_at": "2026-11-17T21:21:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:6a39e25687449184",
-    "news:21f68b50d2507259",
-    "news:fc73e9d7266ef3b0",
-    "news:12a30d78184717bf",
-    "news:713916d7b0100563",
-    "news:48a5bd6096d831aa",
-    "news:013742411d4d15e6",
-    "news:290005d2e6a2e964",
-    "news:d46004bdea9d265b",
-    "news:3413acd403605d28",
-    "news:56dbcd89d02b8c0c",
-    "news:b6b16eb51d0ed923",
-    "news:573c4274c93066e2",
-    "news:65c1b3935283174f",
-    "news:eee3bcb88eb04637",
-    "news:c1b4afadf88c6f7e",
-    "news:10e11e7811640b35",
-    "news:3ee1330348d7ebf2",
-    "news:c35380fe6df03fcc",
-    "news:73d8bfbb7b75e57a",
     "news:d80a88dccfed4fa6",
     "news:e5e3cba881683645",
     "news:8b88cca0e0e5dcc8",
@@ -625,35 +606,33 @@
     "news:46eda81c6b181b94",
     "news:cef14ca665d1b24c",
     "news:858cc3778e61042d",
-    "news:007e877ab4019cec"
+    "news:007e877ab4019cec",
+    "news:0af3294c013597d3",
+    "news:6b27c2268e53f9c0",
+    "news:70360a557f96d650",
+    "news:0084101dd5934cfe",
+    "news:11826fe29236266f",
+    "news:c6e33a12e8e9eb42",
+    "news:07a8df747ae5f14c",
+    "news:fb1b2d2353856d74",
+    "news:1905d8e4e93392b1",
+    "news:7e38b4534ecdfbdd",
+    "news:426be603cdc42507",
+    "news:3a4c21cd73f957c1",
+    "news:0025787a5493c77c",
+    "news:a404df87e940b19f",
+    "news:c7cdb831ea205058",
+    "news:0bb1faa43c8dd3c5",
+    "news:f69e1c72236e794e",
+    "news:3bd61cf721ac26b0",
+    "news:d800ea2763536e85",
+    "news:c5ce9f9f2628f452"
    ],
-   "last_success_at": "2026-11-17T12:43:03+00:00",
+   "last_success_at": "2026-11-17T21:21:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-17T12:43:03+00:00"
+   "last_new_item_at": "2026-11-17T21:21:32+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř chce nejprve otevřít debatu o EMFA, poté řešit financování ČT a ČRo - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxPVTQyd3pFXzVZYzA1Y01oekZyMFBtcTZGNEIycEdIRzBSUldScEVWd3NfWmFDd0pFSEFvRkhKWEh1R1RlTFFvX2plcG82TzVlXzhtT244ZklrLXY3cVlIc1pHbElLMGpqbXNnU01WQUdrMzdNVFVGQ2hpaUY5TnBocUEyTE1IUFRiRDhWTzJJQTdzNTdTUEk3eDkzMFlVOGxYM3lERVY0YVVBWGtCeE5rUmNjTDd5NjBweFh6T1J0LUFaN01RWWFYZVNJMjg?oc=5"
-  },
-  {
-   "text": "Kovářová: Klempíř naskočil zpátky na estébácké praktiky | Napřímo - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQZGs3Y3Ytc2hyWlhxbUJLcjloNDRyeTlhaGkxS2ptR1BxcFF6a2hoTl96ek5NWjlhR2dEY3FFN1pSVXItVkFVLWI0Y3FDZllEeVQ4WnJrZGZHQmFidU5KTGtBWUhxcFB6VjNIMk42OWFyNmVVRC1xcUo3Sld6NFRfclJ1aFdUbDVSUGUwWFhtMnM0MUtKLWNURlVyOHlfdHRndl9VVUN6TQ?oc=5"
-  },
-  {
-   "text": "Klempíř kritizuje pískot na Národní třídě. Původně tvrdil, že na oslavy dorazí - iDNES.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1AFBVV95cUxNMGtrd1V2Nlh2Zkd0SzlKdV91ZlBQMzExeV83YS1UZWV0QzFrRXNNMXc3ZE5uNmhaczUwQ091X0xpb2s0X2JFcS0tMGNjbUdxalhfRm1vU18zSmFXZVVyTHUtaEpuTDY1NTd2dlNNQ2w1RWJuVkFEd1pTRm9VUmwzNmxlVFRoRTFDanZqT0tGcVY5b05KUjliaHk0QnhPdHdtYXZWRlU4N19SMzEzZWhiRXMzYXBuMnNkdjYwdTBnS0I1SUNDWnVuLVpveG9WVFVFS0ppWQ?oc=5"
-  },
-  {
-   "text": "Klempíř na Národní třídu nepřijde - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiSEFVX3lxTE5CanhpZTZqdzdIb1VVZFloZkZ5X1V4eHdieUl0N190MHZ3M1N3dWFqT3o4NnB2MXR4QkJTa0tLOFg3eXpfcFJ4bQ?oc=5"
-  },
-  {
-   "text": "GALERIE: Bartoš na Národce: „Klempíř se trošku podělal.“ Rýpl si i do „unaveného Babiše“ | FOTO 1 - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1GOGV4cUpaVEE3OVNqVW5xUUJWQ2w3cktESEV6WkRBQlhnOHMzQzFIeHVpeDF3YWRKV2pBSXpWV3lNWEpqS3JYaDNzNkQ?oc=5"
-  },
-  {
-   "text": "Fica těší, když trpíme. Slovenští umělci žijící v Praze vysvětlují, v čem je situace v Česku jiná - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivgFBVV95cUxNbDAyTFVsbmJIV3ZsN190RlBoXzNfTXE2dXhLM09uZXpyTGdQLUJaTUcxcEFuQlZqRWcxRjZRVnFKcC1CUllBSkpxVjAzT0NMOElrdGdMNHp3MUlUYTNlWXZuMnp5bzBxODBocUVYNUl2YTA0bUR0Y0tfVXFMY0thYTl5N1dZa0t2Y0E0WUNRT2hSNXFwdWlDcVE2NTJrOGk3bXF2WXpMTGFWY1k1VzlkMVNDb0ZzRlZjbUltamJR?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu plánuje na 20. listopadu mnoho akcí na vyjádření poděkování učitelům. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPcmZDX2hONVpZdGpBSndISE40NHEyMHpRSlROTnRRc3ktbkdiajhLY2RDWWZUVm1SVUtZbWx1TXRsckhsb0Y1Q0NyckJrcTRiM1VCUlA0TXVjRkcxMUI0cjF5aF9jc19DY0tvTkRYQlFoZ0dHRi1GM1I1TThwdE5ITXdIcGpnazhXUWtfVzZBRW5GVFFvMGRxWlBrWQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-16"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-17"
 }
