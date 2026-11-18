@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-18T11:37:23+00:00",
+   "last_success_at": "2026-11-18T19:35:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -89,11 +89,12 @@
     "facebook:682dc96d2fa37162",
     "facebook:f07d79244e8263ad",
     "facebook:38998c46e346b7be",
-    "facebook:4951e30900bddbef"
+    "facebook:4951e30900bddbef",
+    "facebook:e7fb683749d83587"
    ],
-   "last_success_at": "2026-11-18T11:37:23+00:00",
+   "last_success_at": "2026-11-18T19:35:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-17T21:21:32+00:00"
+   "last_new_item_at": "2026-11-18T19:35:41+00:00"
   },
   "instagram": {
    "seen": [
@@ -112,7 +113,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-18T11:37:23+00:00",
+   "last_success_at": "2026-11-18T19:35:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -120,18 +121,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-18T11:37:23+00:00",
+   "last_success_at": "2026-11-18T19:35:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:b0adfe78ff287e6c",
-    "news:45cae5228ec63f47",
-    "news:462db4ced1a5b88e",
-    "news:35f6a2d264a9c85d",
-    "news:6b368e71759a8dd4",
     "news:4b1c0d2de2e2eab6",
     "news:d0380d016371e2b9",
     "news:64049c2e6fdaf248",
@@ -626,23 +622,18 @@
     "news:3203c7ce5e2047c7",
     "news:82abcefbdcf16a3e",
     "news:b7268541cf38d4c6",
-    "news:0144f2615d4f9529"
+    "news:0144f2615d4f9529",
+    "news:e6feea58c89cd51d",
+    "news:7ef60ba02e663725",
+    "news:41c2a6660efbbe7a",
+    "news:77b5e3fbc2393b67",
+    "news:0bc9d82e3e49e068"
    ],
-   "last_success_at": "2026-11-18T11:37:23+00:00",
+   "last_success_at": "2026-11-18T19:35:41+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-18T11:37:23+00:00"
+   "last_new_item_at": "2026-11-18T19:35:41+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř z tepla domova okomentoval dění na Národní třídě - Globe24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOcDAteHp6dmYtbXlnMmRNWWJSLVMxbVVTbmpkMmJfME5ITlc4SGtWeVh6WXhOU193cWd1VVhYV1hNZU9fY044R1RpTmVoWm5Wb1V2c0VxaTR2NjgzQ0w4WF9CZkxDNWF4Q1VHSXpWME1KMWpkczlGN3NsOUhGallLTDRldGFya0JteXFvUjgxQ3lSaDNv?oc=5"
-  },
-  {
-   "text": "Hejma: Klempíř jede na tygrovi, Piráty mu neodpustím. Kocáb má Motoristy za katastrofu - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUJUUzJCME1KN29XRWwzb0pmVW5HSkpmUkUzangxd2hyNkdJQldjNU5vWFZLdWpHT2ZnZEw0TjNobGVraTJaOExnSHlnSnNUQ1QyYmpFM3RzclRMNkowcWtockhiU25KdjAwNkNsYjZOVGhneXMwdlNJMy1PZUVpdW5iRVMyc01HdFhWWUJpbS1McVd5Nk9ybzVHcXR6OF80akdwR0NEbHBGNXM0RXRNcy1pakVMUUJjeXpYcGlNaHlmNjZKYWstRw?oc=5"
-  },
-  {
-   "text": "Že to agentovi StB uniká, asi nepřekvapí. Politici cupují Klempíře, mluví o pokryteckém moralizování - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxOQVlta1d0bHRCbXBpRWx0andfOWd3SGRENkhGNEVlUmpQVF9MNHVHTDFXVjZ6ZTN1OTNnWlZfUGpmbmYtSzNNQjZ4MHAzSFFlNjIxWGpxenRHNnFfdU4yQms3OWpnanljeGV1LVBUYTdPTXV6TjhCS0djMlhDbU4yODRMV2tYSnh4YmRkWjhYejNZWVpEUXVDR0Z3VWhvQTVYa1RubmpOV0E5bDBadzUzMDBZRWR1RjNfMkpVMQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-17"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-18"
 }
