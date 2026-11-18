@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-17T21:21:32+00:00",
+   "last_success_at": "2026-11-18T03:00:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -91,7 +91,7 @@
     "facebook:38998c46e346b7be",
     "facebook:4951e30900bddbef"
    ],
-   "last_success_at": "2026-11-17T21:21:32+00:00",
+   "last_success_at": "2026-11-18T03:00:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-17T21:21:32+00:00"
   },
@@ -112,7 +112,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-17T21:21:32+00:00",
+   "last_success_at": "2026-11-18T03:00:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -120,14 +120,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-17T21:21:32+00:00",
+   "last_success_at": "2026-11-18T03:00:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d80a88dccfed4fa6",
     "news:e5e3cba881683645",
     "news:8b88cca0e0e5dcc8",
     "news:66bcfcc559f77570",
@@ -626,13 +625,18 @@
     "news:f69e1c72236e794e",
     "news:3bd61cf721ac26b0",
     "news:d800ea2763536e85",
-    "news:c5ce9f9f2628f452"
+    "news:c5ce9f9f2628f452",
+    "news:3203c7ce5e2047c7"
    ],
-   "last_success_at": "2026-11-17T21:21:32+00:00",
+   "last_success_at": "2026-11-18T03:00:22+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-17T21:21:32+00:00"
+   "last_new_item_at": "2026-11-18T03:00:22+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř z tepla domova okomentoval dění na Národní třídě - Globe24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOcDAteHp6dmYtbXlnMmRNWWJSLVMxbVVTbmpkMmJfME5ITlc4SGtWeVh6WXhOU193cWd1VVhYV1hNZU9fY044R1RpTmVoWm5Wb1V2c0VxaTR2NjgzQ0w4WF9CZkxDNWF4Q1VHSXpWME1KMWpkczlGN3NsOUhGallLTDRldGFya0JteXFvUjgxQ3lSaDNv?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-17"
 }
