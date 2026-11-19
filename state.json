@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-18T19:35:41+00:00",
+   "last_success_at": "2026-11-19T01:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -90,11 +90,12 @@
     "facebook:f07d79244e8263ad",
     "facebook:38998c46e346b7be",
     "facebook:4951e30900bddbef",
-    "facebook:e7fb683749d83587"
+    "facebook:e7fb683749d83587",
+    "facebook:7fe3c15deb751e67"
    ],
-   "last_success_at": "2026-11-18T19:35:41+00:00",
+   "last_success_at": "2026-11-19T01:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-18T19:35:41+00:00"
+   "last_new_item_at": "2026-11-19T01:29:12+00:00"
   },
   "instagram": {
    "seen": [
@@ -113,7 +114,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-18T19:35:41+00:00",
+   "last_success_at": "2026-11-19T01:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -121,7 +122,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-18T19:35:41+00:00",
+   "last_success_at": "2026-11-19T01:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -629,11 +630,15 @@
     "news:77b5e3fbc2393b67",
     "news:0bc9d82e3e49e068"
    ],
-   "last_success_at": "2026-11-18T19:35:41+00:00",
+   "last_success_at": "2026-11-19T01:29:12+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-18T19:35:41+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Post from 2026-11-17\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid0JfAwEP1EA2VqfuZU3a7Y5nBekhtMuyqFUm3y9iT4RhG63q9vQx8E7RNnBru5AqnGl"
+  }
+ ],
  "last_digest_date": "2026-11-18"
 }
