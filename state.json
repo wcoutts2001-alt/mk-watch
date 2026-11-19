@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-19T09:20:14+00:00",
+   "last_success_at": "2026-11-19T18:27:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -91,11 +91,12 @@
     "facebook:38998c46e346b7be",
     "facebook:4951e30900bddbef",
     "facebook:e7fb683749d83587",
-    "facebook:7fe3c15deb751e67"
+    "facebook:7fe3c15deb751e67",
+    "facebook:85daa17ad16ba5ef"
    ],
-   "last_success_at": "2026-11-19T09:20:14+00:00",
+   "last_success_at": "2026-11-19T18:27:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-19T01:29:12+00:00"
+   "last_new_item_at": "2026-11-19T18:27:09+00:00"
   },
   "instagram": {
    "seen": [
@@ -114,7 +115,7 @@
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7"
    ],
-   "last_success_at": "2026-11-19T09:20:14+00:00",
+   "last_success_at": "2026-11-19T18:27:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -122,34 +123,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-19T09:20:14+00:00",
+   "last_success_at": "2026-11-19T18:27:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:74dc4e58c0ec1ab7",
-    "news:6897eee171298f8c",
-    "news:674bc8d0f6f99365",
-    "news:f3506542f83010ab",
-    "news:99da1951baf0af35",
-    "news:d66a5a80cb937ba0",
-    "news:ca92e11941a586df",
-    "news:cabc8bcb866f49ea",
-    "news:3a86198c8a4d971c",
-    "news:50939e0464040949",
-    "news:8128a4eb2439bffc",
-    "news:f354e6eecd73b22a",
-    "news:8d9a541e7584c877",
-    "news:4e6c4b9df556119c",
-    "news:098100bea7375293",
-    "news:13ba238943c998d0",
-    "news:0ffcbd8e676db79e",
-    "news:b209f015e57e4c03",
-    "news:a506638265d87336",
-    "news:14741d73978274b2",
-    "news:deae92c7296efd52",
     "news:43f5f13ba914066a",
     "news:109ef983afa32699",
     "news:0728305415431e80",
@@ -628,26 +608,34 @@
     "news:0bc9d82e3e49e068",
     "news:d64e1ecae080523f",
     "news:8917ec2ccfffaf31",
-    "news:12cd9f8c588f91de"
+    "news:12cd9f8c588f91de",
+    "news:4c93c1c57588682e",
+    "news:357147a76062c613",
+    "news:390319d09a3269c4",
+    "news:d0b601e56be119f8",
+    "news:0225973f8250482d",
+    "news:d90ac4843c4c77c8",
+    "news:939011a9e4a827cc",
+    "news:14b4fe6d3754000c",
+    "news:6003862a7450fc7d",
+    "news:5ea7c9fa2edf9624",
+    "news:f7e5456841a1fa40",
+    "news:57b0d467d5fcaba7",
+    "news:2dc16b3e4f6c6d7d",
+    "news:23eb53d1a3ed3b78",
+    "news:c14c8010aa366a4d",
+    "news:11eeeb2fb9de1141",
+    "news:330525e7701b8d11",
+    "news:34325cb016d6c0c9",
+    "news:9baacdedbd9565ec",
+    "news:9016ff00041b6620",
+    "news:0441b0ccc23f8c0c"
    ],
-   "last_success_at": "2026-11-19T09:20:14+00:00",
+   "last_success_at": "2026-11-19T18:27:09+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-19T09:20:14+00:00"
+   "last_new_item_at": "2026-11-19T18:27:09+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Post from 2026-11-17\n(Facebook)\nhttps://www.facebook.com/ministerstvokulturycr/posts/pfbid0JfAwEP1EA2VqfuZU3a7Y5nBekhtMuyqFUm3y9iT4RhG63q9vQx8E7RNnBru5AqnGl"
-  },
-  {
-   "text": "Ministr Lam Thi Phuong Thanh zaslal blahopřejný dopis k vietnamskému Dni učitelů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPS29pQ3k0WjVYMTM2VHN4Q3FGc2I1cmpZOXMySDRGM2hSNWxPV0ZJc3Q1NGtkMFN4YmQxWlNsRjBsdFVfLTRWbHZnZEgtc2ZUQ19PTVFrc0o2T01UbDE0MzhWb2p3amd6OG5kRFdDQWVUMHJPSktlZkwxRHdBZlRiUWJrNWJkZ0xxMVcwM2F5ZnE3OUREQ0lJN0RlR0c3dw?oc=5"
-  },
-  {
-   "text": "Lao Cai přidal na národní seznam další 3 položky nehmotného kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxPaVlLUlVUaGlYUXNIVW9KNTZwdkQwQnNLemFoZGxYbktmWTJSNUFRWUFja1BTWHcwamRDaWRhTlNXTTJ1YmlZcFp4LXVwdzRESWVLZDBDeGE2VGM4Rml2dUwybGI1UFVfemhSTFh0OXJwVi1EN0l1bXlxb1R5S0h5RmFlenVteWdQR3JfeHJpb0p2V1BTZUJn?oc=5"
-  },
-  {
-   "text": "Pískot a nadávky na Národní třídě? Ministr Klempíř kritizuje atmosféru oslav! - stars24.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxQcjg3QlQ5ZVZ6MHhEc2pKWWRYRXZCempnYUJ3d2EzQ3AzYi1pMnJlbXd2R2Uzal9jY01fQm5RMFpQZ1U5bnNZYVJmb1NGYkMtdjdPOFF1X2IzSVBiRWpJZ0pyQTdiVW8yNWUxU05DM2htcm9vdGd2WThscDZiejhQZ0VPMy13RW1tVUcwWU9FMncxMU1OVmFFNFBTYWs0SzM2V3lmMTVuMmhOdWZvZmc0?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-18"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-19"
 }
