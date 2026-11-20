@@ -35,7 +35,7 @@
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a"
    ],
-   "last_success_at": "2026-11-19T18:27:09+00:00",
+   "last_success_at": "2026-11-20T00:47:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-16T21:04:41+00:00"
   },
@@ -92,11 +92,12 @@
     "facebook:4951e30900bddbef",
     "facebook:e7fb683749d83587",
     "facebook:7fe3c15deb751e67",
-    "facebook:85daa17ad16ba5ef"
+    "facebook:85daa17ad16ba5ef",
+    "facebook:96bb6adbe1ad70a6"
    ],
-   "last_success_at": "2026-11-19T18:27:09+00:00",
+   "last_success_at": "2026-11-20T00:47:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-19T18:27:09+00:00"
+   "last_new_item_at": "2026-11-20T00:47:40+00:00"
   },
   "instagram": {
    "seen": [
@@ -113,31 +114,24 @@
     "instagram:ec08d46a9b9f7d58",
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424",
-    "instagram:33c9c12c54648ac7"
+    "instagram:33c9c12c54648ac7",
+    "instagram:6b25933976936486"
    ],
-   "last_success_at": "2026-11-19T18:27:09+00:00",
+   "last_success_at": "2026-11-20T00:47:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-16T21:04:41+00:00"
+   "last_new_item_at": "2026-11-20T00:47:40+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-19T18:27:09+00:00",
+   "last_success_at": "2026-11-20T00:47:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:43f5f13ba914066a",
-    "news:109ef983afa32699",
-    "news:0728305415431e80",
-    "news:13fc51cf639b6d29",
-    "news:f39af50652e5a8d6",
-    "news:21501b8ea870e069",
-    "news:a1022b12ae017bb2",
-    "news:ebd2121fc90620d3",
     "news:e96adc07986f64c8",
     "news:8ee1dcc1625cea59",
     "news:22d895d41a6140ea",
@@ -629,13 +623,40 @@
     "news:34325cb016d6c0c9",
     "news:9baacdedbd9565ec",
     "news:9016ff00041b6620",
-    "news:0441b0ccc23f8c0c"
+    "news:0441b0ccc23f8c0c",
+    "news:40cc405f1c4cdfd1",
+    "news:165412406adcd49c",
+    "news:348d04caf27739e3",
+    "news:434a45acb336bd3e",
+    "news:7d8bb40a8499f448",
+    "news:2b746d71addf5743",
+    "news:6ee1b88dcb8d6255",
+    "news:11664b817d7177d6"
    ],
-   "last_success_at": "2026-11-19T18:27:09+00:00",
+   "last_success_at": "2026-11-20T00:47:40+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-19T18:27:09+00:00"
+   "last_new_item_at": "2026-11-20T00:47:40+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Má ministerstvo kultury přestat financovat oslavy 17. listopadu? (620) - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxPcHZqREZVM2k5YWVfVjU0TjJYd1RJTHk2cTJsXzJJcThLREx3NHZtelFIVXhOd182LWJfSXJvUzBZcUFTdTBTaTN2enU3M3JoaEozT0xuZGp1ZXBRanRza192WHFxX1ZieUJ0cWNGSDRlNTJjai16dW5TRkszbXNPMzZfN3BZRWNlb3dzQndlTGlmd2tqRFBxRk41UkV5ODVENFNfOTJMSlJBaWJ3?oc=5"
+  },
+  {
+   "text": "Německý svaz novinářů žádá, aby se Merz při setkání s Babišem vyjádřil k situaci kolem ČT a ČRo - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxNTE1FVzBfZFhyajNYQ0tEN25IUUZXdHRqTHhPWHktNURDVnhTWFJJQXByQmhrcXJDcF9wWHRuU2EtQlZLX01qcUlLcW85OTNnTnlwd1llb1NwWk1fZEVDbENRRWYyelB1cmYtdjF5TFIxa3pZTEFpQU9FTkpmRGxrV0xzSWZtS0JUdkhQRGVtYUlMYTVTRjZ1RlotTnZJQXh6TkU3N3dTaUF3QS1jRGNHLVBXaUJ6UnBud2FuSnp4YVZwN0UwMXpNZ1I1VlhxOTVqNnZqOTBRaEdxZGs?oc=5"
+  },
+  {
+   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 18. listopadu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNeUVQRlJDY25DRlRkYVpVZE5odFd2VVgzOEduY0RZdXNvSjVCWFc2cHBoTjl4VTlDbm44bEppdjdGNW83TFh4RFN0MDVHZEJlWE11Y1hDaWZKWU4tbDlhckR4TUd0Y0R1U0otTVo1VDlNTDdWS0ZVUlVzRl9rR0hFaW1DQzhack82MWEyLXVFb2RZeS01amo3bE13?oc=5"
+  },
+  {
+   "text": "Výstava „Cesta vietnamského dědictví“ představuje v Hai Phongu více než 300 artefaktů a starožitností. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQa3ZLTlpqVHdUMEY5U05kamNiTWFIM3JnUUZpUHRlN1plbkltYXZrUUZxMVpNMEVLMlpTcGtVSENqMWR6Y21VVnJNbFBmdkNIcGZxTHdZQXB1TXFfTXB2ek5rZFBqTnpWcjQ1N3gydk5TblRfanhPNXUtVEhsTUlkM2hJOENVYzVHS2MxWFZPTUs1LWVLOF9mdldGbnE?oc=5"
+  },
+  {
+   "text": "Vinh Long: Zahájení kulturního týdne s vrcholem festivalu Ok Om Bok. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxORXVYRElOYThUZmFRM1hQUnpJZGNCYjRSdjhtdlhzVV94VWxxam5wOVZlUDF6em13ZnRaLVphSkY2dUE4T2ZDeTJubENGWC10Z3AxME9pZVA1bFJ1RTVSZ2YzanZPdm1QRlppbWxNNERYNG9NYkFqcVV0QnYtSDhKMkpLWURKM3BNLWNuak1lVnpsdkkwdFE?oc=5"
+  },
+  {
+   "text": "Úřady v Can Tho vydaly varování před zneužíváním jmen kandidátů na post starosty obce, což vyvolává zvědavost. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNWmR6dWRlLUUyREhMQ3BNRWhGaFZ1V3BKQXlNOEVyR0VhZmhVdnF0dHZITmxTUkd0RDBWbG9IVlVUVG04TG8yTHJ0TVdxeVR0bHhiMHdQbU5MVl9YVFRMQ0w1UkdLQU95OXRsOFBtVEhaa0FGNURqQjNhQm1hbkRxVmJSdTg0U1ZYRWxpQ1l6OVhZWENoOXczLTd3?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-19"
 }
