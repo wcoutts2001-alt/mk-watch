@@ -33,11 +33,12 @@
     "website:14968d33a94e28f3",
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9",
-    "website:8f8d0935e188a22a"
+    "website:8f8d0935e188a22a",
+    "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-20T07:59:54+00:00",
+   "last_success_at": "2026-11-20T16:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-16T21:04:41+00:00"
+   "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
   "facebook": {
    "seen": [
@@ -93,11 +94,12 @@
     "facebook:e7fb683749d83587",
     "facebook:7fe3c15deb751e67",
     "facebook:85daa17ad16ba5ef",
-    "facebook:96bb6adbe1ad70a6"
+    "facebook:96bb6adbe1ad70a6",
+    "facebook:b72ab10ffd7b1f81"
    ],
-   "last_success_at": "2026-11-20T07:59:54+00:00",
+   "last_success_at": "2026-11-20T16:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T00:47:40+00:00"
+   "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
   "instagram": {
    "seen": [
@@ -115,35 +117,24 @@
     "instagram:8b2abe124015f068",
     "instagram:43e0f5ff75e84424",
     "instagram:33c9c12c54648ac7",
-    "instagram:6b25933976936486"
+    "instagram:6b25933976936486",
+    "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-20T07:59:54+00:00",
+   "last_success_at": "2026-11-20T16:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T00:47:40+00:00"
+   "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-20T07:59:54+00:00",
+   "last_success_at": "2026-11-20T16:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:3074c63ccc00be60",
-    "news:d2843b8b15042385",
-    "news:9ccc4fbb48506ee3",
-    "news:06da4e04aab6a391",
-    "news:55b35018bad04f25",
-    "news:3cfcce2329cdae66",
-    "news:27c7fa475da91e34",
-    "news:0959daaa9084eefa",
-    "news:594d1fe81556b1b3",
-    "news:cb59abc42a3f6dc6",
-    "news:1e9be498e4dc7d56",
-    "news:be37dd4787c27a7a",
     "news:ea0822f2683602dc",
     "news:31aead2232708c5d",
     "news:e9f83e14bed02d1f",
@@ -631,11 +622,23 @@
     "news:7892c2b70bb029bc",
     "news:1eadf20e5deacc99",
     "news:c637923d4a5b58e4",
-    "news:4d7d8d3c56c7f58f"
+    "news:4d7d8d3c56c7f58f",
+    "news:7519110635da8c8a",
+    "news:e6e768e9f5ce5a62",
+    "news:73aa198f4a433f55",
+    "news:75f97bad9f818f2d",
+    "news:c5a4d1b0a72caf0f",
+    "news:ad221785a368a290",
+    "news:df909990dd86d928",
+    "news:b2e49d9683fe10d2",
+    "news:771e3c63de6a811e",
+    "news:a5d73d5cec477bf3",
+    "news:6fd1cbb71890e85a",
+    "news:0dad050020d99a33"
    ],
-   "last_success_at": "2026-11-20T07:59:54+00:00",
+   "last_success_at": "2026-11-20T16:54:23+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T07:59:54+00:00"
+   "last_new_item_at": "2026-11-20T16:54:23+00:00"
   }
  },
  "digest_queue": [
@@ -683,6 +686,39 @@
   },
   {
    "text": "Can Tho uděluje ceny v soutěži Ambasador čtenářské kultury 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxNZTY2ZjJlekpHcHUyWk9WYkF5WUMtdWp5RkhHNW9YVF9ucFZzZV91NS1qOGZEQ1ZWXzd2aTFFOGZybGhiMFZPUDhIUlF0SmFNZTB4MWpVX0lMbkVnTHFHQmpJX0VOQWVSN25mWktzcjVXRVl4QU9UaDZnV0QxaGsyY3cxcnlFeHQ4U090Q3FlUFU?oc=5"
+  },
+  {
+   "text": "Legendární Kučerovci převzali prestižní ocenění Artis Bohemiae Amicis\n(MK ČR website)\nhttps://mk.gov.cz/novinky-a-media-cs-4/6625cs-legendarni-kucerovci-prevzali-prestizni-oceneni-artis-bohemiae-amicis"
+  },
+  {
+   "text": "Klempíř zahraniční odborníky nenašel. Konkurz na šéfa Národní galerie je po půl roce tam, kde byl - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFFfVW9EbkQwelIwTWhrc1pJSUVjaUphN1BIV2ZWQzFtbUNudTA3c0FmM09ZLTNKT2pZSU5uUWtjdWlVQkhpU2tmSkE5TnhGdzJPbXlVSHR6SDNlMWxwSEVKNDdWNjR2ZlVhOWZZZmhfVElWMEw3bnJBQWt0QnBVS1BhWHNHTjltSXQtYU80UUlOQWYtSS1MYmhMdTNhVUxVTzA2TTR3QjFYVHlHdE95WDJGZV9PX0VPa295VHQwY2hIcjN1OFR0S2FjbmFBOTZkTUhPOXNPYldmUQ?oc=5"
+  },
+  {
+   "text": "Chudárek bude odpoledne opět jednat s Babišem o financování - Aktuálně.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizAFBVV95cUxNaDRKQ1VTWnJDRDdYai1lQnprS3Qxbm03U1hYb29mTXp4RXFfYl9fczQ3NzBZR2R0cjhpZ2hoNk00N2k4M1YzUkZWN0cyUVplcERhd0hDaXczeDI2em9ETFBXaDNSSEgzVHllUVhYVjRXQ1VwemhlSW1CSWJmYzJablJqb0lrYzlJTG5rMkhKcFAyWFpia1hrZ2gySFlXQ2hTNXBMLWFwbFJoWEJUcEVSM3NTWXdRTnRnTWVXRTloR0l5bS1BdUZGMS14MlY?oc=5"
+  },
+  {
+   "text": "Vyšebrodský klášter hostí mezinárodní sympozim o zachování kulturního dědictví. Na koncert Felixe Slováčka je zvána veřejnost - Jižní Čechy Teď!\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm1PT1lqSV9FR3pNWmVON2VKd3V2eklERlNwaXZfclcxbHhzaThNZTJJcEJVNC0xbG1CdW5vR0NOV1FQbVlKYlNlV2V6MF9aQnoxLWNpck1LNzczOTlQd01ldklRdWlFTE5qaWFJOUpoeFc4WjNmTlVfMjNGSHE1ODdtdVgwOHhldFlEV0dBUGRMek40OWxnaDZuc19XTkNJYkQtNFNoZG5RT2FmT3BndXU2WmJqdGhFdnAwcHZuUHI5NDJSd1JCNEt0SVhsZGYtbUxVbVgwcnRQWVpoZjg4?oc=5"
+  },
+  {
+   "text": "Udělení Národní novinářské ceny za rok 2026 „Za rozvoj vietnamské kultury“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxPMHgzTWp6dU5SOS0xTDdabHFEc0RGN09IQjdHSEpPWDBsQ3ZfNjlMaVlhRTU0Q2ZoU296OUtBSDBVYlZWTktleWFEWFE1WTd2Q054bmMtR1NnbGo3U21ad09iUDl1TC1wbU5CdUM5c1lWUThNOU9Oa1NSM2ROTWxRRGtTMC1DdWxhTWNLNjVpTzVTSnVxV1N2TGRsWmRFcHFUV3NKV2Vn?oc=5"
+  },
+  {
+   "text": "Václav Svoboda si na Letné nebral servítky: Klempíř schytal osobní kritiku a Babiš má sloužit všem - Centrum.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMizwFBVV95cUxQalJ4YmQ0Vzd0M3h6N0Q2VlIzWFdFY0M2MVhRYkNIdzhnTnNsbWJYVEM0b2xFcllfM0pRYUxGZERXT0I4dVdlRWlvaTRudTYtaVh6eWpHdER5cFNaS3VPNVAwTHJVMmdHQTJPREhzSkE4bWNJTFhlMk1Jczc0dEhVY2dfWElLZEtGU29jWDVTNFZVeTF3V0h4QUdvRmFaYmNURkFGWk1uS2E5cC0ydndmazRjb3o4TTkxQ3pWbDVUdklWb3o1Qm1MMlJyLV9nNEk?oc=5"
+  },
+  {
+   "text": "Jana Kokyová: Garanční rada vznikla kvůli sporům o památník v Letech. Muzeum romské kultury nezatěžovala, kladla legitimní otázky. Důvody pro její fungování nepominuly - Romea.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwJBVV95cUxPdXllZ2hrRTNoTmZITTZSTW1Rbm5zNExBSW93NFRza2JKdDNvWDFMbUNSbHd0ODdrX0N5b1hkZjR6ODRkLWZnZWVQcUJQZWQ3bi05WGIySklweFdCREdLejJ2bXJYOVE0Y1ZodG8yQ2IzVFdBVDBqX3BfYVhYb1NRUVNESDJSSnlNMElVYmpwMFNkam45Ukkya2xmQktlOEFLWkdHTkM1d0tCSFpFaEFOdVlIRG9TczNCYjlRdk5xaFVseGFYTHlQQWRZdG9CdlNyMFZ4TGN2ejF5N0hsTWdkWVdTN0FCOXBtUTZzTXBwNHJhMkFBb1FsMHNfX1l6bXF5YjlnNVFxRnQ0bFVLYXR4Q2tXdi1KTFRuVFhv?oc=5"
+  },
+  {
+   "text": "Shrnutí modelu „Čítárny na hranicích“ pro období 2023–2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQUGV2REJYT000cTUtTURiTkd3anhtd3QtaV9wS0VzWnVIbW5JbGN5WDJZNTdwTUN5Q0NURzkydEZKOXBGdGEwc3lJV0pTdHRRbUdUdi1PZGMxZVZuNzNKWENNV2VKekZTTi15d3dfV20zdXBCaEtsV1FCbnlDdXpfcHBhdW1zeVkyS1E?oc=5"
+  },
+  {
+   "text": "VPUB - Zahájení hnutí „Civilizovaní lidé z Dien Bien - žádné odhazování odpadků“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxQX0ZyU1JnTHdSWnh2RUttUGEwYk1aMmhmOGR3RXltQ0ZNWTcyemV3eWtmS1pza0xlZUZNSlA2LTdyQXlWcGpVUF9HUXRDS2YzYkl2c3R3Q0s3TVFDUkNORmdNWDFFa0laY2I5OVBzS2xEMFZPYU5jTmFHemxHOG9LT3lIcEJ2TndzLWk5V3JaRXlUazg?oc=5"
+  },
+  {
+   "text": "Lao Cai je připraven na řadu aktivit u příležitosti Vietnamského dne kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RFTHdSXzNSSXVhQnU2dDMzcHM0NUVZNDlVTGVfVGlNUzV2Wk9FQkh2R3RXVUh1Qm9oUGNOaGc3YndMdTFLaVJPc2xmQzRQZk5QQTEwWDdqbkstRjVBMkNPVDlkSjJpTFNVTVNyUUxBUVBENVk1UTRFUl9KWlVSek0xYWZHQzJTb2xJZg?oc=5"
+  },
+  {
+   "text": "Postaví Da Nang v obci Thang An park ve stylu Disneylandu, aby podpořil svou noční ekonomiku? - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXdLYUxWcGJlSW1aYVN1dWY3NG9UdXlNSXVFclowQWZDU3kybXRXTGMtVWlGd2ZIdEVsYmdkWlh4akdsaVNzcUt6NUxQTmJyU1d0QlR6VzZtZU9HS1BvSFN3NThIUWdpMWJZd3NRY2xPSnpWNUR4VFJYZkFtVXR1VWVQanpuLWMxbGxnMWc1dmZaSzNyUF9QSWxDWGdSQU9za1pOUmpVRWU?oc=5"
   }
  ],
  "last_digest_date": "2026-11-19"
