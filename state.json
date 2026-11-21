@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-20T22:56:32+00:00",
+   "last_success_at": "2026-11-21T03:45:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -95,11 +95,12 @@
     "facebook:7fe3c15deb751e67",
     "facebook:85daa17ad16ba5ef",
     "facebook:96bb6adbe1ad70a6",
-    "facebook:b72ab10ffd7b1f81"
+    "facebook:b72ab10ffd7b1f81",
+    "facebook:43b8afe8fd62f6c8"
    ],
-   "last_success_at": "2026-11-20T22:56:32+00:00",
+   "last_success_at": "2026-11-21T03:45:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T16:54:23+00:00"
+   "last_new_item_at": "2026-11-21T03:45:17+00:00"
   },
   "instagram": {
    "seen": [
@@ -120,7 +121,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-20T22:56:32+00:00",
+   "last_success_at": "2026-11-21T03:45:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -128,21 +129,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-20T22:56:32+00:00",
+   "last_success_at": "2026-11-21T03:45:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:c9e2589782874445",
-    "news:820c92b6bd08e9cb",
-    "news:f97bfa199308608e",
-    "news:9ac33abbe8e1649f",
-    "news:185997c979bd8d00",
-    "news:ec08794f8491fb10",
-    "news:ba76552e44e56602",
-    "news:458e6f93bf18f4bf",
     "news:13d7dc058ffb8206",
     "news:28d222e4965dfdd3",
     "news:ff74a243d33774b5",
@@ -634,13 +627,40 @@
     "news:417676592d2f8ec1",
     "news:065a5edd0de2506d",
     "news:1a49a3070607f1b6",
-    "news:485ec8b0e1319257"
+    "news:485ec8b0e1319257",
+    "news:4c18bd8e621bb6f3",
+    "news:7b70d9a14f66cdd8",
+    "news:758a9499b180a620",
+    "news:42b2845eec1791fc",
+    "news:6cc72195e9ef3063",
+    "news:ecaa5e128c22d70f",
+    "news:9045e7d2652eebae",
+    "news:095d73ed27364fe9"
    ],
-   "last_success_at": "2026-11-20T22:56:32+00:00",
+   "last_success_at": "2026-11-21T03:45:17+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T22:56:32+00:00"
+   "last_new_item_at": "2026-11-21T03:45:17+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Exšéf ČT Dvořák: Máme ministerstvo kulturistiky, Klempíř prosazuje věci silou. Nemyslím, že by to Chudárek vzdal - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWpmNGNmZnJGUHI4bjlsRzhhaTJvMlBnWWMyMm5NQmZtYlBvWFVVbXZ2bWcwNVl2cENpU1d5T1hQY3gtT3pQTk43aDhJclNkWF9sQmxSRzZ1NnZ5ak8xV1k3N2lOcEJJMGtuN0FHOFhVOEU2djJuaXM2dERQek0yaUtfNlA1bFJHUVFLWm1ZM3YtWjNlNEFXakptTWJTOC1lWnEyRV90LTRtMWNiaG1meXhoWmJGdTlSeC1IaHktbTlSY3o0a0VLTlZjQ0MwSWt4VXBfT09jT21CTXZzRW10NTRRVWE?oc=5"
+  },
+  {
+   "text": "Od pobřeží ke hvězdám: Česko ve Frankfurtu předalo štafetu Chile - iLiteratura\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxOMmpFamtjdVM5eVFEbjlqUkE5c3lzeTgtZ2tCN3JBUFZwYjA5UFR5MF9QY2RTZnZaRjdyOTQ4SDB4ekFUNDJLWFUwZzk1RHNvR3drajhNUW5fOGItN1VLTWZXUl9ET2VLbXVpaEM0ek05eHp4NlNCZmQ4WFpQQXkyTnRDS25qUnJZb0E?oc=5"
+  },
+  {
+   "text": "Noviny Dan Tri získaly již čtvrtý rok po sobě Národní novinářskou cenu za kulturu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxQUVlzamZSVEhCX3lxVnVsWEtnS3dna0hhb2dOd2Z1alY5ejRodUk0M3pNekJSdFBWeklkNmVaXzF0NWhGbXpMdTZxZFpJRkJGUGtPT2E2aHI0eXNRMHB4YjFJaG5veGdyS2dlVTRuYm9qTExrWFJTSDFoLWFZNktOSXJZNW1CYXV5Vkc1V3VqakdoVm1OeHBCa1BzNEE2QQ?oc=5"
+  },
+  {
+   "text": "Oslava kávového dědictví prostřednictvím zážitkových cest. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxPWVczdDJ5dUprUWViZ0VBcUdmdnFGWXhuc0hPTDFBU1ZtUDVJTFA2TVdzdEVDWkRQZkRaTk9VLUdqUkE3VGZQUWJyb2pkX0hCT3dobmdGejhaWk9nRWFoQnVVcWE2b2xOb09TUzlhQzhCTnBud1diTE52MHV3V2p4S3ZkTEZvelk?oc=5"
+  },
+  {
+   "text": "Lang Son zavádí komplexní přístup k ochraně, budování muzeí a propagaci hodnoty svého kulturního dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxNMmhrUzYzdWJzblZ1SU5vbU12VDA1MVRfRU1kTzlMYTBrT0xFRnpMNmpnNUFEUUpfci1HLWpuRlMweWdzbC1fdkgwR05ZU291cTZIRm5EOFBkNkRBNmJHSFVpVFVOMnJaNklqWDNLSWd6RW5GMVNOS0stdWRWNnE3MGQ5Mk5BMEdyM25KYW5yaUtNXzhWdFNPM0xweDJSX2RjSXdKUm1ZMTNnVElXeS1uUzNXcWVkeWJMVXc?oc=5"
+  },
+  {
+   "text": "Případ zmizelého bronzového bubnu v Ninh Binh, který zmizel před 32 lety: Výsledky expertního posouzení jsou nyní k dispozici. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxNVVlTV2FJR2g1WmNlTWtpYjhzQWFDZ2RsLWNHY1I4RDViR1JpSTY0VW1JQlk4QzRFTWR5aGJGS2pIa21WOVBHY0VQQ0xCWlVKZ3JLNzAxZDVtTXYwRFlzOUZJb2d0OHlqZkl0Vll3UFpWazBJMVM4bUZ1SW9XSV9wSVlZNHdaYmpZZWxsWjAwWXRUcEI3TGtmZTBPck9zdw?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-20"
 }
