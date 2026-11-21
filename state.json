@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-21T19:12:39+00:00",
+   "last_success_at": "2026-11-21T23:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -96,11 +96,12 @@
     "facebook:85daa17ad16ba5ef",
     "facebook:96bb6adbe1ad70a6",
     "facebook:b72ab10ffd7b1f81",
-    "facebook:43b8afe8fd62f6c8"
+    "facebook:43b8afe8fd62f6c8",
+    "facebook:dcf43d3aac1d5ed4"
    ],
-   "last_success_at": "2026-11-21T19:12:39+00:00",
+   "last_success_at": "2026-11-21T23:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-21T03:45:17+00:00"
+   "last_new_item_at": "2026-11-21T23:48:36+00:00"
   },
   "instagram": {
    "seen": [
@@ -121,7 +122,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-21T19:12:39+00:00",
+   "last_success_at": "2026-11-21T23:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -129,15 +130,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-21T19:12:39+00:00",
+   "last_success_at": "2026-11-21T23:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:30affd31b4b51be6",
-    "news:2de72fc652962687",
     "news:d1531f70ae14f49f",
     "news:d54686cbc071989f",
     "news:04434d58a8c97066",
@@ -635,13 +634,22 @@
     "news:2ccdb9278e3c49a3",
     "news:d17e7a46955d97c0",
     "news:1e9ca8afd08e9de7",
-    "news:d674b63772f07a54"
+    "news:d674b63772f07a54",
+    "news:2ab3315b7567c4d2",
+    "news:3f02b632f550a98c"
    ],
-   "last_success_at": "2026-11-21T19:12:39+00:00",
+   "last_success_at": "2026-11-21T23:48:36+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-21T19:12:39+00:00"
+   "last_new_item_at": "2026-11-21T23:48:36+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "An Giang se zúčastnil 10. národních sportovních her s 326 sportovci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiowFBVV95cUxQUzBsdnFUby1rYm1CbGVNUG91d3VTVXVmTldzek1kc1JvRkF2NkZpSUZYcHZIR01pUmlxYzdBWVVxZW5QOTZnZ3E1U1RaVWNGR1JrQkktWnVDeXdJUEQ2UVNUX3g4R2lWaGItZ1pvWHZjQWtEYktzdjlUZ2ljTUVlOUx0bXNQdkJueDN5OGVDS0lFM2FwY0hSdkw2a0g5dXoweWlj?oc=5"
+  },
+  {
+   "text": "Slavnostní otevření prostoru Shan Tea a Lao Cai Brocade Colors v roce 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQWXp3aE1YOF9iOUpZdEUwTGtZVWc2WEZmQ0xuY1hOU3dqcFRJbXFSVkxyZkJSeXlwWS1TZmNHSnVSZUdtLTVOMUo5YV92Q29ldkc4VEhsMnZsSUl2MlpvTmpsdE5QOXZMRmVOWmxxdURDTVdYbHlPY2Z0eC1nSUpZeXpoVkZVTjk4T0FYaFBfUGlhRXdT?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-21"
 }
