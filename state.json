@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-21T23:48:36+00:00",
+   "last_success_at": "2026-11-22T04:46:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -99,7 +99,7 @@
     "facebook:43b8afe8fd62f6c8",
     "facebook:dcf43d3aac1d5ed4"
    ],
-   "last_success_at": "2026-11-21T23:48:36+00:00",
+   "last_success_at": "2026-11-22T04:46:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-21T23:48:36+00:00"
   },
@@ -122,7 +122,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-21T23:48:36+00:00",
+   "last_success_at": "2026-11-22T04:46:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -130,17 +130,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-21T23:48:36+00:00",
+   "last_success_at": "2026-11-22T04:46:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d1531f70ae14f49f",
-    "news:d54686cbc071989f",
-    "news:04434d58a8c97066",
-    "news:d532fc9241c7fc8b",
     "news:d270ec03315e5091",
     "news:bb28457fe8e0053b",
     "news:f36595717c63c6b7",
@@ -636,11 +632,15 @@
     "news:1e9ca8afd08e9de7",
     "news:d674b63772f07a54",
     "news:2ab3315b7567c4d2",
-    "news:3f02b632f550a98c"
+    "news:3f02b632f550a98c",
+    "news:6cb8eeb50eb025ef",
+    "news:11cea3722ba33c89",
+    "news:8fc58e2331e84635",
+    "news:b85e337f8142ef67"
    ],
-   "last_success_at": "2026-11-21T23:48:36+00:00",
+   "last_success_at": "2026-11-22T04:46:38+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-21T23:48:36+00:00"
+   "last_new_item_at": "2026-11-22T04:46:38+00:00"
   }
  },
  "digest_queue": [
@@ -649,6 +649,15 @@
   },
   {
    "text": "Slavnostní otevření prostoru Shan Tea a Lao Cai Brocade Colors v roce 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxQWXp3aE1YOF9iOUpZdEUwTGtZVWc2WEZmQ0xuY1hOU3dqcFRJbXFSVkxyZkJSeXlwWS1TZmNHSnVSZUdtLTVOMUo5YV92Q29ldkc4VEhsMnZsSUl2MlpvTmpsdE5QOXZMRmVOWmxxdURDTVdYbHlPY2Z0eC1nSUpZeXpoVkZVTjk4T0FYaFBfUGlhRXdT?oc=5"
+  },
+  {
+   "text": "Program výstavy fotografií vietnamského kulturního dědictví - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxOTEZiMDFhcmhrVG1mbUNaYnRjamZVX2h1MmR0a2hGNVNpc0VfTFYtY0pFN3ItN182cnJQdmhoUU1jdFpZajViMU91eEpwSERZMnVoUkRvVEdqNEpHcExMUmpuM3JVaGpfb3lsZWo1bXZvNnQ1Q2pEYTBrekg2Ull6c1Fn?oc=5"
+  },
+  {
+   "text": "Hanojský turistický festival Ao Dai 2026: Propojení dědictví se současným duchem - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQTU1nZDJCTi1NOGxieTlqMmFKaFNiV1RibjZmZjR3Z3QydW1GNm02OFlZM25WbzNHeUZSMHlKdjZYSG12dnhONUFYYlpCQ2xPWnNHdEJYUEd1c1lSOUtvdVV4ZlFNZ05EWWFJZkhyUUN0bHhSNzdKOWN1TmhFVmlGRmQxY3N2dTF4cEY3eG1UQlU5MC1lMXBKVzQ5alc?oc=5"
+  },
+  {
+   "text": "Probuzení pramene dědictví ve starobylém hlavním městě Hoa Lu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPaUtEcTZpVC1UWGpYQjJDWHpqcE9pWHRzQmlRSmJpWEsycHVPMnBZU24zUEM4aW53WEptcm9HZ0MtajVGa18tZGZwbDN3Uml3c2FUUENXaFFPU2xqd1djVlkyOF9vYWdPZl9yODk5VFgtQWY1WE84V005bVBnb0gxbg?oc=5"
   }
  ],
  "last_digest_date": "2026-11-21"
