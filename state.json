@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-22T04:46:38+00:00",
+   "last_success_at": "2026-11-22T13:01:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -97,11 +97,12 @@
     "facebook:96bb6adbe1ad70a6",
     "facebook:b72ab10ffd7b1f81",
     "facebook:43b8afe8fd62f6c8",
-    "facebook:dcf43d3aac1d5ed4"
+    "facebook:dcf43d3aac1d5ed4",
+    "facebook:039f15b1f2ee4c4d"
    ],
-   "last_success_at": "2026-11-22T04:46:38+00:00",
+   "last_success_at": "2026-11-22T13:01:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-21T23:48:36+00:00"
+   "last_new_item_at": "2026-11-22T13:01:33+00:00"
   },
   "instagram": {
    "seen": [
@@ -122,7 +123,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-22T04:46:38+00:00",
+   "last_success_at": "2026-11-22T13:01:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -130,25 +131,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-22T04:46:38+00:00",
+   "last_success_at": "2026-11-22T13:01:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:d270ec03315e5091",
-    "news:bb28457fe8e0053b",
-    "news:f36595717c63c6b7",
-    "news:de45226125962c32",
-    "news:e861d49f0c144db3",
-    "news:111c2b4bb96950bb",
-    "news:09a47ed8048a95e7",
-    "news:ea35b49e5135bda5",
-    "news:e494c3be82607b85",
-    "news:5d85db4e2fb0e86b",
-    "news:24a82ca8b0a78897",
-    "news:273a163989863dcd",
     "news:317bba1e400dfb40",
     "news:13c9c005ea8adbda",
     "news:2cfbeff3210b93d9",
@@ -636,11 +625,23 @@
     "news:6cb8eeb50eb025ef",
     "news:11cea3722ba33c89",
     "news:8fc58e2331e84635",
-    "news:b85e337f8142ef67"
+    "news:b85e337f8142ef67",
+    "news:13f23e46ee35e1f4",
+    "news:5869e6f0ca04466b",
+    "news:72a7824f4a56f8db",
+    "news:f2bdd387dd5b67b9",
+    "news:ad04641298adb5a9",
+    "news:35441880b5f65898",
+    "news:e18e4626f9c21a58",
+    "news:5cfba13c3cd5a8a5",
+    "news:67afc81ebe2c4efd",
+    "news:689eb9d41d53ea67",
+    "news:6d431eeed12cce92",
+    "news:3d90fd8e85d4e1a9"
    ],
-   "last_success_at": "2026-11-22T04:46:38+00:00",
+   "last_success_at": "2026-11-22T13:01:33+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-22T04:46:38+00:00"
+   "last_new_item_at": "2026-11-22T13:01:33+00:00"
   }
  },
  "digest_queue": [
@@ -658,6 +659,33 @@
   },
   {
    "text": "Probuzení pramene dědictví ve starobylém hlavním městě Hoa Lu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPaUtEcTZpVC1UWGpYQjJDWHpqcE9pWHRzQmlRSmJpWEsycHVPMnBZU24zUEM4aW53WEptcm9HZ0MtajVGa18tZGZwbDN3Uml3c2FUUENXaFFPU2xqd1djVlkyOF9vYWdPZl9yODk5VFgtQWY1WE84V005bVBnb0gxbg?oc=5"
+  },
+  {
+   "text": "Respekt Sezona, zima 2026. Co číst, vidět, slyšet - RESPEKT\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTFBsQWhQbWxsRmdwaTlPUXNBYm9aT05xay03ZWREeHNaWmtSMkdwZjlJczV6RzF0ZjNqX3ZBTUJFNkdVc1FWTHNMNllfWWMwaVd2RnkxT1dVeXQ2V2py?oc=5"
+  },
+  {
+   "text": "Vláda v pondělí projedná tresty za vybržďování či ujíždění před policií - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE1EWDZKNXRUTXVsWHkzSVZZc0xyY21QZVJTWDhZWk9HZ3FKZlktWnRjeEVNeWh3cTVaVFFwcWxyWHRCQ1hzZ044aGNyQ3k1Q3YtVTdv?oc=5"
+  },
+  {
+   "text": "Vytvoření týmu, který povede sportovní hnutí. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTE4xUFFoNE9TME1STkdSZ25nSHhJYmFJODc5eHVTX2NRV3F1bWJnb3QyaFk4WktZRWZnMFhuSkVia1dDQ2F4YjVMbVlFU19OcV9LR3lVUjB1X3NzNGVOYmEtMnpoOC1JY1UzMWlRSWF4aHBSTE9PcDJiUzln?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město spouští komunitu digitální kultury - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTE5HbXJKVlBnZmNVckppaE1FNEw3TmVaSlBMTzJ3MzF2RzF3bVI1NlVUV2Nna21jMVBvbVVra0U3OGFUSDhQVGtQWC1QWm5zREpkQ1NfWDFOb25nbWhMQ2tINjlXcFRlVjNEdjZ3?oc=5"
+  },
+  {
+   "text": "Nejznámější autonehody u nás: Štaidl napsal největší hity Karla Gotta. V den tragické srážky měl vézt Dádu Patrasovou - Garáž.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi-gFBVV95cUxQMW0ydGZEV1E1d0ZFZU41SE5ReXB1SVRGVndPR1hJWHJmLURvOFYtYkxjejk5ZWVRb0ZOend0anZYRDV4U1IwUzNFZFJVUFN4aEt4SjJ0MS1Tc2xGZ3diYmRKdl8yNUVfN013bHAwU0JQNVpodTlGNzA1YV9VSG1CU0F6bnFQc0VrY1VWVHM0blFhLVhIRUp0TnN6YnhBSnYxZFNnUjVsWDUyeUZRZU4xaldLelhwdnk5Skt6UHNLaGdvWUU1dnhXMUZrUUlHSEZoLTZaZWRyRVFvMG5RWWNvOWV0RF90UjdTS0JQSHRpQy01akp0VjdlcGJB?oc=5"
+  },
+  {
+   "text": "Ostrov Con Dao obnovuje 12 druhů korálů; Ho Či Minovo Město vysílá světu poselství modrého moře. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxPZUpvaFFLSE9IQWlMVW9IdHU3WlVvSjRwbTItOVRWVnVFVjZBLUhudmNmZmt0OVRLb0VJTFJXamkySE4xTTMwZzZBUU1NZmVnQU1uMWRpZER5NlA5X0Rtd3VUVHNrZzVkeFpUNnB6S0VCOGx4NWZDZV9jRWdkWFIyVEMtZVJkdmZncTU1ZnpMa0t2VGRWV1pSMlJlOTRueUtfUnc?oc=5"
+  },
+  {
+   "text": "Na ostrově Phu Quoc se schází to nejlepší loutkářství z celého světa. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTFBBbXNFY2tCNWF1TVp2bUpBd3hpTEFPRS0tSDdvYWh0WTJwT05ObERsRlVyeFk3aFUzNVBXQTRYSmxMNW5GT2lyNE40eDdKbHdCaEtkOExWQS1uRERwYXFBRFpjZ014WEkyX01WRmgxOEFna1BVNGZxcnM4aw?oc=5"
+  },
+  {
+   "text": "Majitel „nejtěžší tygří krevety v Ca Mau“ získá hlavní cenu ve výši 15 milionů VND. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxNcjJBbzFMejhQem94SS1TTHl5V25WZzNILTM3VmpTWVNYOGxoUGlWWkVDa0EyN2VzTHZWeDBoQjdMOHVtZzJheDJPNzhWaVJFUEhtN3lxdlpYalJpanRRODBSX2lxVm83TmVCeXVpRzFvVFlYb2NVb1hGRnh5Snp2dUczVzZ0dDhLcGw1WHl5THk0NFB1N0JiWFBB?oc=5"
+  },
+  {
+   "text": "Provincie Hung Yen pořádá tematickou výstavu s 500 reprezentativními starověkými artefakty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNVFRGRzhCVy1VejdIbWxaclMwVVhvTkdRNzU0a3Rsd0R2cVFQOGhlZW80STFxN0RrQ0VCM3YybENuUV9JMjV0VnE0cXZfTlVtY0VsTE9WZm1PUXFzU2xLeTNNRFkxRVBoUDdCcklaXzJ3Ml9MY1A2UlJhcF9pRGowTQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-21"
