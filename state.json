@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-22T20:19:42+00:00",
+   "last_success_at": "2026-11-23T01:01:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -98,11 +98,12 @@
     "facebook:b72ab10ffd7b1f81",
     "facebook:43b8afe8fd62f6c8",
     "facebook:dcf43d3aac1d5ed4",
-    "facebook:039f15b1f2ee4c4d"
+    "facebook:039f15b1f2ee4c4d",
+    "facebook:ed3ef2424b8709b3"
    ],
-   "last_success_at": "2026-11-22T20:19:42+00:00",
+   "last_success_at": "2026-11-23T01:01:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-22T13:01:33+00:00"
+   "last_new_item_at": "2026-11-23T01:01:32+00:00"
   },
   "instagram": {
    "seen": [
@@ -123,7 +124,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-22T20:19:42+00:00",
+   "last_success_at": "2026-11-23T01:01:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -131,15 +132,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-22T20:19:42+00:00",
+   "last_success_at": "2026-11-23T01:01:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:5840f5db8877ae56",
-    "news:0789ad9234f800a0",
     "news:53f59f410b46a8f2",
     "news:58cd6bdddd34e859",
     "news:574784bd1e40cc0d",
@@ -637,13 +636,19 @@
     "news:579349ba3488960c",
     "news:a67e3ee1d6d9cf6f",
     "news:2f1a5bb701a790c9",
-    "news:ff9838b64d8f0a98"
+    "news:ff9838b64d8f0a98",
+    "news:315d57dfab83101d",
+    "news:bd604769f4faed4b"
    ],
-   "last_success_at": "2026-11-22T20:19:42+00:00",
+   "last_success_at": "2026-11-23T01:01:32+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-22T20:19:42+00:00"
+   "last_new_item_at": "2026-11-23T01:01:32+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Česká filmová tvorba může přijít o miliardu korun. Plány ministra kultury vyvolaly odpor - TVGURU.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE5LZzBSbU1RMW1UcXZCTXp1VUU4MmFhLXE2enZBd0ZsLTRxaVE3LWlqYzRodDhaVG1DOU12bXI1QjdUdTJsQjBSYUxOcWVkempUMUZVLXJNQ0d0bFBMTmlmUmNleFFfMGhjeDk4dHd5eTJGUTQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-22"
 }
