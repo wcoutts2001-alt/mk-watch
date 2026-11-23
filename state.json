@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-23T01:01:32+00:00",
+   "last_success_at": "2026-11-23T08:59:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -101,7 +101,7 @@
     "facebook:039f15b1f2ee4c4d",
     "facebook:ed3ef2424b8709b3"
    ],
-   "last_success_at": "2026-11-23T01:01:32+00:00",
+   "last_success_at": "2026-11-23T08:59:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-23T01:01:32+00:00"
   },
@@ -124,7 +124,7 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3"
    ],
-   "last_success_at": "2026-11-23T01:01:32+00:00",
+   "last_success_at": "2026-11-23T08:59:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -132,21 +132,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-23T01:01:32+00:00",
+   "last_success_at": "2026-11-23T08:59:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:53f59f410b46a8f2",
-    "news:58cd6bdddd34e859",
-    "news:574784bd1e40cc0d",
-    "news:20f8ab30202cad64",
-    "news:f36ab8112fbff65a",
-    "news:fadc19dcee59fda7",
-    "news:6907fb65145f4588",
-    "news:3fe789c5d88d2835",
     "news:914370bc08184740",
     "news:6092555169c9a579",
     "news:f576e310468f841d",
@@ -638,16 +630,45 @@
     "news:2f1a5bb701a790c9",
     "news:ff9838b64d8f0a98",
     "news:315d57dfab83101d",
-    "news:bd604769f4faed4b"
+    "news:bd604769f4faed4b",
+    "news:e2e821cd3e5243b6",
+    "news:c976bb68382ceb81",
+    "news:ff28f61fd1390ec1",
+    "news:31ae17610bf0a368",
+    "news:e985cdb41eee6386",
+    "news:9a3910e6c1d8f030",
+    "news:0c48e66ee3c8b268",
+    "news:1f809b7c4f1aff99"
    ],
-   "last_success_at": "2026-11-23T01:01:32+00:00",
+   "last_success_at": "2026-11-23T08:59:30+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-23T01:01:32+00:00"
+   "last_new_item_at": "2026-11-23T08:59:30+00:00"
   }
  },
  "digest_queue": [
   {
    "text": "Česká filmová tvorba může přijít o miliardu korun. Plány ministra kultury vyvolaly odpor - TVGURU.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE5LZzBSbU1RMW1UcXZCTXp1VUU4MmFhLXE2enZBd0ZsLTRxaVE3LWlqYzRodDhaVG1DOU12bXI1QjdUdTJsQjBSYUxOcWVkempUMUZVLXJNQ0d0bFBMTmlmUmNleFFfMGhjeDk4dHd5eTJGUTQ?oc=5"
+  },
+  {
+   "text": "Glosa: Národní galerie - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE94RVcwYlFiWDl1dzFrak5WX3RJVk9LR0V5WkptNGdBQjNxbjlhbkotRVdYYzVjZ1p3LXRrakZoZGpLUDRPR1dvaVFJVFFnMGU5V2E1TWdxaWJSdUtieGx6eWIyb01VeFc3VmQzZndib055SHNuOEdn?oc=5"
+  },
+  {
+   "text": "CRAFT DAYS nabídnou řemeslo v přímém přenosu - TZB-info\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxQSzVNZlZScERkcC0wZWdBODF3UTVPZUJXRkFsZVN4azNGZHVXMXlIa1hxVFZNT2h0TzZoS0NUdEFaR09pbkRFNmNQYWZhaFNmOW9kOG1CR3VrUDhSLTlxZjBHa0p2TjRMdE5FcFhuR2JpZGR4ZE5XZl9TVlR3dGFaVE53Z1c?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu: Posílení administrativních reforem a zlepšení kvality služeb pro občany a podniky. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi0gFBVV95cUxQclR0MVJNaEVlbmJFdzFBb3Y5Z2ZMSGw5MlFxaWdwc29qTlNPZkVzZkI0OHlRZUlUWHNsY196djZWUVpQZ0lTd0FZclhNMWswU1ZhaVVBcFJSMDRPc29OR2o1ZmNrSlcxLTZpOUs3dXgtZ1A4ZmFZUi1mZG5SUVpFbUxla2JZTGRQbFBwTzBxV1Zfa25SbC1PLW16RzV4c3gzdTRjdjlsbEp1a0ZuN3Y1dC1oSWluNVQ4NDM3QlRtRnpuQ3pTSDNfWmxSNDBxZmZpOUE?oc=5"
+  },
+  {
+   "text": "První festival vietnamské kultury je připraven k zahájení v An Giangu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxOZnJlRmgyMzZQWFBTODlBNlVBWW9nWVpqZDk3bEZsdHNWcnNTVWV2cHRmTWtsWDlQVnB3UXdrTXpCV3piMkVURnpJVVNVTUFvd2VqQ3BNVFdqSWxOcjVpbmRudlhtOWR6VFJLVzJzUXB1VVM3eEtLMVVzN1c2cXhfdWFITDRTNjk3bXdGYjU1WkdCVDMtT25j?oc=5"
+  },
+  {
+   "text": "Vytvoření příznivého prostředí pro filmovou tvorbu podporuje rozvoj filmového průmyslu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxQTUFNaU1Mckh5ck5zWEI4RXVFN3NoNjdaQ09KRllkelhEcGtRMldaaFdMT2ozSWFJM2ZJN3l4X2JIRzBUeG1pOEV3Ui1Xd3BHOTRfQXhIdGlWSm8xTjF6NlhfVl9pa0RYVDdqZllpQVg3RjdJMnZKWERrQkRlS05yWHRCVWFrMHZXYVlzSnROcG1UV1k2Yk9WeHhDU3QxQUZhenc?oc=5"
+  },
+  {
+   "text": "Hvězda seriálu Ulice se pustila do Babiše: Má sloužit i lidem, kteří ho nevolili. Měli bychom ho sesadit - Dotyk\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxOTkYxU2wwTzVMdGhBcGpHbXZwdEtyRXZEdzZTcjNfSVdyYzVpa3ctcjdHb1p5ajlWSWRpVG4zSlhLWXl2a1MxRVQyU0phQUZhaFhCekxyclZxVEVtOF9MN2tFUXFnM2JLQWxoSkNyQkFHd3FwV2pmMlJSVUZSMXdfNy1BN2M?oc=5"
+  },
+  {
+   "text": "Diskuze: Česká filmová tvorba může přijít o miliardu korun. Plány ministra kultury vyvolaly odpor - TVGURU.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE5BelZqM3RTQzR0NTRkcGlCMmxvcWh3OVNWeHZEVGxrSUZhb2FsWENoMm11c01uY2lKQklnYXdvcklEV0tFTVFYdUdHQVB6LWNGWHplZzBaLWdMMXVJYnREb0lKZHd5blYwSkpCTmVLblA4MktSdmw4R2RrWGFlQQ?oc=5"
   }
  ],
  "last_digest_date": "2026-11-22"
