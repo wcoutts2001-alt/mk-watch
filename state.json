@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-24T05:18:41+00:00",
+   "last_success_at": "2026-11-24T16:06:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -100,11 +100,12 @@
     "facebook:dcf43d3aac1d5ed4",
     "facebook:039f15b1f2ee4c4d",
     "facebook:ed3ef2424b8709b3",
-    "facebook:25d29d01043b569e"
+    "facebook:25d29d01043b569e",
+    "facebook:26c1668e04f5e681"
    ],
-   "last_success_at": "2026-11-24T05:18:41+00:00",
+   "last_success_at": "2026-11-24T16:06:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-23T21:07:53+00:00"
+   "last_new_item_at": "2026-11-24T16:06:07+00:00"
   },
   "instagram": {
    "seen": [
@@ -126,7 +127,7 @@
     "instagram:b9797fcf9ff803a3",
     "instagram:6bd9d8132fb150bc"
    ],
-   "last_success_at": "2026-11-24T05:18:41+00:00",
+   "last_success_at": "2026-11-24T16:06:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-23T21:07:53+00:00"
   },
@@ -134,32 +135,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-24T05:18:41+00:00",
+   "last_success_at": "2026-11-24T16:06:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:839c934a02784a01",
-    "news:73710f63c804f943",
-    "news:f6a1a41009005f73",
-    "news:ca1adc091386f977",
-    "news:f22ba99def676d86",
-    "news:49e93a10485be6e9",
-    "news:805b58c29d3130c7",
-    "news:c08888769ec3baea",
-    "news:889602757e6470ca",
-    "news:daf623d20d7a25b1",
-    "news:968a0e9100260d78",
-    "news:2817117811b50e19",
-    "news:0455f0ef50ce4424",
-    "news:59f2d726af3771f2",
-    "news:e7a5a67848432b82",
-    "news:e4a28b41be0a5b9d",
-    "news:af7b975de52a1f70",
-    "news:fd883869908158b8",
-    "news:150ca0f35499fed1",
     "news:ce49dc6300d347d7",
     "news:3fb53a5cdf84cb3d",
     "news:450dfbe00bf9e20f",
@@ -640,11 +622,30 @@
     "news:8ea4c95d1fa0b6ac",
     "news:53c0657d369bfa71",
     "news:1db1849bda753a31",
-    "news:df0fe9ffc98d027e"
+    "news:df0fe9ffc98d027e",
+    "news:266db98b13304254",
+    "news:77cff951c59c616d",
+    "news:be321d6fa6d78ec4",
+    "news:56bc032665acf27f",
+    "news:a8dd83500fec8355",
+    "news:5814df10bcb5f800",
+    "news:47b42d09fb542707",
+    "news:c05a951268fa6749",
+    "news:65a6d5f8947452ee",
+    "news:7c1d065f17119416",
+    "news:c69338cdbaa4dac0",
+    "news:d77d4c17576ea1f7",
+    "news:88375dd3e34e49b2",
+    "news:6dbd67bb00990a9c",
+    "news:4bd9d41f2afc206e",
+    "news:21fcacfaaff64fb8",
+    "news:cf54a6a4628d26ca",
+    "news:dd7c702efefaf6e1",
+    "news:ff86a1c2e4ff9217"
    ],
-   "last_success_at": "2026-11-24T05:18:41+00:00",
+   "last_success_at": "2026-11-24T16:06:07+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-24T05:18:41+00:00"
+   "last_new_item_at": "2026-11-24T16:06:07+00:00"
   }
  },
  "digest_queue": [
@@ -713,6 +714,57 @@
   },
   {
    "text": "VPUB - Přehlídka technologií 3D mapování v muzeu Dien Bien Phu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOd0NIYUFUMHJiVUFGTTFxMTFvYXA0bWJIR3hnZG96QUg2NUh6UmU5UVlENUZKNkUxTkFqT2hkdWFZbjFrMmY4bXFZZk1fcWprdWJ1ajdQc3RhRXdNa2FYTFE4elU1SGdUZkdPdUNQVWhkTHJVQUVTOWRoa3NCWmN4aUlWSjFwbjdET3NFWUxaaEpnOXRx?oc=5"
+  },
+  {
+   "text": "Řádný hospodář si zbytečně nepůjčuje. Ekonom připomněl Klempířovi cenu jeho slibů - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOQmtkME4tR1p2OTc4X0pXYkVKYjROS0pkQm9TM28zME5DaGZEdUVxV3hGWV94NG1qbEtJV1JPN0tZTEV5UnNOYVV0d3o1VVNDa1pCVFZfdGViRHo5YnJDUkI5U0Yxem1fY2dXNkdkRXFNVUozdEJvaTliZFJkeFh4M0lXQklzbThwUEpmeExJQ3c3N0pTV3dOR19mZGhDLWdEN2d6NDVkUQ?oc=5"
+  },
+  {
+   "text": "Jste evidentně naprosto nekompetentní ministr. Fak... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxOS3FZNDVFNVVYLW5lNkxPcURxcGR0cmZDMHd6UUFLY2E2ZE9pNC16Qlk5ZnhMUGh6cXV0Yi1zcE1rMzNCZ0ZwZlgzS0xBNDQtVUwyaGRITEtZQWtkOEJtRWNKMWZVTHliWTI3QUREclI5SS05VmNtX2poMXBGeU5iN3dVYkFBcHl0bWpwZW9VLXVNQXJ1bUJDOF9SVHBDRDl2dXppcTVrTDVucHpiNWozOWc0T3plTkRoY200dXE1S0FKNmhO?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu: Rozhodný přechod od individuálních aplikací ke sdílené digitální platformě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1hnTmROZGE3cldGa2xGQXhib2d3aG1hdzJBd3JhVDJhUmc2cEl6Z2ppWi1odU13QmxEUjlnSU5zRlZVR1h2bHdVMWV1X1gzY0hmeUFrOERBdUR1SkhLZTBpZ19kaVljcUFmdG10ZnAwb1hRcTNzcEFWbGdwUG40Ukh2SDlaRWxSNHFUQnRGNXo2SjEzUHpzbDlkaE8yaDBRTDBQTG1yMkxMTWVaYW5yRWpkLWp3VmJVN2R0YVltMU0?oc=5"
+  },
+  {
+   "text": "Rozdáváme 25 párů vstupenek na představení \"Barvy Vietnamu\". - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNdDM1MDhERUtNeVVYY3U0LWpLOENpdkFFQWRkckJNeV9fR3FfYVhaOUJTZ1hMWG15QTNGMXFPd3hJcjA5b2xCNTkzSFpPR0toM213QTlUUzNFQXdDczdUdnRnZmQ4LVgxRllyRlJ6ZFl0RTBaSFFlejFSTDJRbnhfUQ?oc=5"
+  },
+  {
+   "text": "Slavnostní zahájení prvního festivalu vietnamské kultury 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0dlU3BfYUVQSlFsSVZYemc4SW9jVmNQXzZYUzB4VFNGdWJqWl9SZnM5T2pmX0xmRktsb2ZwVzhoREFzbkdvYUJBQlJxbjV4VmcxaU43dGdIQzAyWk9sVHNtcWgwNVpWd0lOWUZSMmRYM19xc1U2WFhxVG1FVGVZS213VlhCZw?oc=5"
+  },
+  {
+   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 23. listopadu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPSVBtdFJ6bXNZZW1KRzNXOWpQTVVFS0dmanB6NzlZMm9YWEgtVFAySjgxME5jNTQxLVZ2UlB5SU1aWWpfT3hwR3hReGJsdnZ1UkU0d2V1ZWhWcnR5UDV4dnhnR1Z1enNjNlNFLXpTTmRkMm1CMFhiRDdRdzB3eUs5SnpFdm9ONlVYUmFrMHhNWHN4TTlkczl6VWVR?oc=5"
+  },
+  {
+   "text": "Program pouličního umění „Zvuky života – Propojování komunit“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOSXdveDExeFdFNHdraWF3MmcyamM0N05jN1JiV1ctbmM5Q1ExWWR1d2luZHJ1VUJ2VGdvS2ZVS0p6cGM3ZnpjVzU3NWtEaXN2RG1sa1c4YVJmcnJxZ1FLVnc1cFRweXJIZXBjLUlJa2FtVE14WjVic1lsVDdITzRmZXBHTHJmWWIxZFBwZG54UHJseFRSQ1B6MXRnRkI?oc=5"
+  },
+  {
+   "text": "Propagace Dne vietnamské kultury, propojení vietnamské identity s mezinárodními přáteli. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPbVc1VFNjd0MzbENJY2Nqa2JzSUxyb21qenZDOGM2ZjJFcVhYb1VtU2tEQWZyRTdDaWFvY2t3bUctVWtHTHFXbEhkYVZzTW4zdmY0d2IwcTc4UUJVNzlacVZtbzVhUWZZUFNIT0JJY0tEbWxvR0FTMy1mN2JwWkxnZGhzOF9namFtMTM0N3NkMy10Sm8za2gxMnU0NA?oc=5"
+  },
+  {
+   "text": "Duc Phuc a Tuan Cry spojují síly s mladými lidmi, aby probudili „Hlas Vietnamu“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPYW5EQnhvTjRSVmlpUG4taWhCMEhIWXpqMEJyM3lQcWlEbWlMdUZnUFh0WUZvY1pqTGhqVTBsb3l2RWp5M3hEeUkwUVN0Z1hwQWY3clRNRFZUTFJBTlNCT1NJckJRNnZFWFdNQVQyMlNGOXlHWE02TUhtQXpMcXNTQ2JweUhZcHhsSjhPQ25lRms5LVlPOXBjVXNXYw?oc=5"
+  },
+  {
+   "text": "Quang Ninh vítá 41 delegátů z Ruské federace, kteří se účastní průzkumu cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxQR2VzQXFGTW1IWWx5SzJaZ2JQRVIwWGY2QUZ4cnB1WWpzNkN2RG1Pa3JCcTZNOVVWOTdSUjVkQU4zVXpkZmNxaC1DdE1OQVp0V3pvQi1XTXNuck1kbm41bF8zemoxeUN0dE1qSFRUd2tXMnVDUVZwR28zc2YyN2VMSS1ubTdrSjhKUWcxVjVrU0Q0RXJOUXRFX2ZISQ?oc=5"
+  },
+  {
+   "text": "Varování před riziky úniku dat ze strany zaměstnanců používajících umělou inteligenci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxPcFM4TVRscDhiYVA5QkRqS283eGowaDNvSDZyYWRWTDdtTnl5dHltcnhaUll0aUViMU04eWkxR29xYi1ySHVGTTc0anktam9OMkt1dm11bEdDSXpiM2JQdWQ1U0VhWHB2ZFR5bWNWYUtJRUdySVkydHlkNjVibUNYY1l3?oc=5"
+  },
+  {
+   "text": "Umělecký program k oslavě Dne vietnamské kultury - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFFfdG1SMEJ1cEZqMmw1d0hsZG1sbDFsTFNjUlhkSjlyVVdmQ0hWb01GY2o2X1o2Y25UVU9wN1dzcFV3SWpacnlHbzNMQ0ZRNmVrQk1mUEVHam9QX0xNS3VscjJrQm1OMmZaYmU0eGI0T0xYVDc4WjFlV2dxSHBwamR1QlpiMUxw?oc=5"
+  },
+  {
+   "text": "V roce 2026 se v dětském závodě na odrážecích kolech v Dong Nai City zúčastnilo přes 200 mladých závodníků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVdyZzRJS0liZUxLQzFMYkJPS1dBNmVuZU1UeURxSEJpeFRUc1QtbWt2ZGRqWE8tZ05nM1BDeS1LdVNvWFVWTm1PeTc2TldUUmVaVGF4cjM3TVd3OVZLVzIzN0pad0NoVzd6NmJrV1RxTUF1aHRKcFlnRkpQa3M2WVhvYUctMDFVMG5CVGxvSGtBdjhlbl9mQzZaclZpOG9UT21GX2NXUzFMYzU1LVZNSFFCVmM2WFM5Um13Y0FpREhBUQ?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město je plné akcí na Den vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUVEa05CbmNoREk3bk80UWJQblhXcEJhZmMtQlQ5aF9iTGJPQXlfc2FtOW5kT3p3THppOTRXRUFQRkRqX2NqRlpVSkZpV3g5T0RhNWhFYWR1OW14MFVBUzdfUVJXN196bExHZHV6M3lKQ2VqSElqTTlyWEF5ZjMzTENnWEthVWRpZFQ0?oc=5"
+  },
+  {
+   "text": "Ca Mau pořádá festival tance a sólových i souborových vystoupení khmerské pětitónové hudby. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQVWk1M21haGduanpwNWg2aUcwUGpsREJPa3NZVGV4X3A4SlZrX3dkQlAtUzVuSmltY2NZSDlLSFRHTmNRYWVwSjljdVFMM2pHSk9YU3BTekI5aDRvR1dPTk5fM3hEdmFfLWhvbkNOVmRuWGs1WUp2cHhMRnpIdUdWWUtFN0h4d3BGOEZjM1VuQVBzdm9OaUJEaGw0S1BWeThiNmFjdzJkQQ?oc=5"
+  },
+  {
+   "text": "Lao Cai vyměřuje trasy pro Mezinárodní cyklistický závod 2026 „Jeden závod – dvě země“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQdUFEY1lDUGxmNFg4NUV2NDkxb25WbnZ2c29lbEw4OFZRa3g0OEdDWHdsMWV5YVozM1EyalJkaWxEZGF1cFgyMVV1blZfVlJkcTM1YXNjNDF3Qjh0YUVJMmVlS2M2bmtHVHlmbXI2R2VWeUF6UnZtMjhNaFRKS09lc2VubWw3ME94bldTYkR6eFdoQW43X2dwSGxRUnpCYk1FWmV2Z09LYk1hQVlMZmJJd3JrY2g2T05NbHA4UnZWZVZ3NTJZ?oc=5"
+  },
+  {
+   "text": "Dong Thap: Propagace podstaty vietnamské kuchyně prostřednictvím 5 charakteristických pokrmů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQR0JkZ3hEOWp0M0w4VG9hQXhEQ3lDcnFldU1jbGwza0F4b3cxbFBEaTZpSHdtc1NIdmdob00yeDBYWV92MGp5NnppWlVFTGdvRjFLM1RBWUVBTFJ1MXJFb1RzY0NSSmQzQlE2TzVSN1Y3UXpGNDcwcjNHUmZIbVFWLUlZU0hCN1JnV1E?oc=5"
   }
  ],
  "last_digest_date": "2026-11-23"
