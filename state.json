@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-24T16:06:07+00:00",
+   "last_success_at": "2026-11-25T00:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -103,7 +103,7 @@
     "facebook:25d29d01043b569e",
     "facebook:26c1668e04f5e681"
    ],
-   "last_success_at": "2026-11-24T16:06:07+00:00",
+   "last_success_at": "2026-11-25T00:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-24T16:06:07+00:00"
   },
@@ -127,7 +127,7 @@
     "instagram:b9797fcf9ff803a3",
     "instagram:6bd9d8132fb150bc"
    ],
-   "last_success_at": "2026-11-24T16:06:07+00:00",
+   "last_success_at": "2026-11-25T00:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-23T21:07:53+00:00"
   },
@@ -135,18 +135,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-24T16:06:07+00:00",
+   "last_success_at": "2026-11-25T00:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:ce49dc6300d347d7",
-    "news:3fb53a5cdf84cb3d",
-    "news:450dfbe00bf9e20f",
-    "news:329597101ce86561",
-    "news:3efdac9e88ba56cd",
     "news:c8246ae8377c31b9",
     "news:0b9f7d69fb5a0051",
     "news:bc919b43efbda87e",
@@ -641,11 +636,16 @@
     "news:21fcacfaaff64fb8",
     "news:cf54a6a4628d26ca",
     "news:dd7c702efefaf6e1",
-    "news:ff86a1c2e4ff9217"
+    "news:ff86a1c2e4ff9217",
+    "news:1f38752f193caa9c",
+    "news:c8205c9288b873eb",
+    "news:d252e67c897e5e03",
+    "news:2de3ba417954c4e9",
+    "news:a2ab442990581bda"
    ],
-   "last_success_at": "2026-11-24T16:06:07+00:00",
+   "last_success_at": "2026-11-25T00:41:49+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-24T16:06:07+00:00"
+   "last_new_item_at": "2026-11-25T00:41:49+00:00"
   }
  },
  "digest_queue": [
@@ -765,6 +765,21 @@
   },
   {
    "text": "Dong Thap: Propagace podstaty vietnamské kuchyně prostřednictvím 5 charakteristických pokrmů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQR0JkZ3hEOWp0M0w4VG9hQXhEQ3lDcnFldU1jbGwza0F4b3cxbFBEaTZpSHdtc1NIdmdob00yeDBYWV92MGp5NnppWlVFTGdvRjFLM1RBWUVBTFJ1MXJFb1RzY0NSSmQzQlE2TzVSN1Y3UXpGNDcwcjNHUmZIbVFWLUlZU0hCN1JnV1E?oc=5"
+  },
+  {
+   "text": "Soutěž o cenu za nejlepší přípravu a realizaci Programu regenerace MPR a MPZ za rok 2026 - Národní památkový ústav\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOTS1BY3gwZTl3VDJzUThTd3RYSEVtSGJmazRHSEFrN0tYamQzUWhuYXpjelVhVm1Fbm12SWxqeDJtWGxvdHVzcmZhQmQwNWNrTERxR0lBZkpqOFkwZHlzamY1V0RVQUdNVFNvQ1E0R2U3NUx2bnBDUWY1QlJ3bzlhbXNYY015YnVETlZlOTEzZzUxaEdUU2FzYWdZM0hXaXRZOXQwLUF2bDBpUThGdFBELW1wNlZDRW5TNWhaazFUR25Oa3M?oc=5"
+  },
+  {
+   "text": "Annelie ze Zrádců prodává byty z postele. Proč vsadila na tenhle trik? - Metro.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2F0b0w3UmNPOWZkVVdSSDlqUG9BV1pvdTNsdENtUnZJTXZJM3kzM2ZGRHFDWEwyLWZaenk1U29BVFczVVpyWVRGMjZ4dWlPQmVjZndXZmpkN1ZxQTVhanpRU2l5elV3cjRfb1VLTWVpMUJjaFBzd0JnVlVQZ2NuU3ljZ1AyUDhsVEhXeTdvcFhpZXQ2amJDQjFNVzRzTzlwU19ta0tqaEtuY09oRFhfOHpJVGY3UEVLOEU1S2ZCNDZ2ZGVfTlh6RXlSMXJSNVJQNm5EYVlR?oc=5"
+  },
+  {
+   "text": "„Otisk vietnamské kultury – barvy Khanh Hòa“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE5VRGhGUUNxdVdGTzBpUXlIRzBzNVRmN3RQOFpkeG56UGNQTk1NTUJTZDhVUWM5bXoya1ZNai15SkVGM3A2bkV2MERGbVY2bzlBN0JBV3M4Z0tJUDk1SlZoNjFwQTBJd0NHdTc3YkdtT3AwX3Jfb2c?oc=5"
+  },
+  {
+   "text": "Den vietnamské kultury: Vietnamské kulturní komiksy na palubách letadel. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxNVGpGMmRxZ0FLUVdLNFhEVFF2ZW5MZjRiV2dLdDVHX3AzM3NMMFlyNE1DdHhBV2VLRkJtLVhhRWR0ZXY3c0ctVXlUdkNVSnhKWWE4VW9nZVpsMlZyN2l0YkhSc0RuTnV0bzRuX3pEUGt0dDFQc1g5bXBCX1d1aG1wV1pmaXFZS1BXQkh1TXZPczZGcy1QQVdSVUo4aE1OY3M?oc=5"
+  },
+  {
+   "text": "Ho Či Minovo Město zahajuje Den vietnamské kultury: Uvolnění inherentní síly národní identity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNucVAyUXVPUWZ1MFRWcDJFZGdFOWNSdndveFFZSFZkZ1RDMlE1X2tQUXIyd3o2TDZSV0REQmpqUXZxQlRfclRkSElCZkZlcnRjU2tocXF1ZktUczVzcmN2enhOa0hfaXIyVDQ5dkxXLUh0UmRFV29NZFNEb1o2YUJnMU5Nd00zQVZUblE4Rk51S0ZFYVFtUlpkRTRzcndLb3dOLTRYclQ5YVM3UEE?oc=5"
   }
  ],
  "last_digest_date": "2026-11-23"
