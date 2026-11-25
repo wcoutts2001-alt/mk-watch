@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-25T09:11:11+00:00",
+   "last_success_at": "2026-11-25T19:14:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -101,11 +101,12 @@
     "facebook:039f15b1f2ee4c4d",
     "facebook:ed3ef2424b8709b3",
     "facebook:25d29d01043b569e",
-    "facebook:26c1668e04f5e681"
+    "facebook:26c1668e04f5e681",
+    "facebook:cf90ce5b437bdf72"
    ],
-   "last_success_at": "2026-11-25T09:11:11+00:00",
+   "last_success_at": "2026-11-25T19:14:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-24T16:06:07+00:00"
+   "last_new_item_at": "2026-11-25T19:14:47+00:00"
   },
   "instagram": {
    "seen": [
@@ -125,47 +126,24 @@
     "instagram:33c9c12c54648ac7",
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3",
-    "instagram:6bd9d8132fb150bc"
+    "instagram:6bd9d8132fb150bc",
+    "instagram:e6738ad252d2dcb6"
    ],
-   "last_success_at": "2026-11-25T09:11:11+00:00",
+   "last_success_at": "2026-11-25T19:14:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-23T21:07:53+00:00"
+   "last_new_item_at": "2026-11-25T19:14:47+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-25T09:11:11+00:00",
+   "last_success_at": "2026-11-25T19:14:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:21b330b3df59ed0d",
-    "news:048733df0e1cb80b",
-    "news:ce72c4335e9e1a1d",
-    "news:a4cb00405018fb0c",
-    "news:1f9609950b73cf38",
-    "news:77ab40ceaee96f16",
-    "news:c8bbba74745ada1f",
-    "news:887b3adc367ab4c0",
-    "news:99a1036de9ad671c",
-    "news:4e307127209b4234",
-    "news:e84bfbdc7ba9ccf4",
-    "news:c72ff50033cb6f0a",
-    "news:0f1a073e59ae47a5",
-    "news:efc665c41e8c194c",
-    "news:5ce0103370c8a99e",
-    "news:99150cf28405d692",
-    "news:bae6954487c59760",
-    "news:c711ecdd63da5f05",
-    "news:9459a9e10340da58",
-    "news:a84b14358bfb5dba",
-    "news:394a8bbffa57b241",
-    "news:8792880a4975fe47",
-    "news:542e09d73d2ae039",
-    "news:1a1eb1c8998845e9",
     "news:49be5cf98b39339a",
     "news:17661caf4e7331bb",
     "news:dc924a3adce77db6",
@@ -641,206 +619,37 @@
     "news:da035aae5a1b0c9a",
     "news:7dd501562c682a2f",
     "news:c97833b2477b5e55",
-    "news:e2b4cf78531b0476"
+    "news:e2b4cf78531b0476",
+    "news:097003cc03e37680",
+    "news:4cc44b70e4585ca9",
+    "news:391723dd040a85bf",
+    "news:af4f52f6d2daabd7",
+    "news:f4d1d1db6fd6bbcf",
+    "news:9c9d20b7fefe53c1",
+    "news:2a42c7090aa87bca",
+    "news:9a83868ad6bf10eb",
+    "news:0a95c715c6dff0d1",
+    "news:a4a709117f9abef4",
+    "news:bd47df06d76c2903",
+    "news:3d4223ff5b220e8b",
+    "news:6e9984a4ccd6d541",
+    "news:f0aae574994efbd3",
+    "news:88b6827ae289ef38",
+    "news:e6b1262f1e969ef2",
+    "news:5dddca75e594543e",
+    "news:bd2cf00b94740558",
+    "news:f6e00e499aa6ae3f",
+    "news:be3806079f1c8a4a",
+    "news:b973ebd426cf29ba",
+    "news:66f407b83352c89a",
+    "news:2465fe3d43e48890",
+    "news:dc259fd712606801"
    ],
-   "last_success_at": "2026-11-25T09:11:11+00:00",
+   "last_success_at": "2026-11-25T19:14:47+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-25T09:11:11+00:00"
+   "last_new_item_at": "2026-11-25T19:14:47+00:00"
   }
  },
- "digest_queue": [
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu provincie Thanh Hoa se musí důrazně posunout od „vydávání dokumentů“ k „výrobě produktů“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnA3aEl0X0t5Rjkwc2xmRHI0TTZBdDZfSEc1V1hmT2RvVVVYZFhrMm1WQ3JNU1R2XzJ1eEEweDdjM0NxVjcwNEpSQy1FWmFWVGpudk4yNlBfemtOYm1CWHJIbnRqc3BGSnhFVmZiMjFuLWIxdy03R2loQU4xQlJCaUFBNTJpNzlSX1g0cl8xdkE0WlJWZkJQU1VSaWdxN19GRE1zZXNRQjhuRlptQjhzd2FfcGFuTV9CeHcycWJKX3NIUQ?oc=5"
-  },
-  {
-   "text": "Předběžná zkouška uměleckého programu „Lao Cai – Sbíhání barev“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPT25kY3JkcXg2dDFsejViamlqRXBqYldhTDNwaTZfd1Vyc2ZaaXFZQ3FsS2o0MV9NSHhrd19oWWVZRDdfS3BGUXFmMG42bFItbVR3eDB3c2JCMTZMN05ZYTNiRlctYUlDWDFUNHRxNmJPTWJ3WHc2cklOOUF3LUZqV0FPMUdkd1po?oc=5"
-  },
-  {
-   "text": "Zahájení knižního veletrhu s tématem „Legendy z Con Dao“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTFB3b2g3Y2dPQXdoYXhlVUJSOGZwNHF0elFwbFRZeEUwX1FpQl9JeHJOUW5YOGRYRFJfNEZUOVhYanl3M04wUGV6dHM4Y1JJU2o4VlB0cnpyaWNlRlpfakl5enNHX2pmbzR4ZGx2UFdIUU5aNGZtSkdQSGFn?oc=5"
-  },
-  {
-   "text": "V Ha Tinh se nachází válečné muzeum. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTFBCcGk3VWJmbUdqWDBScjhiMHA1aFpKQzhsVzFMYVJHYzQ1YnNCaEcwRDY1c0YxUkRHYk03TEh3M3lmc1RpeXZDSER2LXJXNktqVGhsaWJubFFKLURpUFVSa0dlQlF2XzItR3d6ZFp0Y1B0TERidXc?oc=5"
-  },
-  {
-   "text": "„Vietnam na plátně“: Propojování lokalit, odemykání potenciálu filmových krajin - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOQXRmQ3AxY24zeE1SeWpZczRIc0pRMzBkWkRhWFFjUVZiTzNmOHljTlRrc25vRGNta0p0dWI3UFowTVdsR3VmQkZnUWFEWVluRjB4REhLamstQXZ1eHpUMUhmZzlNY1BWVU1aSUpaTkY0UUJJb0dUTGtaUHVMSlJ3SUo4dHgxbVNpTnNYbks1R0E3SE9NVzFWd2x5QWhUY2o2dmhpOUtkYw?oc=5"
-  },
-  {
-   "text": "Synchronizace všech 12 databází po 100 dnech řešení úzkých míst digitální transformace. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxONWZScjRiTlR2aEw2ck1STF8zSG9ScUgwNE9nSVRUZURqSmpyMDl2Q1JjNm01UEROcHFSYk52Mlc4cmFQaVhjTGh1RHhad0ZwX0NteWdlYzZvTVFwbHpjRDdFT1Y0WkdXVXE3X19UQXRKcWxXalFyNlZmVnc5SGN0dFpFd3V5clpYV0NieUpQd1ZLOVRnQXJwUGVWTEZhQQ?oc=5"
-  },
-  {
-   "text": "Zavádění kodexu chování a prevence domácího násilí v obci Doai Duong - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTNzMDNuMXJtN2RrbEdxeVB3dW42UzRyWW5MNnk5dldCT1p6Sm9RX1lrd0NjS28wbVlDb3lrVi03QXNMRllGbjM1Ny1XbUJEOEJwTTBrXzV4MXVRYVBCSUhqeVVZREE5eExDOGttLURBT3pIaXYxRnBOeXFvMy11NVdNTjN2Wm94OUc0TGYyYzhqTktJNWpJbWJKbVEyUFlIZ0o4cEdHdGY?oc=5"
-  },
-  {
-   "text": "Den vietnamské kultury, 24. listopadu: Potvrzování postavení kultury s cílem, aby si ji lidé mohli užívat. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQb2JLc2Z2c3JRaHJyWXM5RVh5eEZscnBrZG1aZUxHMUI3Ymx3Q2o5MmM2NC1IczI1eWppWlNLQVVEVXFKVzR0OXRhcjFuanBMQldNcE1IWllUdzl3MXVIcC1DTjNScmNra1pEVUw5VDJhLW5taVNfNHdjZlNuOEV3NFJLMmh1Vmo1aW5HZGF5SjdpRXdlZWp5elFTWGQybElBMDd5NlNnT0JMcHZ4SEE?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město zahajuje Den národní jednoty - Barvy vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPdWJodWlkYmlNdkxQZlFCejBTZWY0MTNsY1BKOUc4QW53d2FHeVRzS01SMzdXYmQzTVlUdzFFSTJSc1dmdGhsbGxrM0lnaGpMNXNleDUzenBxeF9GLWZiTjZBTmZialBvUTk0b3BGMlVCWUtaWFh0QWRLLW12c2pzMWs4bXhGVl83N3NWZXQtdG9mRlFBb2ZGWDJjdkhKQQ?oc=5"
-  },
-  {
-   "text": "EVNHCMC propojuje technologie a inovace ve své nové vývojové cestě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipgFBVV95cUxNV3QxX1hOdXk0M0sxc2dUazJmYm4wRVlYTFNIQ3BwdnIwTGs1RUhLcU04S0lqTENLN2VWNUtGQkhRblJrNjFwYkJ5aHJNVjkyZnE2Y1VKejU5OTRfczlJZlljMmREblA5TkxaSzZSTkg1ZXZjSzNDMDk5MDRYbDEzUHlhTGJGT29YUkZVUUNTdXRqbktMWFB2aEI5UDkteDdHbUVtcHhR?oc=5"
-  },
-  {
-   "text": "Zvuky, písně a tance šíří kulturní identitu etnických skupin v Son La. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxNX3B1anNlUWVNUTZwYzR6M25MbU1Rd1VwdlEwMHFtdndLd3E4RHk4ZkdGMzNIbVlVLS0xSEdnMkI0MGNYRUUzOXgyUWY1WlU2b3NYLWFUdVQyX0lSbUdxZEZWckg0SWVIVmtOX1pIczItaTJwYXJVSXRZcGVmZnVPeFNCV05pZVYwNGdyWllFNDJMNnA4TmNmTQ?oc=5"
-  },
-  {
-   "text": "Více než 2 000 lidí nadále píše příběh dědictví kolem jezera Hoan Kiem. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxNSjJxWC1CTFF6UjczOVEtTkRVNkZiRWxIYzh2OG9mV3hCbkg4Qm5TaTVaa0Z5ckJPNldrWnpJNTlSNHM4V0RsT1FROGdaWmF2eVBnMTVTbS1TS0I4YzdDTWNPS29ESE1kM0c5VGVMVnRLSXFwRUNCWnM5aDZqUU5TMTBxQjhtVlQ0MlNxS1JaVQ?oc=5"
-  },
-  {
-   "text": "2 000 lidí v tradičních vietnamských krojích ao dai vyšlo do ulic a šířilo tak vietnamské dědictví. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxNY1ZjaWVOd0syaEVRZktjN0hGb2J3WUZuRUFHMXJEV0hnYXdrY2tianNZWkVBdGtRdkdXbTRrTlJIRGg2eU5OZzFudUpXRjdKTk9UVmRJbW16aG54LWZ3TWpaSFktWUMzbzZ2NDlkM1ZzaWpqUDZrOExJaU5zVFV4VG5sZURDY0JCdWZWMVZCajFfUQ?oc=5"
-  },
-  {
-   "text": "Can Tho pořádá obřad uctívání Měsíce, aby se modlil za bohatou úrodu a zachoval tak zvyky Khmerů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXdYUXpEbkJIYzI2WW1KUkxsdGZGYkZyY3lIdXM1c2RsLTJEQ3ppWHNqN19WaHgwRm02YTVmZDNZSWRBMHlpTDRBaFJLRzZtd053Unh1UHRVUW1ZdGp4RkVibFBHeG9wRkVaRExnVHlza0NaU3ctQXlYNmh3dl9tSTg3UkdFc0RJNFVEbk9rZ1M2RUhnNTdSaUU4alp3bTY2Z0lKOUstUTc?oc=5"
-  },
-  {
-   "text": "V zábavním parku Vinh Nguyen (okres Nha Trang) se konal živý festival lidových her. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkU4X2t3Ym5sYjMycVE4c1IzWU0wYU9OUEVxSW1PNnN2eUF1RGVWVWFmbWEyS1NCX3RUY3JLYXU3b0Q1TzU2NUQ4cWFxNUNhY1VqZjR3VTFfaThsWkxTVWJfbWJoZTlsdU5QWlFKVHV6Tk1tZEQ5bnEtUFpLY1NDM2x5aUtmbC1VZzNVTmVKQWR4YUtlbWRna2JJeGxTVnM4ZW1ma0t2RDg?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město: Elektronické ověření notářských dokumentů zvyšuje schopnost odhalovat padělané dokumenty. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxQcUFHM1p6bVFjbWF6SnhVV2NBaTNGb0l4MXcwWGQ4dWJnbERvSkk2VlFSZEhURzZsUlVYQkZkeVlsakxHRkFzYmhyNmpLX3dTMXd0Rmxva2tMOFFscFF4eG9CTGZqMm45VEl6SGFjMWQwWlB4SUJabkhGc0hHVjZlcnB5SjV5RE1tYWFCZFVTc0JYc04xUTViUzVrNA?oc=5"
-  },
-  {
-   "text": "Da Nang hledá vynikající hotelové recepční pro rok 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxONXdwZVlRYzU1c3hPU2ZEV1YyU3MzZHJQdThPVWo4RU1iWEpBRzRITFcwYlpqbDE1eVV0OVVLem10TEpiY2ctRHJ0T2JqZkNsbEkxU3FqcHM0M2lBOE94UWdTZ1Z3UnMxZ0xObnlEZktBRE1nbXdIeUlOZGI2SzkzOXRlWjduMVYyMmJPbnlhS3Z1b3BwMzlDQQ?oc=5"
-  },
-  {
-   "text": "Thai Nguyen zářivě zazářila na Festivalu etnických kultur. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxNZXR3dGd2R2hRZmtXSGZmbXpqMjk0b0xscTdoUGJ2MXpnOTIzWkpPNVhZZ3dmVVRGcmxwcHpZVHFRNjRrcEcyOUE3TkNrMmdNQkJ3LXA5eFJjX084bzg0dV9FRFUyZktlRjZ4VVZ3WEduOXNfc2M4bXdyWFJRWUdOQlNlRQ?oc=5"
-  },
-  {
-   "text": "Soutěže o nejlepšího recepčního hotelu v Da Nangu v roce 2026 se zúčastnilo téměř 40 soutěžících. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPX2trUU5YZ0NjWHNnSl9JZ1QxVlFRM0ZjNWt1VDNEdkxLN0w2bmUyMzZyUXp5MUZYWE1KcGZJX05GLS1DQkpwWXNZSDZRSmdJVk1HZGNzTWc5T2tzeXFoY1BFNzFkN1RaT29vUVZtMVpJYmFCQXlRVXJzRFpsdWNldldocXFlLUVzYkdOSU1abFZZUQ?oc=5"
-  },
-  {
-   "text": "Hlavní události televizní spolupráce ASEAN-Korea během 49. summitu ASEAN-Korea. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiogFBVV95cUxNYU91SWVzOVVSS3dlUnBwLWJJaHJXWXN2dEN4UklROFowc00ya1BFSkFfNnF3YWZpeVBkWGtXa1dCTTdyaUVtSTEtLWF6LTFqMjZUWTU2Z1dIYm1ib29QWE5YOGJWS0xycDBsYTFvR1FMTHYwZjV4LTg0Y0hoazdOczJia3E4TVNubHhlZW1kZWF6SUY2SzFJQWpoYVZZVGg2Q3c?oc=5"
-  },
-  {
-   "text": "Provincie Dak Lak koordinuje přidělování cílů pro příjem záložních sil. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikAFBVV95cUxQa1J3QjUxTUZOQzVfWEp2WGRMY0REbkkzY0J4M2lrSGJnTmpfNmhjMmZaU19sWnh2Zmd1MmJvZWt2QVRiX2YtVUU3WFJORVRoSGRhYzhmUFRyMjBwTlBWRmhjUUxXelI4RzVzVDVMRGZVVFdKY2xCOHBCUGJtcHRfVTQ0OVJwYkV1NTNjaEpJaFM?oc=5"
-  },
-  {
-   "text": "VPUB - Přehlídka technologií 3D mapování v muzeu Dien Bien Phu - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxOd0NIYUFUMHJiVUFGTTFxMTFvYXA0bWJIR3hnZG96QUg2NUh6UmU5UVlENUZKNkUxTkFqT2hkdWFZbjFrMmY4bXFZZk1fcWprdWJ1ajdQc3RhRXdNa2FYTFE4elU1SGdUZkdPdUNQVWhkTHJVQUVTOWRoa3NCWmN4aUlWSjFwbjdET3NFWUxaaEpnOXRx?oc=5"
-  },
-  {
-   "text": "Řádný hospodář si zbytečně nepůjčuje. Ekonom připomněl Klempířovi cenu jeho slibů - Život v Česku\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxOQmtkME4tR1p2OTc4X0pXYkVKYjROS0pkQm9TM28zME5DaGZEdUVxV3hGWV94NG1qbEtJV1JPN0tZTEV5UnNOYVV0d3o1VVNDa1pCVFZfdGViRHo5YnJDUkI5U0Yxem1fY2dXNkdkRXFNVUozdEJvaTliZFJkeFh4M0lXQklzbThwUEpmeExJQ3c3N0pTV3dOR19mZGhDLWdEN2d6NDVkUQ?oc=5"
-  },
-  {
-   "text": "Jste evidentně naprosto nekompetentní ministr. Fak... - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxOS3FZNDVFNVVYLW5lNkxPcURxcGR0cmZDMHd6UUFLY2E2ZE9pNC16Qlk5ZnhMUGh6cXV0Yi1zcE1rMzNCZ0ZwZlgzS0xBNDQtVUwyaGRITEtZQWtkOEJtRWNKMWZVTHliWTI3QUREclI5SS05VmNtX2poMXBGeU5iN3dVYkFBcHl0bWpwZW9VLXVNQXJ1bUJDOF9SVHBDRDl2dXppcTVrTDVucHpiNWozOWc0T3plTkRoY200dXE1S0FKNmhO?oc=5"
-  },
-  {
-   "text": "Ministerstvo kultury, sportu a cestovního ruchu: Rozhodný přechod od individuálních aplikací ke sdílené digitální platformě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1hnTmROZGE3cldGa2xGQXhib2d3aG1hdzJBd3JhVDJhUmc2cEl6Z2ppWi1odU13QmxEUjlnSU5zRlZVR1h2bHdVMWV1X1gzY0hmeUFrOERBdUR1SkhLZTBpZ19kaVljcUFmdG10ZnAwb1hRcTNzcEFWbGdwUG40Ukh2SDlaRWxSNHFUQnRGNXo2SjEzUHpzbDlkaE8yaDBRTDBQTG1yMkxMTWVaYW5yRWpkLWp3VmJVN2R0YVltMU0?oc=5"
-  },
-  {
-   "text": "Rozdáváme 25 párů vstupenek na představení \"Barvy Vietnamu\". - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNdDM1MDhERUtNeVVYY3U0LWpLOENpdkFFQWRkckJNeV9fR3FfYVhaOUJTZ1hMWG15QTNGMXFPd3hJcjA5b2xCNTkzSFpPR0toM213QTlUUzNFQXdDczdUdnRnZmQ4LVgxRllyRlJ6ZFl0RTBaSFFlejFSTDJRbnhfUQ?oc=5"
-  },
-  {
-   "text": "Slavnostní zahájení prvního festivalu vietnamské kultury 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0dlU3BfYUVQSlFsSVZYemc4SW9jVmNQXzZYUzB4VFNGdWJqWl9SZnM5T2pmX0xmRktsb2ZwVzhoREFzbkdvYUJBQlJxbjV4VmcxaU43dGdIQzAyWk9sVHNtcWgwNVpWd0lOWUZSMmRYM19xc1U2WFhxVG1FVGVZS213VlhCZw?oc=5"
-  },
-  {
-   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 23. listopadu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxPSVBtdFJ6bXNZZW1KRzNXOWpQTVVFS0dmanB6NzlZMm9YWEgtVFAySjgxME5jNTQxLVZ2UlB5SU1aWWpfT3hwR3hReGJsdnZ1UkU0d2V1ZWhWcnR5UDV4dnhnR1Z1enNjNlNFLXpTTmRkMm1CMFhiRDdRdzB3eUs5SnpFdm9ONlVYUmFrMHhNWHN4TTlkczl6VWVR?oc=5"
-  },
-  {
-   "text": "Program pouličního umění „Zvuky života – Propojování komunit“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOSXdveDExeFdFNHdraWF3MmcyamM0N05jN1JiV1ctbmM5Q1ExWWR1d2luZHJ1VUJ2VGdvS2ZVS0p6cGM3ZnpjVzU3NWtEaXN2RG1sa1c4YVJmcnJxZ1FLVnc1cFRweXJIZXBjLUlJa2FtVE14WjVic1lsVDdITzRmZXBHTHJmWWIxZFBwZG54UHJseFRSQ1B6MXRnRkI?oc=5"
-  },
-  {
-   "text": "Propagace Dne vietnamské kultury, propojení vietnamské identity s mezinárodními přáteli. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPbVc1VFNjd0MzbENJY2Nqa2JzSUxyb21qenZDOGM2ZjJFcVhYb1VtU2tEQWZyRTdDaWFvY2t3bUctVWtHTHFXbEhkYVZzTW4zdmY0d2IwcTc4UUJVNzlacVZtbzVhUWZZUFNIT0JJY0tEbWxvR0FTMy1mN2JwWkxnZGhzOF9namFtMTM0N3NkMy10Sm8za2gxMnU0NA?oc=5"
-  },
-  {
-   "text": "Duc Phuc a Tuan Cry spojují síly s mladými lidmi, aby probudili „Hlas Vietnamu“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPYW5EQnhvTjRSVmlpUG4taWhCMEhIWXpqMEJyM3lQcWlEbWlMdUZnUFh0WUZvY1pqTGhqVTBsb3l2RWp5M3hEeUkwUVN0Z1hwQWY3clRNRFZUTFJBTlNCT1NJckJRNnZFWFdNQVQyMlNGOXlHWE02TUhtQXpMcXNTQ2JweUhZcHhsSjhPQ25lRms5LVlPOXBjVXNXYw?oc=5"
-  },
-  {
-   "text": "Quang Ninh vítá 41 delegátů z Ruské federace, kteří se účastní průzkumu cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxQR2VzQXFGTW1IWWx5SzJaZ2JQRVIwWGY2QUZ4cnB1WWpzNkN2RG1Pa3JCcTZNOVVWOTdSUjVkQU4zVXpkZmNxaC1DdE1OQVp0V3pvQi1XTXNuck1kbm41bF8zemoxeUN0dE1qSFRUd2tXMnVDUVZwR28zc2YyN2VMSS1ubTdrSjhKUWcxVjVrU0Q0RXJOUXRFX2ZISQ?oc=5"
-  },
-  {
-   "text": "Varování před riziky úniku dat ze strany zaměstnanců používajících umělou inteligenci. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxPcFM4TVRscDhiYVA5QkRqS283eGowaDNvSDZyYWRWTDdtTnl5dHltcnhaUll0aUViMU04eWkxR29xYi1ySHVGTTc0anktam9OMkt1dm11bEdDSXpiM2JQdWQ1U0VhWHB2ZFR5bWNWYUtJRUdySVkydHlkNjVibUNYY1l3?oc=5"
-  },
-  {
-   "text": "Umělecký program k oslavě Dne vietnamské kultury - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFFfdG1SMEJ1cEZqMmw1d0hsZG1sbDFsTFNjUlhkSjlyVVdmQ0hWb01GY2o2X1o2Y25UVU9wN1dzcFV3SWpacnlHbzNMQ0ZRNmVrQk1mUEVHam9QX0xNS3VscjJrQm1OMmZaYmU0eGI0T0xYVDc4WjFlV2dxSHBwamR1QlpiMUxw?oc=5"
-  },
-  {
-   "text": "V roce 2026 se v dětském závodě na odrážecích kolech v Dong Nai City zúčastnilo přes 200 mladých závodníků. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVdyZzRJS0liZUxLQzFMYkJPS1dBNmVuZU1UeURxSEJpeFRUc1QtbWt2ZGRqWE8tZ05nM1BDeS1LdVNvWFVWTm1PeTc2TldUUmVaVGF4cjM3TVd3OVZLVzIzN0pad0NoVzd6NmJrV1RxTUF1aHRKcFlnRkpQa3M2WVhvYUctMDFVMG5CVGxvSGtBdjhlbl9mQzZaclZpOG9UT21GX2NXUzFMYzU1LVZNSFFCVmM2WFM5Um13Y0FpREhBUQ?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město je plné akcí na Den vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUVEa05CbmNoREk3bk80UWJQblhXcEJhZmMtQlQ5aF9iTGJPQXlfc2FtOW5kT3p3THppOTRXRUFQRkRqX2NqRlpVSkZpV3g5T0RhNWhFYWR1OW14MFVBUzdfUVJXN196bExHZHV6M3lKQ2VqSElqTTlyWEF5ZjMzTENnWEthVWRpZFQ0?oc=5"
-  },
-  {
-   "text": "Ca Mau pořádá festival tance a sólových i souborových vystoupení khmerské pětitónové hudby. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxQVWk1M21haGduanpwNWg2aUcwUGpsREJPa3NZVGV4X3A4SlZrX3dkQlAtUzVuSmltY2NZSDlLSFRHTmNRYWVwSjljdVFMM2pHSk9YU3BTekI5aDRvR1dPTk5fM3hEdmFfLWhvbkNOVmRuWGs1WUp2cHhMRnpIdUdWWUtFN0h4d3BGOEZjM1VuQVBzdm9OaUJEaGw0S1BWeThiNmFjdzJkQQ?oc=5"
-  },
-  {
-   "text": "Lao Cai vyměřuje trasy pro Mezinárodní cyklistický závod 2026 „Jeden závod – dvě země“. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQdUFEY1lDUGxmNFg4NUV2NDkxb25WbnZ2c29lbEw4OFZRa3g0OEdDWHdsMWV5YVozM1EyalJkaWxEZGF1cFgyMVV1blZfVlJkcTM1YXNjNDF3Qjh0YUVJMmVlS2M2bmtHVHlmbXI2R2VWeUF6UnZtMjhNaFRKS09lc2VubWw3ME94bldTYkR6eFdoQW43X2dwSGxRUnpCYk1FWmV2Z09LYk1hQVlMZmJJd3JrY2g2T05NbHA4UnZWZVZ3NTJZ?oc=5"
-  },
-  {
-   "text": "Dong Thap: Propagace podstaty vietnamské kuchyně prostřednictvím 5 charakteristických pokrmů. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQR0JkZ3hEOWp0M0w4VG9hQXhEQ3lDcnFldU1jbGwza0F4b3cxbFBEaTZpSHdtc1NIdmdob00yeDBYWV92MGp5NnppWlVFTGdvRjFLM1RBWUVBTFJ1MXJFb1RzY0NSSmQzQlE2TzVSN1Y3UXpGNDcwcjNHUmZIbVFWLUlZU0hCN1JnV1E?oc=5"
-  },
-  {
-   "text": "Soutěž o cenu za nejlepší přípravu a realizaci Programu regenerace MPR a MPZ za rok 2026 - Národní památkový ústav\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiwwFBVV95cUxOTS1BY3gwZTl3VDJzUThTd3RYSEVtSGJmazRHSEFrN0tYamQzUWhuYXpjelVhVm1Fbm12SWxqeDJtWGxvdHVzcmZhQmQwNWNrTERxR0lBZkpqOFkwZHlzamY1V0RVQUdNVFNvQ1E0R2U3NUx2bnBDUWY1QlJ3bzlhbXNYY015YnVETlZlOTEzZzUxaEdUU2FzYWdZM0hXaXRZOXQwLUF2bDBpUThGdFBELW1wNlZDRW5TNWhaazFUR25Oa3M?oc=5"
-  },
-  {
-   "text": "Annelie ze Zrádců prodává byty z postele. Proč vsadila na tenhle trik? - Metro.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2F0b0w3UmNPOWZkVVdSSDlqUG9BV1pvdTNsdENtUnZJTXZJM3kzM2ZGRHFDWEwyLWZaenk1U29BVFczVVpyWVRGMjZ4dWlPQmVjZndXZmpkN1ZxQTVhanpRU2l5elV3cjRfb1VLTWVpMUJjaFBzd0JnVlVQZ2NuU3ljZ1AyUDhsVEhXeTdvcFhpZXQ2amJDQjFNVzRzTzlwU19ta0tqaEtuY09oRFhfOHpJVGY3UEVLOEU1S2ZCNDZ2ZGVfTlh6RXlSMXJSNVJQNm5EYVlR?oc=5"
-  },
-  {
-   "text": "„Otisk vietnamské kultury – barvy Khanh Hòa“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE5VRGhGUUNxdVdGTzBpUXlIRzBzNVRmN3RQOFpkeG56UGNQTk1NTUJTZDhVUWM5bXoya1ZNai15SkVGM3A2bkV2MERGbVY2bzlBN0JBV3M4Z0tJUDk1SlZoNjFwQTBJd0NHdTc3YkdtT3AwX3Jfb2c?oc=5"
-  },
-  {
-   "text": "Den vietnamské kultury: Vietnamské kulturní komiksy na palubách letadel. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinwFBVV95cUxNVGpGMmRxZ0FLUVdLNFhEVFF2ZW5MZjRiV2dLdDVHX3AzM3NMMFlyNE1DdHhBV2VLRkJtLVhhRWR0ZXY3c0ctVXlUdkNVSnhKWWE4VW9nZVpsMlZyN2l0YkhSc0RuTnV0bzRuX3pEUGt0dDFQc1g5bXBCX1d1aG1wV1pmaXFZS1BXQkh1TXZPczZGcy1QQVdSVUo4aE1OY3M?oc=5"
-  },
-  {
-   "text": "Ho Či Minovo Město zahajuje Den vietnamské kultury: Uvolnění inherentní síly národní identity. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNucVAyUXVPUWZ1MFRWcDJFZGdFOWNSdndveFFZSFZkZ1RDMlE1X2tQUXIyd3o2TDZSV0REQmpqUXZxQlRfclRkSElCZkZlcnRjU2tocXF1ZktUczVzcmN2enhOa0hfaXIyVDQ5dkxXLUh0UmRFV29NZFNEb1o2YUJnMU5Nd00zQVZUblE4Rk51S0ZFYVFtUlpkRTRzcndLb3dOLTRYclQ5YVM3UEE?oc=5"
-  },
-  {
-   "text": "Klempíř chce ulevit lidem, kteří sotva zaplatí účty. Jurečka mu připomněl rodinu, která už platí nulu - Seznam\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1wFBVV95cUxQcm1vMGJpWU8xbWxXOENvUnQyTXBTdlh4UmdPSmVRX01KYlkzM2FxLVNjSWNyY0pTeXJkUVZrVUhJTFU3Z3ZYRzR6MDFNQWpTVDZYYmlremUwRjd3NlhVQk1MRVI5SXVLeDZvMG9PaWh4eEktYnN0OEdiX2JvOHRjOGZ5NkEtbkNSdElOd2JtQ3R3LVlMVVlTS2UzYWQxNmxSYmg0bVd3YVpuY25ZQzVpNHdHcFJMZTdvSkE1SWpIcThteDliOGVneXB6WG5CRkRKcUpFbjdDVQ?oc=5"
-  },
-  {
-   "text": "Slavnostní zahájení a předání cen 6. ročníku národní soutěže a výstavy užitého výtvarného umění - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGxOYkM4blNaV0RwQlFsd254WFVYWFRKQ3YzQWxRcUplcE1tWTZqalh6Yk5jUzlOSjJPdWVWU1JMdzFNV0swMlQtSDFwdGJtMVlLV0pHRFhoNHhlN3J5SVBraWR6dGx4WDlKRXNnUnVkRUhiTE9TYzktdndKU1QwWHBVNVBYeVczRllWRXFieU9HZFY2UGhmZ25mQVFtT0FKUHltWlVKRUhwSUk?oc=5"
-  },
-  {
-   "text": "Zvýšit příležitosti pro lidi k užívání si kulturních hodnot. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxObmNpYmJuenM5ZVZudm1hRzJBUWc3NkF1UGZ2bGJOQkRoeUZMT0FCOWdTWG9iX05ROGlWVEFlMU5QdWFuOXVvS01MZ1dDT3BEa0VwNGRhb0FXendLUHpGV1k1LVpmcDk5VGdXRTJnUkQxYTJhdmozS3ZYdktkZHJ0X2NNaXBoY2tsbmMwZmlR?oc=5"
-  },
-  {
-   "text": "Vietnamská národní knihovna pořádá sérii akcí u příležitosti Dne vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirAFBVV95cUxNY1QwU0VTYUVDV3ZfdFp4VTlKM1VqVjhtMlVNaWN3ZWU5VTV3NXFQSUdOdlJWR0NkdHcwc1E4V2lkXy1acVE5THNpeGFXT3JNLWtsQXB6T3BUMVB4bHl5RkVLTDhsSTdfNkhZa3VZSmc2TzVtUVg4eXF6MUtManBnWmNLRWpDLUdtcXhCNUVWMmd4Wm02NnZCMXZyMUtXVlNJZU5Xd2xIT0RmanRU?oc=5"
-  },
-  {
-   "text": "Spojení s čínskými partnery s cílem transformovat Kulturní noviny do konvergovaného modelu redakce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiswFBVV95cUxORHRITFA3TF9qaFRLU292dVdIY3BHbkVmRkZJLWp2M1VQSjRCdUlhQ3Z1VkY2LWMtYmhmMGEtSWEwNmVYZXJTT25JUVktdDR6dThta3hscHBITG12cl9PWHM5Z1VEQVhYc2VmVGt1MHNVQThTSFJkTmRFWGhvSzBIa3RHRmN6YjlHSnp6V2ZTMUtlX29NbGNZQU1fd1gwdzViWWd5M2std2s4NlRyVDBZT0Z5UQ?oc=5"
-  },
-  {
-   "text": "Pozitivní hodnoty kultury v digitálním prostoru. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQUUVUalRGUFdLMElOYi1WRDVwVTJmNEJWQWwtTVdyVm5xZXlUOWJ5SVNqZkh1ZVFmUUhDeVozU05SSkdvNzdEdlFBTXhGSko4MjY5dDdmelVvR01JakdEd3VKY1JsTXlkelB3SVRsM1BaR3JvQVdwNGdBbVlvTGJrYmJLQno2Zw?oc=5"
-  },
-  {
-   "text": "Transformace kulturních hodnot v hnací sílu rozvoje. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxOSkFvbDJpQnJRU1E2NlZhRC05Mzl1V3BDeFU3Vm5RUEtSQVNxOTlXRXh1aFZObDhBMFVYMEw2VlB1S2wzVkhXczJZNEZtaWpzUW42NEZQZXpCLXNuXzBNbXRuVFpFLVMzeGZaWTdxSkJTaE5ETE9lMy1ldWFLaDBrbC1aMkY?oc=5"
-  },
-  {
-   "text": "Propojení kreativity a trhu s výtvarným uměním v Ho Či Minově Městě. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxPTUNCTTh4QkhISzBhMG5VcjNGQnk4SkJoWUVwb1hvbjhOYm5aYTdSY0VHVjhDdEdfOTFtWlFJcEdFbmFxQ1p3QjJvYWpSYUpsSkJqWFYxdTRQbUVsRUp4QVFtYlRhSjE2WHRaWlFoVUlsYlh1amV6SWJDM2xOY3MzaGVB?oc=5"
-  },
-  {
-   "text": "237 zpěváků a tanečníků spolu s 23 tradičními vietnamskými orchestry vytvořilo vietnamský rekord. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilgFBVV95cUxOaXQ5TXlBV1lieElwZm5EM0R6RG5vM1hwY3N1T2xUb2luSHlLc0hLWjlzWjEwbmhRSmp4X3NIU0FSWG9rRktPZW45aUFnV3pIanF1d2dmcUpyUklvSTB0Yi1OZjBWbFVHZmY3LUkyTGlmZ2RaOWpIWmFBTm5DZEVuWEk0VWtaWWVQY0ZKb1dLYk4zbDY4bXc?oc=5"
-  },
-  {
-   "text": "Závěr Týdne kultury a národní jednoty byl věnován pestrému uměleckému programu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMilAFBVV95cUxPUHhFUXlnMnhyUzg5VnY4QUs1bVY0TGxGdFFUaWRXYWZlNTdGODJ2MWdmdC02TFJGUV9KM2VpTTRQWVNfdVRzdTBWNWNySEN2WFAtR3JmVDA3NGdCM2lHaV9rSVozSXpyUDB0el9STHdaUXJqVWxyTVRkS2RPazd2VkZpdWxFWWtRWW1wTmZQZWhiSFVB?oc=5"
-  },
-  {
-   "text": "Více než 130 řemeslníků a umělců v Ca Mau šíří umění khmerského pětitónového tance a hudby. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxNY3VDZ3pnbU5sWi1kNUktUFliN0tKVXVBakMtbXdkLTNOanUxeXBBSWhmTFdVWkd4UDFrWFBRd3NDWFJ2VmpIRElseWRzZXgxZk8tdnZCRFFNUXNSd3k2VW55VElNXzVKSmZnY1JueHhNak9SbWlsemJacG9oUW9oRGg3el9vZ01EOE43VmlpbV9PS2lPQkFyb214TDU1cldMOE9Pczhva1lzQQ?oc=5"
-  },
-  {
-   "text": "Umělecký program „Barvy vietnamské kultury“: Uctění toku tisícileté tradice. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxQSjJtQkVaaWhVYm5YS01DeVp4QU55V0JmeDlpdUkxMDQtXzZQZ1B0U2JLLWFWN0JOdjNDcWtZaDRDNjN1SFhUYkMwdnkwcUUySTNCNnlYUFBlQjFfUDQtZTFEdDJXbHdXT01ESXhNVlFnOFp0M09wMkNuZldlblF2dnF4VnprM0FLcFdkemNrZmwyTHRkTDk1eEtMbUFOM2hJX05aVlNsenhuc1ZwcVpz?oc=5"
-  },
-  {
-   "text": "Slavnostní zakončení prvního provinčního festivalu lidového umění Ninh Binh, 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOR3FBcTdMVk9sQVRKdnpDc0Q5cENiMUZsdWpWamJqWWtqVUNadmtaN0FFcVFKYUg5TFRZdmpOQy1qSmc3LWptNkNQaFZNQ1pOaFVYUEIxd3p1NzZXblE2V2t3bFE3ZkhsY3RQTmNrSG5hdG15Q1lvVVhiamFoNm14YmhGNEd4bVRSNkU2alZFMTRHNEpFdC1FdUxpR1Q?oc=5"
-  },
-  {
-   "text": "24. listopadu v 15:00: Živý přenos programu „Vietnamské kulturní dojmy – Barvy Khanh Hoa“ - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMirgFBVV95cUxQZHFHcVJMLTlIV3ZKa05yMHREMGN2dlNxM2FVZm9BczF1bXZkQkU0dFhCMnRPbmplR18yMzZYaWd4b2pyd1ZTMDNNODJ2LUxoMm9nb0VwZ2NpSHo0ODROZFFzUmJMdXRpUnlMcVRlbjBjRFVxOXJRTUNlRkJwVUdFQWlJQnhIbGRka3JVWVFvakpqaU9JR3RhU3pObDJtZmVDYzh3Tm8zczVtY1R4blE?oc=5"
-  },
-  {
-   "text": "Gia Lai pořádá vodní túru podél pobřeží (Longe-Côte). - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxOTGkya21PTWpoRGpsOThiYjFFTFBVZEoxZkxjcm1RcHFrcFVpWTYzalRMRUJjSm1tckc1MFJmQWE4TFVyTndySnNFRFJTUHA3YXlQZlN6ZGdDM0RueVM1cEtqZDEteEJydGVVTS12aFpfLU1sT2pncEkxQUZXQS1TYWhEb0lNTEJYSjRTb0gxQWdlZWpxeWFwN0dLRGg?oc=5"
-  },
-  {
-   "text": "Podpora hodnot kulturního dědictví provincie Lang Son. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFBLWHhtYmMwQ0g0aDNzWmU4cDVxUWRZNkxaNExwVVFQLVpEb1o3S3RzV2Uyd2NycHVleUZZa2p1ZzY2Xy1CMC0wdGlBbW02OWVIdnQzOUpvZjNCN1poQWRYYlJzaDNLdloyOFB0c3Zza1F1aUk?oc=5"
-  },
-  {
-   "text": "Festival etnických kultur otevírá prostor dědictví Ocelové země. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxPaUczU3pYd3BoWUhQUmgxQ1lUdUl3el9vY3NkQUk0ejRFUDFLSmVJdzltS3U1WmlkcjFjcWd3TjBvUVM2VDUzUGVldlZidTZCZmlPenBrRm9PT2l1NE9HbWVkR3pHX0owTmE4TU5qcGJ2ak01dlFWV1dFbUJLaUdYRklvYy1KejR2ZFl1cTZYWjdpVVE?oc=5"
-  },
-  {
-   "text": "Význam knižního veletrhu Con Dao Legend - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMib0FVX3lxTE9LS00zSEpBbjlNWTEtNnZrRlh0aHdmYmRteXczUVZlTlVfeFJBa01JVGpZWXF4R3M0cW9CRWduelBGNkZ2d3MxYkhaazh0eURnRjdSOGlOcFdpY0taNlUydGxtSGtRWFhfOUQ4TTR0bw?oc=5"
-  },
-  {
-   "text": "Lao Cai vítá turisty na výletu historickým vlakem během Dne vietnamské kultury. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWtpRUxaM3VvYmY3Wi1uUkdYakRkaHlKbFphNFo1ZUFxZU5qX2U0RGljME01anpLbHdUelhHZVQ5S2tib2thX3NzMzZTdjctdGo2UnNIQ3UtMGF4alVyYUt1OUtka2JyQ0JZcGxQR3hDUTNfMks3ODc5V0NuUFpia3VRak1tc1otMkkwRk5yd2hTbFQwRXNUMGpwbDUxNnkzYXNoMXY4Tl93OU0?oc=5"
-  },
-  {
-   "text": "Více než 260 řemeslníků a umělců se sešlo na Festivalu tradiční jižanské hudby v provincii Ca Mau. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxPYXdIVXRMVjAzTHVqby0wZXRTTWRTeVpOc2RMTkdBbDRaOGVYRmVvZml4clJ5Qi1aWWZwQTBPS2ZqU1hzc1BZTzB1OTd6bTVhWUxtc2ZCS1ZvOXdSVVlxcUZaUHJqS2pPNDBWd3RKX3hYX1FXNVV2c3JEazU1VnFlMjdwMVdtZXptVHNPZWxNRlJUd0ozcUVfTlZ6cVVWbDVGX091T202QQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-23"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-25"
 }
