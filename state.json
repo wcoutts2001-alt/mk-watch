@@ -36,7 +36,7 @@
     "website:8f8d0935e188a22a",
     "website:15900bf724060928"
    ],
-   "last_success_at": "2026-11-25T19:14:47+00:00",
+   "last_success_at": "2026-11-26T02:15:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-20T16:54:23+00:00"
   },
@@ -104,7 +104,7 @@
     "facebook:26c1668e04f5e681",
     "facebook:cf90ce5b437bdf72"
    ],
-   "last_success_at": "2026-11-25T19:14:47+00:00",
+   "last_success_at": "2026-11-26T02:15:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-25T19:14:47+00:00"
   },
@@ -129,7 +129,7 @@
     "instagram:6bd9d8132fb150bc",
     "instagram:e6738ad252d2dcb6"
    ],
-   "last_success_at": "2026-11-25T19:14:47+00:00",
+   "last_success_at": "2026-11-26T02:15:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-25T19:14:47+00:00"
   },
@@ -137,19 +137,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-25T19:14:47+00:00",
+   "last_success_at": "2026-11-26T02:15:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:49be5cf98b39339a",
-    "news:17661caf4e7331bb",
-    "news:dc924a3adce77db6",
-    "news:c5d7514a0a847215",
-    "news:72a7de6444fb7d12",
-    "news:a46d3292120d0302",
     "news:512a3b999ab47cb6",
     "news:10b2a5c0336bda31",
     "news:918e7753484aa8d8",
@@ -643,13 +637,32 @@
     "news:b973ebd426cf29ba",
     "news:66f407b83352c89a",
     "news:2465fe3d43e48890",
-    "news:dc259fd712606801"
+    "news:dc259fd712606801",
+    "news:930340859aa3fe88",
+    "news:34bdc14d635e47eb",
+    "news:9ae10456b0f1ec60",
+    "news:dbf2f36eadb22abc",
+    "news:6d5cbb7ec37497ef",
+    "news:fb1cab84d10224e9"
    ],
-   "last_success_at": "2026-11-25T19:14:47+00:00",
+   "last_success_at": "2026-11-26T02:15:59+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-25T19:14:47+00:00"
+   "last_new_item_at": "2026-11-26T02:15:59+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Klempíř: Usnesení EP je skandální PR aktivita Nerudové a Zdechovského - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE83amVsTGxNNExyamdoSjktcGtJNTdiY0t6SEdaUDJWZDdSVVBHb1hvemc4S1NBTEltbFlkYmFPR1FnZlFJV2NZdEZrRVZ2bld5N0VB?oc=5"
+  },
+  {
+   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 25. listopadu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxOeWNHc0NneHFYWHRLSWxmbkdMYzJMSFlIRWtDdGluRXVFVWdCTTVlSVZYNG91OGtGUlVpeUJWTjh6SXZhVjlJLUNwWnRlX1A1UkNCTjhjX0ZqOU1qT1RGdUJEbVNJSmRreDMyMWpLNVlKaDFuOGJ5UTUzMHBHU0dFX2FINTNHXzNBNVZQS1FYNkhmZGoyNDZoWDdB?oc=5"
+  },
+  {
+   "text": "Proud kreativní kultury potvrzuje pozici Vietnamu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQejdRZFRqNXZaeWVYNGc4X011OEZFNXdNcmx1b25nUE53MFBMZEZHYnJ4S1RIcUNhTjROV1UycnNSTUY1VmpJcEdMdlRUMVRQSzlqWUpBaVd3NU5Gem8zcnBBMUhrRGdqSmd4TzdLYXhKOTg3VVVCbTZKV25wY3VnSnBHeTlyQQ?oc=5"
+  },
+  {
+   "text": "Znovu roznítit naději pro etnické menšiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFB1akNWd1YwN1J6bW9DcE9QNFdlaHRNa3gtX1VQTHI2ZGY0M2dlT1hjMFM0YWt3NFNmS0hCZlVxN2R2WWlIYXllb2RDcHNqOHFFUHg1Zjd2b0dpNnRmN296UWdISjYwWHBfTHVXWXBrTy0zU2ZrUTNIdXRrblZKVjQ?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-25"
 }
