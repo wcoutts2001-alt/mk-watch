@@ -34,11 +34,12 @@
     "website:22ec4678912f5ca0",
     "website:f708bf47ed54aed9",
     "website:8f8d0935e188a22a",
-    "website:15900bf724060928"
+    "website:15900bf724060928",
+    "website:7da7464fa6abab7f"
    ],
-   "last_success_at": "2026-11-26T11:15:37+00:00",
+   "last_success_at": "2026-11-26T20:21:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-20T16:54:23+00:00"
+   "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
   "facebook": {
    "seen": [
@@ -105,7 +106,7 @@
     "facebook:cf90ce5b437bdf72",
     "facebook:690209f75b93b580"
    ],
-   "last_success_at": "2026-11-26T11:15:37+00:00",
+   "last_success_at": "2026-11-26T20:21:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T11:15:37+00:00"
   },
@@ -128,17 +129,18 @@
     "instagram:6b25933976936486",
     "instagram:b9797fcf9ff803a3",
     "instagram:6bd9d8132fb150bc",
-    "instagram:e6738ad252d2dcb6"
+    "instagram:e6738ad252d2dcb6",
+    "instagram:1b1b9f00f77130db"
    ],
-   "last_success_at": "2026-11-26T11:15:37+00:00",
+   "last_success_at": "2026-11-26T20:21:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-25T19:14:47+00:00"
+   "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
   "x": {
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-26T11:15:37+00:00",
+   "last_success_at": "2026-11-26T20:21:19+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -648,52 +650,11 @@
    ],
    "last_success_at": "2026-11-26T11:15:37+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-26T11:15:37+00:00"
+   "last_new_item_at": "2026-11-26T11:15:37+00:00",
+   "first_error_at": "2026-11-26T20:21:19+00:00",
+   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
   }
  },
- "digest_queue": [
-  {
-   "text": "Klempíř: Usnesení EP je skandální PR aktivita Nerudové a Zdechovského - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE83amVsTGxNNExyamdoSjktcGtJNTdiY0t6SEdaUDJWZDdSVVBHb1hvemc4S1NBTEltbFlkYmFPR1FnZlFJV2NZdEZrRVZ2bld5N0VB?oc=5"
-  },
-  {
-   "text": "Souhrn aktualit o aktivitách v sektoru kultury, sportu a cestovního ruchu k 25. listopadu 2026. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxOeWNHc0NneHFYWHRLSWxmbkdMYzJMSFlIRWtDdGluRXVFVWdCTTVlSVZYNG91OGtGUlVpeUJWTjh6SXZhVjlJLUNwWnRlX1A1UkNCTjhjX0ZqOU1qT1RGdUJEbVNJSmRreDMyMWpLNVlKaDFuOGJ5UTUzMHBHU0dFX2FINTNHXzNBNVZQS1FYNkhmZGoyNDZoWDdB?oc=5"
-  },
-  {
-   "text": "Proud kreativní kultury potvrzuje pozici Vietnamu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxQejdRZFRqNXZaeWVYNGc4X011OEZFNXdNcmx1b25nUE53MFBMZEZHYnJ4S1RIcUNhTjROV1UycnNSTUY1VmpJcEdMdlRUMVRQSzlqWUpBaVd3NU5Gem8zcnBBMUhrRGdqSmd4TzdLYXhKOTg3VVVCbTZKV25wY3VnSnBHeTlyQQ?oc=5"
-  },
-  {
-   "text": "Znovu roznítit naději pro etnické menšiny. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFB1akNWd1YwN1J6bW9DcE9QNFdlaHRNa3gtX1VQTHI2ZGY0M2dlT1hjMFM0YWt3NFNmS0hCZlVxN2R2WWlIYXllb2RDcHNqOHFFUHg1Zjd2b0dpNnRmN296UWdISjYwWHBfTHVXWXBrTy0zU2ZrUTNIdXRrblZKVjQ?oc=5"
-  },
-  {
-   "text": "Klempíř: Jenom PR Nerudové a Zdechovského. Vláda... | iROZHLAS - spolehlivé zprávy - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZenBsQXVUN3VEVWhBZGZBX05yLWlyMzhka0hjRURaXzBwNDl6b1lXYzk0ZEI5MEo0c3c0Zms4bVlHbmdWT3BPdHprZGhySzl6eFFFRThJd0kxQXVNNXdTRUoyMTczVlE?oc=5"
-  },
-  {
-   "text": "Europoslanci schválili rezoluci k ČT a ČRo, chtějí předvídatelné finance - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivwFBVV95cUxQMkxPY2Y0ZTFIV1Z6OGVIR2VDMGstNG1NV01QbUMtTWstYXRkS05OQUl1ekNrcGRNa0x2RVpyM0hqUzhqTmlaRng5M05VWm5vWTBBVDlBdjNiNGJveTdVdVJsc1JEclg0OHdCakRhYklKdHlqYUZpRnhzcktEaXh6b2hjRnlURDZjMjE4T1lyNGJZMWZEcFVFSzd6T0JaTldVc0lxbWJrcFMxbm43YjJ6TlpUaHhoVFVmNk1wSmJPbw?oc=5"
-  },
-  {
-   "text": "Zvýšení účinnosti ochrany životního prostředí v kulturních, sportovních a turistických aktivitách v severních pobřežních provinciích. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2M4S0dJR2xleDlXMWhDXzF4UEF6SENzQVBza0ZRajBvQUd5SW1Fd2U1U2xEczJNR092MHZzenM5YnN2b2hocTYxa2lUSzZoMmZkNnJwLU55eTBtVGl2cmxOZnFjY0l2RF9mX0RGM2xkaFZycFJHOGlPVG9mNFZ0OEZleVFJQXdmelVPd29lN3FLRmNSSS16aEpqYTNla1pPRnNsSTRmcHNKQ1VOc0dwQ2h4VWE1U2RXRHFkOGNuamx0eVZtbTgwMXRfQU82MWctaUZHbEdxaFZNZzVF?oc=5"
-  },
-  {
-   "text": "Andreji, nebreč pořád, vpálila europoslankyně Babišovi. Ten opět spustil křik o udavačích v Bruselu - forum 24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnZJc0tQSW03QVM2dFJIOGtJLVNtMkdEVlM3TGRPSWFSOVJnQzJNODl3NVpGWDEyYWVsN2tHbG9KdHhxODZjRWJaZXR5OUhLazUzYzA3ckNLSmVHU05EaDBnOW91bTlod2xPQmVYMFVTdTRsWkNrSmdxdm9tX0RKMHJFUnVGNnNsQ195akFEcDFhYzVQSEZ6QlhjMkRHaGVDQjRqZlZYZWpGWGhILUJibVdDM2dtT0psYVNB?oc=5"
-  },
-  {
-   "text": "Rozvoj turistických produktů, které propojují 2. festival kultury řeky Can Tho. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWVmS1BZSE8xZHM2RDJTYnllTnM5aGVEOVFtdW8yRzdpMWJkUUkteWZadDFxcHdiMjVweXFIZ0V1RGVtNE1MaWVTUXpVOGN3YXBoMHU1UTFUcWxWT2wtYkc3Tld2X2lUYVA0SjlidHItX3FnczlOTmlsYU11ejA1MGg1VDVZNjl2UlNyX3NDYmFkbnVhYjRuQ3VjaF9nMEJfazQ2d0xpOEo3Q1E?oc=5"
-  },
-  {
-   "text": "Místní informační den 2026: Propojování důvěry, šíření síly - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikwFBVV95cUxOREZ4cWdEeUtCNV9xaC1yT0VVNy1HUlgzdnRVVk1ZRUc2REJXZzNIT1NGRk5PRFFxTG9rbk5EMlhnUUtsQ25DM3B5MkdWRmVFZWJzbGJmTG5sRWVTTVBFNjdjbWFJRXlXQ3dRTzY3QUg5UHJScXNjbTg1RTRlWDFKakstbDdXdkVVcDNwREdjQXpHaTQ?oc=5"
-  },
-  {
-   "text": "Vyhlašujeme soutěž o návrh zeleného vánočního modelu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxPUldCSW1PWVlod0lNckF2NFJONUwtZUhhbkhYU1BOTHpNV2JmN3hPem11R254YjZxWEtpMXNlZmJ1V09tNXo1bThzVW5tT0d5RW9FWjFzcXpGMFE3WlRtSVhQbVQ2YzlSX2pIdXNWejVsQVdEQm9hWkxWWTN4RGpfbzZTVQ?oc=5"
-  },
-  {
-   "text": "Oslava kreativity na Národní výstavě užitého umění 2026 - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMimgFBVV95cUxOSk5OYTlvdEtiVTNKcXJ0RjExbU1hcUpDSmFXYUd6dksxWFd0RXF0c0lnckVvenZzOGlrOS10Sng4U0NtNjRhZGxlX3BYcVp6QkVMeU90NG1KSGFFbW00SDZNLUNSZ2VKR0ZmQ281UEl6NV9BRW9CQnV6cGd3aWNfekRtX1ljZGVXX1dyVXV1VDI3eHpCQnFRRWxR?oc=5"
-  },
-  {
-   "text": "Živé sportovní aktivity a tradiční lidové hry - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQdXBzanV5UjBiM3QtU09Tc2g0cy1hNHVRUHJRQUZHLXAxRkNiWEtSN1dHOUk3Z1VvTVZRQ2tCTHRXZXR2WGxvQU1IdmhrdmV3N3cwdm5BaWlJUVdTdmVUdUg2alpfb1d0LWUzTkVxaUJDMENoZlRkLTlHUXFVQmpqZ3M5alAzdWtkMUtPaGFB?oc=5"
-  },
-  {
-   "text": "Tet Book Street of the Year of the Goat (2017) se konala v parku Ben Bach Dang. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxNRGNGOElnQU9Sclk5cDBvejJUSG4tYXFxVm1hOWRjUm5ITW9WMFZKSGlaWV9Jc19fUWkxVjYwakQ1U2VWUkttb2RoaGlLQmZicENMNGFIS0ZFdGdCYXVKTnJSSkRVUEJvMm0xbFZzSUFDazNFSG9qSGVYckZ2SnRaZ2d4cG9vZTBJd01wc3VCX05YUQ?oc=5"
-  }
- ],
- "last_digest_date": "2026-11-25"
+ "digest_queue": [],
+ "last_digest_date": "2026-11-26"
 }
