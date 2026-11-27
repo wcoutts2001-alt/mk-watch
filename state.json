@@ -37,7 +37,7 @@
     "website:15900bf724060928",
     "website:7da7464fa6abab7f"
    ],
-   "last_success_at": "2026-11-26T20:21:19+00:00",
+   "last_success_at": "2026-11-27T03:01:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -104,11 +104,12 @@
     "facebook:25d29d01043b569e",
     "facebook:26c1668e04f5e681",
     "facebook:cf90ce5b437bdf72",
-    "facebook:690209f75b93b580"
+    "facebook:690209f75b93b580",
+    "facebook:325a65efbbb3ce46"
    ],
-   "last_success_at": "2026-11-26T20:21:19+00:00",
+   "last_success_at": "2026-11-27T03:01:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-26T11:15:37+00:00"
+   "last_new_item_at": "2026-11-27T03:01:25+00:00"
   },
   "instagram": {
    "seen": [
@@ -132,7 +133,7 @@
     "instagram:e6738ad252d2dcb6",
     "instagram:1b1b9f00f77130db"
    ],
-   "last_success_at": "2026-11-26T20:21:19+00:00",
+   "last_success_at": "2026-11-27T03:01:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -140,37 +141,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-26T20:21:19+00:00",
+   "last_success_at": "2026-11-27T03:01:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:9ba3b34cdec04c44",
-    "news:54c4b403ab00374b",
-    "news:6ee802d81c87563c",
-    "news:679a6a35d7bce5dd",
-    "news:bcfa4d16d6367832",
-    "news:7cd834f078c87606",
-    "news:31d0a02a4e56173d",
-    "news:0b51eb15a5bfcd43",
-    "news:b8e0572a679357d6",
-    "news:165bf6bb51620396",
-    "news:2f9c21b8040b7892",
-    "news:9baa7d31d47e980f",
-    "news:29ca00853466eb5f",
-    "news:d30f53291fcbec17",
-    "news:5067ba2eee1b42c1",
-    "news:d108209d92bdedce",
-    "news:05fc777852ab7570",
-    "news:951dcea620fe36cc",
-    "news:53c8245af0921343",
-    "news:88d5a9ec4e20504c",
-    "news:4480f4e7d30f00c5",
-    "news:52220ca6b57527a7",
-    "news:f30e360b5b9e87f9",
-    "news:37b269cf41e79b41",
     "news:c5e2a2023f4abd97",
     "news:02fd0cdfd2159551",
     "news:af476b32ea717e6b",
@@ -646,15 +623,74 @@
     "news:0fe3d78c10ab8b03",
     "news:49931e359643701f",
     "news:5f9793296211b1bb",
-    "news:86a35ae185a6afcf"
+    "news:86a35ae185a6afcf",
+    "news:431b5b451a3a6f0e",
+    "news:056aff06e199fc1b",
+    "news:46793496cda95d61",
+    "news:3374f71dfd5837d6",
+    "news:f25f6646778e72e6",
+    "news:325d6b08ded2afdc",
+    "news:6000887b045e0f34",
+    "news:8a1119e4bc88a215",
+    "news:4b173b48e5aa7f11",
+    "news:bbde89cec0851ae9",
+    "news:5561f0fc58f22fe9",
+    "news:05dcde8c3211cf0f",
+    "news:90c395db984db90b",
+    "news:afee4f7810e038cf",
+    "news:5b29d927cee2254b",
+    "news:492870678efe3175",
+    "news:c41025b7fa60125f",
+    "news:e4b3d223fcf9ba38",
+    "news:75febbd50da0c3f3",
+    "news:bfc7e4a8bbf57bf6",
+    "news:d87fbedf88c61a65",
+    "news:0c1751c02310e389",
+    "news:17108c39eddb54a9",
+    "news:401541f5a14e6718"
    ],
-   "last_success_at": "2026-11-26T11:15:37+00:00",
+   "last_success_at": "2026-11-27T03:01:25+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-26T11:15:37+00:00",
-   "first_error_at": "2026-11-26T20:21:19+00:00",
-   "last_error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ministerstvo+kultury%22+OR+%22ministr+kultury%22+OR+Klemp%C3%AD%C5%99+when:2d&hl=cs&gl=CZ&ceid=CZ:cs"
+   "last_new_item_at": "2026-11-27T03:01:25+00:00"
   }
  },
- "digest_queue": [],
+ "digest_queue": [
+  {
+   "text": "Pojistky nejsou třeba, tvrdí Klempíř. ČT je chce dát do Listiny základních práv - Seznam Zprávy\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMivAFBVV95cUxQby1PZGpJbmxXSlhiZ2kwYTZfTk01WEdVWFVDZnJjb0pVN3NwVUctNXAzSFdvaHlGSVR1SW56X2d1bkNtS2xaNTBUUU55ZTBWVUdGVlk1eVcwRFNrWURTLXNRVGN2MjNoZk5XclFIQzB4WTRqWUdrSWdhSEoyMHpReDdQZUw2UmFUYWtuOFAwc3ZQQ3QzUjFiUDNPUjFfdXlRUzJWcTdsbGNCbUQ5ZFQta05leDhtcXQ3WVBuLQ?oc=5"
+  },
+  {
+   "text": "Televizi a rozhlasu nic nehrozí, řekl Klempíř. Pojistky řešit nechce - Novinky\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNb2NQT3Q1WFBSZHdrNDBsT3hRanMzanpiMl9ZdzZQemdqMm5GZUswcEhQSUNxamRfSUZlRnFCVlRPVHVYTzVzWmlvdkpMRGdlRldlNjNuejVVZ2M4ZzNLSHRlZ0tGelJsZWsySHJhNjc3aGFJX2JOSkVVemI2RjNKQUhweGRacmh3d05Ja2YzVmVrY1BENzRqSjF1elI2NHIwYVVOUGlkWUo2RXRpcGdrdm93?oc=5"
+  },
+  {
+   "text": "Pro ústavní pojistky nezávislosti ČT a ČRo nevidím žádný důvod, řekl Klempíř při slyšení - ČT24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiugFBVV95cUxNdTRrNzlQQk5aYTdUMEJkWWVRTXpEZHEtekR1eHlVbzJoXy1VTTVRekZVVmI5RnNjb1RYY245Yy1pZEVQUzllN2NmZ2tHdFVMcndHNVY3UEZMQmNINGxnQ1Fzd0ZXc1gxYm80czVfeGFxWU9vZkVnSVp4NGZidzg2ajV3cV9XRy13VmIyNGtNRjEydUUtc3g0UUtwY3JaTll3SEdzTjJ4aWVXVU9RUnFjRUpXTDlsQWZ2YUE?oc=5"
+  },
+  {
+   "text": "Pojistky nejsou třeba, tvrdí Klempíř. ČT je chce dát do Listiny základních práv - Stream.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxOMV9veEs3a19SeGd4bFU0NEQxbjNUaFUtNGEzXzRCekhtWTVpVDk1UWxTNEpLLUY4RjNvTWFGbzhOS2FPS1JCcUJ1X0NUdW1xN1E2V3B3MzBuajhhMklGdFktTnVkY3ZhcERaN1NtYlNNZ1dtX0x5SVB6VnpHVzBGOEFBYmh5R0hna1dJZzBycXhUcWNoMm0wSUFVaHNnZTFOU25iY0Nxc3B3X3h6aGRVMWdMU3oxc3Q2?oc=5"
+  },
+  {
+   "text": "Premiér avizoval změny návrhu. Na slyšení o financování ČT a rozhlasu o nich ale podle Rožánka nebyla řeč - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxQb3Q0TDRfQVdWdExDOWdFRHdUOWVUcU44bHRZWWtYdVBHRDByblZESFltX2R1bnpSSlI4dzNlc2tWSWdfbEVSdUlYYWhkQ2JzRVRDNHp0VGJyZXZ1X1NvSmYxOEhJUkM2OGo1U1RabXdia21pMXVmcnlvaWNmUWdfeHN4Q1ZPTWF2cVdKSWtLbENfOWM5SlJXVlFZUGdmZVNrVVhPeG1lNmJaU2EwT3pDalJTc3kwOXVlUnI1dGZUTTN6d0RDancxck5OQQ?oc=5"
+  },
+  {
+   "text": "Pointa N: Motoristická argumentační jízda aneb Klempíř říká jen to, co se mu hodí - Deník N\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEdpRlVldHBhSmVuWmRGYTdEQkpBUmpjTVljbTZoYkxfd0lnS004d2hob1FOT2VyWkJmb1NIa3pUX3RiY09sMWFkWGt2OGR6ZmJYaWhSbk5iZ1M1MXp1SzM3VFJHQjl0QkRxcTZDT2JXN21iNGZ3a01DY2xsWXlXSWNtUnFCSnJkb3AtaHg5UmdmRXBMLTJwQ19lUWhqdjJVUGRiZUFtSlZnQQ?oc=5"
+  },
+  {
+   "text": "Pojistky prý nejsou potřeba. ČT a ČRo čeká změna financování - Blesk.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVlZMGRoME1nUXNLM2VfbUdqSG9ZRGVHdjVMcWFkLTlyckFLcXQ5ZGxqNDNMZkxPQ21SSkU0LW53Q3ZQbVV0eEZ2OS01Vm9vcXY0cTRqUHNzdFRNbmlmaF9mQ2pzUnotdjlIQlNOLWJsY1R4bGgyRVJJSGZYejVOYjAwMU9XWk5PWkxaT2s5RXoxUzNBb0wwQi0yOC1MNDFzUVdxUlF3aU9Cdm9HcFF6WUE4bEptdDl3MVN3RlVuS2t0TVBOdzc5ZGtRX09XQWlIUnp6b0Rn?oc=5"
+  },
+  {
+   "text": "Klempíř: K debatě o ústavních pojistkách financování ČT a ČRo nevidím důvod - Echo24\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmxFWHdTeEZmaGpDbjBmUy1mWlMtOEY4ZkZhbXhqb2Z5cGFkejlDTnRvR2NFMTZ0RjNHUHg2Ukh1MkRIN3BCYnI1cVY5MVNueXd3RGxrd3A5dDNFNFZsRy0wbkhJenY2R3R6VjRuQTRocEpwTFFBS0lSVXp0YUUtSWhsSVpwcFJiY2VTeHRPT0ZkajhraXAyU1docV9fVS1zSmtYVnJNdGl2Rm14b05fV1FndzVMakQ2?oc=5"
+  },
+  {
+   "text": "Ekonomka Jana Matesová: Rezoluce europarlamentu? Vážnost Česka v Evropské unii je naprosto v troskách - iROZHLAS\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiywFBVV95cUxOSVZhNFlpSDU2bEhXMDRfeWlKbGdqUzVMWm5faTNwZjI0YU1SREpPekl2SVBFSC1oRjhNNll6ZXhNZmNQb29rVUZFQ0JtbG0ta3NvMHpkMjRPOW5XbFgwMWl5TEtHS2dLX0ZxVHB2YWNaNVVRbEhLM1B1aVVVRk1XZzRrTXF4aHE2c0c2QzN5blR4bWdMOGFNLWdsR1JjTFN5WWt2bUxlTmVRRFN2endxYWg1OTJTSVFUaXFRTGQxSWRCNENPSzBDVHRETQ?oc=5"
+  },
+  {
+   "text": "Ministerstvo kultury, sportu a cestovního ruchu řídí posílení požární prevence a hašení požárů, požární a výbušné prevence, záchranné a likvidační práce. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMiuwFBVV95cUxOczl0RVNiQlpCTDZvWnBUMlpwM1h3eXFpMWlOeVRVblNuclYzanZHeHlfaVVUWXJMQXVlN3c1Q3IxQ0plOXVkWFZHeEt4S1Q2eU1qcUtYa1UxSE50dlJSUVJzUHMwenFoWHRYaWNMVVFBd2RrV0kwTmM4WlhnMTZNSllDSlc5OXp0WmNMUWJKMl9pUGIyVTRoUHR0N1RvQzZ5YjNDOHFsRW9tbFQyM3ROM3dxVDdweVJYMXNv?oc=5"
+  },
+  {
+   "text": "Otázka nezávislosti ČT a ČRo: K debatě o ústavních pojistkách nevidím důvod, řekl Klempíř - Epoch Times\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxPenY4d0pTMjZEREdZOVhOdzkwTDhFNkNza240cl91NGJIejVtV1FJUXhBRTBnbHVEWVhXLWpEb1BCdDVmdkF2RzNrMHZva2Z0eVdKWFBlMVowblIyQXVWeVJudTJTSlkxWjZvdXNXX3JOc242ZVl4SjBRak81WmpkTXBYc3J1MHAtMWJwOHQ3dlRMX1JhNTAxMkJ4akNQY19KZGdUa1FfSG51d1E3RXlyNnpmWXdCQzh2cFVGa1paNDZxdlZjZm5oM1o4VDZNYW11eHFSdWpuWUQ0dw?oc=5"
+  },
+  {
+   "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE90enpWd1ppV2dBSm1oUUJySnNFMXE0OUhLcFZjUXp0VDVfenlCYW50R1RCb2JnVUNTRHY0dUV5NHlJUDlEa05BTGdFVjMwM1NVRUNrV0d0ZHNLdFloZ0R3eEl5NmhEOUsxWUw2czN3?oc=5"
+  }
+ ],
  "last_digest_date": "2026-11-26"
 }
