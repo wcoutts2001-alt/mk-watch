@@ -37,7 +37,7 @@
     "website:15900bf724060928",
     "website:7da7464fa6abab7f"
    ],
-   "last_success_at": "2026-11-27T03:01:25+00:00",
+   "last_success_at": "2026-11-27T12:12:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -105,11 +105,12 @@
     "facebook:26c1668e04f5e681",
     "facebook:cf90ce5b437bdf72",
     "facebook:690209f75b93b580",
-    "facebook:325a65efbbb3ce46"
+    "facebook:325a65efbbb3ce46",
+    "facebook:33133da6eb665406"
    ],
-   "last_success_at": "2026-11-27T03:01:25+00:00",
+   "last_success_at": "2026-11-27T12:12:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-27T03:01:25+00:00"
+   "last_new_item_at": "2026-11-27T12:12:45+00:00"
   },
   "instagram": {
    "seen": [
@@ -133,7 +134,7 @@
     "instagram:e6738ad252d2dcb6",
     "instagram:1b1b9f00f77130db"
    ],
-   "last_success_at": "2026-11-27T03:01:25+00:00",
+   "last_success_at": "2026-11-27T12:12:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -141,17 +142,13 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-27T03:01:25+00:00",
+   "last_success_at": "2026-11-27T12:12:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
   },
   "news": {
    "seen": [
-    "news:c5e2a2023f4abd97",
-    "news:02fd0cdfd2159551",
-    "news:af476b32ea717e6b",
-    "news:2763108bd606423d",
     "news:1222e5bc3453f061",
     "news:7d1a34ad5e289677",
     "news:cbb8b97f93efb4b2",
@@ -647,11 +644,15 @@
     "news:d87fbedf88c61a65",
     "news:0c1751c02310e389",
     "news:17108c39eddb54a9",
-    "news:401541f5a14e6718"
+    "news:401541f5a14e6718",
+    "news:90fc5311dd8395e1",
+    "news:e0292ce36319c6b7",
+    "news:b674964f93f64a03",
+    "news:626f8e438bf5ac47"
    ],
-   "last_success_at": "2026-11-27T03:01:25+00:00",
+   "last_success_at": "2026-11-27T12:12:45+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
-   "last_new_item_at": "2026-11-27T03:01:25+00:00"
+   "last_new_item_at": "2026-11-27T12:12:45+00:00"
   }
  },
  "digest_queue": [
@@ -690,6 +691,12 @@
   },
   {
    "text": "Oto​ Klempíř - ParlamentniListy.cz\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE90enpWd1ppV2dBSm1oUUJySnNFMXE0OUhLcFZjUXp0VDVfenlCYW50R1RCb2JnVUNTRHY0dUV5NHlJUDlEa05BTGdFVjMwM1NVRUNrV0d0ZHNLdFloZ0R3eEl5NmhEOUsxWUw2czN3?oc=5"
+  },
+  {
+   "text": "Klempíř nevidí důvod k debatě o ústavních pojistkách financování ČT a ČRo - České noviny\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxPV3I2bWd0V21Yd2V6NHNzaGRMdDJ5T0lJV2NJcGF6aUZvTllZbHotZmExVzVLTHhmLU9ZbTNjMXF2anV1M05qbGR3Z0ZOMC12SWZ0eHQ1SkNzakF3Z1JMRG42YnNJemJpNWdRd1d3SmwtcjdnaFBwYjlwanlTR2VKZmhSMUp2Y1hpSG9fSlJzM3pZNXN5S1pUeUd3MEw0cmEwMHFuVzJ2YWhRNENzNGtaWFZScG15QQ?oc=5"
+  },
+  {
+   "text": "Ninh Binh zřídil Ministerstvo etnických menšin a náboženství, které sloučilo Ministerstvo kultury a sportu s Ministerstvem cestovního ruchu. - Vietnam.vn\n(News (Google News))\nhttps://news.google.com/rss/articles/CBMitgFBVV95cUxNaDhfWDVMNWtDSWktT2k1bUtUVVdqX1RjWGxzM24tX19HRzFfWWZEZG9SUkk5UDdCNFdPTndmWGJQaGNaM09QbDZ2VjFQaG5oby1UNlFFX1NORmhjMHZVSnNfYzRCVnVWZGo0T0JJWWpKcjVxaVZCal83ZHBzMmdRVmtSWjM1SnliTGwxWE90cmdRTW5xb0RNUC15dEpEZzZGNW16enpJNlBSS0F0MFZFYzR4X3RNdw?oc=5"
   }
  ],
  "last_digest_date": "2026-11-26"
