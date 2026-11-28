@@ -37,7 +37,7 @@
     "website:15900bf724060928",
     "website:7da7464fa6abab7f"
    ],
-   "last_success_at": "2026-11-27T21:18:52+00:00",
+   "last_success_at": "2026-11-28T03:24:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -108,7 +108,7 @@
     "facebook:325a65efbbb3ce46",
     "facebook:33133da6eb665406"
    ],
-   "last_success_at": "2026-11-27T21:18:52+00:00",
+   "last_success_at": "2026-11-28T03:24:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-27T12:12:45+00:00"
   },
@@ -134,7 +134,7 @@
     "instagram:e6738ad252d2dcb6",
     "instagram:1b1b9f00f77130db"
    ],
-   "last_success_at": "2026-11-27T21:18:52+00:00",
+   "last_success_at": "2026-11-28T03:24:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-26T20:21:19+00:00"
   },
@@ -142,7 +142,7 @@
    "seen": [
     "x:56dce69424a3b48f"
    ],
-   "last_success_at": "2026-11-27T21:18:52+00:00",
+   "last_success_at": "2026-11-28T03:24:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-10-14T16:05:56+00:00",
    "alerted": true
@@ -650,7 +650,7 @@
     "news:626f8e438bf5ac47",
     "news:0f5e7ac3aedc640b"
    ],
-   "last_success_at": "2026-11-27T21:18:52+00:00",
+   "last_success_at": "2026-11-28T03:24:50+00:00",
    "initialized": "2026-10-14T16:05:56+00:00",
    "last_new_item_at": "2026-11-27T21:18:52+00:00"
   }
